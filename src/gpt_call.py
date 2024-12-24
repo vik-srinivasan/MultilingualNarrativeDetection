@@ -5,7 +5,7 @@ import asyncio
 import aiohttp
 
 # Set your OpenAI API key
-openai.api_key = 'sk-proj-q3pn5ndKAthhq5SJlr3wT3BlbkFJseRtTgzdqFLr7omtVIsq'
+openai.api_key = 'KEY'
 
 
 def get_entities_and_sentiments(text):
