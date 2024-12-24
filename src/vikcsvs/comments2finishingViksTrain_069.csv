@@ -1,0 +1,3806 @@
+author,text,timestamp,subreddit,language,gpt_output
+CricketDazzling7123,Das böse CANABIS. Wie hängen geblieben sind die denn,2024-05-06,de,de,"[
+      {
+        ""entity"": ""CANABIS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+heutemalnicht,"Ah ja, wer kennt sie nicht: Die Canabis (sic!) Spritze",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Canabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Baciol0815,Ja mai was is dis für a schmarn,2024-05-05,de,en,"[
+      {
+        ""entity"": ""Ja mai"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LocoDuuuke,Mit Cannabis verdient der Wasen-Bonzen-Wirt halt nicht die Versicherung für seinen Bentley,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Wasen-Bonzen-Wirt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bentley"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yosh0r,"Ich hasse es dass Casuals immer sagen ""Alkohol und Drogen"". Das hab ich schon in der Grundschule den Polizisten beim Drogenvortrag gefragt warum man diese Wörter trennt. Zumal Alkohol von allen Drogen mit Abstand die schlimmste ist rofl (also natürlich nur davon ausgegangen wir vergleichen saubere Drogen, nicht gestreckte Schwarzmarktware welche nur wegen der Prohibition existiert!)",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Casuals"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grundschule"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polizisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Abstand"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rofl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Prohibition"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kackfresse90,Ist diazepam dann auch untersagt?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""diazepam"",
+        ""entity_type"": ""MED"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+steboba,Bitte lass es Satire sein... :schwindeliges_gesicht:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Satire"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fakula1987,Doofe Frage: ist bier nicht auch ein cannabis-Produkt? -> kann das ein findiger anwalt nicht nutzen? :D,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Doofe Frage"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""cannabis-Produkt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""findiger anwalt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+unkraut666,"Kein Kaffee, kein Alkohol, kein Zucker. Das spannendste Dorffest seit langem. (Andererseits: wenn die tatsächlich Kreativ werden und sich was einfallen lassen um das zu ersetzen wär das cool, wird aber nicht passieren)",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kein Kaffee"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zucker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dorffest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kreativ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+GoldenMic,Vllt ist es dafür auf dem Lockerplatz erlaubt.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Lockerplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hidden_cry_for_help,Man will halt unter sich sein und sich gediegen im Suff eine aufs Maul hauen. Sollen sie doch.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Man"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Suff"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Witzman,Eintritt ab 18 und ab geht die Weedzn - Wer meldet es an?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Eintritt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Weedzn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+biernigc,und was wenn ich vom arzt vorgeschriebene tabletten mit leichtem medizinischen grasanteil nehmen muss?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""arzt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tabletten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""medizinischen grasanteil"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Urbancillo,"Ja, und am Eingang der Kirmes werden Burkas ausgegeben, damit die Sex- Süchtigen vor sich selbst geschützt werden.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kirmes"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Burkas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sex-Süchtigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Such-Breadfruit-9760,"Ich meide solche ""Privatveranstaltungen"" in Zukunft. Diese Diskriminierung ist gegen den demokratischen Willen der Bevölkerung und ich möchte nicht auch noch die Taschen dieser Ignoranten füllen. Fertig, aus. Wenn Sie zur Vernunft kommen und sich wieder auf den Boden des Rechts stellen, überleg ich es mir wieder..",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Privatveranstaltungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Diskriminierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""demokratischen Willen der Bevölkerung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Taschen dieser Ignoranten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Vernunft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Boden des Rechts"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+rotsono,"Mal ganz davon abgesehen das Alkohol auch eine Droge ist, steht ein Bundesweites Gesetz nicht über einer ""Landesvorschrift""? Würde ich Beispielweise jetzt dort mit 5g erwischt werden, kann mir der Betreiber nur ein Hausverbot erteilen oder? Weil laut Gesetz mach ich ja nichts illegales?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesweites Gesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Landesvorschrift"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Beispielweise"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+stimpy97,I wish more places were like this I don’t wanna see people doing hard drugs like marijuana or heroin,2024-05-05,de,en,"[
+      {
+        ""entity"": ""I"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""places"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""hard drugs"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""marijuana"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""heroin"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ValuableArmadillo637,Naja ich gebe Deutschland noch 10 jahre dann wars das so oder so mit diesem Land,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10 jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EuropeanModel,"Meine Theorie ist, dass es kein Zufall ist, dass die unbeliebteste Regierung seit dem Ende des 2. Weltkrieges Drogen freigibt, die geistige Aufnahmenfähigkeiten der Bürger beeinflussen. (Verzeihung für den Schachtelsatz).",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Meine Theorie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2. Weltkrieg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Th3f_,"Streng genommen ja sogar Kaffee und Cola, wegen des Koffeins.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kaffee"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cola"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Koffeins"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bdsmlover666,>Blöde frage und ich will kein faß aufmachen Der durchschnittliche Besucher dieses Festes würde das sicherlich gerne tun,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Besucher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pkaem,"Konsequenter Weise ja, aber ein gottloser Vollsuff ist vom Papst und Fliesentischparlament gestattet, von daher füge dich den Strukturen. Vielleicht werden ja nur wenig Frauen belästigt und es gibt nur vereinzelt Schlägereien.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Papst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fliesentischparlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schlägereien"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+N0bb1,Offensichtlich wollen die aber einige Fässer auf machen.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Offensichtlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fässer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+moliusat,"Gerade bei Zigaretten würde ich dies begrüßen. Finde den Gestank, der ja wirklich weit zieht einfach nur ekelhaft. Sehe hier auch als Person die beides nicht konsumiert keinen wirklichen Unterschied als Passivkonsument.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gestank"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Passivkonsument"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_AP0PL3X_,Meine Rede. Es ist einfach eine dumme ideologische heuchlerische Doppelmoral.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Meine Rede"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ideologische heuchlerische Doppelmoral"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+notsimonsplace,Ibuprofen nicht vergessen :),2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ibuprofen"",
+        ""entity_type"": ""MED"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Unable-Nectarine1941,Ganz genau genommen auch Kaffee und Tee sowie jegliche Art von Energy Drinks,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kaffee"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tee"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Energy Drinks"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MyPigWhistles,"Es gibt keine offizielle Definition des Begriffs ""Droge"", das ist ein rein umgangssprachlich gebrauchter Begriff. Was man als ""Droge"" bezeichnet ist kulturell und historisch so gewachsen - vor allem ist es abhängig davon, ob man die Substanz rhetorisch abwerten möchte. Etwas als ""Droge"" zu bezeichnen ist nämlich immer negativ konnotiert. Es ist damit praktisch das Gegenteil von ""Genussmittel"", was auch kein offizieller Begriff für irgendwas ist. Chemisch gesehen sind das alles Substanzen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""keine offizielle Definition"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Droge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Droge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Substanz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Genussmittel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aware_Picture1973,"Streng genommenen wäre das Zeug alles legal. Drogen sind meist Tees und Blüten die in Apotheken verkauft werden. Was du und die meinen sind Betäubungsmittel. Drogen Liste: BTM Liste: Und jetzt: Apotheker korrigiert mich, Rest: grillt mich",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Apotheken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BTM Liste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Necro6212,Ja. Und kaffe und cola.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kaffe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""cola"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+B-i-g-Boss,"Genau das. Hängengebliebe Heuchler halt. 100 Pro, wieder Bayern.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Peter_Lavan,"Natürlich, sehe ich schon so. Größte Droge ist doch Zucker. Was wohl passiert, wenn da jemand eine Limo trinkt.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zucker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Limo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kackfresse90,"Ja müsste aber das überschreitet den Horizont des Veranstalters. Vorallem weil alkohol eine sehr schädliche und stark süchtig machen kann, der Entzug von alkohol ist sehr hart und hält locker mit, mit den ein oder anderen illegalen drogen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Entzug von alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""illegalen drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DerGnaller123,In der Praxis läuft das anders ab. Im BIERzelt gibt's nunmal BIER!,2024-05-05,de,de,"[
+      {
+        ""entity"": ""BIERzelt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BIER"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Terror_Raisin24,"Nein, weil diese rechtlich einen anderen Status (mit jeweils eigener Gesetzgebung) haben.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Nein"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einen anderen Status"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eigener Gesetzgebung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eulen-spiegel,"Es bringt den Schaustellern absolut nichts, Cannabis zu erlauben (oder nicht explizit zu verbieten), gerade tagsüber laufen dort Kinder und Jugendliche herum (es ist also sowieso verboten), Alkohol wird dagegen ausgeschenkt (bringt also Geld ein). So ist, auch wenn die Formulierung nicht perfekt ist, alles klar bzgl. Cannabis und spart sich die Diskussion mit den Neunmalklugen (""aber Alkohol, Zigaretten, Zucker...!"").",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Schaustellern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinder und Jugendliche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zucker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Perfect-Sign-8444,"Alkohol, Tabak, Fruchtsäfte, Geschmacksverstärker so wie jegliche Medikament Drogen sind von Aspirin bis zum Blutdrucksenker. Sollten rein Psychische Drogen auch zählen dann dürfte so manch einer nichteinmal sein Handy benutzen...",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Aspirin"",
+        ""entity_type"": ""MED"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Blutdrucksenker"",
+        ""entity_type"": ""MED"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+schnick3rs,"Ist ""Drogen"" ein geschützter Begriff?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Arespect,"Halt das große Problem unserer Gesellschaft, es hieß schon immer ""Alkohol und Drogen"" was jedem seit Jahrzehnten suggeriert, Alkohl wäre keine Droge",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Gesellschaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Jahrzehnten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ready-Fudge-4464,Ihr wisst schon das Sauerstoff high macht?!,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Sauerstoff"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Redomorph,"Und was ist mit Spielsucht? Adrenalin? ... Das diese Verbieter es nie lernen wollen: Pauschalisierung ist Gift und dumm, so lernt die Gesellschaft nie mit Problemen umzugehen :augen_verdrehendes_gesicht:.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Spielsucht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Adrenalin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pauschalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sinshin-M4yum1,"Und alles, was Zucker enthält...",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zucker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mopedrudl,"Ja, ja, und ja. Konservative Deppen, konservative..",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Konservative Deppen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FischlippeLP,>Blöde frage und ich will kein faß aufmachen Das Fass ist definitiv offen,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Blöde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""faß"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fass"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+marijizz,Du hast definitiv ein Fass auf gemacht,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fass"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Holzwackelturm,Fass ist sowas von offen :ölfass:,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Fass"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bullenmarke,"Da es sich hierbei um kein Gesetz, sondern ""Hausrecht"" (also die öffentliche Entsprechung davon, aber ich bin kein Anwalt) handelt, muss das gar nichts. Es beinhalten was auch immer der Veranstalter meint. Mehr als dich rausschmeißen können sie eh nicht.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Veranstalter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dead-cat-redemption,"Wenn man es ganz genau nimmt, müsste man sogar auf Kokain verzichten.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Kokain"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xVIsAsx,"Einfach mal die Polizei rufen und zum Bierstand gehen, mal gucken was die dann machen.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bierstand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Phribos,"Das ist ja das kranke.. Sie torkeln sturzbesoffen, pöbelnd und prügelnd über den Festplatz. Das ist ok, auch und vor allem wenn Familien da sind. Irgendwo gemütlich sitzen und ggf. kichern ist arg kriminell, DAS MUSS VERHINDERT WERDEN!!!! Außerdem stinkt das, munkelt man.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familien"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gemütlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kichern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FragrantDecision6215,Du willst vielleicht kein Fass aufmachen.. Ich bin mir ziemlich sicher die Errichter des Schildes schon :grinsendes_gesicht:,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Errichter des Schildes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lux5090,Die sind alle Clows denken Zigaretten und Alkohol sind keine Drogen.... (Währenddessen im Münchner Biergarten die Liter maß runter geschüttet werden und der Typ mit der Tüte eine Anzeige bekommt):clown-gesicht:,2024-05-07,de,de,"[
+      {
+        ""entity"": ""Münchner Biergarten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Liter maß"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Typ mit der Tüte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KidneyStar,"Lasst einfach die energy drinks weg, dann reden wir weiter :grimassen_schneidendes_gesicht:",2024-05-07,de,de,"[
+      {
+        ""entity"": ""energy drinks"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+baflai,Kein Bier mehr aufm Oktoberfest.,2024-05-07,de,de,"[
+      {
+        ""entity"": ""Oktoberfest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+daniu,"""jeder Wirkstoff, der kein Nahrungsmittel ist"" (Wikipedia) - also Zigaretten ja, Alkohol: Getränke wohl eher nicht, Suppositorium ja. Edit: manchmal zeigt reddit, woher die Deutschen ihren Ruf haben :sich_die_lippen_leckendes_gesicht:",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Wikipedia"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Suppositorium"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kappappaya,"Gar keine blöde Frage. Drogen ist sehr ambiguous, gibt viele verschiedene interpretationen und Arten wie dieses Wort genutzt wird, teilweise durchzogen von Wertung. Der sinnvollste Begriff, der das Phänomen allgemein fassen kann, ist psychoaktive Substanzen (oder psychotrop). Und das ist Nikotin, Alkohol, Koffein, genauso wie LSD, Heroin usw. Viele Menschen können sich nicht trennscharf unterhalten über ""Drogen""",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Nikotin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Koffein"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""LSD"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heroin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+alexgraef,"Sags nur ungern, aber die sind als Genussmittel eingestuft. Wohingegen Cannabis als Betäubungsmittel eingestuft ist. Ohne jetzt eine Diskussion aufmachen zu wollen, was davon jetzt genau wie schlimm ist.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Genussmittel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Betäubungsmittel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nacaclanga,"Ist das Wort ""Drogen"" überhaupt rechtlich greifbar definiert? Die Rechtssprechung spricht ja meist ehr von Betäubungsmitteln (die Cannabis mittlerweile nicht mehr einschließen). Und in der Wissenschaft spricht man bei dem Thema ehr von ""psychoaktive Substanzen"". In sofern enthält das Schild überhaupt keine greifbare Anweisung, außer das Cannabisprodukte explizit nicht konsummiert werden dürfen. Im allgemeinen Sprachgebrauch umfasst Drogen immer die Betäubungsmittel. Wie weit ungewöhnliche anregende Substanzen, die keine Betäubungsmittel sind, Alkohol, Zigaretten oder Koffein darunter fallen hängt vom Sprecher ab. Faktisch dürfte das Schild aber dennoch eine gute Vorstellung darüber geben, welche Abwägungen der Veranstalter trifft um von seinem Hausrecht Gebrauch zu machen, da durch die Formulierung Cannabis und Betäubungsmittel auf jeden Fall darunter fallen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Betäubungsmitteln"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""psychoaktive Substanzen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabisprodukte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Koffein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Veranstalter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Arntown,"Klar, rein theoretisch schon und noch viel mehr. Aber wenn man kein Korinthenkacker ist, weiß man, was gemeint ist.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Klar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Korinthenkacker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CheruB36,"Eigentlich ein Musterbeispiel um hier mal eine Klage einzureichen, um solch einem Schwachsinn einhalt zu bieten",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Musterbeispiel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schwachsinn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DaHolk,"Jain. ""Drogen"" ist halt nicht so klar definiert wie z.b. der Begriff ""psychotrope Substanzen"" (Siehe die EU Verordnungen zu dem Thema die immer angebracht wurden das man ja nicht mehr machen könne weil EU) Wenn auf dem Schild ""psychotrope Substanzen"" stehen würde, dann auf jeden Fall und völlig klar.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Jain"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""psychotrope Substanzen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schild"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ens_Einkaufskorb,"Ja, blöde Frage. Du weißt offensichtlich, was gemeint ist und nein, Alkohol und Zigaretten nicht.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ok-Lingonberry-7620,Ja. Vielleicht ist es ja ein Kinderfest.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinderfest"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skyrush,"Hast recht, sie schreiben ja allgemein Drogen. Haben vermutlich nicht sonderlich nachgedacht bei dem Schild.. Naja, Boomer halt.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Boomer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+wsbt4rd,"I've got a serious medical condition, which requires me to take prescription drugs every 3 hours. Miss a dose, and we're talking ambulance to the ER kinda thing. I guess, no more Volksfeste for me.... :(",2024-05-05,de,en,"[
+      {
+        ""entity"": ""prescription drugs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""3 hours"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksfeste"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+OG-CJ-GSF,Die Gute alte deutsche Doppelmoral,2024-05-05,de,de,"[
+      {
+        ""entity"": ""deutsche"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Separate-Forever4845,Bist du verrückt!?! Alkohol ist ein Kulturgut und keine Droge! /s,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeneTToN68,"Nein, für den rückständigen Deutschen bedeutet: Legal = keine Droge, verboten = Teufelszeug. Das dauert dann noch weitere 20 Jahre, bis die Legalisierung in deren Köpfen angekommen is.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Deutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Legal"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Droge"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Teufelszeug"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""20 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Legalisierung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Emily89,"Brudi, nur weil Cannabis legal ist, ist Alkohol nicht kein Brokkoli. EDIT: Angesichts der Downvotes habe ich das Gefühl, dass mein Kommentar nicht verstanden wird.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brokkoli"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hopfenfred,"Alkohol ist ja auch Kulturgut, das ist was GAAANZ Anderes! /s",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Shokoyo,"Nicht nur Werbung, da werden sogar Drogen verkauft",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+photenth,"Also ich kriege Kopfschmerzen wenn ich Passivrauche. Habe kein Problem wenn leute ihr leben mit Drogen bereichern wollen, aber dann bitte so, dass ich nicht beeinflusst werden.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kopfschmerzen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Passivrauche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+OverjoyedMess,"Nur das Konsumieren ist verboten, nicht die Werbung für oder gar der Verkauf von Drogen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Nur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Konsumieren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verkauf"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MirrrorCloud,Wundert mich dass das Schild nicht von bitburger ist,2024-05-05,de,de,"[
+      {
+        ""entity"": ""bitburger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fodafoda,"Bitburger? Wäre es andere Bier, aber Bitburger? :kotzendes_gesicht::kotzendes_gesicht::kotzendes_gesicht:",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bitburger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+stupidOWLer,Oder nen bisschen Hanföl buttchuggen,2024-05-05,de,sv,"[
+      {
+        ""entity"": ""Hanföl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Detail_Some4599,Canna-Spritze drücken aufm Kinderkarussell (gemacht),2024-05-05,de,de,"[
+      {
+        ""entity"": ""Canna-Spritze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinderkarussell"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+janheymann,"Touche, der war stark",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Touche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""der"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lasse363,Auch ein Komma fehlt und die haben vor dem Ausrufezeichen wirklich ein Leerzeichen gesetzt. Cannabis wurde auch falsch geschrieben.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+lettersetter25,"Ich dachte eigentlich, das wäre der Top-Kommentar.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Top-Kommentar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MirrrorCloud,Gibt es eigentlich kein Gesetz dass Regeln nur dann gelten wenn sie ohne Rechtschreibfehler verkündet werden? /s,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Gesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regeln"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BobMcGeoff2,Das stört mich sehr,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mich"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sehr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+JoLudvS,"Ja- auch. Und die Schriftart, die Clipart, der Ultras- Aufkleber.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Clipart"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ultras-Aufkleber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lipziger,">Du bekommst nur noch Hausverbot und keine Strafanzeige. Kapitel 2 Gesundheitsschutz, Kinder- und Jugendschutz, Prävention § 5 Konsumverbot (1) Der Konsum von Cannabis in unmittelbarer Gegenwart von Personen, die das 18. Lebensjahr noch nicht vollendet haben, ist verboten",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Hausverbot"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Konsumverbot"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tiefenresonanz,Gab's glaub vom solmekke oder wie der heißt n Video . Öffentliche Volksfeste fallen wohl nicht unter Hausrecht.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Gab"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""solmekke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Video"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Öffentliche Volksfeste"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jelly_F_ish,"Rauchen in der Nähe von Menschen ist allgemein nicht cool. Stell dir vor, du sitzt auf ner Bank, isst genüsslich deine Snacks und dann zündet jemand 3m neben dir ne Fluppe an und der Wind bläst den ganzen Rauch zu dir. Zu viele Menschen gehen nicht verantwortungsvoll mit ihrem Gerauche um.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Rauchen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bank"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Snacks"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Fluppe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wind"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fp-00,"> die sind aber schon „eingebürgert“. Ich find Zigarettenrauch extrem ekelhaft, Cannabisrauch muss ich aber auch nicht haben",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zigarettenrauch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cannabisrauch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+d2093233,"Aber hier geht es ja explizit nicht ums rauchen, sondern ""konsumieren [...] in jeglicher Form"". Sowas wie Edibles ist keine Geruchsbelästigung, und Tabakrauchen wird ja nicht erwähnt.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Edibles"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tabakrauchen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WatercressGuilty9,"Im Prinzip fasst du ea ganz gut zusammen. Eigentlich sollte auf solchen Festen halt ein generellea Rauchverbot gelten, wer eine paffen will muss in einen gekennzeichneten Bereich oder halt vor das Gelände. Das wäre aus meiner Socht konsequent, auch an Bahnhöfen, Schulen etc.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Prinzip"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rauchverbot"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bahnhöfen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schulen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sorry_i_sharted,"Mich nervt Tabak auch hart. Habe früher selbst jahrelang geraucht. Auch zu Zeiten, in denen es in nahezu allen Lokalitäten (Kino, Restaurants, McD, BK) völlig normal war. Für mich wäre es heute undenkbar. Wenn irgendwer in einer Schlange eine Kippe anzündet und ich stehe daneben, fordere ich direkt auf das zu unterlassen. Da bin ich echt ganz schnell ganz pingelig.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Mich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Tabak"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""früher"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jahrelang"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lokalitäten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kino"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Restaurants"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""McD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BK"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schlange"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Atanar,"> der Geruch ist schon sehr penetrant wenn man das nicht mag. Ist bei Zigaretten ähnlich Ich würds ein bisschen anders formulieren: Zigaretten sind nicht so penetrant, stinken dafür aber absolut ekelhaft. Kiffgrasgeruch dagegen ist super auffällig, aber noch zu ertragen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zigaretten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kiffgrasgeruch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+FragileSnek,Haste mal von edibles gehört?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Haste"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""edibles"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+wegwerf3000-,50/50 ob es in 5 Jahren niemanden mehr juckt und Schnee von gestern ist oder ob CDU und AFD das Thema nutzen um Stimmung zu machen und es wieder verboten wird.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AFD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+piotr289,"Sehe ich mit eingeschlossen, die Bilder sind ja nur Beispiele",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Sehe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bilder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LowKeX,Also... Da steht Drogen. Also muss Alkohol ja auch gemeint sein...,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Da"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Noodleholz,"Alkohol kann man schlecht passiv konsumieren, das ist nicht vergleichbar. Andererseits kann man auch Heroin nicht passiv konsumieren und das ist auch verboten.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heroin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Christian34424567643,Alkohol stinkt auch nicht auf 15 meter,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""15 meter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Diskreter,"Ohne Kokain würden diese Feste gar nicht richtig funktionieren, ohne Spaß",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kokain"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Feste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spaß"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+BlueMisto,Und was sollen die Cops machen?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cops"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Affectionate_Image25,Der leuchtet sogar im dunklen,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Der"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dunklen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+thisAKisorigin,"Mach ich schon seit Jahren. Saufen mit Freunden geh ich natürlich weiter kann man nicht ohne leben aber die absolut pissbesoffene meute an Feiertagen die alle bahnen vollmüllt und stinken lässt, laute musik in der bahn spielt und andere leute belästigt kann mir ruhig erspart bleiben.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Freunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Feiertagen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bahnen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""musik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Terror_Raisin24,"Zum einen gilt tatsächlich das Hausrecht, zum anderen aber auch das CannG, welches ja besagt, dass Du nicht in der Nähe von Kindern und Jugendlichen konsumieren sollst. (Dieses Verbot gibt es ja für Alkohol nicht, über den Sinn kann man auch diskutieren, aber erstmal gilt ja das, was das aktuelle Gesetz hergibt.) Da bei einem Volksfest mit Kindern und Jugendlichen zu rechnen ist, wäre das Verbot also schon mit dem CannG ausreichend kommuniziert und man bräuchte diese Schilder gar nicht. Man könnte höchstens FSK 18- Volksfeste veranstalten, da wäre dann das Argument mit dem Jugendschutz hinfällig.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""CannG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kindern und Jugendlichen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksfest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FSK 18"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jugendschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Witzman,Eintritt ab 18 und ab geht die Weedzn - Wer meldet es an?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Weedzn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TrienneOfBarth,>Könnte also auch wer ein Fest veranstalten bei dem Cannabis erlaubt aber Alkohol verboten ist? Selbstverständlich. Müsste allerdings dann 18+ sein.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xX_Gamernumberone_xX,">Macht keinen Sinn, aber gilt wohl Hausrecht bei sowas? Grundsätzlich ja, wobei es halt nach Kirmes aussieht, was heißt das Hausrecht müsste bei der Stadt liegen. Da stelle ich es mir ehrlich gesagt schwierig vor zu entscheiden Saufen & Rauchen geht fit, aber Gras nicht. Kein Rauchen würde gehen, dann geht's um die Geruchsbelästigung / eventuell Müll, aber dann sind halt auch Kippen raus. Keine ""harten"" Drogen würde auch gehen, dann gibt's aber halt auch kein Bier mehr.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kirmes"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Saufen & Rauchen"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gras"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rauchen"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geruchsbelästigung"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Müll"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kippen"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""harten Drogen"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_AP0PL3X_,"Darum geht es eher weniger, als viel mehr darum, dass es dumm ist.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Darum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dumm"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+piotr289,"Gute Frage, sollte doch eigentlich möglich sein, bzw. wüsste ich jetzt nichts, was dagegen spräche.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Gute Frage"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nichts"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JonnyPerk,"> Könnte also auch wer ein Fest veranstalten bei dem Cannabis erlaubt aber Alkohol verboten ist? Wird aber niemand machen, weil man vermutlich mit Alkohol mehr Leute anspricht als mit Cannabis.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""niemand"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Wandering-alone,"Ein einfaches ""Cannabis verboten"" Schild hätte ja gereicht. Mich stört eher die gleichsetzung von Cannabis mit weiterhin illegalen Drogen, bzw dieses unsinnige generelle ""Drogen"" Verbot, dann bitte auch Zucker, Alkohol, Nikotin. Ich selbst konsumiere nicht, falls relevant, aber dieses Stigma nervt.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""illegalen Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zucker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nikotin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+miba,es geht um die scheinheiligkeit der schildaufsteller,2024-05-05,de,de,"[
+      {
+        ""entity"": ""scheinheiligkeit"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""schildaufsteller"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xxX_Bustay_Xxx,"Weil man ""Konsumieren"" hier groß und ""Cannabis"" mit 2 ""n"" schreibt und ein Komma fehlt?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Detail_Some4599,Weil sie ausschließlich von intellektuell minderbemittelten Leuten die die sich moralisch erhaben fühlen geschrieben werden,2024-05-05,de,de,"[
+      {
+        ""entity"": ""intellektuell minderbemittelten Leuten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Any_Zone_8920,"...und dabei ausfallend werden, andere sexuell zu belästigen, ihnen vor die Füße zu kotzen...alles nice. Aber bitte bitte kein Gras",2024-05-05,de,de,"[
+      {
+        ""entity"": ""kein Gras"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spastikatenpraedikat,"Mag sein, ist aber irrelevant. Da es sich (höchstwahrscheinlich) um eine Privatveranstaltung handelt obliegt die Ahndung von Tatbeständen den Veranstaltern. Konsumierst du Sachen die sie nicht haben wollen, sind sie ihrer Auskunftpflicht nachgekommen und können dich von der Veranstaltung verweisen ohne dein Ticket zu entschädigen (oder sonstige rechtliche Spielereien). Konsumiert du was, das sie ok finden, dann wird einfach keine Ahndung durchgeführt und nix passiert.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Veranstaltern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auskunftpflicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spastikatenpraedikat,">""Das konsumieren von Drogen, auch Canabisprodukten, in jeglicher Form ist auf dem Festplatz verboten!"" Ist kein grammatikalisch korrekter Satz, da an zweiter Stille immer ein Prädikat kommen muss. Der Satz müsste heißen: Das konsumieren von Drogen, auch Canabisprodukten, ist *in jeglicher Form* auf dem Festplatz verboten! Damit muss die zweite Version gemeint sein, auch wenn der Beistrich fehlt.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Das konsumieren von Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Canabisprodukten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Festplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+temunator,Bestimmt wenn die n fettes bitburger logo draufhaben,2024-05-06,de,de,"[
+      {
+        ""entity"": ""bitburger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+0815kopfweh,"""ja, sauf 2 bier, a packl fotzn is schnö aufgrissn."" sagt der bayer",2024-05-05,de,de,"[
+      {
+        ""entity"": ""bier"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fotzn"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bayer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dardaleci,:grinsendes_gesicht_mit_schweißtropfen:Bestimmt niemand :augen: und wenn doch dann bockt halt auch das Schild 0,2024-05-06,de,de,"[
+      {
+        ""entity"": ""niemand"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schild"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Responsible_Ad515,"Seine Lektion wird er daraus schon lernen! Bisschen mehr Fettiges Zeug vorher essen, dann passen beim nächsten mal noch 3 Bier rein. Außerdem hat es uns damals ja auch nicht umgebracht (zumindest nicht alle) also kanns doch gar nicht so schlimm sein!!!1! /s",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Seine"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lektion"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fettiges Zeug"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nächsten mal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Old_Resolve_1938,"Du glaubst doch selbst nicht, dass deine dorfgemeinde daraus die selben Schlüsse zieht, wie du? :gesicht_mit_freudentränen: Der junge Mann ist wegen des Cannabis-Dämons, den du ins Dorf gebracht hast, geschwächt gewesen - das ist ja wohl offensichtlich!",2024-05-05,de,de,"[
+      {
+        ""entity"": ""junge Mann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cannabis-Dämons"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Dorf"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+miba,du siehst aber schon den bierstand hinter dem schild? und dass das schild zigaretten nicht untersagt?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""bierstand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+miba,> weiß ich nicht warum ihr euch trotzdem drüber aufregt weil zum einen cannabis mit illegalen drogen gleichgesetzt wird und zum anderen direkt hinter dem schild legale drogen (alkohol) verkauft wird und scheinbar tabak auch kein problem darstellt wäre das ein einfaches >der konsum von cannabis ist auf dem gelände nicht gestattet würde es keine reaktion darauf geben,2024-05-05,de,de,"[
+      {
+        ""entity"": ""cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""illegalen drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tabak"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alarming_Basil6205,Hat die Schild Industrie macht? Wenn ja hätte ich die Idee ein Tempolimit einzuführen,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Schild Industrie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tempolimit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nicoislikegod,"Yes, aber war dieses Jahr nicht so wild",2024-05-08,de,de,"[
+      {
+        ""entity"": ""dieses Jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok_Vegetable1254,Als ob in Bayern jemand Bitburger trinkt. Lass dein Hass stecken der ist ebenso unnötig,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bitburger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sniixed,Wenn man sich anschaut was OP sonst so postet scheint er nicht in Bayern aufzufinden zu sein.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""OP"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_europeanunity_,"Woher weißt du, dass es Bayern ist?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+M4tjesf1let,"Aber bitte nur die Bayern, ich als Franke möchte die auch los haben.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Franke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_AP0PL3X_,"Bayern, ist das nicht der nördliche Kanton in Österreich?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nördliche Kanton"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Österreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kirla_,"Ne, es gibt ja Fassbrause. Ich mag Waldmeister.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Fassbrause"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Waldmeister"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Quetzacoatel,"""Konsumieren"" muss auch groß, substantiviertes Verb.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Konsumieren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verb"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nicoislikegod,Limburg (Lahn) in Hessen,2024-05-05,de,en,"[
+      {
+        ""entity"": ""Limburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lahn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hessen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nicoislikegod,Grob beim Überfliegen haben sich wirklich nur wenige darüber aufgeregt. Komisch eigentlich.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Grob"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Überfliegen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+miba,natürlich darf er das. nur wie es gemacht wurde ist ironisch,2024-05-06,de,de,"[
+      {
+        ""entity"": ""ironisch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sir_Richfield,"Äh... lies den Satz noch mal. ""Konsumieren"" müsste allerdings groß geschrieben werden.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Konsumieren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Plastik-Mann,"Aber saufen und Ziggis rauchen, vor den lieben Kleinen ist ok?",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Aber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ziggis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Nicoislikegod,War leider in Hessen,2024-05-07,de,nl,"[
+      {
+        ""entity"": ""Hessen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Illustrious-Syrup509,"Ich meine, man muss doch Verständnis haben, in den meisten Kinos darf man auch keine eigenen Butterbrote mitbringen. Da verdienen die halt nichts dran. Ist vermutlich nur unglücklich formuliert *lol*",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kinos"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Butterbrote"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+T54MOD2,Vielleicht am Geruch den man 100m gegen den Wind riecht?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Geruch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100m"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zufaelligername1253,Was für einen Hype? Und wie lässt sich das mit Corona vergleichen?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Corona"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+notCRAZYenough,Copy paste if you wanna know,2024-05-05,de,en,"[
+      {
+        ""entity"": ""Copy paste"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Coreshine,Bist nur der 62084. der diese Frage stellt.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""62084"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+batlhuber,"Als ich es vorher gemacht habe, war es noch strafbar, jetzt ist es ne Ordnungswidrigkeit. Rate mal, wie viel das Bildchen bewirkt...",2024-05-05,de,de,"[
+      {
+        ""entity"": ""vorher"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ordnungswidrigkeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dr-GimpfeN,Bist du so high das du das auch nicht kapierst?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""high"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kapierst"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+THE12DIE42DAY,Limburg an der Lahn,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Limburg an der Lahn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Marans,"Direkt ins Gefängnis, ohne los und ohne 200€",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Direkt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gefängnis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""200€"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WeeklyRustUser,"Korrekt, gibt dann halt ein Hausverbot. Wobei ich mir den CanG-konformen Konsum auf einer Kirmes schwer vorstelle. Man darf nicht in unmittelbarer Gegenwart von Minderjährigen konsumieren.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""CanG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kirmes"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Minderjährigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KongSchdronkKonisoer,"Du kannst bis zu 25 g offen mit dir rumtragen, da kann der Verantsalter erstmal nichts wirklich machen. Du darfst sie halt nicht rauchen/verdampfen oder anderweitig komunsimieren.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Veranstalter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nicoislikegod,Reden wir nicht drüber,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Reden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cautious_Warthog8596,"Ja man, weil man nicht kiffen kann. Ihr habt euer Hirn echt weggekifft",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""man"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kiffen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hirn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""weggekifft"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Enough_Brief_3280,"Theoretisch sogar Tee, da dieser Teein enthält was quasi Koffein ist",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Tee"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Koffein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WiTHCKiNG,Koffein hat langfristig sogar ne schlimmere wirkung auf das gehirn als THC. Das ist alles so sinnlos. Ist doch besser dass einer mit ner portion pommes im eck chillt als sich sternhagelvoll mit anderen kloppt und randale macht,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Koffein"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""THC"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""gehirn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pommes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+yvesined,Der Post hätte besser in \rbinichderalman gepasst. Die wissen bestimmt was rechtlich als Drogen zählt....fragt da mal nach :strahlendes_gesicht_mit_lachenden_augen:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Der Post"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""binichderalman"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+North-Community-3360,Also auch Käse wegen dem kasein?,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Käse"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kasein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Diskriminierung,Glaube das sind Stimulanten. Noch mal was anderes.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Glaube"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stimulanten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+601dfin63r,"Auch Nichtraucher hier. Bei passivem Grasrauch konsumiert du ja ungewollt auch die „berauschenden“ Stoffe, tatsächlich direkter ein Problem wenn man beim Autofahren dann Grenzwerte überschreiten sollte. (Extremfall). Von Zigarettenrauch kriegst du halt „nur“ den ätzendem Gestank und teerablagerungen in der Lunge",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Grasrauch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigarettenrauch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Trappist235,Cannabis auch seit dem 12 JH.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""12 JH"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Moquai82,Also bayrisches Kulturgut? /s,2024-05-05,de,de,"[
+      {
+        ""entity"": ""bayrisches"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+quentheo,Zigaretten und Bier sind bayrische Grundnahrungsmittel,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bayrische"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eisnone,lass ibus in ruhe!! mit über 30 gehört ibu zum guten ton xD,2024-05-05,de,de,"[
+      {
+        ""entity"": ""lass ibus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ibu"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mondkind83,"Laut einer Definition der Weltgesundheitsorganisation (WHO) sind Drogen Stoffe, die eine direkte Einwirkung auf das Zentralnervensystem besitzen und bei Zuführung einen als mangelhaft empfundenen Zustand mindern oder zum Verschwinden bringen, oder die einen subjektiv als angenehm empfundenen Zustand herbeiführen. Es gibt also schon eine offizielle Definition des Begriffs.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Weltgesundheitsorganisation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""WHO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+quchen,"Was eine Droge ist hängt sehr vom Kontext ab. Hier wird viel zu viel Wortklauberei betrieben, weil alle im Thread ihre eigene Definition haben, die ggf. mit Google belegen, und null über den Tellerrand schauen. Droge kann botanisch den wirkstoffhaltigen/verwertbaren Teil einer Pflanze bedeuten; es kann eine Substanz sein, die maßgeblich wegen ihrer Rauschwirkung wegen konsumiert wird; es kann etwas sein, was kulturell und medizinisch willkürlich als Droge bezeichnet wird; und beliebig viele weitere Definitionen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Google"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Droge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LewinskysDressStain,"Der körperliche Entzug von GABAergen Substanzen wie Alkohol und Valium ist der mit Abstand härteste aller Drogen. Man kann dabei sogar sterben. Außer Opioiden gibt es sonst eigentlich keine Rauschmittel, die ernsthaft körperlich abhängig machen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""GABAergen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Valium"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Opioiden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tight_Banana_7743,Aber da steht ja Drogen und nicht Betäubungsmittel.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Aber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Betäubungsmittel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThrowawaySchnitzl,"Diese Begründung hat halt immer so ""Cannabis ist verboten, weil es illegal ist"" vibes.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""illegal"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Keksliebhaber,"Zeit den Jointstand einzuführen, 5€/10€ der Joint, da würde man mies absahnen",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jointstand"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Joint"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5€/10€"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Diskriminierung,"Soweit ich weiß, darf man vor Kindern kiffen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Soweit ich weiß"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kindern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FuzzyApe,"> sowie Zubereitungen aus solchen Wirkstoffen. Doch, Bier, Wein etc. sind ebenfalls Drogen. Steht ein paar Zeilen weiter ;)",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wein"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EmberGlitch,"Es geht aber um den Wirkstoff, nicht die Form des Konsums. Das sollte auch klar werden, wenn man den Satz nicht in der Mitte abhackt: ""[...] sowie Zubereitungen aus solchen Wirkstoffen."" Vier Sätze weiter wird speziell Alkohol in Form von Bier, Wein oder Schnaps als Beispiel genannt. Ergibt auch Sinn - sonst wäre THC plötzlich keine Droge, sobald man es in Form von Brownies zu sich nimmt, anstatt eines Joints.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schnaps"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""THC"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brownies"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Joints"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ProductUsual3031,Ist Luft nicht auch sowas wie Nahrung?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Luft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nahrung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alexxxflash,Und was mache ich mit meinem Suspensorium? (⁠◔⁠‿⁠◔⁠),2024-05-05,de,de,"[
+      {
+        ""entity"": ""Suspensorium"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Constant-Mud-1002,"Jeder *Wirkstoff*, du schreibst es ja selber. Alkohol ist der Wirkstoff. Bier, Wein, etc. ist das Getränk.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cebedec,Cannabis ist seit 1. April kein Betäubungsmittel mehr.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1. April"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Moquai82,Cannabis ist kein BTM mehr. Bzw. Braucht man vom Arzt als Patient kein BTM-Rezept mehr,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arzt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Patient"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Idulia,"Wogegen soll da geklagt werden? Dass ein Veranstalter seine eigenen Hausregeln auf einem Schild nur verkürzt darstellt? Ich sehe da wenig Grundlage, um ehrlich zu sein.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Veranstalter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ViciousNakedMoleRat,"Mich nervt dieses ständige Genörgle hier bezüglich der Cannabis-Legalisierung. Das war selbst vor der Legalisierung nicht annähernd so schlimm wie es jetzt ist. Das Gesetz ist jetzt erstmal so wie es ist. Es verbietet Cannabis-Konsum in unmittelbarer Anwesenheit von Personen unter 18. Bei Volksfesten laufen überall Kinder und Jugendliche rum. Damit es auf dem Volksfest nicht einen Gesetzesverstoß nach dem anderen gibt, wenn jemand mit Joint an Jugendlichen vorbei läuft, wird der Konsum dort halt generell verboten. Man kann diesen Passus im Gesetz doof finden, aber muss das wirklich bei jedem Volksfest wieder und wieder diskutiert werden, als hätte man es nicht schon 20 Mal gemacht?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis-Legalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Legalisierung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Personen unter 18"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksfesten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinder und Jugendliche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Joint"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Passus im Gesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+cheapcheap1,Ich glaube Tabak ist nicht mitgemeint.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Tabak"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Trappist235,Doch Werbung für Cannabis Produkte ist verboten.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis Produkte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Frooonti,Bleibt leider nur bei Wodka-Tampons,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Wodka-Tampons"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RazzyRaziel,Was würde Söder sagen :(,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Söder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BrokkoliOMG,Es gibt viel wichtigere Sachen für die Schilder gebraucht werden wie man hier sieht. Das Verkehrsministerium hat da einfach nicht so die Prio. /s,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Verkehrsministerium"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Steikel,"Mam bekommt den Eindruck, die waren beim Schreiben des Schildes auf Drogen!",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Mam"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+EnteMausElefant,Sei vorsichtig. Im CanG habe ich schon zwei gefunden.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""CanG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Holzwackelturm,"Ist voll die gute Regelung. Sollten sie bald Alk und Kippen auch so machen. Schlecht fürs Oktoberfest, gut für die Kinder.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Oktoberfest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+mavi54,Wird (außer in Bayern) eh eingestellt und ist daher irrelevant. Und wenn nicht gibt es nur Geldstrafen. Außer vielleicht bei absichtlichem direkten Konsum in mitten einer Kindergartengruppe oder seinen eigenen Kindern als Wiederholungstäter.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geldstrafen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kindergartengruppe"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""eigenen Kindern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wiederholungstäter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+auchjemand,Das ist aber nur eine Ordnungswidrigkeit und man bekommt keine Strafanzeige.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ordnungswidrigkeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mettich,"Ob Kinder auf einem Festivalgelände sind in ""unmittebarer Gegenwart"" darstellt müsste dann wohl ein Gericht feststellen. Ich würde ja sagen eher nicht.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festivalgelände"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gericht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"Und in Ubahnen ist das Trinken von Alkohol verboten, hat noch nie jemanden aufgehalten.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Ubahnen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lunnaris001,"Joa, leider ist es mit der Rücksichtnahme manchmal nicht so bei den Menschen. Gibt immer noch so idioten die meinen selbst im Zug zu rauchen. Erst vor 2 Wochen ist der Regio 10 minuten gestanden weil jemand im Klo geraucht hat und dann halt nen Brandalarm kommt und der Zug nicht weiter fahren kann.. Sowas kann man sich nicht ausdenken..",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Joa"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regio"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2 Wochen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Spare-Resolution-984,"Deutsche Rauchkultur ist aber auch einfach ekelhaft. Sich einfach in der Menschenmenge am Bahnsteig oder an der Bushaltestelle eine Zigarette anzuzünden und alle mit dem Geruch zu belästigen wird in anderen Ländern nicht toleriert. Ich rauche selber weed, kann aber nachvollziehen wenn man es nur an bestimmten Orten gestatten will, ich will ja auch nicht von Zigaretten-Rauch zugequalmt werden.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Deutsche Rauchkultur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Menschenmenge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bahnsteig"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bushaltestelle"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigarette"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""weed"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""anderen Ländern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bestimmten Orten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten-Rauch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Short_Fuel_2506,"Vaporizer riecht auch deutlich weniger und nicht penetrant nach Rauch. Wenn man etwas Abstand zu anderen hält riecht man es kaum, deutlich weniger als Zigaretten.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Vaporizer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Rauch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Arespect,"Wenn du dort nen Keks isst, wird dich wohl keiner Anzeigen, wie vorher auch nicht",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Keks"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+karimr,"> Sowas wie Edibles ist keine Geruchsbelästigung Ich glaub aber auch nicht dass es dem Veranstalter da um die Edibles oder Vaporizer geht, vermutlich könnte man sich direkt vor der Security 3 Brownies reinschaufeln oder am Vapo ziehen ohne dass die was sagen bzw. überhaupt checken was man da macht. Der Veranstalter hat einfach ein Event wo auch Kinder und Familien auf die Fahrgeschäfte wollen und keinen Bock auf Graswolken auf dem Event, was ich auch als Kiffer irgendwie verstehen kann, klar wird der jetzt nicht noch auf das Schild schreiben, dass Edibles okay sind. Meiner persönlichen Erfahrung nach kann man aber selbst auf solchen Events in Ruhe kiffen, wenn man sich nur einen ruhigen Ort sucht wo es keinen stört. Das mit dem Tabak liegt einfach an dem extrem hohen Grad der gesellschaftlichen Akzeptanz davon, hierzulande kann man ja auch am Spielplatz quarzen ohne dass es irgendwen stört.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Edibles"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Veranstalter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Security"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brownies"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vaporizer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fahrgeschäfte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Graswolken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kiffer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tabak"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spielplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Katumana,Ich danke dir vielmals Unbekannter! \*schnief\*,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unbekannter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Zauberkaninchen,"Und was machst du wenn die Person sagt ""nein ich rauche jetzt trotzdem eine Zigarette!"". Nur aus Interesse :gesicht_mit_freudentränen::gesicht_mit_freudentränen:",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigarette"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Spare-Resolution-984,Kino??? Wirklich? Also durfte man im Saal rauchen oder wie?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kino"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VoDoka,"Bei ""In der Schlange fordere ich das Rauchen zu unterlassen"" hab ich kurz hochgeschaut ob ich im ""Bin ich der Alman""-Sub bin.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bei"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""In der Schlange"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rauchen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bin ich der Alman"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Flizzimdfor,Bist n alman. Aber n Guter,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""alman"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Guter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Any-Information-1924,"Danke!! Ja, du hast absolut recht. Leider ist das Rauchen an öffentlichen Plätzen noch überall erlaubt. Aber auch da hoffe ich das es sich mit der Zeit ändern wird. Schönen Sonntag noch :)",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""öffentlichen Plätzen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonntag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+literallyarandomname,Jo. Wenn du dich nicht komplett zudröhnst wird zumindest das gelegentliche eatable keinen jucken.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Jo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+whatkindofred,"Dann müsste die CDU es aber auch mit den Stimmen der AfD zusammen verbieten oder eine der Ampel Parteien vom Verbot überzeugen. Ich glaube zwar nicht daran, dass die Brandmauer zur AfD viel mehr als ein brennender Zaun ist, aber nur wegen Cannabis wird die CDU sich jetzt nicht grade mit der AfD einlassen. So wichtig ist ihr das Thema dann auch wieder nicht.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ampel Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brandmauer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Antique-Ad-9081,weiter hinten ist eine fette bitburger werbung also wäre ich mir da nicht so sicher,2024-05-05,de,de,"[
+      {
+        ""entity"": ""bitburger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Philly__Blaze,Warst du noch nie auf ner Kirmes? Da kriegst du überteuertes Hopfen-Nervengift-Gemisch an jedem Getränkestand,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kirmes"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hopfen-Nervengift-Gemisch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+galvingreen,In Bayern nennen die das Kulturgut oder Nahrungsmittel.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kulturgut"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nahrungsmittel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+luxxy88,"Habe gestern nen Bekannten in die Notaufnahme gefahren, dem ein Besoffener von hinten einen Maßkrug gegen den Kopf gezimmert hat. Er und ich würden deine Aussage mal kritisch hinterfragen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bekannten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Notaufnahme"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Besoffener"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Maßkrug"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kopf"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+krusenrott,"Wenn man aber Drogen jeglicher Art verbietet, beinhaltet es nun einmal auch Alkohol. Alternativ müsste es dann auf dem Schild heißen: Einzig erlaubte Droge auf diesem Festplatz ist Alkohol.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Festplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Toaster_GmbH,"Cannabis kannst du auch essen, Alkohol kann dämpfe produzieren... Tja, was machen wir jetzt?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LewinskysDressStain,Von Cannabis passiv high zu werden ist an der freien Luft nicht möglich. Drogen mit ähnlicher Wirkung wie Heroin sind hierzulande legal erhältlich -- habe ich gehört...,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heroin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+n8f4LL1,Die Kotzflecken schon. Und die Schlägereien unter Alkohol haben auch manchmal einen 15m Radius.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kotzflecken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schlägereien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""15m Radius"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+krusenrott,"Sagen Sie. Aber der Geruch dürfte wohl kaum der Grund sein. Oder wie erklären Sie sich das Verbot von Spritzen. Die sind doch geruchsneutral. Außerdem steht auf dem Schild sehr deutlich, dass Drogen jeglicher Art verboten sind. Ist Alkohol keine Droge?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Sagen Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geruch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spritzen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+catowned,"Das nicht, aber die Kotze und Pisse der Konsumenten, nachdem sie drei Meter Weg brauchen, um wahlweise ihre Anhänglichkeiten, Überschwänglichkeiten, Melancholie oder Aggressionen abzubauen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Konsumenten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CrazyPoiPoi,"Ne, aber 5. Vor allem die ganz fertigen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""5"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LewinskysDressStain,Dafür hört man ihn auf 30 meter,2024-05-05,de,de,"[
+      {
+        ""entity"": ""30 meter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tactical_fortapelse,Da kann man drüber streiten,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Da"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""streiten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xChrisMas,Ich finde die gesetzliche Grundlage für ein Verbot ist klar gegeben Aber dann bitte auch einfach als Hinweis mit auf dem Schild drucken und damit müsste doch jeder normale Mensch Verständnis dafür mitbringen,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gesetzliche Grundlage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verbot"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hinweis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""normale Mensch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+whatkindofred,"Im CanG steht ""in unmittelbarer Gegenwart"". Ich halte es nicht für ausgeschlossen, dass es auch auf einem Volksfest manchmal Ecken gibt, wo grade kein Jugendlicher ""in unmittelbarer Gegenwart"" ist. Hängt aber auch davon ab wie die Gerichte in Zukunft den Begriff auslegen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""CanG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksfest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jugendlicher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Detail_Some4599,Die Weedzn :gesicht_mit_freudentränen: Wär ich sofort am start,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Weedzn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+piotr289,"Riesen Potenzial für den Tourismus. 8 Hotbox-Festzelte, traditioneller erster Bong-Hit durch den Münchner OB: O'kifft is. Und die Fressbuden würden den Umsatz ihres Lebens machen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Münchner OB"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tourismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+somanom,!!! + ! ! !,2024-05-05,de,fr,"[
+      {
+        ""entity"": ""!!!"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+je386,"Naja, ehrlich gesagt sind bei einer Kirmes auch Kinder und Jugendliche anwesend, damit darf man da eh kein Cannabis rauchen. Das Schild düfte also keinen großen Unterschied machen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kirmes"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinder und Jugendliche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schild"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hasuris,Man könnte Cannabiskonsumzelte einrichten. So wie für Bier.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabiskonsumzelte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+THE12DIE42DAY,"> Grundsätzlich ja, wobei es halt nach Kirmes aussieht, was heißt das Hausrecht müsste bei der Stadt liegen. Da stelle ich es mir ehrlich gesagt schwierig vor zu entscheiden Saufen & Rauchen geht fit, aber Gras nicht. KCanG §5 Absatz 1 ""Der Konsum von Cannabis in unmittelbarer Gegenwart von Personen, die das 18. Lebensjahr noch nicht vollendet haben, ist verboten."" Da das auf dem Bild das Limburger Frühlingsfest ist, passt das halt. Abgetrennter 18er Bereich könnte helfen, aber das ist Hessen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Limburger Frühlingsfest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hessen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Appropriate_Elk_6113,Nicht wirklich dumm weil man eh in der nähe von Jugendlichen nicht konsumieren darf... und bei einer Kirmes gibt es oft :augen:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Jugendlichen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kirmes"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GhostInTheSock,Dagegen sprechen minderjährige Gäste. Ist das nicht in deren Umfeld verboten? Zumal Familien meistens die Haupt-Zielgruppe sein werden.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""minderjährige Gäste"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familien"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+whatkindofred,Gibt doch auch kleine Feste. In größeren Städten dürfte es mehr als genug Konsumenten für sowas geben.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""größeren Städten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"Cannabis' Klassifizierung auf der Liste der Drogen hat sich ja nicht geändert, Cannabis ist weiterhin keine legale Droge. Die legale Menge und die Erlaubnis des Konsums in der Öffentlichkeit hat sich geändert. Und da auf dem Markt auch Minderjährige sein werden, und der Markt bestimmt in einer Fußgängerzone sein wird, darfst du da sowieso nicht Kiffen (bzw. nicht zwischen 7-20 Uhr wenn keine Minderjährigen anwesend sind).",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Minderjährige"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Markt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fußgängerzone"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lockae,Ist einfach ein vorgeschobener Grund weil sie nicht schreiben können dass sie dann weniger Alkohol verkaufen. Ich finde diese Doppelmoral können die sich echt sparen.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Appropriate_Elk_6113,"Naja Marihuana riecht halt scheiße, könnte mir schon vorstellen, dass das nicht ideal fürs Geschäft ist. Und ja aLkOhoL rIeChT aUcH aber obs einem gefällt oder nicht, das riecht zum einen weniger und zum anderen sind die Menschen daran gewöhnt.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Naja Marihuana"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+M00n-ty,"Denen geht's halt um den Profit. Wer kifft, der trinkt vl weniger. Die wollen halt auch was verdienen. Ich kann die Festwirte da schon verstehen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Denen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Profit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kifft"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""trinkt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festwirte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+individual_throwaway,"...welche Cannabis nicht mal richtig buchstabieren können. Vielleicht waren sie high, das passiert da ja schnell mal.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""high"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+individual_throwaway,"""backl"" und ""schnö"" ist eher österreichicher Dialekt. Der (Ober-)Bayer würde ""packerl"" und ""boid"" oder ""schneu/schnöi"" sagen, phonetisch.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""österreichicher Dialekt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ober-Bayer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CrazyPoiPoi,"Das sind halt leider unironisch die Aussagen, die hier auf dem Dorffest bei etwas ähnlichem gefallen sind. Es ist nur noch ekelhaft, wie Alkohol verharmlost wird.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tiefenresonanz,"Na ein Glück wird crack und Meth nicht sepperat erwähnt. Juhuuu! Nein ja doch bitte erzähle mir mehr, das klingt interessant",2024-05-05,de,de,"[
+      {
+        ""entity"": ""crack"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Meth"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+guineapigfucker69,Und trotzdem sollten wir Bayern einmauern. Das ändert gar nichts,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Droideater,Schwierig. Ist Söder nicht auch Franke?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Söder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Franke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Judge2Dread,"Und was man so mitbekommt, würden sich die Bayern auch wünschen, die Franken los zu sein :P Source: Bin in Passau aufgewachsen, aber glücklicherweise ausgewandert",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Franken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Passau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Blobskillz,"da ihr mit Söder bewiesen habt, dass den Franken nicht zu trauen ist seid ihr auch mit raus",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Söder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Franken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+baflai,"Oh je ohje.. So anstatt 15€ pro Mass zu bezahlen, kaufste dirn Ryanair ticket nach Malle und lässts krachen. Deutschland Ade",2024-05-07,de,de,"[
+      {
+        ""entity"": ""Ryanair"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Malle"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+afriy,Edibles beispielsweise riechen jetzt nicht 100m gegen den Wind.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Edibles"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Archivist214,"Ich weiß noch wie ich früher, als ich meinen Konsum um jeden Preis vor meinen Eltern verstecken musste, insbesondere vor meiner Mutter mit ihren wachsamen Augen, ihrer Beobachtungsgabe und ihrer äußerst feinen Spürnase (sie hätte gewiss Polizistin in der Drogenfahndung werden können, hätte sich bei der Berufswahl anders entschieden, das Talent dazu hat sie auf jednen Fall), da habe ich den Geruch vom einfach nur bloß herumliegenden Cannabis regelrecht verflucht. Egal wie gut und matrioschkamäßig verschachtelt verpackt und egal wo versteckt, es kam immer etwas durch, was meine Mutter in der Luft bemerkt hat. Ich habe so viele verschiedene Methoden des Verpackens und Versteckens durchprobiert, entwickelt und perfektioniert, der Geruch war mein Endgegner. Irgendwann war ich sooo genervt davon. Ich weiß noch, wie ich zu einem Zeitpunkt mir gewünscht hatte, dass es die Wirkstoffe von Cannabis als Tablette oder Pulver gäbe, geruchlos, problemlos. Klar es gab damals schon synthetische Cannabinoide, das wäre aber nicht das gleiche gewesen und viel zu riskant, mal davon abgesehen, dass das bestellten von solchen Sachen übers Internet für mich ausgeschlossen, da eben zu riskant und ich wollte ja mein Weiße-Weste-Image weiterhin pflegen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mutter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zeitpunkt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Internet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+percyman34,Copy paste the sign?,2024-05-05,de,en,"[
+      {
+        ""entity"": ""sign"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rotsono,"Stimmt, das hatte ich vergessen mit den Minderjährigen und dem Abstand, irgendwie hatte ich im Kopf das es da genau so ist wie bei Zigaretten.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Minderjährigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abstand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ValuableArmadillo637,"Also ich rede hier eher über die Politik und was das kiffen angeht kann ich nicht mitreden, aber lass man gut sein ,dass ist safe zu hoch für deinen Horizont du grün Wähler",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kiffen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Horizont"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wähler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+4pl8DL,"Nicht nur Quasi, das ist einfach nur eine andere Bezeichnung für Koffein. Sind ein und das selbe",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Quasi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Koffein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Surfing_the_Wave_,"Die krasseste Droge habt ihr vergessen, Zucker.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zucker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+realultralord,"""Teein"" ist nur ein Wort für Koffein, das manche Teetrinker benutzen, die eine merkwürdig passiv-aggressive Haltung haben, wenn man ihnen eine Tasse Kaffee anbietet. Chemisch ist ""Teein"" exakt dasselbe wie Koffeein. Warum sich letzteres als Begriff durchgesetzt hat bleibt zu erraten. Ich würde mein Geld darauf setzen, dass Tee eine längere Geschichte hat als Kaffee. Allein schon wegen der technologischen Voraussetzung für die Zubereitung von Kaffee. Diese ist nämlich höher als die für Tee.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Teein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Koffein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Teetrinker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kaffee"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tee"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+toxikmucus,"Alle Tees, das Wort ""Drogen"" kommt von ""trocknen"", also streng genommen alle getrockneten Arzneipflanzen.. Das Wort, das hier gesucht wird, ist Rauschgift.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alle Tees"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""trocknen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arzneipflanzen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rauschgift"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Werst19,Theoretisch auch alle Zucker Produkte und Handys,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zucker Produkte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Handys"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dull_Woodpecker6766,"Schokolade dürfte dann ja folglich auch nicht verkauft werden die enthält ""Theobronin"" ?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Schokolade"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Theobronin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crakla,Schokolade auch da es theobromine enthält,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Schokolade"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""theobromine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

@@ -1,0 +1,1382 @@
+author,text,timestamp,subreddit,language,gpt_output
+rhabarberabar,> und das auch noch funktioniert Quelle? Ich wette das ist einfach Scam.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Quelle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Scam"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Koordinator_O,1. Das funktioniert? 2. Woher weißt du das? du schlimmer finger du. :süffisant_lächelndes_gesicht:,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Woher"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Droideater,Habe gestern Werbung für Schwarzmarkt Weed bekommen. Das dreht total frei.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwarzmarkt Weed"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Pr0nzeh,Ist 100% ein honey pot,2024-04-26,de,de,"[
+      {
+        ""entity"": ""honey pot"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_verel_,Die haben Geld. Du nicht.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Die"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+schadavi,"Die automatisierte Meldefunktion. Wir z.B. handeln mit einem Sortiment, wo auch mal Artikel von Versace vorkommen. Da werden uns ständig die Anzeigen gesperrt, wegen ""Plagiat von Markenprodukten"". Wir sind aber ein echter Fachhändler, der mit echten Markenartikeln handelt... Leider sind Markennamen ein rotes Tuch für viele automatische Filter. Bei allem anderen gilt: Algorithmus entscheidet und der indische Callcenter-Mitarbeiter winkt alles durch wo nicht grade Blut oder Genitalien zu sehen sind.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Versace"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Markennamen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Algorithmus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""indische Callcenter-Mitarbeiter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PhilippTheSmartass,"Hast Du mal versucht die Startseite von Deinem Webshop so aussehen zu lassen als würdest Du Drogen, Falschgeld und Kriegswaffen verkaufen, aber erst wenn man irgendwo draufklickt erscheinen die Autosticker?",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Webshop"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Netterkeks,"Hauptsächlich durch die Gier der Menschen.. dein Webshop juckt erstmal keinen weder die Plattform, noch die gierigen Menschen zu wenig Reichweite! im Gegensatz zu so einem Müll da denkt jeder gleich "" Megageschäft"" und der Plattform bringt es so Reichweite.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Webshop"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Plattform"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reichweite"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Müll"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Megageschäft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+gorchzilla,"Callejon konnte ihr Album ""Hartgeld im Club"" nicht auf den meta-Plattformen bewerben, weil sich auf dem Cover zwei Männer geküsst haben.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Callejon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Album"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hartgeld im Club"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""meta-Plattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cover"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zwei Männer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+qqwhine,"Jau aber in der App landet man zunächst nur auf einer Seite zum Melden von Diffamierung und geistigem Eigentum etc. Das Formular existiert auch nur um mit dem NetzDG kompatibel zu sein, der Fokus davon liegt aber auf einer Reaktion zu Hasskriminalität und fake news. Aber um das auszufüllen und dort wirklich rechtswidrige Dinge anzukreiden, muss man ziemlich tief reingehen. „Falschgeld“ würde auch dort unter „Sonstiges“ fallen. Dann muss man die konkreten Gesetze heraussuchen, gegen die der Post verstößt, eine Erklärung geben, eine Kopie der Nachforschungen anhängen, deinen Echtnamen ergänzen usw. Stattdessen sollte das Review-Team offensichtlich gesehen haben, dass der Beitrag rechtswidrig ist und Schritte einleiten. Das funktionierte auch bei anderen fake-news Beiträgen, die ich in der Vergangenheit gemeldet habe. Aber hier war es ihnen wohl einfach egal.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""NetzDG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hasskriminalität"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""fake news"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sonstiges"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Review-Team"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Illustrious-Tree5947,"Das bringt auch nix. Hab schon so viele Nutzer über diese Funktion gemeldet die meinten der Holocaust wäre nicht real, der Hitlergruß wäre ok und ein Hakenkreuz macht ein tolles Profilbild und bei allen hab ich nur ein ""Dieser Post verstößt nicht gegen unsere Richtlinien"" zurück bekommen.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Holocaust"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hitlergruß"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hakenkreuz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Monopoly8600,"Müsste es doch jetzt schon. Der Pot wurde nicht nur augenscheinlich gemeldet, sondern als ok eingestuft. Das heißt Instagram kennt den Vorgang und duldet ihn bewusst.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AnraoWi,"Auch hier nochmal als kurze Anmerkung, dass der Revanced Manager für sehr viele Apps, (Youtube, Reddit, Twitch, facebook und Instagram) von der Community gepflegt wird. Einmal die App da durch jagen und man hat eine werbefreie Version. Also trotz Drittanbieter App Sperre bei Reddit, Mittelfinger an die Werbeindustrie.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Revanced Manager"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Youtube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Twitch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Community"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drittanbieter App Sperre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Werbeindustrie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Wobbelblob,Alle Social Media Plattformen sind da übler Müll. Erfahren ja vom Gesetzgeber auch keine Konsequenzen außerhalb eines du du.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Social Media Plattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gesetzgeber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lomat4000,Ich wollte letztens auf Instagram meine Bilder von den Ferien posten. Hab mich dazu entschieden mal bischen auf mein Feed zu scrollen. Ich hab genau 1 Post gesehen von einer Person der ich folge. Der Rest nur Werbung oder Empfehlungen.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ferien"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Feed"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kabopu,"Ist wirklich frustrierend, wie impotent die Politik EU-weit agiert, beim Thema Social Media.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Social Media"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Geschak,War das nicht auch Instagram wo relativ offen Sklaven verkauft wurden?,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sklaven"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AbbreviationsWide331,So eine ähnliche Erfahrung kann ich bestätigen. Es is lächerlich womit einige da durchkommen während man selbst für bestimmte Worte in einem Kommentar gelöscht oder sogar gebannt wird. Egal ob das sarkastisch war oder nicht.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Erfahrung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lächerlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Worte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommentar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_Username-was-taken_,Was hätte das das für einen Sinn? Instagram bietet es ja nicht an,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kaktussaft,"Strafbar sind, grob gesagt, die Herstellung (oder Verfälschung), das Verschaffen und Anbieten und das Inverkehrbringen von Falschgeld. Instagram tut keins davon, der Anbieter tut es.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Excellent-Spell-8943,"Gibt es.... :) Aktuell NetzDG, bald DDG [ Es gibt nur leider aktuell zu wenig Menschen, die entsprechend melden (über das NetzDG-Formular, nicht die Instagram-Meldefunktion) und Nicht-Löschungen dann bei der Behörde beanstanden.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""NetzDG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DDG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Behörde"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+elreniel2020,"Mach da mal 4 Nullen ran und dann fangen die Plattformen zu überlegen an, ob das den Aufwand wert ist.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Plattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DitBinIkke,"Neben der Bundesnetzagentur gibt es auch noch die Staatsanwaltschaft. Wenn Instagramm wissentlich Werbung für den Kauf von Falschgeld anzeigt, machen sich die Verantwortlichen bei Insta wegen versuchter Anstiftung strafbar. Von dem dafür nötigen Wissen und Wollen (Vorsatz) wird man wohl ausgehen müssen, wenn die Werbung gemeldet wird, überprüft wird und trotzdem nicht abgeschaltet wird. Ich hab da keine Zweifel, dass mindestens Anfangsverdacht einer Straftat besteht, wenn das tatsächlich Werbung für Falschgeld ist. Ob es zu einer Verurteilung kommt hängt dann davon ab, was bei der Prüfung falsch gelaufen ist und wie häufig das falsch läuft. Darum macht es durchaus Sinn, Werbung für Straftaten immer zur Anzeige zu bringen, wenn sie auf Meldung hin nicht abgeschaltet wird. Auch wenn die ersten Male nichts passiert, gibt es einen Punkt, ab dem für Insta die Kosten die Einnahmen übersteigen und ab dem sich die Manager nicht mehr mit ""bedauerlicher Einzelfall"" herausreden können.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Bundesnetzagentur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsanwaltschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagramm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DevelopmentSudden626,"Ja mache das! Am Besten schickst du dein Kram auch an einige Medien, z.B. ÖR und / oder ct Magazin. Die freuen sich stets über solche Skandale :grinsegesicht_mit_zugekniffenen_augen:",2024-04-30,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Medien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ÖR"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ct Magazin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vomaufgang,Twitter: Hold my scammed beer.,2024-04-26,de,en,"[
+      {
+        ""entity"": ""Twitter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sancho4279,"Krass. Was Werbung angeht, geht bei Reddit wirklich alles. Hatte vor kurzem 2 Tage hintereinander Werbung von dem Rechten Schwurbelverleger Kopp-Verlag im Browser, echt ekelig. Nebenbei, schönen Kuchen Tag!",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kopp-Verlag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+qqwhine,"Das Spielgeld ist als solches gekennzeichnet, während das aus der Anzeige versucht möglichst echt auszusehen um im Handel eingesetzt werden zu können.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Das Spielgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Handel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Finnwhale,"Es ist ja wohl ein Unterschied, ob man Falschgeld als solches bewirbt und verkauft oder ob Amazon Kinder-Spielgeld im Sortiment hat, das als solches gekennzeichnet ist.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amazon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinder-Spielgeld"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+monerobull,"Letztens nen Artikel gesehen wo die Polizei ganz stolz war millionen von dollar an gekennzeichnetem ""prop money"" beschlagnahmt zu haben. Damit zu bezahlen muss wohl trotzdem gut genug funktionieren.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""millionen von dollar"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""prop money"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+whatkindofred,Oder man bekommt halt einfach gar nix.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Oder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gar nix"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+KnightOfSummer,Den Gedanken hatte ich als mir auf Youtube irgendwelche magischen Schwurbel-Armbänder angeboten wurden.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Youtube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""magischen Schwurbel-Armbänder"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Snoop_Lion,Wenn was kommt ist das vielleicht die Kripo aber kein Geld.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Kripo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kackfresse90,Aber ob da wirklich was ankommt und das nicht alles scam ist.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Aber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""scam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Itchy_Toe950,Auch Drogen kein Problem: Du hast in jeder größeren Stadt Telegram-Gruppen wo du einfach Bestellungen aufgeben kannst. Musst einfach mal nach deinem Stadtnamen suchen. Habe ich gehört.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Telegram-Gruppen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+geeiamback,Die Macht verschiebt sich von den Staaten zu den Plattformanbietern wie Amazon Marketplace und Facebook die schwerer direkt verantwortlich gemacht können. Dazu kommt es zu einem Whack-A-Mole - selbst wenn die Plattformen gegen jemanden vorgehen taucht dieser unter neuen Namen erneut auf. Dieser Mittelsmann eröffnet einem die Möglichkeit sich hinter ihm zu verstecken und zB. keine eigenen Server zu betreiben.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amazon Marketplace"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Whack-A-Mole"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Lingonberry-7620,"Da sieht man mal, wie wirksam solche Kontrollen sind.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Kontrollen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hawkshaw1024,"Das Web ist ohne Werbeblocker schlicht nicht mehr zu benutzen. Womit ich konkret Firefox mit uBlock Origin meine, keine von diesen halbgaren Alternativen, die manche Werbung dann doch durchlassen.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Web"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbeblocker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Firefox"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""uBlock Origin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+itsthecoop,"Das finde ich übrigens insbesondere als ""Bonuspapa""/(Paten)Onkel usw. erschreckend.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Bonuspapa"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AtRiskToBeWrong,"Was ist daran komisch? Du akzeptierst keine Werbungspersonalisierung, du blockst jeden Cookie, und übrig bleiben nur Produkte, die entweder an _jeden_ addressiert wären, oder so absurd hohe Marge haben, dass der eine Käufer genug Umsatz einbringt um Werbung für Tausende zu schalten, unter denen der eine Käufer ist.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""keine Werbungspersonalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""jeden Cookie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Produkte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hohe Marge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""eine Käufer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tausende"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+klospulung92,"> Darknet hast du eine sehr hohe Chance nen Scam zu bekommen Bisher dachte ich immer, dass Händler im Darknet etwas wie eine *Reputation* haben. Also wenn man zuverlässig liefert kommt man an mehr Kunden",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Darknet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Händler"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dabrush,"Ich bekomme auch dauernd Werbung für irgendwelche Industrienähmaschinen für 50€, von denen ich weiß dass sie weit jenseits der 1000€ liegen. Ich denke dass man hier eher nichts bekommt, als dass man irgendwas falsches geschickt kriegt. Kann man die Leute dann eventuell noch mit einem Fake Trackinglink ne Zeit lang herhalten und natürlich alles genug verworren machen damit eh niemand weiß wen man hier rechtlich überhaupt angehen kann.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Industrienähmaschinen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""50€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1000€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fake Trackinglink"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Seth0x7DD,"Wäre es eh nicht einfach sich da abzusichern? Irgendwo im Kleingedruckten steht halt Achtung Requisite, Spielzeugartikel oder was auch immer? Aber keine Sorge, andere Unternehmen sind da nicht besser. GoDaddy fand es auch okay eine Domäne zu hosten die in ihrem Namen Kinderpornographie verherrlicht, so lange auf der Domäne selbst keine Kinderpornographie enthält.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""GoDaddy"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kinderpornographie"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+rotsono,"Nachdem ich gesehen habe wie einfach man bei Instagram und Telegram, jegliche Art Drogen oder gefälschte Dokumente wie Impfausweise oder irgendwelche Urkunden, per DHL zugeschickt bekommt, überrascht mich ehrlicherweise nichts mehr wirklich.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Telegram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""DHL"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+gandraw,"Das Geschäftsmodell würde ja schon funktionieren. Irgend ne Druckerei in China/Russland/Nigeria kauft sich für ein mittelgrosses Investment die Ausrüstung um passables Blüten herzustellen. Sobald du die mal hast kannste dann recht einfach grosse Mengen Falschgeld drucken, wirst mit dem lokalen Gesetz aber keine Probleme haben die sich nicht mit ein bisschen Bestechung lösen lassen solange du die eigene Währung nicht fälschst. Aber, du hast keine Möglichkeit die falschen Euros irgendwie an den Markt zu bringen, kannst ja kaum mit einer Kiste druckfrischer 50€ Noten beim Geldwechsler anklopfen. Aber wenn du die Dinger an Kleinkriminelle in Europa für 20% pro Schachtel verkaufst dann haste ein Vertriebsnetz die diese dann im Supermarkt loswerden.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""China"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nigeria"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geschäftsmodell"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Druckerei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xalibr,"Wir sind hier nicht in Amerika. Das wäre Anstiftung zur Straftat, Vortäuschen einer Straftat und was weiss ich..",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amerika"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rhabarberabar,> Honeypots des BKA Nicht möglich nach deutschem Recht.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Honeypots"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BKA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutschem Recht"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Barbar_jinx,Haben wahrscheinlich in Bar mit ihrem eigenen Falschgeld bezahlt.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Haben"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+asapberry,dann hätten sie vmtl auch mehr besucher,2024-04-26,de,de,"[
+      {
+        ""entity"": ""dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vmtl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""besucher"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Excellent-Spell-8943,"Ja, aktuell nervt der Prozess. Solange die Anbieter sich rauswinden können, werden sie jede Möglichkeit nutzen. Das sollte besser werden, wenn das Digitale-Dienste-Gesetz bald aktiv ist. Dann kannst du dich bei Nichtbearbeitung deiner Meldung bei der nationalen Koordinierungsstelle beschweren: [ Ja, es erfordert Aufwand. Aber es funktioniert, ich habe auch schon erfolgreich das NetzDG durchgesetzt, nachdem Meta meine Meldung nicht korrekt bearbeitet hat.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Digitale-Dienste-Gesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nichtbearbeitung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nationale Koordinierungsstelle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NetzDG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Meta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Excellent-Spell-8943,"Die Rückmeldung klingt, als hättest du es nicht richtig gemeldet - es geht nicht darum, ob der Post ""nicht gegen die Richtlinien"" verstößt, sondern um geltende Gesetze. Sollte die Meldung korrekt gewesen sein und du vermutest, dass der Post rechtswidrig ist, solltest du das Verhalten der Plattformen melden: [ [",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Die Rückmeldung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Conscious_Artist9877,Da habe ich vor kurzem eine YT Reportage von Arte gesehen. Also jetzt nicht direkt über das Meldeproblem. Aber es ging um Kinderfotos auf Instagram und das es gar nicht so leicht ist diese löschen zu lassen.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Arte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""YT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Silent-Bob-,> trotz Drittanbieter App Sperre bei Reddit Bevor ich die offizielle App mit Revanced patche erstelle ich mir doch lieber eine der Drittanbieter Apps mit meinem eigenen API Key. Ich habe Infinity und Sync aufm Handy und beide funktionieren ohne Probleme r/AfterVanced/comments/14m3wgo/reddit_apps_for_which_patches_andor_patched/,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Revanced"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""API Key"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Infinity"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sync"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""r/AfterVanced/comments/14m3wgo/reddit_apps_for_which_patches_andor_patched/"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Osmanchilln,"Drittanbieter apps gehen noch ohne probleme wenn man mod ist (mach ne eigene community auf, vll sogar für nen paar freunde, schon bist du mod). Schreibe gerade aus Boost :D",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Drittanbieter apps"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Boost"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+dokimus,ReVanced kann Instagram? Ich wusste bisher nur von Instander,2024-04-26,de,de,"[
+      {
+        ""entity"": ""ReVanced"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instander"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MathMaddam,Aber sie müssten handeln nach Hinweis gemäß NetzDG,2024-04-26,de,de,"[
+      {
+        ""entity"": ""NetzDG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+brotoss,Das was Instagram macht ist doch anbieten.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AbbreviationsWide331,"Ja weils umständlich is und da keine sau bock drauf hat. Sorry, ich hab andere Kommentare von dir gelesen und ich finds toll dass du dich gegen sowas einsetzt, aber das is nunmal die Wahrheit. Wenn sich was außerhalb der app öffnet haste zwei Drittel der Leute die eigentlich was melden wollten schon verloren.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""keine sau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wahrheit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+The-real-Arisen,"Nope, es sieht nur auf Bildern echt aus. So wie das auf dem Bild aussieht werden da wahrscheinlich sogar noch die gleichen ""Falschgeld"" Markierungen drauf sein wie auf den bei Amazon. Guck mal genau hin, kein Schein ist ganz gezeigt und die Mitte (wo diese Markierungen meistens angebracht sind) ist auch immer abgedeckt. Wenn man die bestellt bekommst du einfach überteuertes Spielgeld. Was das ganze nicht besser macht, aber zumindest wird mit dem Geld niemand bezahlen können.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amazon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+andy-online,"Ich habe mir die Produkte bei Amazon gerade mal genauer angeschaut und bin irritiert, wie viel Spielgeld nicht eindeutig als Spielgeld gekennzeichnet ist. Manche Produkte sehen täuschend echt aus und habe auch keinen zusätzlichen Aufdruck mit ""Spielgeld"" oder ähnliches.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amazon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Produkte"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spielgeld"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+_GeekRabbit,"Nicht wirklich. Die Werbung auf IG zielt einfach nur auf Idioten ab, die sich das gleiche Produkt eben auch auf Amazon kaufen könnten anstatt über ""wirklich echtes Falschgeld direkt aus dem Underground Labor der Elitefälscher"". Allein schon das man nirgends einen komplette Schein auf der Werbung sieht sollte doch zu denken geben.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""IG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Idioten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Amazon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Underground Labor der Elitefälscher"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+lillywho,"Die Magie daran ist, dass manche davon radioaktiv sind und dich verstrahlen.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Magie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""radioaktiv"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+EnthusiasmPretend679,"da gibts gut recherchierte Videos auf YT, dass da wirklich falschgeld kommt. hat ja auch eine doku gebraucht damit META missbrauchvideos (inkl handel) mit minderjährigen löscht. aba wehe du willst automatisiert memes runterladen, dann bist weg wie nix.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""YT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""META"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""minderjährigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BastVanRast,Die haben für so Lappalien keine Zeit. Die sind aktuell damit beschäftigt die Entfernung zwischen Kiffern und der nähesten Tischtennisplatte zu vermessen,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Lappalien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kiffern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tischtennisplatte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nochmal-Sachsen,"Die Anzeigen sind sicher nicht von der Kripo, da das kein legales Mittel ist. Wäre Anstiftung zu einer Straftat und somit nicht im Rahmen für die Polizei.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Kripo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Anstiftung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Straftat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nihilistra,"Absolut falsch, das wurde im Bekanntenkreis schon getestet. Qualität der Blüten war einmal solala. Einmal fantastisch.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Bekanntenkreis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Qualität der Blüten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+delop4,"Die Polizei darf nach deutschem Recht keine ""Lockangebote"" erstellen. In Amerika zb. geht das. Hier, keine Chance, die dürfen die Beweise nicht verwerten.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Amerika"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NFT-Changer,Es ist nicht mal illegal falsch Geld zu bestellen und zu besitzen. Erst sobald du es weitergibst machst du dich strafbar. Spreche aus Erfahrung,2024-04-30,de,de,"[
+      {
+        ""entity"": ""nicht mal illegal"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""weitergibst"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erfahrung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+0G_54v1gny,So ist dies auch richtig und wichtig,2024-04-27,de,de,"[
+      {
+        ""entity"": ""So"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""dies"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Janusdarke,"> Die Macht verschiebt sich von den Staaten zu den Plattformanbietern wie Amazon Marketplace und Facebook die schwerer direkt verantwortlich gemacht können. Das sehe ich überhaupt nicht so. Früher war das Internet komplett kleingliedrig zerstückelt, es war fast unmöglich flächendeckend Strafverfolgung durchzusetzen, weil immer gegen einzelne Privatbetreiber prozessiert werden musste. Heute findet fast der gesamte Traffic und das Hosting über wenige Plattformen mit Sitz in der EU oder den USA statt. Aus meiner Sicht war es nie einfacher geltendes Recht durchzusetzen als heute.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amazon Marketplace"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Internet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MOOGGI94,">Die Macht verschiebt sich von den Staaten zu den Plattformanbietern wie Amazon Marketplace und Facebook die schwerer direkt verantwortlich gemacht können Habe manchmal eher umgedreht den Eindruck das, zumindesens EU und einige Gerichte, versuchen weltweit tätige Großkonzerne halbwegs erfolgreich einzuschränken. Vom letzten Jahr erinnere ich mich noch an Fälle gegen Twitch, wo gebannte Streamer gegen Twitch gerichtlich Vorgegangen sind und Recht bekommen haben d.h. Twitch ist es verboten diese Streamer aufgrund ihres Hausrecht zu bannen. Bei Google scheint der Fall zu sein das sie ihre Mapdienste nicht mehr bevorzugt vorschlagen dürfen, eigentlich mit dem Hintergrund das alternativen Sichtbarer sind. YouTube könnte auch Probleme dafür bekommen wie sie Adblocknutzer aufspüren eventuell vor allem wen andere Webbrowser adblocker integrieren. Könnte dann auch dee Vorwurf im Raum stehen das hier versucht wird den eigenen Browser Chrome zu puschen Hintergrund für ein Teil solcher Entscheidungen war wohl immer das diese Dienste als nicht mehr aus der Nutzung imAlltag wegzudenken wären. Würde mich ehrlich gesagt gerade nicht wundern wenn in der EU irgendwann Unternehmen wie Google auch für die Scams verantwortlich gemacht werden die sie über ihr ad Netzwerk vertreiben. Scheint doch recht spannend zurzeit zu sein.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amazon Marketplace"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Twitch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Google"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""YouTube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Chrome"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Google"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tabasco-Discussion92,"Wollte vor kurzem auf Safari umsteigen, wo es uBlock Origin nicht zu geben scheint. Nach wenigen Minuten dann alles wieder rückabgewickelt.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""uBlock Origin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MisturBaiter,adblock hat mich bislang noch nicht enttäuscht. zumindest was penisverlängerung in den shorts angeht.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""adblock"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""penisverlängerung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Raizzor,"Im TV gibt es auch keine Personalisierung und trotzdem sieht man dort nur ""normale"" Werbung.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""TV"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Personalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TruestBoolean,"Das stimmt auf den Marketplaces werden die Händler von den Kunden bewertet. Denen ist natürlich daran gelegen gute Ware zu liefern, um entsprechend bewertet zu werden und somit mehr Kunden anzulocken.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Händler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Ware"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Marketplaces"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AeneasVII,Außerdem landet das Geld meist erst auf einem escrow account und wird erst freigegeben wenn der Käufer sein OK gibt*,2024-04-26,de,de,"[
+      {
+        ""entity"": ""escrow account"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Käufer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Yarasin,"Dafür muss man aber Verbindungen haben bzw. die richtigen Leute/Plätze kennen. Wer ""von außen"" sucht, der landet erstmal nur bei den Scammern.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Verbindungen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""die richtigen Leute/Plätze"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Scammern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nado121,Gibt ne sehr gute Folge von Darknet Diaries zu dem Thema. [ep 102 - Money Maker](,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Darknet Diaries"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Money Maker"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Drumma_XXL,Oder du sparst dir das Equipment und setzt einfach nur ne einigermaßen seriöse Website auf und sammelst die Kohle ein die dir zugeschickt wirst und gehst deiner Wege.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Website"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+c0re_,"> wirst mit dem lokalen Gesetz aber keine Probleme haben die sich nicht mit ein bisschen Bestechung lösen lassen solange du die eigene Währung nicht fälschst. Mit der Bestechung, ok ... aber ich kann bei Banken jegliche Währung eintauschen. Und meine gedruckten Dollar kann ich locker in Nigerianische Pfennige eintauschen. Da schade ich dem eigenen Land wohl noch mehr.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Nigerianische Pfennige"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Banken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BinF_F_Fresh,"War glaube ich mal in einem Simplicissimus Video, ich glaube aber das [hier]( Edit: Ist das richtige Video ab mitte/ende Kapitel 2 wird davon erwähnt",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Simplicissimus Video"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Edit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kapitel 2"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zlatanisiert,Stimmt nicht. Hansa market wurde zum honeypot durch ne cooperation verschiedener Länder in der eu und usa. Deutschland hat da eine wichtige Rolle gespielt. Hab ich gehört…,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Hansa market"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+1610925286,"Nein, die bloße Möglichkeit ist keine Anstiftung und honey pots kommen immer wieder zum Einsatz. Schwer zu begreifen, aber keiner muss CP runterladen oder Falschgeld kaufen.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""honey pots"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Droideater,Frag mich nur wer so dumm ist das Zeug zu kaufen.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Frag"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeug"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"

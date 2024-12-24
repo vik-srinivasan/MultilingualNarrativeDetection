@@ -1,0 +1,4211 @@
+author,text,timestamp,subreddit,language,gpt_output
+Wildfox1177,"Horst Lichter, der Schrecken der Polarlichter.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Horst Lichter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polarlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SanktusAngus,"Ich hocke hier auch in München…. Dachte zuerst auch heute ist die Lichtverschmutzung aber wieder rötlicher als sonst… Dann lese ich hier, dass es Polarlichter gibt. Mache eine Langzeitbelichtung mit der Kamera und schwupps siehts aus wie bei OP… Ich kann nur sagen, mit dem bloßen Auge, hier in der Stadt, würde man nicht drauf kommen, dass es sich um Polarlichter handelt.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""München"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lichtverschmutzung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Polarlichter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Langzeitbelichtung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kamera"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""OP"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bloßen Auge"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polarlichter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ViaSubMids,Bin auch Team Lichtverschmutzung hier in Aachen.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Team Lichtverschmutzung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aachen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+youRFate,Hab in München vorhin dieses Foto gemacht:,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Hab"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""München"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+brandmeist3r,"Freiburg hier, sehe auch nichts, aber ein wenig auf der Kamera zumindest.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Freiburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kamera"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Redditor_345,In München waren sie mit bloßem Auge sichtbar. Gegen 22:20 und 00:45,2024-05-10,de,de,"[
+      {
+        ""entity"": ""München"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""22:20"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""00:45"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xrayproudly,Bin auch extra vom Rhein Main Gebiet nach RLP rein gefahren. Bei Bad Kreuznach war der ganze Himmel mit bloßem Auge mit roten Schleiern durchzogen,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Rhein Main Gebiet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""RLP"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bad Kreuznach"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+effervescentEscapade,Kannst du vllt eins hochladen mit Imgur oder so?,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Kannst du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Imgur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DaveMash,Wtf nice! Bin in Wesseling und sehe nix. Hab aber auch leider Shell und co. die hier alles erhellen,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Wesseling"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Shell"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vlexz,Soll es in 1-3 Stunden in Köln/Bonn nochmal zu sehen sein?,2024-05-11,de,de,"[
+      {
+        ""entity"": ""1-3 Stunden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Köln/Bonn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jangxx,"Hatte bei mir vom Balkon hochgeguckt und nichts gesehen. Ich wohne aber auch ziemlich zentral mit Lichtern überall, also war nicht überraschend.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Balkon"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lichtern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skodakenner,Sehen tu ich sie nur über das Handy aber da recht gut bin in der Oberpfalz,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Oberpfalz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sarah-M-S,In Ober Schwaben ist leider nichts zu sehen,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ober Schwaben"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+inkbluegirl,"Gib nicht auf! Hab sie grade gesehen, von Saargemünd (Frankreich) aus",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Gib"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Saargemünd"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frankreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Redditor_345,In Finnland wars gestern häufig bewölkt oder zu hell (Lappland).,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Finnland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lappland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,Die Beamer werden immer mal schwächer und wieder stärker.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Beamer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ScreamingSwifts,"Einfach mal weiter beobachten, so gegen 23:30 Uhr sollte der nächste Schub laut [Vorhersage]( kommen.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""23:30 Uhr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vorhersage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cerulean-Moon,"Same, hätte ich auch nie gedacht. Sehr special!",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Same"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sehr special"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+CoolColaCat,"Das erste Mal, dass ich überhaupt Polarlichter sehe - und ausgerechnet heute Früh hab ich gedacht, dass das noch auf meiner Bucket List steht :-D",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Polarlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""heute Früh"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Gerade ist auch sehr schwach geworden, vielleicht kommt es nochmal wieder, bis 1 ist wohl noch top Zeit",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Gerade"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kukuxupunku,"Ok, das leicht grün helle was ich für Nebel gehalten habe wurde auf einmal teilweise dunkler, dann wieder hell, mal hier mal dort, immer halbhoch am Himmel Richtung Norden. Nicht so intensiv wie auf den Foros hier, und auch ohne trennscharfe Konturen, aber auf jeden Fall kein Nebel der da leuchtet sondern wahrscheinlich Teile der Nordlichter.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Nordlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Norden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bucht91U,Im Raum Hannover gibts einen leichten Lichtstreifen am Himmel,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Raum Hannover"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lichtstreifen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobias_681,"Ich bin auch in Flensburg und gerade eben war sternenklarer Himmel und [ganz eindeutig Nordlichter]( Mit dem bloßen Auge sehen Nordlichter häufig so aus wie helle Wolken, allerdings machen sie Formationen, die für Wolken sehr ungewöhnlich wären (was ich häufig beobachtet habe ist ein dünner weißer Strich, der sich einmal quer über den Horizont zieht, wenn man sowas sieht, sind das sehr wahrscheinlich Nordlichter). Mit der Kamera habe ich sowohl Grün, Blau, Violet, Lila und Rot gesehen. Hatte leider weder gutes Objektiv, noch Stativ hier.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Flensburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nordlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+abmys,Zwischen Flughafen und Großstadt habe ich auch nichts erwartet,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Flughafen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Großstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CoolColaCat,Selbst in München war's mit Kamera erkennbar,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Selbst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""München"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RoodleG,Von wo hast du geguckt? Bin in Beuel und gerade am überlegen ob es sich lohnt einen kleinen Spaziergang zum Rhein zu machen :),2024-05-10,de,de,"[
+      {
+        ""entity"": ""Beuel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rhein"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Consideration9520,Bonn Holzler und ich sehe hier nichts davon :gesicht_mit_freudentränen:,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bonn Holzler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kanegou,Hat nix mit moderner Kameratechnik zu tun. Ist nur eine frage der Belichtungszeit.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Belichtungszeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ketchup92,"Bleib länger draußen und gucke nichr ins Handy zwischendurch, dann siehst du das auch.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bleib"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Handy"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ueberklaus,meinst du die Nordlichter?,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Nordlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nemprox,"Same in Oldenburg, alles bewölkt. Schade!",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Oldenburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MrGammelobst,"Evtl zu spät, es ist gerade abgeflaut. Könnte heute Nacht aber nochmal hochkommen, die Chancen stehen wohl noch ganz gut bei den Sonnenwinden, die uns gerade treffen",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Evtl"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heute Nacht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonnenwinden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dr-schnitzelbob,Doch. 10/halb 11 war zumindest in MS Nord ein leicht rötlicher Nachtschimmer zu erkennen.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""MS Nord"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Doch"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bored_german,"Sorry, die gabs hier auch. Mach dir nichts drauß, ich hab sie auch verpasst. Ich wusste nur, dass sie hier angekommen sind, weil Freundinnen Fotos geschickt haben",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Freundinnen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+theShadow666,Stimmt doch gar nicht. Bei uns im Siegerland gab es rote und grüne Polarlichter. Selbst jetzt aktuell um 00:40 Uhr kann man im dunklen noch rote Lichter erkennen.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Siegerland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""00:40 Uhr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobias_681,"Fahr mit dem Rad bisschen raus oder evtl. S-Bahn. Du must nicht unbedingt weit raus (außer vielleicht im Pott oder in ner Millionenstadt, das könnte dann schwierig werden). Ich bin hier in der Vorstadt und war alles sehr gut sichtbar. Allerdings mit dem bloßen Auge keine Farben zu erkennen (nur weißes Leuchten), mit der Kamera dann mehr oder weniger das ganze Spektrum.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Pott"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Millionenstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vorstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Valennnnnnnnnnnnnnnn,"Du kannst versuchen ein Foto mit langer Belichtungszeit zu machen, dann kann man es vielleicht leichter erkennen. Aber das effektivste ist, so weit wie möglich aus der Stadt raus zu kommen und am besten richtung Norden, damit man die Lichtverschmutzung hinter sich lässt.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Stadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Eventide95,Dann kann man sich auch über Instagram benachrichtigen lassen oder Updates über Facebook verfolgen. Ist eine tolle Seite.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Wenn du in der Mine gut voran gekommen bist, wars worth",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Mine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MrGammelobst,"Die Wahrscheinlichkeit steigt gerade wieder etwas, aber ist nicht zu vergleichen mit gestern. Das Zeitfenster ist nicht genau vorherzusagen. Du kannst einfach zwischendurch mal nach Norden gucken und nach rotem Licht Ausschau halten :grinsendes_gesicht_mit_lachenden_augen:",2024-05-11,de,de,"[
+      {
+        ""entity"": ""gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Oh ja, Wahrscheinlichkeit ist gerade nach oben geknallt. Evtl mal ein Foto Richtung Norden machen, vllt ist es zumindest fotografisch sichtbar",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Wahrscheinlichkeit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Keine Sorge, ich warte jetzt seit 5 Jahren drauf und beobachte die Sonnenaktivitäten. So oft wird das erstmal nicht mehr passieren. Statistisch noch maximal 2 mal diesen Zyklus, also 2 mal innerhalb des nächstes Jahres für die nächsten 11 Jahre. Und diese 2 Male werden dann wahrscheinlich wieder einmal von Wolken oder Tageslicht gestört werden :p",2024-05-11,de,de,"[
+      {
+        ""entity"": ""5 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonnenaktivitäten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 mal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zyklus"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nächstes Jahres"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""11 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wolken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tageslicht"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+g-m-f,Yoo wie cool! Da bin ich einmal im Urlaub und dann kommen bei uns Zuhause die Polarlichter -.-,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Yoo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Urlaub"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zuhause"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polarlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+benutzername1337,Die Prognosen sind auf für die kommende Nacht gut.,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Die Prognosen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kommende Nacht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ekin06,"Zuletzt war die Sonne wieder sehr aktiv und es gab einige große Flares (Größe X). Wenn die Richtung stimmt, sehen wir auch heute Nacht wieder Polarlichter. Sofern keine Wolke im Weg ist... aber auch dann kann man die Lichter wahrnehmen und auch mit der Kamera einen roten Schimmer einfangen.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Sonne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Flares"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Richtung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polarlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wolke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kamera"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""roten Schimmer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Milimee,Eher unwahrscheinlich. Mit viel Glück eventuell.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Eher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""unwahrscheinlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""viel Glück"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""eventuell"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+backyardserenade,"Wann es los geht, hängt immer direkt davon ab, wann die Partikel des Sonnenwindes und der Massenauswürfe der Sonne auf die Erde treffen. Das lässt sich nicht präzise vorhersagen, weil da viele Faktoren reinspielen. Ein dunkler Himmel ohne Lichtverschmutzung erhöht die Chance etwas zu sehen. Um Mitternacht (so ca. 0-2 Uhr) ist der Himmel bei uns zurzeit am dunkelsten. Und der Blick in Norden sollte in der Regel frei sein. Eigentlich sind Polarlichter bei uns vor allem sehr niedrig am nördlichen Horizont zu sehen. Bei dem G5-Sturm heute Nacht waren die Polarlichter zeitweise allerdings direkt über Deutschland und konnten von mittleren Breiten selbst in Richtung Süden gesehen werden. Und das mit Strukturen und leichter Färbung. Ob sich das so eindrucksvoll wiederholt lässt sich nicht sagen. Die Chancen stehen trotzdem gut, heute Nacht nochmal ein wenig Polarlicht zu sehen.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Sonnenwindes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Massenauswürfe der Sonne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erde"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mitternacht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polarlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mittleren Breiten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Strukturen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Chancen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Valla_Shades,In altena seh ich nix,2024-05-10,de,de,"[
+      {
+        ""entity"": ""altena"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Electronic-Elk-1725,"Ja allerdings wahr, in sonem Ballungsgebiet ist nicht viel mit Sternenhimmel.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ballungsgebiet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DirkDayZSA,"Stern gibts hier nur in der 0,5 l Flasche",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Stern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""0,5 l Flasche"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Electronic-Elk-1725,Brille ist sauber :P,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Brille"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""sauber"",
+        ""entity_type"": ""neutral"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Klimpatz,Den gibt es hier schon jahrelang nicht mehr..,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Den"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+piTTi1988,"Funny, funny. Deutscher Humor 10/10. In C war es übrigens zu sehen.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Deutscher Humor"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""C"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Electronic-Elk-1725,Bei mir ist alles schwarz so wie immer :schulterzuckende_person:,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bei mir"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schwarz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Redditor_345,"Die Aurora Apps bringen garnix. Die geben nur die NOAA Wahrscheinlichkeit an. Ob gerade etwas da ist, sieht man nur auf der FMI Seite:",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Aurora Apps"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""NOAA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FMI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Spacelord_Moses,Gibt schlimmeres als irgendwo im nirgendwo mit guten Freunden zu sein,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Gibt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schlimmeres"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""irgendwo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nirgendwo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""guten Freunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AndiNovaOfficial,"Oh wow, habe leider keine Kamera hier - lediglich mein Smartphone. Hast Du zufällig ein Bild? :) Entweder täusche ich mich oder ich kann hier gaaaanz leichtes, minimales Grün wahrnehmen.. Wahrscheinlich aber eher eine Ampel o.ä.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""keine Kamera"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Smartphone"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bild"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grün"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Ampel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"> heute ist die Lichtverschmutzung aber wieder rötlicher als sonst Ne, so funktioniert das nicht.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lichtverschmutzung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+the_harakiwi,wow. nur 50km weiter südlich und hier sieht man nix.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""50km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""südlich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Eumelbeumel,Wie machst du das mit dem Handy. Über die Kamera?,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Handy"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kamera"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Blondisgift,Es ist 23:30. in meiner Ecke nix. Wolken,2024-05-10,de,de,"[
+      {
+        ""entity"": ""23:30"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""meiner Ecke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wolken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rezku__,wann meinst du kommt der nächste peak?,2024-05-10,de,de,"[
+      {
+        ""entity"": ""nächste peak"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kukuxupunku,"Hab das Gefühl was ich da sehe ist der Nebel über der Elbaue der leicht grün vom Mond angeleuchtet wird. Vorhin kam es mir diffus rötlich vor, aber das hätte auch Einbildung sein können. Muss jetzt schlafen :/",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Nebel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elbaue"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mond"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sinalk,wie stark ist die Lichtverschmutzung?,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Lichtverschmutzung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sinalk,"Bonner Nordwesten Edit: vom Rhein könntest du was sehen, aber die Lichtverschmutzung ist echt hoch und man sieht gerade so ein rotes schimmern.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bonner Nordwesten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rhein"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lichtverschmutzung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rotes schimmern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+P26601,Bin mir ziemlich sicher dass die Sensorgröße bei modernen/flagship Handys auch ne wichtige Rolle spielt,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Sensorgröße"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tollpatsch,Deswegen ist er halt nur ok.,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Deswegen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrChrisis,Ach verdammt. Wiedermal zu spät mitbekommen…,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ach"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wiedermal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Xizz3l,"Bin in Essen, da sehe ich garnichts mehr :(",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Essen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CoolColaCat,"Ah, sehr cool, danke dir!",2024-05-11,de,de,"[
+      {
+        ""entity"": ""sehr cool"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Goldfischglas,Klingt ja vielversprechend. Wo nimmst du die Wahrscheinlichkeiten her?,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Klingt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahrscheinlichkeiten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Stendal auch, Nord und Ostsee auch",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Stendal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nord"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ostsee"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+z3lop,Alter und ich fahre in die Heimat heute.....,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Alter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heimat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheLuigiplayer,"Komme auch aus dem Braunschweiger Land, hier ist aber gar nichts zu sehen =/",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Braunschweiger Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OkTechnology972,Aber heute Abend schon noch mal?? Oder? ODER??,2024-05-11,de,de,"[
+      {
+        ""entity"": ""heute Abend"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dragon_957,"Ich habe die verschlafen, mist",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""verschlafen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+cat_police_officer,Kriegt man das auch mit einer Spiegelreflexkamera hin?,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Kriegt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spiegelreflexkamera"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Gastredner,"In der Nähe von Neheim habe ich gerade etwa eine halbe Stunde lang mit dem Nachtfoto-Modus meines Handys experimentiert. Edit: mit bloßem Auge waren die roten Bereiche sehr unscharf zu erkennen, alle anderen Farben, wenn überhaupt, nur als leicht hellere, diffuse Streifen vor dem Nachthimmel.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Neheim"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine halbe Stunde"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pharaun22,"Echt schade, dann noch mit der Burg im Vordergrund :überwältigt:",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Burg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NovaHorizon,Die Nette wieder wie vor den Flutschäden?,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Die Nette"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Flutschäden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Seth0x7DD,"Ja, es ist definitiv das Ballungsgebiet und nicht die Laterne direkt vor meinem Fenster. \*zustimmend nick\*",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ballungsgebiet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Laterne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fenster"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CorrSurfer,"Keine Angst, die Sprüche diesbezüglich bleiben euch noch ein paar Jahrzehnte erhalten.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Keine Angst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ein paar Jahrzehnte"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+contemood,Kann ich nicht. Ich C++ hatte ich es zumindest lesen können. :/,2024-05-10,de,de,"[
+      {
+        ""entity"": ""C++"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+luki-x,Der Link is voller Text. Da steht gar nix nützliches auf der Seite. Aurora App goes brrrrr,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Aurora App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SanktusAngus,Je nach Belichtung/ISO sind die Farben intensiver:,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Belichtung/ISO"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Farben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ghosty141,Ne das dürfte es schon sein. Ist so ein minimaler rot/grünstich,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rot/grünstich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CoolColaCat,Nachtmodus beim Smartphone funktioniert auch,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Nachtmodus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Smartphone"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ghosty141,So wie auf dem Bild siehts nur mit Kamera aus. Mit den Augen ists nur ein leichter rot-Stich,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kamera"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Augen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rot-Stich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Skodakenner,Ja mein Handy hatt einen Nachtmodus für Bilder wo es die Schließgeschwindigkeit der Linse verlangsamt,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Handy"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nachtmodus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bilder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ScreamingSwifts,"Auch ohne Wolken ist noch nichts visuell zu erkennen. Aber zugegeben, ich hätte wohl noch das Wörtchen ""möglicherweise"" in meinen vorherigen Kommentar einfügen sollen.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Auch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wolken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""möglicherweise"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schootingstarr,"Ach Mann, hier ist auch alles zu",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ach Mann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+satanfan12,"Grad eben war einer, Bayern",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Grad"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RoodleG,"Danke für die Info! Edit: Bin vor ner Stunde nochmal los und auf ein Feld gelatscht. Man konnte die Färbung nur absolut minimal erkennen, war mit Kamera dann aber etwas deutlicher, wobei sie selbst damit eher schwach ausgefallen ist. Trotzdem eine schöne Erfahrung! :)",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Edit"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine Stunde"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Feld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kamera"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schöne Erfahrung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kanegou,In wie fern sollte die Sensorgröße bei einer Langzeit Nachtaufnahme eine rolle spielen? Du hast ein bisschen weniger rauschen. Mehr nicht.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Sensorgröße"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Langzeit Nachtaufnahme"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Faron93,Bei Lüdinghausen wurde es gegen 00:15 Uhr plötzlich für Nachtverhältnisse sehr hell bevor die 2. Runde des Abends begonnen hat.,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Bei Lüdinghausen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""00:15 Uhr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2. Runde des Abends"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobias_681,Ich denke Ruhrpott ist leider auch besonders unglücklich für sowas :/,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ruhrpott"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MrGammelobst,"Einfachste Übersicht ist mMn Polarlichtvorhersage.de, lohnt sich da einfach alle 5 Minuten mal zu aktualisieren heute Nacht so lange du Bock hast :lächelndes_gesicht_mit_lachenden_augen:",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Polarlichtvorhersage.de"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""heute Nacht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Ist/war wohl bis in die Schweiz zu sehen. Gerade aber schwächer, könnte aber die ganze Nacht nochmal hoch und runter gehen mit der Aktivität.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nacht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Eventuell, aber ist nicht sicher.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Eventuell"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheNeronimo,Heute Abend wohl wieder,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Heute Abend"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ekin06,"Klar. Nimmst ein Lichtstarkes Weitwinkelobjektiv (wenn möglich f1.4-f4, stellst ein ISO 6400 oder 3200 und 2-3 Sekunden Belichtung. Dann kannst das sehr gut sehen. Ich kann auch Zeitrafferaufnahme sehr empfehlen. Edit: Achso und natürlich auf Stativ oder festen Untergrund.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""ISO 6400"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3200"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2-3 Sekunden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+murmeldin_,Bin in Berlin und hier ist nichts los :nachdenkliches_gesicht:,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Bin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Berlin"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Valla_Shades,Du kennst dich aus :umgekehrtes_gesicht:,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Redditor_345,Für so ne Antwort sollte ich dir eigentlich gar nicht helfen. Versuchs gern weiter mit deiner App. Ich hab 6 Monate in Finnland gelebt. Für alle anderen: Die Messstationen sind am Ende der Seite.,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Finnland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6 Monate"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+the_harakiwi,oh okay. Ich meine der Himmel ist ein wenig farbiger als sonst. Hab ich mir also nicht eingebildet. Ist leider nicht besonders dunkel hier im Ort (und die Nachbarn sind wohl Schichtdienst weil bei denen immer das Licht brennt. Nachts bis früh morgens). Leider genau in unseren Garten und meine Fenster. Vor dem Haus brennt die Straßenlaterne. Wenn's morgen / heute Nacht wieder so wenig Wolken hat zieh ich mich mal warm an und schau was man sehen kann. Kommt ja nicht so häufig vor.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ort"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nachbarn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Garten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fenster"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straßenlaterne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""morgen / heute Nacht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+youRFate,"War schon ein ordentlicher rot-sticht, das Bild war einfach nur mit dem iphone.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""iphone"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Eumelbeumel,"Oh, Danke, das muss ich mal probieren. Sitzen bei Regensburg, vermutlich ist grade zu viel Streulicht",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Regensburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rezku__,Wo genau siehst du das? Aal forecast? Sehe das gerade nur zufällig - wann ist der nächste? 2?,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Aal forecast"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nächste"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+HistoricalInstance,"Bei Polarlichtern kannst du doch nicht beliebig lange Belichtungszeiten wählen, sondern bist meist auf 2-15 Sekunden beschränkt, da ist dann die Sensorgröße (neben der ganzen Optik selbstverständlich) doch wichtig. Hab mit ner a7cii mit modernem Vollformat-BSI Sensor geschossen. Die Qualität ist um Welten besser als die ganzen Smartphone Fotos hier, und das obwohl ich keine besonders exotische Linse verwendet habe.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Polarlichtern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2-15 Sekunden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sensorgröße"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""a7cii"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vollformat-BSI Sensor"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Smartphone Fotos"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Spiritual_Complex_44,Gibst ein neues Update ?,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Gibst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""neues Update"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OkTechnology972,Any News? Wird dunkel langsam,2024-05-11,de,de,"[
+      {
+        ""entity"": ""News"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dunkel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""langsam"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CricketDazzling7123,Wirklich...? Ich will die unbedingt sehen und hab fast geheult als ich gehört hab dass ich sie verpasst hab....,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""die"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Forsaken_Concern_705,Waren in Berlin voll gut und lange (mit bloßem Auge) zu sehen.,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Waren"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Berlin"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+luki-x,Lass dich ned ärgern. Aber klugscheißer mag halt keiner. Die App is voll okay. Deine Seite wahrscheinlich auch. Aber sie is halt unverständlich für jeden der zum ersten mal Nordlichter sieht.,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Lass"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Seite"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nordlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skodakenner,Hey ein fast Nachbar! Habb meine Bilder von Maxhütte-Haidhof aus gemacht da ist noch nicht so viel streulicht aber sie nehmen auch allgemein von der Intensität schon wieder ab ist mir aufgefallen,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Maxhütte-Haidhof"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Intensität"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+fl3rian,So gegen 11 hat man die hier mit bloßem Auge gesehen,2024-05-10,de,de,"[
+      {
+        ""entity"": ""11"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+satanfan12,"Ich war pinkeln und hab zufällig rechtzeitig aus dem Fenster geschaut wenn ich ehrlich bin. Vorhersagen konnte ich nicht wirklich welche finden, auf mich wirkt das ganze recht zufällig",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fenster"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Also ich sehe die ganze Zeit nix :grinsendes_gesicht_mit_lachenden_augen: Vielleicht so halb 11 rum wirkte der Himmel etwas rötlich, aber das könnte auch Wunschdenken gewesen sein",2024-05-11,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Himmel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""halb 11"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wunschdenken"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Aktivität kackt seit 18 Uhr immer weiter ab, wenn überhaupt dann vllt nur fotografisch mit langer Belichtungszeit, so ab 22 Uhr. Aber vielleicht geht's auch nochmal nach oben, hoffen und warten denke ich :p",2024-05-11,de,de,"[
+      {
+        ""entity"": ""18 Uhr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""22 Uhr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Oh ja, Wahrscheinlichkeit ist gerade nach oben geknallt. Evtl mal ein Foto Richtung Norden machen, vllt ist es zumindest fotografisch sichtbar",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Wahrscheinlichkeit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+anxietyblakes,Ich hab auch nichts gesehen :enttäuschtes_gesicht:,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Redditor_345,"Da ist ziemlich leicht verständlich erklärt wie das funktioniert und ob man sie sehen kann. Du hast den Text wohl eher nicht gelesen. Die App mag zwar schöne bunte Balken haben, ist aber überhaupt nicht aussagekräftig. Wenn man keine anderen Meinungen abkan dann darf man nix online posten.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Meinungen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Eumelbeumel,"Ha, wirklich fast, wir hocken in Lappersdorf, hey Nachbara Bisher seh ich nix, aber ich probier jetzt noch rum. Danke auf jeden Fall!",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Lappersdorf"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Eumelbeumel,"Gerade auch wieder für ne ganze Stunde. Für Fotos ist mein Handy zu alt, scheißegal. War wunderschön. Leg mich jetzt noch ne Stunde auf die Lauer",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Handy"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine Stunde"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OkTechnology972,Hast du ne quelle wo man gucken kann?,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Hast"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""quelle"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+luki-x,"Die App schickt mir eine Notification wenn Polarlichter an meinem Standort sichtbar sind. Gestern hats *bing* gemacht. Dann schau ich raus...und sehe Polarlichter. It just works. Da brauch ich nix lesen, nix ausrechnen. Man muss ned aus allem eine Raketenwissenschaft machen wenns keine ist.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Polarlichter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skodakenner,Kein Problem! Hab auch ne weile gebraucht bis ich die Kamera richtig eingestellt habe das man auch was sieht,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Kein Problem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kamera"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGammelobst,"Polarlichtvorhersage.de hat mMn die einfachsten Grafiken und schnellsten Überblick. Die Wahrscheinlichkeit steigt gerade wieder etwas, ist aber nicht zu vergleichen mit gestern.",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Polarlichtvorhersage.de"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Madisonbecau,Welche App verwendest du?,2024-05-11,de,de,"[
+      {
+        ""entity"": ""App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+moffhoff,Pläne und Bausatz zum Selberbauen....,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Pläne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DetectiveDick123,"Dann braucht man nur noch ein Grundstück, Leute die das ganze Material transportieren, zusammenbauen und dir sämtliche Zu- und Ableitungen verlegen. Nur der Preis für Baumaterial ist ja langweilig.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Material"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Preis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Baumaterial"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DER_WENDEHALS,"Das sind ja Preise ""zum Selber bauen"". Hat jemand ungefähr eine Vorstellung, wie hoch die Preise inkl. Handwerker gewesen wären?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Handwerker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrRowodyn,"Ironischerweise sind das genau die Häuser, die heute als hässliche (bestenfalls Asbesthaltige) Altbauten gelten.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Ironischerweise"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Häuser"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Asbesthaltige"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Viertelesschlotzer,Man sollte bedenken das 1970 das durchschnittliche Jahresgehalt ca. 13.500 DM betrug. Was heutzutage ungefähr 55.000 Euro entspricht.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""13.500 DM"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""55.000 Euro"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+carlinhush,"Könnte auch ein Bildband unseres Viertels sein, ich erkenne da mehrere Häuser wieder, die ziemlich genau so hier in den Nebenstraßen stehen. Bei der BKM hatten meine Eltern mir meinen ersten Bausparvertrag eingerichtet. Meine Mutter ü80 zahlt dort immer noch monatlich ein",2024-05-12,de,de,"[
+      {
+        ""entity"": ""BKM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""meinen ersten Bausparvertrag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""meine Eltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meine Mutter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ü80"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lucimon97,"Naja, wie schon von anderen erwähnt eine ziemlich Milchmädchenrechnung. Wenn ich das Grundstück, Steuern und Arbeitszeit der ganzen Bauarbeiter rausrechne, dann wird ein Haus natürlich schnell erschwinglich. Wenn man denn in einem Ikea Haus leben möchte.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Ikea"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+juleztb,"330% inflation seit dem. Dann ist das ein Bausatz den man selbst bauen muss und ohne Grund. Dazu die Qualität von damals und dem was man heute an Anspruch hat (bessere Isolation, Heizung, Sonst. Technik). Das alles betrachtet sind die Häuser nicht günstiger als heute sondern sogar eher teurer.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""330%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bausatz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Qualität"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""damals"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Häuser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""teurer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+EggplantCapital9519,"Meine Großeltern haben auch komplett selbst gebaut… aus Erzählungen weiß ich noch: jeden Samstag nach(!) der Arbeit und Sonntag -> Baustelle, Feiertag -> Baustelle, Brückentage -> Baustelle, Urlaub -> Baustelle… und das für drei Jahre… da steckt dann schon einiges drin.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Meine Großeltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Erzählungen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Samstag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonntag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Feiertag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brückentage"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Urlaub"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""drei Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+carlosdevoti,"Ich hab den Eilgutschein ausgedruckt, ausgefüllt und abgeschickt. Warte nun gespannt auf Infomaterial zu meinem neuen Billigheim. Gez. -Billigheimer-",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Eilgutschein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Billigheim"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Billigheimer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sdkfz_aBo,Das ist eben der unterschied. Heute werden die Preise der Fertighäuser kritisiert. Früher wurden diese mit der Familie selbst gebaut. Das geht heute noch genau so wie früher. Auf dem Land immer noch zu sehen. Die meisten Leute können es einfach handwerklich gar nicht mehr umsetzen bzw kennen gar keinen mehr der einzelne Gewerke im Freundeskreis abdeckt.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fertighäuser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Früher"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""handwerklich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gewerke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freundeskreis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Krulle86,Ganz davon abgesehen das die Zinsen damals (glaube ich) zweistellig waren....,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Zinsen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+stefanwoe,"Diese Preise sind Unsinn. Das Reihenhaus meiner Eltern hat ca.1969 150,000. DMark gekostet. Es wird hier um Bausätze gehen. Steht ja auch dabei. Material ohne Baugrund. Irreführend.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Reihenhaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1969"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""150,000"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""DMark"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bausätze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Material"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baugrund"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Previous_Bobcat_6628,"Und heute wird das selbe für 1,5.mio wieder verkauft, in sanierungsbedürftig und mit Asbest Dach",2024-05-12,de,de,"[
+      {
+        ""entity"": ""1,5.mio"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Asbest Dach"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+QuastQuan,"Bausatz. Klingt ein bisschen nach _Faller,_ Lackdöschen und klebrigen Fingern ;)",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Faller"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+krusenrott,"Toll, da kauft man nur das Material. Und?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Toll"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TenshiS,"Durchschnittliches Jahresgehalt: 1. 1970: 13.500 DM (ca. 6.900 €) 2. 2020: 55.000 € Verhältnis Hauspreis zu Jahresgehalt 1970: 40.000 / 6.900 ≈ 5,80 Verhältnis Hauspreis zu Jahresgehalt 2020: 400.000 / 55.000 ≈ 7,27",2024-05-13,de,de,"[
+      {
+        ""entity"": ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""13.500 DM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6.900 €"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2020"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""55.000 €"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hauspreis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verhältnis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""400.000"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5,80"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""7,27"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ProfessorPlingus,"Inflationsbereinigt kommt man hier auf Pre-Covid Preise. Habe das mal durch den Rechner gehauen und komme für das Haus in der Mitte (26.068) mit Grundstück 800qm (Durchschnittspreis von 1970 genommen) nur für Baumaterial und Grundstück auf 170.000 €. Baunebenkosten, Bauarbeiten dürften dich bei 320-400.000 € landen lassen. Wo bitte ist das günstig?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Pre-Covid Preise"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus in der Mitte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück 800qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baumaterial"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baunebenkosten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bauarbeiten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+slightlydispensable2,Finde die teuersten K 890 und S 970 sehen für heutige Maßstäbe immer noch modern aus.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""K 890"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""S 970"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heutige Maßstäbe"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Captain_Gestan,Timemachine needed. Aber wer tauscht mir 1970 meine Euros in Deutschmark?,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Timemachine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Euros"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschmark"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lenzielenz,"Lassen gerade ein Haus von 1974 abreißen, natürlich voll mit Asbest. Das ist teurer als damals das Haus gekostet hat",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Lassen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1974"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Asbest"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+LOB90,"Es wundert mich, dass sie immer wieder Bausatz + Baupläne schreiben anstatt das einfac einmal drunter zu schreiben und bei den Bildern anzugeben, wieviele Zimmer und Bäder so ein Haus hat.",2024-05-14,de,de,"[
+      {
+        ""entity"": ""Bausatz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baupläne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dapansen,"Naja... für den Preis bekommt man den Bauplan und das Material. Was nicht drin ist, sind die Kosten fürs Grundstück und den Aufbau.",2024-05-14,de,de,"[
+      {
+        ""entity"": ""Bauplan"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Material"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aufbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kuhandfriends,"Das ist ein Bausatz, der noch mit Beton ausgegossen werden muss",2024-05-14,de,de,"[
+      {
+        ""entity"": ""Bausatz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Beton"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hypfer,Würdest du denn wirklich heutzutage in einer solchen Hütte wohnen wollen? So mit 1-fach verglasten Fenstern und auch sonst dem Standard dieser Zeit?,2024-05-12,de,de,"[
+      {
+        ""entity"": ""heutzutage"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einer solchen Hütte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1-fach verglasten Fenstern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Standard dieser Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+University_Dismal,So viel zahlt man heute für einen Bausatz aus Lego.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Lego"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TimTimmaeh,Und was war der durchschnittliche Lohn 1970?,2024-05-12,de,de,"[
+      {
+        ""entity"": ""durchschnittliche Lohn"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Outrageous_Duty4608,"Was ich nie verstanden habe, ist (und ich wäre wirklich sehr dankbar für eine Erklärung), warum das Bauen von Häusern in den letzten 50 Jahren nicht sehr viel billiger geworden ist? (Grundstückspreise außen vor gelassen). Es müssten doch alle Maschinen, Verfahrensweisen, Materialproduktion und evtl auch Beschaffung in 50 Jahren signifikant verbessert worden sein. Auch die Reallöhne sind seit 1991 frecherweise nur um 13% gestiegen. Ich wäre wirklich dankbar für eine Arbeit. (Denn ich würde naiv in etwa erwarten, dass man eine schöne 50qm Wohnung mittlerweile für 30.000 Euro bauen können sollte, ohne Grundstückskosten.)",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Maschinen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verfahrensweisen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Materialproduktion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Beschaffung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reallöhne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1991"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""50qm Wohnung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30.000 Euro"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+german_poopiehead,„bis zu 30 000 als baukosten sparen“:totenkopf::totenkopf::totenkopf::totenkopf:,2024-05-12,de,de,"[
+      {
+        ""entity"": ""30 000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+matthewkickstone,"1x alle, zum Einpacken, ich zahle bar.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""1x"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""alle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Einpacken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+me_who_else_,Baugrundstücke waren damals echt preiswert und kein wirkliches Thema. Die 80000-100000 DM für ein komplettes Haus aber schon.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Baugrundstücke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80000-100000 DM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+YouAreAConductor,"Der größte Preistreiber bleibt immer noch in den meisten Gegenden der Boden. Hier in der Kleinstadt sind wir jetzt bei etwa 1200 € pro qm, als ein Großteil der Wohnstadt in den 60ern gebaut wurde waren das 30 Mark. Das erklärt im übrigen auch etwas den Furor über die Grundsteuerreform, die Leute die hier Grund besitzen haben überhaupt keine Vorstellung dessen, was der wert ist.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Boden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kleinstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wohnstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""60ern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundsteuerreform"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Racoonie,"Naja, ist halt Inflation und einiges anderes. Hab neulich auch eine Spiegel Doku zum 1. Mai 1993 (oder so) gesehen, da kam kurz eine Imbissbude vor mit ""Bratwurst mit Brötchen 1,30 DM"". Hab kurz gekichert.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Spiegel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1. Mai 1993"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Imbissbude"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bratwurst mit Brötchen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1,30 DM"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+onyx9,"Hier ist ein Artikel vom Spiegel aus 1962, da geht’s teilweise auch um die Firma Iso-Span-Häuser aus der Werbung hier. Und sie schreiben sogar Schlüsselfertige Preise dazu, muss man etwas suchen weil das erst ziemlich spät mitten im Text kommt. Aber, ein Haus schlüsselfertig mit einer Grundfläche(!) von etwa 100m2 kostete damals 62600DM, das entspricht heute etwa 160000€. Etwas weiter gibt’s Häuser in Hamburg-Schnelsen mit Grundstücken, Zufahrt und Anschlüssen für bis 100000DM das sind heute etwa 250000€. Also ich hätte sowas gerne genommen. Davon träumt man nur noch. Edit: haha, da hab ich den link zum Artikel vergessen. Hier ist er:",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Spiegel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iso-Span-Häuser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburg-Schnelsen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1962"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100m2"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""62600DM"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""160000€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100000DM"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""250000€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Affectionate_Bowl882,Und ein Arbeiter hat 1970 ca. 10.000 Mark im Jahr verdient.,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Arbeiter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10.000 Mark"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Huppelkord,"Interessant, mein Vater hat mein Haus damals also für ca. 40000 DM bauen lassen. Heute das Zehnfache, krass. Damals gabs ja auch die Dachschrägenregelung noch nicht. Da waren 200qm noch 200qm.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""40000 DM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zehnfache"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Dachschrägenregelung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200qm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+peredurrr,"Naja die Preise haben sich ca verzehnfacht, aber die Löhne ja auch!!!",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Preise"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Löhne"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Leader_Capital,"Man muss das mit den Löhnen ggü stellen Ist auch ein Bausatz Aber ja seit den 70ern sind Immobilienpreise ca um das 17,5 fache angestiegen",2024-05-13,de,de,"[
+      {
+        ""entity"": ""70ern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Immobilienpreise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ceadesx,Da musste man EIN ganzes Durchschnittsgehalt für zahlen! [Jahresgehalt Statistik](,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Durchschnittsgehalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jahresgehalt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BastiSpasti420,Und heute kann man eine Null hinter dran hängen....,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Null"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rtfcandlearntherules,"Wenn man mal 54 Jahre Inflation à 5% ansetzt, dann entspricht das 30.000€ Haus einen Haus für über 400.000 €. Kommt mir also eher teurer vor, was da geboten wurde. Edit: habe Unsinn erzählt, da es natürlich DM waren. Also 400.000 DM, ca. 200.000 €. Also schon eher günstiger, mit Grundstück und co. Aber aber nicht komplett weg von heutigen Preisen. Das bauen kostete damals laut dem Artikel auch bis zu 30.000 dm. Also insgesamt landen wir doch wieder bei einem 400.000€ Haus aus heutiger Sicht, zzgl. Grünstück und ggf. Noch weiterer kosten. Am Ende kann ich also dabei bleiben, nicht wirklich billiger als heute.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""54 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30.000€"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""400.000 €"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""400.000 DM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200.000 €"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heutigen Preisen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30.000 dm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""400.000€"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heutiger Sicht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünstück"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Far_Squash_4116,"Das Haus meiner Oma mit über 200 qm hat mein Vater für 75.000 € verkauft. Tief im Schwarzwald. Wer einfach gebaute Häuser an Orten, wo die Grundstücke nichts wert sind, kaufen möchte, kommt fast ebenso billig davon. „Fast“, weil man das Haus noch renovieren musste.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Oma"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200 qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwarzwald"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstücke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Drachencocg,Das für 26068 kann man sich schon geben und der preis,2024-05-14,de,de,"[
+      {
+        ""entity"": ""26068"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bigpaulaner,hui 33K schon viel,2024-05-14,de,de,"[
+      {
+        ""entity"": ""hui"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""33K"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+debln,Das Angebot scheint zeitlich nicht befristet zu sein. :süffisant_lächelndes_gesicht::gedankenblase:,2024-05-14,de,de,"[
+      {
+        ""entity"": ""Das Angebot"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zeitlich"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No_Excitement1337,einstöckiger bungalo teurer als 2 stöckiges bedachtes haus - wtf,2024-05-14,de,de,"[
+      {
+        ""entity"": ""einstöckiger bungalo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 stöckiges bedachtes haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TroyMcClure0815,Was ist denn das 624 DM- gesetz…,2024-05-14,de,de,"[
+      {
+        ""entity"": ""624 DM- gesetz"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok_Effort_5133,Bosch Blau ist auch dabei,2024-05-16,de,de,"[
+      {
+        ""entity"": ""Bosch Blau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,- Ohne Grundstück - eventuell ohne Fundament (Preise können stark variieren) - ohne Anschluss-Kosten an die Infrastruktur,2024-05-20,de,de,"[
+      {
+        ""entity"": ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fundament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Preise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anschluss-Kosten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Infrastruktur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+derbala111,Quelle: Bunte Illustrierte Magazin 1970,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Bunte Illustrierte Magazin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CerveletAS,Asbest macht Brrrr (mit deinen Lungen),2024-05-12,de,de,"[
+      {
+        ""entity"": ""Asbest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lungen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+yannynotlaurel,Ja fickt euch doch alle,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Foeni68,Durchschnittsgehalt 1970: 13.343 DM pro Jahr. 6.822 €.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Durchschnittsgehalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""13.343 DM"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6.822 €"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bdsmlover666,1970 lag das Durchschnittseinkommen übrigens bei 13300DM. Nur mal so zur Relation. [,2024-05-12,de,de,"[
+      {
+        ""entity"": ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Durchschnittseinkommen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""13300DM"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shakazoulu,Dafür kriegt man heute vielleicht die Garage,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Garage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fayasus,Was habt ihr? Die Gehälter sind ja eh mitgezogen. /s,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Gehälter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SuspiciousJoker,"Kurze Frage wegen Mangel aus Wissen, aber sind solche Häuser wirklich stabil?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Kurze Frage"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mangel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SuspiciousJoker,"Kurze Frage wegen Mangel aus Wissen, aber sind solche Häuser wirklich stabil?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Kurze Frage"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Häuser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MoccaLG,"Ist doch nicht schlimm, unsere Löhne haben sich doch auch ver 20-Facht...ooooh moment!",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Löhne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""20-Facht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RealBlackelf,8000€ für ein Haus? .... Wir sind nun bei min 200.000 für ein 1 Zimmer Wohnklo mit 16 qm...,2024-05-12,de,de,"[
+      {
+        ""entity"": ""8000€"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200.000"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""1 Zimmer Wohnklo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""16 qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+3Fatboy3,Unten links und oben rechts sind mit würde gealtert.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Unten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""oben rechts"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+3Fatboy3,Unten links und oben rechts sind mit würde gealtert.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Unten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""oben"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OkTechnology972,55 Jahrelang 2% pro Jahr Inflation. Also 20% in 10 Jahren. Dann ist bauen heute günstiger oder teurer?,2024-05-12,de,de,"[
+      {
+        ""entity"": ""55 Jahrelang"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Inflation"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20%"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Legitimate_Kick916,Danke liebe Regierung :victory-geste_helle_hautfarbe:,2024-05-16,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+-arni-,Ich würde das 10 fache mit Handkuss nehmen.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10 fache"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+brazzy42,"Und zwar *nur der Rohbau*, so interpretiere ich das Kleingedruckte. Also keinerlei Elektro- und Sanitäranlagen, keine Heizung, kein Parkett oder Fliesen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Rohbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elektro- und Sanitäranlagen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Heizung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parkett"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fliesen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+quaste,"Und auch ohne Material für Heizung, Elektrik, Wasser, Sanitär, Boden lol",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Heizung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elektrik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wasser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sanitär"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Boden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+k1ck4ss,Baupreise 1290: 50 Gulden. Und nun?,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Baupreise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1290"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""50 Gulden"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Shiros_Tamagotchi,Ein Imbusschlüssel liegt dabei.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Imbusschlüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Le_mehawk,Jede Woche ein neues einzigartiges Objekt für Ihr erstes Eigenheim. Abonnieren Sie jetzt und erhalten Sie einen gratis Briefkasten zum Estrich dazu. Bauen Sie Ihr Eigenheim vom ersten bis zum letzen Schritt In gerade mal 260 Wochen !,2024-05-12,de,de,"[
+      {
+        ""entity"": ""260 Wochen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kjhgfr,"Plus Architekt, Baugenehmigung, Gründung/ganzer Keller, Hausanschlüsse und die HLS-/Elektroinstallation(?)",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Architekt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Baugenehmigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Keller"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Hausanschlüsse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""HLS-/Elektroinstallation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Salty_Blacksmith_592,"Es ist auch anscheinend wirklich nur der Rohbau. Also ohne Sanitär, Leitungen oder gar Innenausstattung.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Es"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rohbau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sanitär"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leitungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Innenausstattung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eipotttatsch,"Joa. Wenn man heute nach ""Fertighaus"" googelt, findet man da auch vermeintlich echt billige Schnapper. Sehr direkt mal ein Haus mit 120m² für 39k€. Ist dann halt einfach ein Holzgerüst ohne alles groß.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Joa"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fertighaus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""120m²"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""39k€"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Holzgerüst"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tzeGerman,"Wenn man der Anzeige trauen darf ""bis zu 30.000 DM"". Wahrscheinlich haben sich die Kosten ca 50/50 aufgeteilt.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Anzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30.000 DM"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DER_WENDEHALS,"""350k, von unseriösen Angeboten ist abzusehen. Wir wissen was wir haben :gesicht_mit_umarmenden_händen:""",2024-05-12,de,de,"[
+      {
+        ""entity"": ""350k"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""von unseriösen Angeboten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Noisyfoxx,"Findest du? Tatsächlich finde ich einige von den Gebäuden ganz ansprechend, aus der ersten Spalte z.B. das zweite und dritte",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Gebäuden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ersten Spalte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pradfanne,Sieht original aus wie das Dorf in dem ich momentan wohne. Scheiße ich wohne in einem von denen,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Dorf"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""momentan"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TradingToni,Nur weil das Haus nicht in Asbest-Hochzeit gebaut wurde macht es dies dennoch nicht Asbest-Frei. Asbest war in defacto fast allen Produkten verwendet worden zwischen den 1960er und 1980er welche das Thema Bau betreffen. Es gibt etliche Altbauten welche in der Zeit saniert wurden bei welchen Asbest im Mörtel oder bei den Fließen verwendet wurde.,2024-05-14,de,de,"[
+      {
+        ""entity"": ""Asbest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""1960er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1980er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Altbauten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mörtel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fließen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WolfThawra,"Wieso denn hässlich, die sehen doch völlig OK aus? Asbest und so ist natürlich ein anderes Thema.",2024-05-20,de,de,"[
+      {
+        ""entity"": ""Asbest"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Noisyfoxx,"Findest du? Tatsächlich finde ich einige von den Gebäuden ganz ansprechend, aus der ersten Spalte z.B. das zweite und dritte",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Gebäuden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""ersten Spalte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+HelloWorldComputing,Aber im Verhältnis zu heutigen Preisen ist es dennoch deutlich teurer geworden.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""heutigen Preisen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TxM_2404,Das macht es eigentlich nur noch schlimmer. 2 Jahre arbeiten für ein Haus und durchschnittliches Gehalt wie heute die top 10%.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""2 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""top 10%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Spacelord_Moses,Das günstigste Haus liegt dann hier knapp über dem Jahreseinkommen. Für das heutige Jahreseinkommen bauste dir aber nicht mal eben ein Haus :D,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Das günstigste Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jahreseinkommen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Professional-Tea-121,"und wurde da mit berücksichtigt, dass die meisten frauen immernoch nur hausdame gespielt haben? also in realität der MANN de facto das doppelte verdient hat?",2024-05-14,de,de,"[
+      {
+        ""entity"": ""frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""MANN"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+_HermineStranger_,Wie kommst Du auf 55 000 €? Der [nächstbeste Inflationsrechner ]( 30 000 Euro.,2024-05-14,de,de,"[
+      {
+        ""entity"": ""nächstbeste Inflationsrechner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30 000 Euro"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Professional-Tea-121,er könnte jeden augenblick zuteilungsreif sein. Warte gleich ist es soweit! Zum nächsten Geburtstag bestimmt!!!,2024-05-14,de,de,"[
+      {
+        ""entity"": ""Geburtstag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Quotemeknot,"So lief das bei unserer Sanierung ehrlich gesagt auch, dafür locker >300k gespart.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Sanierung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""300k"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+deinkissen,In wie fern ist das Selberbauen eigentlich noch erlaubt? Freunde in NRW durften nicht einmal ihre Einfahrt selbst pflastern und die Baugenehmigung mit Auflagen für die paar Quadratmeter umfasste mehrere Seiten. Neben der darunterliegenden Schichtung wurden sogar Form und Farbe der Steine vorgegeben.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Freunde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NRW"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pole_fan,Menschen in den 70er Jahren haben das Haus bauen auch nicht in der Schule gelernt. Das bisschen was die meisten Leute damals mehr konnten kann sich jeder mit Internet innerhalb von einem halben Tag selber beibringen. Ist halt einfach sinnvoller die Zeit im Büro zu arbeiten und Osteruopäische Bauarbeiter bauen zu lassen.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""70er Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schule"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Internet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""halben Tag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Büro"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Osteruopäische Bauarbeiter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shydad85,Im Schnitt lagen die Bauzinsen in den 70ern Deutschland bei 8%. Zeitweise sogar 6%.,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Bauzinsen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""70ern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""8%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mina_knallenfalls,"Zum Abreißen, damit man auf dem Grundstück was Neues bauen kann.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Zum Abreißen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kaktussaft,"Es gibt auf Immoscout genug durchgewohnte 70er-Buden mit Ölheizung, Asbest in der Wand, undichten Holzfenstern und veralteter Elektrik ohne FI, teilweise zu abenteuerlichen Preisen. Was natürlich noch nicht bedeutet, dass die auch jemand zu dem Preis (oder überhaupt) kauft.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Immoscout"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""70er-Buden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ölheizung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Asbest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Holzfenstern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Elektrik"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""FI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Palamur,Im Westen: 13.343 DM Brutto,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Westen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""13.343 DM"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+curiosity-2020,"Zwei tiny Häuser zusammen sind ja fast 50 qm, das solltest du mit 30k hinbekommen...",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Zwei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tiny Häuser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""50 qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30k"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Quotemeknot,"Ein Ansatz wäre, dass die Verbesserungen der Materialien (z.B. kein PCP, PCB, Asbest, etc. mehr) sowie gestiegene Ansprüche (teurere Fliesen statt Teppich) und Vorgaben (z.B. Brandschutz) die Effizienzsteigerungen und Vergünstigungen aufgefressen haben. Zudem sind viele der Tätigkeiten auch nur begrenzt automatisierbar sondern die Handwerker produzieren im Endeffekt oft Unikate (Dachdecker, Klempner etc).",2024-05-12,de,de,"[
+      {
+        ""entity"": ""PCP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""PCB"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Asbest"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fliesen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Teppich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Brandschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Handwerker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dachdecker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klempner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Vast-Charge-4256,Reallöhne dann aber auch mit Realhauspreisen vergleichen...,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Reallöhne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Realhauspreisen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schmoecknoef,"nö, aber verzehnfacht wie die Bausatzpreise, da kommt noch Grundstück, Aushub, Keller, Estrich, Putz, Heizung, Wasser, Elektro und der gesamte Innenausbau dazu. Und aufbauen musste man den Bausatz auch selber.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Bausatzpreise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aushub"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Keller"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Estrich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Putz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heizung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wasser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elektro"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Innenausbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bausatz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sdkfz_aBo,Selber errichtet? Die genannten Preise sind ohne Lohnleitung,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Selber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lohnleitung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tin_dog,"Für 200k kriegste noch ein Haus. Liegt dann nur mitten im Nirgendwo, ohne Radwege, mit Ölheizung und 16Mbit DSL.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""200k"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nirgendwo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Radwege"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ölheizung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""16Mbit DSL"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shinryou,"Da geht es nur um das Baumaterial, aber ohne jeglichen Innenausbau (Elektrik, Sanitär, Heizung, Böden, ...). Erdarbeiten jeglicher Art (für Keller, Hausanschlüsse) sind da ebenfalls nicht enthalten.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Baumaterial"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Innenausbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elektrik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sanitär"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heizung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erdarbeiten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Keller"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hausanschlüsse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Vast-Charge-4256,Bei der Zinseszinsrechnung nicht aufgepasst....,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Zinseszinsrechnung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+aksdb,"Sind nicht heute die Anforderungen erheblich höher? Dämmung ist doch viel krasser als damals, dann brauchst du in Folge direkt eine Wohnraumlüftung, die Fenster und -rahmen sind teurer, usw.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Dämmung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wohnraumlüftung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fenster"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""-rahmen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lolllolol,Wie kommst du auf 80.000? Laut sind es 34.000€,2024-05-12,de,de,"[
+      {
+        ""entity"": ""80.000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""34.000€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+r_de_einheimischer,"Die Lohnkosten hatten viele damals nicht. Meine Familie hat ihr Haus komplett mit Nachbarn, Freunden und Verwandten gebaut. Das hat man dann quasi gegenseitig gemacht. Ich glaube nur den Dachdecker haben meine Eltern angestellt. Damals kanntest du immer einen Elektriker, Maurer, Klempner etc.. Da ist höchstens ein bisschen Geld geflossen, allermeisten lief das halt auf Gegenseitigkeitsbasis. Das hatte zur Folge das mein Vater hat nach der Arbeit häufig noch bei irgendwelchen Verwandten auf dem Bau geholfen hat. Die Grundstückspreise sind bei allem heute der Knackpunkt. Baukosten sind erst zuletzt wirklich heftig gestiegen, aber die Grundstückspreise steigen seit langer Zeit. Daran liegt es auch das selbst die niedrigst mögliche Miete die jemand verlangen kann, noch sehr hoch ist. Hamburg hat zuletzt beschlossen für 100 Jahre kein Land mehr zu verkaufen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Lohnkosten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dachdecker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elektriker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Maurer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klempner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Grundstückspreise"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baukosten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,Und das Häuser heutzutage größer sind.,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Häuser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ICEpear8472,"Und vermutlich der durch geänderte Bauvorschriften (z.B. energetische Standards sprich mehr Isolation und co.) Bedarf and mehr und teureren Materialien. Selbst wenn man das Material heute noch zu den Preisen bekommen könnte, dürfte man vermutlich so garnicht mehr bauen.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Bauvorschriften"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""energetische Standards"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Isolation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Materialien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rtfcandlearntherules,Wie kommst du auf 80.000,2024-05-13,de,de,"[
+      {
+        ""entity"": ""80.000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+artifex78,"Kein Fundament oder Keller, ohne Anschluss an die Kanalisation, Wasser, Strom etc.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Kein Fundament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Keller"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kanalisation"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wasser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Strom"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,">Und zwar *nur der Rohbau*, Nur das Baumaterial. Aber kein Fundament, keine Unterkellerung, keine Abschlüsse an Wasser, Abwasser, Gas, Strom, Infrastruktur, keine Montage, gar nix. Nur eine Ladung Baumaterial, die für dich auf einem Baugrundstück abgeladen wird. Wäre also noch ein ziemlich weiter Weg bis zum fertigen Rohbau.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Rohbau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baumaterial"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fundament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unterkellerung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abschlüsse an Wasser, Abwasser, Gas, Strom"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Infrastruktur"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Montage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ladung Baumaterial"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baugrundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fertigen Rohbau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xrimane,Nur _das Material_ für den Rohbau. Bauen musste man auch noch selber.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Material"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rohbau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OlegTheProphet,Der korrekte Markenname des Innensechskantschlüssel lautet Inbusschlüssel.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Innensechskantschlüssel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Inbusschlüssel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DetectiveDick123,"Stimmt, aber braucht man den Architekten bei einem Fertighaus? Aber wahrscheinlich muss dann immer noch die Statik geprüft werden, nach Bauort. Zumindest denk ich, dass weder damals, noch heute, die Materialien das teuerste am Unternehmen Hausbau sind.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Architekten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Statik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bauort"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Materialien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unternehmen Hausbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DetectiveDick123,"Korrekt, genauer gesagt das Material für den Rohbau.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Korrekt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Material"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rohbau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dot-Slash-Dot,"> Wer meint, dass die Alten es leichter hatten mit dem Abbezahlen, täuscht sich schwer. Man muss sich ja nur die jeweiligen Eigentumsquoten anschauen. Die waren damals nicht viel besser als heute und das auch in der Gruppe der 30-40 jährigen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Alten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abbezahlen"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eigentumsquoten"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30-40 jährigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Clemon86,150.000€ mit 7% ist doch billiger als 750.000€ mit 1% oder 2%. Oder wovon redest du?,2024-05-12,de,de,"[
+      {
+        ""entity"": ""150.000€"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""7%"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""750.000€"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1%"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2%"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ryebow,Laut Anzeige wollten die damals 4½%,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Anzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4½%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mediocre_Finance_852,1970 hatte mein Vater nach der Ausbildung einen Stunden Lohn von 1ner DM.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausbildung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stunden Lohn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1ner DM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrRowodyn,>Wir wissen was wir haben Lungenkrebs :gesicht_mit_umarmenden_händen:,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Lungenkrebs"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Skiingscientist,"Nö, hier in Mainz werden exakt diese Buden für 750k+ inseriert. Bodenrichtwert liegt halt bei 1000 bis 1500 €/qm, da ist das Grundstück alleine schon 500k, also wollen sie noch 250k für die Bude die aber seit den 70ern nicht mehr angefasst worden ist. Maximal noch einen Wintergarten haben die dran gespaxt. Einen fucking Wintergarten im Rhein-Main-Gebiet. Kannste dich auch gleich in einen spanischen Gemüsetunnel setzen und lebendig kochen lassen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Mainz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bodenrichtwert"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wintergarten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rhein-Main-Gebiet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schemen123,Naja.. diese Häuser haben manchmal Grundstücke die alleine schon diesen Wert hergeben. 300 bis 400 qm war damals wenig und ist heute eher fast schon Luxus,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Häuser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""300 bis 400 qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Luxus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Skodakenner,Könnte das Nachbarhaus sein sieht aus wie das erste Haus in der zweiten Reihe hier hatt schimmel ohne ende und muss eigentlich Kernsaniert werden oder weggerissen werden. Kosten soll der Spaß 300k weil das Grundstück immerhin 800 qm hatt,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nachbarhaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""erste Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zweiten Reihe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schimmel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kernsaniert"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""weggerissen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kosten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""300k"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""800 qm"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

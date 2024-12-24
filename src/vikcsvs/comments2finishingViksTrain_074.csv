@@ -1,0 +1,5101 @@
+author,text,timestamp,subreddit,language,gpt_output
+seba07,"Hi Nico, du bist letztes mal angetreten (u.a.) um Transparenz in die Europapolitik zu bringen. Allerdings hat man nach dem ersten Jahr kaum noch mitbekommen was du so machst. Woran hat's gelegen? Ps: soll kein Vorwurf sein, nur Neugier!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europapolitik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ersten Jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Div-Peasant,"Hi Nico, danke fürs AmA! Wie stehst du persönlich zu Volt und deren Ambitionen bzw. Pläne für Europa? Absolut ralitätsfern oder eine tatsächlich mögliche Zukunftsvision? LG nach Brüssel!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mekonsodre14,"Pragmatisch betrachtet, in welchen Bereichen/Themen habt ihr als EU-Parlamentarier (gegenüber der direkten Einflussnahme der Regierungen d. wichtigsten EU-Länder) den größten Einfluss?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlamentarier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regierungen d. wichtigsten EU-Länder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AoTS3T-KTOWL,"Hey - mega cool das du hier bist! 1. Ist der immer ansteigende Rechtsdruck im EU Parlament spürbar auch bei der Entscheidungsfindung? 2. Wurde sich auch intern (also von Abgeordneten aus anderen Staaten) über den Spionage Vorwurf zu Krah geäußert ? 3. Gab es für dich Folgen, da du quasi die unnötigen Spesen von manchen EU-Abgeordneten öffentlichen uns mal erläutert hast? :)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsdruck"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Entscheidungsfindung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spionage Vorwurf zu Krah"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Folgen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spesen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aliballer,"Bist du (i.e. stimmst du so ab) im Zweifel links? Ich habe das Überparteiliche an der Partei Die Partei immer geschätzt und fände es schade, wenn ich auch hier nur linke Politik im (vermeintlich) witzigen Gewandt bekäme.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wakarana,Wenn du wählen müsstest: Hättest du lieber penisgroße Nippel oder einen nippelgroßen Penis?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nippel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Penis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bottle_Nachos,Warum machst du das alles noch?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Warum"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""alles"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""noch"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+UltraHQz,Fuckt die EU dich ab?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+esmussauchmalgutsein,Hallo Nico! Bist du vegan?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SneakyB45tard,"Hi Nico, was waren für dich die schönsten Momente im Parlament? Gab es Menschen/Parteien/Institutionen mit denen die Zusammenarbeit auch Spaß gemacht hat?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschen/Parteien/Institutionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Sotherewehavethat,"Glaubst du, dass das Konzept der geteilten nuklearen Abschreckung noch aktuell ist? Ich habe meine Zweifel, dass die USA heutzutage tatsächlich noch für ein anderes Land einen Atomkrieg riskieren würden, vor allen Dingen, wenn die Republikaner die Wahl dort gewinnen, wovon man gemäß der Umfragewerte ausgehen muss.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Republikaner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Vannnnah,"Hallo Nico, als Mitglied des Europarates bist du ja direkt mitten im Geschehen. In den Medien heißt es immer Rechtsruck, Linksruck, hier alles schlecht für Europa, da alles schlecht für Europa und vieles wird auch von den eigentlich seriösen Medien dramatisch dargestellt. Kannst du das Bild, dass die breite seriös einzuordnende Medienlandschaft von Europa zeichnet so bestätigen? Was für Dinge (über die du z.B. ohne Nennung von Namen) reden kannst passieren da jeden Tag, von denen man als normaler Bürger nix mitbekommt? Was sind derzeit positive Dinge, über die vielleicht zu wenig gesprochen wird?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europarat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fast_Equivalent_4829,"Lieber Nico, Vielen herzlichen Dank, dass du noch etwas Zeit für dieses ama gefunden hast, obwohl wie wir ja alle wissen eine Tätigkeit als EU-Abgeordneter sehr, sehr viel Zeit in Anspruch nimmt. :‘D Ich schreibe dir mit geringer Hoffnung auf eine Antwort, da sich hier ja schon einige Fragen angesammelt haben, aber vielleicht ist meine Verzweiflung als junger Student in den folgenden Zeilen ja reizend genug, um ihr ein paar Worte zu spendieren. Nun, wo fang ich an. Am liebsten würde ich mich nochmals bei dir bedanken, diesmal aber für die starke Arbeit, die du machst. Die hat vielen Leuten, wie auch mir wirklich die Augen geöffnet. So sehr, dass ich sie gerne wieder verschließen würde. Und vielleicht schließe ich dem auch direkt meine Frage an: Siehst du Hoffnung? Und das würde mir ehrlich interessieren. Ich bin gerade erst 20 Jahre alt, sehe aber, wie etwa der Neoliberalismus unsere Sozialsysteme ausschlachtet. Oder wie Massenüberwachung neuerdings vom EuGH durchgewunken wird, aber die Pfizer-SMS von von der Leyen nicht vorratsdatengespeichert werden. Wie immer mehr nach Aufrüstung geschrieen wird, aber keiner darüber spricht, wie Frieden aussehen könnte. Wie die Rechten erstarken. Und nicht zuletzt, wie fast jeden das Klima egal ist (es sei denn die Küstenvilla geht unter, das ist dann natürlich mies). Zweifelsohne gibt es mehr auch aufrichtige Seelen unter den Politiker*innen, aber ganz ehrlich, mittlerweile haben selbst die Grünen ihre Korruptions, ähm, ich meine Lobbyskandale. Ich bin noch jung, sehe aber, wie meine Eltern, weit entfernt von der gehobenen Mittelschicht, noch für eine lächerliche Entlohnung bis zum Umfallen schufften werden, um dann eine Rente zu erhalten, bei der ich nicht weiß man weinen oder einfach nur noch lachen soll. Statt wirklich daran was zu tun, schmeissen die Politiker lieber weiter mit Worthülsen in Form von rHetOrIk um sich und niemanden scheint’s zu interessieren, war da nicht mal was mit ""Respekt""? Arbeit wie die von dir, Personen wie du zaubern mir ein dennoch ein offenes und warmherziges Lächeln ins Gesicht - dafür bin ich dir dankbar, ehrlich. Und ganz ehrlich, siehst du noch Hoffnung auf eine Besserung der Zustände?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU-Abgeordneter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20 Jahre alt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Neoliberalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sozialsysteme"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Massenüberwachung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EuGH"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Pfizer-SMS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""von der Leyen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aufrüstung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frieden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Rechten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Klima"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Politiker*innen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Korruptions"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lobbyskandale"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Eltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mittelschicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rente"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Politiker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Worthülsen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Respekt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+fcknthirsty,Warum sollte ich die Partei wählen? Macht sie auch ernstzunehmende Politik oder nur Witze darüber? Weil ich von letzterem ausging habe ich mich dieses mal für die Piraten entschieden (briefwahl).,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Piraten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Henralbert,"Moin Nico, würdest du nach deiner jetzigen Erfahrung in der Politik jungen eher linken Menschen davon abraten oder sohar empfehlen sich politisch mehr zu engagieren bzw direkt in der Politik aktiv werden? Mein Freundeskreis und ich selbst bewegen uns in ständigem Kreislauf von ""das würde uns geistig brechen"" und ""wir müssen was tun damit nicht alles zu spät ist"". Hast du da ein gutes Fazit oder ne Meinung zu?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Moin Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jungen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freundeskreis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fazit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LazyMayz,Hab meine Briefwahlunterlagen bekommen. Wo Kreuz?!,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Briefwahlunterlagen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kreuz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NumbNumbrs,"Hallo lieber Nico! Danke für deine tolle Aufklärungsarbeit, ich habe dank dir viel über das europäische Parlament lernen können. Es wurde auch relativ klar warum ich vorher als Otto-Normal-Bürger recht wenig Einsicht in diese Welt erhielt. Ich hab es öfter im Freundeskreis diskutiert und muss sagen, dich dort zu haben war die wohl beste investition meiner Wahlkraft bisher. Vielen dank für deine durch und durch offene Art! Die einzige Frage die mir bleibt ist, wen wähle ich jetzt, wenn ich Semsrott möchte? :(",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""europäische Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Otto-Normal-Bürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freundeskreis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlkraft"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Semsrott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Denk-doch-mal-meta,Hi Nico! Was wären deine ersten drei Maßnahmen als Nachfolger von von der Leyen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nachfolger von der Leyen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MeinKumpelSpalding,"Hi Nico, Spaghetti Bolognese oder Lasagne? Was ist besser? Grüße aus NRW",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spaghetti Bolognese"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lasagne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NRW"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+defendr3,"Warum gibt es keine öffentliche Debatte darüber, dass die EU soviel Korruption und Skandale um öffentliche Gelder zulässt? Was müsste man ändern, oder wen soll man wählen, um das zu verbessern? So gesehen stellt sich die Frage, ob die EU-Kommission als demokratische Institution wahrgenommen werden kann.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Skandale"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""öffentliche Gelder"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Kommission"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+HQna,Frage in die Runde: hat jemand einen Kugelschreiber dabei?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Frage"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kugelschreiber"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Haix23,"Hi Nico, was würdest du sagen war während deiner Amtszeit dein größter Erfolg/Misserfolg?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Amtszeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""größter Erfolg"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Misserfolg"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+EquivalentPlane6095,Was sind deine Pläne für die nahe Zukunft?(zB. Hörst du mit Politik auf/ gehst du wieder in die Satire zurück?),2024-05-15,de,de,"[
+      {
+        ""entity"": ""Pläne"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nahe Zukunft"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Satire"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kosmosechicken,"Willst du nun allgemein auf Parteipolitik verzichten, oder könntest du dir einen entspannteren und eingebundeneren Kontext, z.B. auf kommunaler Ebene vorstellen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parteipolitik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kommunaler Ebene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+HappyRuin,Könnte es möglich und attraktiv sein in der EU ein übergeordnetes Steuergesetz zu haben? Also in Hinsicht auf Superreiche und Konzerne. Sodass sie nicht in Irland oder Schweiz sich diese sparen.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Irland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Partykatze,Es gab hier öfter die Einleitung: Die EU wird viel kritisiert. Meine darauf aufbauende Frage: Wie findest du die EU?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dramatic_Prior6378,"Die Frage ist mir nicht so wichtig, ich wollte einfach ein ganz dickes Dankeschön für deine Arbeit und deinen Einsatz in widrigen Umständen da lassen. Schön, dass es dich gibt! Frage: Gab es auch mal ungewöhnlich positive Situationn mit eine\*r Politiker\*in, die so gar nicht zu der Partei passt, in der er\*sie sind?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Dankeschön"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Arbeit"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Einsatz"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""widrigen Umständen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aspry7,Ich hoffe du wirst zu einigen Talkshows eingeladen um deine Erfahrungen unters Volk zu bringen. Danke für deine Arbeit <3,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Talkshows"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DaigoDragon,Was hat dir an deiner Arbeit im Europäischen Parlament am meisten Spaß gemacht (oder was war am erträglichsten) und gibt es evtl. eine konkrete Situation die du benennen kannst?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäischen Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MaxTP-,"Hallo Nico, danke für das AMA und auch für deine Arbeit um über das EU-Parlament zu informieren. Deine Form der politischen Bildung kann sehr produktiv sein, deshalb auch danke dafür. Ich sehe bei dir immer wieder den Wunsch einer Demokratisierung der EU. Neben dem verständlichen Wunsch das EU-Parlament zu einem vollwertigen Parlament zu machen, was alleine schwer wird, weil die Mitgliedstaaten die Kontrolle behalten wollen, aber sollte man im Zuge dessen auch über eine Zweite Kammer nachdenken? Um den Mitgliedsstaaten etwas entgegen zu kommen, könnte ich mir zwei gleichberechtigte Kammern vorstellen, die einmal direkt gewählt und einmal aus Vertretern der einzelnen Regierungen besteht, damit die Mitgliedsstaaten weiterhin Kontrolle haben. Dafür werden dann aber die Ministerräte abgeschafft. Jetzt gehe ich aber runter von meiner Soapbox. Vielen Dank!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zweite Kammer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ministerräte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+tiischbein,"moin Nico, weißt du von jemandem, der/die in der nächsten Legislaturperiode transparente Öffentlichkeitsarbeit plant? ganz großes Danke für deine Arbeit übrigens!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Legislaturperiode"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jakcom13,Androide Oder Iphone? Und gerooted oder ungerooted?,2024-05-15,de,en,"[
+      {
+        ""entity"": ""Androide"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iphone"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gerooted"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ungerooted"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+agcyber1212,Hey Nico vielen Dank für dein ama. Hier meine Frage: Mit der Zeit verspüre ich immer mehr den Drang mich politisch für die Demokratie einsetzen zu wollen. Auch die Idee eines geeinten Europas (EU etc.) finde ich faszinierend. Welche Möglichkeiten bestehen um sich daran beteiligen zu können und welche Anlaufstellen gibt es? Was hat dich dazu bewegt ein Teil des EU Parlaments werden? VG!,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Europas"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU Parlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Valentiaga_97,"Auf einer skala von 1 bis 10, wie korrupt ist das parlamentarische dasein?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""parlamentarische dasein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xel-naga,"Moin Nico, wer kotzt mehr über deutsche Politik. Du, oder Arne?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Moin Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutsche Politik"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ossa1,"Hallo Nico, erstmal: Hochachtung vor deinem Einsatz. Und danke für dieses Ama. Ich habe einmal irgendwo das Zitat gelesen, dass jemand, der es an eine Spitzenposition einer Partei schaft, damit unter Beweis gestellt hat, dass er ihm jegliche charakterliche Eignung zur Führung von Menschen unter moralischen Gesichtspunkten verloren hat. Wie viel findest du ist da dran? Ich habe neulich den Europawahlomat gemacht und hatte eine höchste Zustimmung von 65%. Das hat sich etwas blöd angefühlt - du sagst, Politik ist Kompromiss, aber es fühlt sich einfach schlecht an, wenn man sich nirgendwo vertreten sieht, oder eine Partei dann relativ gute Standpunkte hat, aber in ihrem Manifest an erster Stelle steht: Nut noch gelbe Gummibärchen. Unwählbar. Was mach ich dann mit meiner Stimme? Lokal kann ich Politik noch gutfinden, ich kenne einige der Antretenden persönlich.... aber auf Landes- oder Bundesebene.... Ich bin Lehrer. Ich verhalte mich in der Schule politisch neutral. Aber ich unterichte Mathematik, nehme gerne Diagramme und Statistiken und Zahlen aus der aktuellen Politik und Lebenswelt und bei den Zahlen, um die es in den großen Skandalen geht, und bei denen exakt keine Konsequenz für die Beteiligten Spitzenpolitiker gibt... wie kann ich den Kindern positive Zuversicht beibringen? Wir verstromen derzeit für mehr als 110 Mio t/a Braunkohle. Atomkraft ist aber so schädlich, dass wir sie noch vor der Lösung der Klimakrise herunterfahren, auch wenn Kohlekraftwerke im laufenden Betrieb mehr radioaktive Emissionen haben als Kernkraftwerke. Die Bahn macht irgendwas um ein Viertel des Güterverkehrs in Tonnenkilometern, verursacht aber nur ein ... Zwanstigstel des CO2 Ausstoßes verglichen mit dem Straßenverkehr. Ratet mal, was weit mehr gefördert wird als das andere... es ist einfach frustrierend. Das Thema Rente kommt noch dazu, wir müssen ja Wachstumsprozesse modellieren.... Und wenn jemand was richtig Fieses verbockt hat.... warum nicht sagen ""Ich kann mich nicht erinnern?"". Wie kann ich da was anderes als Sarkasmus verbreiten? PS: Schade, wohl zu spät",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Europawahlomat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""65%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gummibärchen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lehrer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mathematik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""110 Mio t/a"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Braunkohle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Atomkraft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Klimakrise"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bahn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CO2 Ausstoßes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rente"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wachstumsprozesse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sarkasmus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Saaro1337,Warte bist du nicht Comedian?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Warte"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Comedian"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+daonefatbiccmacc,"Was wäre das einfachste Mittel, um das europäische System am effektivsten zu verbessern?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""europäische System"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TryppySurfer,"Hey Nico, siehst du in dir selbst eigentlich eher eine Person, die tatsächlich viel in der Politik bewegen kann/bewegt hat? Ich frage aus dem Grund, weil mir persönlich in den letzten Jahren aufgefallen ist, dass du den Zeitgeist der modernen Generationen mit dir trägst und mMn ein verdammt großes Potential hast, bleibende Eindrücke zu hinterlassen und für einen offeneren Umgang mit Kritik und Meinungen sorgst. Da fallen mir zB einige deiner Protestaktionen im Parlament ein. Manche sagen, dass das nur Quatsch ist, bei mir und in meinen Freundeskreisen sind solche Aktionen aber sehr gut angekommen und auch hängengeblieben. Diese überspitzte, 'on-the-nose, no-bullshit' Herangehensweise fehlt unserer Meinung nach in der Politik. Danke für deinen Einsatz! -Ein Fan :)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeitgeist der modernen Generationen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Protestaktionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Quatsch"",
+        ""entity_type"": ""NEG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Freundeskreisen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""on-the-nose, no-bullshit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fan"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Lostfirebear,Geht es deinem linken fuß gut,2024-05-15,de,de,"[
+      {
+        ""entity"": ""linken fuß"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sharonstoned666,"Nico, kann ich ein Kind von dir haben?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AmishThugLife,"Do you like fish? If so, what fish do you like? You aren’t anti-fish are you?",2024-05-15,de,en,"[
+      {
+        ""entity"": ""fish"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+m_jax,Very important question. Dudzen wir oder gerne per Sie ?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Dudzen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dulidus_,Kannst du Klettergerüst sagen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kannst du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klettergerüst"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fichtenwald-,Was ist deine Prognose für die kommende EU Wahl?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU Wahl"",
+        ""entity_type"": ""EVENT"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+El_Lasagno,Wie geht es dir persönlich damit dann immer in Brüssel sein zu müssen? Ist das belastend für Freundschaften und eventuell Partnerschaft für dich? Danke dir für deinen Einsatz an der Front :),2024-05-15,de,de,"[
+      {
+        ""entity"": ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Front"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+artemis_108,"Was denkst du über die Jugend in Bezug auf Politik? Es wird ja immer gesagt, dass wir jungen Leute nichts über Politik wissen und nichts machen. Außerdem wie empfindest du die Entwicklung der allgemeinen politische Meinung der jungen Leute in den letzten paar Jahren? Meiner Meinung nach entwickelt es sich erschreckenderweise nach recht. Warum denkst du ist dies so?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Jugend"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""allgemeinen politische Meinung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzten paar Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Anthyrion,"Eine Frage hätte ich tatsächlich: Und zwar bezüglich des Herrn Sonneborn und seines Auftrittes mit Frau Wagenknecht und Frau Schwarzer. War das eine Art Satireaktion oder war das sein voller Ernst? Ich hoffe eigentlich immer noch auf Satire, befürchte aber, dass es ernst gemeint war.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Herrn Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frau Wagenknecht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frau Schwarzer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RobertCutter,Wie korrupt ist der Laden?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Laden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+cHpiranha,"Lieber Nico Ich finde es toll, dass Du eine Einblick ins EU Parlament gegeben hast. Du bist somit einer der wenigen 750 die in wichtigen Situationen den Ja oder Nein Knopf drücken dürfen. Es ist toll diese Leute wählen zu können. Es wäre aber noch toller, die Leute wählen zu können, welche bestimmen ob nun der Ja oder Nein Knopf gedrückt werden muss. Oder die Leute, welche bestimmen wozu der Knopf gedrückt wird. Was findest du dazu?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""750"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AvocadoOrdinary3972,"Lieber Nico, viel Spaß auf Tour. Aber wen sollen wir den jetzt wählen? Ich bin ratlos.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Tour"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ratlos"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+IchLiebeRoecke,Hab damals wegen dir für Die PARTEI gestimmt :3,2024-05-16,de,de,"[
+      {
+        ""entity"": ""Hab"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""damals"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Subject_Entrance_747,Welches Tier versteckt sich eigentlich unter deiner Kapuze?,2024-05-16,de,de,"[
+      {
+        ""entity"": ""Tier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kapuze"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+einsame_torte,"Hallo, Nico. Ich habe folgende Frage. Warum wird überhaupt mit Putin verhandelt, wenn er kein legitimer Vertreter des russischen Volkes ist? Die Wahlen waren nicht legitim. Wen vertritt er denn?",2024-05-16,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Putin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""russischen Volkes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+massband,"- Hähnchendöner oder Kuhdöner? - Besitzt du ein Lastenrad? - Hast du dich schonmal an die Straße geklebt? - Lieblingskomiker? - Was ist ein guter Mensch? - Warum gewinnt Deutschland die EM? Wirst du eine Fahne an dein Auto/Lastenrad befestigen? Wieso nicht? - Wohin würdest du auswandern, wenn du könntest oder müsstest?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sojaoghurt,Wo hast du deine Brille gekauft und wie viel hat sie insgesamt gekostet?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Brille"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""insgesamt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DubioserKerl,"Bei der EU-Parlamentswahl ein letztes Mal vor der Einführung einer X-Prozent-Hürde eine Kleinpartei wählen: Lohnt es, oder ist es Stimmverschwendung?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlamentswahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""X-Prozent-Hürde"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kleinpartei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+litnu12,Es hat sich definitiv gelohnt vor 5 Jahren die Partei die PARTEI zu wählen und so die Arbeit von jemanden wie Herrn Semsrott mit zu ermöglichen.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Herrn Semsrott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""5 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""die PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+hrsN1337,Hi Nico bin vor einem halben Jahr nach Brüssel gezogen. Meine Fragen: Wo gibt es das billigste Fassbier und wie finde ich am besten eine bezahlbare Wohnung? Grüße PS: Würde dich nochmal wählen.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""halbem Jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GeorgeJohnson2579,Moin! Warum schlackern sich so viele Leute im Parlament dauernd einen auf Massenüberwachung? (Letztes Mal mit Thorn und Ashton Kutcher),2024-05-15,de,de,"[
+      {
+        ""entity"": ""Thorn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ashton Kutcher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+soiitary,An was hast du in deiner Zeit im Europäischen Parlament denn nicht deinen Glauben verloren? Als Referenz zu deinem Buchtitel natürlich,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäischen Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Buchtitel"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+doctor-crypto,"Wieso sitzt Ursula von der Leyen ohne Wahlen dort wo sie jetzt sitzt? Was war ""der eine Moment"" in deiner Amtszeit als dir die Kinnlade am tiefsten runter fiel? Agiert die EZB wirklich unabhängig und neutral? Wie stehst du zur Inflationsrate von Eurostat? Wird die Rate schön gerechnet oder entspricht sie der Wahrheit? Deine Meinung zu Donald Tusk? Wie lange wird es den Euro deiner Meinung nach noch geben? Soll die EZB Klimaschutz etc. betreiben obwohl EU-Bürger gar keine Wahl haben?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Ursula von der Leyen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EZB"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eurostat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Donald Tusk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Euro"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EZB"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Bürger"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Ease6205,Kann man dich bei der nächsten Wahl wieder wählen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kann"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dich"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nächsten Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Penispumpe14,Danke für deine Arbeit!,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Gabba_Goblin,"Hallu, hast Du uns lieb?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Hallu"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bobelando,Wer hat dich gefragt diesen post zu verfassen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xFxD,"Wie nah waren deine Vorstellung bzgl der Arbeiten im Parlament, die du vor deiner Wahl hattest, am tatsächlichen Arbeitsalltag dran? Und gibt es irgendwelche interessanten Anekdoten, die du teilen kannst?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dangerousdan90,"Vielen Dank für das AMA! Hat sich deine Sicht auf die EU und europäische, politische Institutionen verändert seitdem du Mitglied des Europäischen Parlaments wurdest ? Wenn ja, wie? Hast Du den Eindruck, etwas zum positiven bewirkt zu haben? Wenn ja, was? (Ich auf jeden Fall! Hab mich immer sehr über deine Updates gefreut.)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäischen Parlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vielen Dank"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+rudirofl,"Bonjour, hello, moin, - wie stehst du allgemein dazu, Lobbyismus mit Lobbyismus zu begegnen? wäre das hinsichtlich der EU ein moralisch legitimer und mit Blick auf den politischen Alltag gangbarer Weg? - zur Wahl: ist der Kompromiss, sich anhand bestehender Fraktionen und deren (teils weit gefasste) Ziele/Programme zu orientieren oder ist es sinnvoller, sich die ""passende"" Partei / Abgeordnete zu suchen und dafür zu stimmen? - auch zur Wahl: wie bewertest du das zunehmen von (Wahl-)Programmen geschnitten auf Wahlhilfen (wie etwa wahl-o-mat) oder die plumpe Kopie witziger Wahlwerbung, wie es volt etwa versucht (wirklich deine ehemalige Partei kopiert)? - welche Fraktionen, welche Parteien, welche Abgeordnete sind nach den fünf Jahren noch diejenigen, denen der Gedanke einer EU für die Bevölkerung (und nicht für Unternehmen) wichtig ist, bzw. die dafür arbeiten, Europa zu einem menschlicheren Ort zu machen? - wohin sollte man Energie politischen Engagements am ehesten leiten? EU? wenn ja, wo dort ansetzen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fraktionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordnete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlhilfen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""wahl-o-mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fraktionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordnete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fancy-Racoon,"Tag! Ich hab dich damals mit gewählt und bin da sehr froh drüber. Nun klingt es ja so, dass du nicht nochmal ins Parlament möchtest. Schade für die Politik, aber gut, dass du dich um dich kümmerst! Meine Frage: Kennst du andere (potentielle) Abgeordnete, die in D bei dieser Wahl antreten, deren Arbeit du empfehlen kannst?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Tag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""D"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Altruistic_Nail_7790,wie geht es Dir?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Dir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Muetzenman,"Danke für deine Arbeit! Trotz deiner Kritik an Europa, dem Parlament und seinen Palamentariern, habe ich mich durch dich super vertreten gefühlt! Reformen müssen ja an den ganzen Abgeordneten vorbei, siehst du da eine echte Chance, dass sich da was ändern lässt? Ich meine solche Bereiche wie die Relevanz des Europaparlaments, oder die Kontrolle der Abgeordneten.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Palamentariern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europaparlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kontrolle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Smogshaik,Was für eine Rolle kann und soll Satire in der Politik heute noch spielen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Satire"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+defnotIW42,"Hey Nico, wie würdest du derzeit auf „die Partei“ schauen? Ist das noch funktionierende Partei mit einer Message? Zu Beginn hatte Sie ja eine, versteckt hinter Satire. Mittlerweile ist Sie inhaltlich überall und nirgendwo. LG",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+HarterFlausch,Was ist dein Lieblingsdino?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Lieblingsdino"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+radioraheem1312,remind me! 3 hours,2024-05-15,de,en,"[
+      {
+        ""entity"": ""3 hours"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nachtachter,"Wenn du politisch arbeiten willst/wolltest, warum dann in DER PARTEI, die ja nicht gerade für ihre Ernsthaftigkeit bekannt ist (ich weiß, das ist etwas besser geworden in letzter Zeit), warum nicht in einer anderen Partei? Oder glaubst du, dass der, nennen wir es mal, satirische Ansatz etwas ändern kann in der (Europa)politik?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""DER PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jayjaytlk,Planst du zukünftig wieder Auftritte bei Poetry Slams oder andere Veranstaltungen? Ähnlich wie die aktuelle Buchtour.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Poetry Slams"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Buchtour"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ReichsteSpatzDerWelt,Hallo Erstmal das Wichtigste vorneweg: Danke für deine Arbeit! Du hast dich damals der Grünen-Fraktion angeschlossen. Glaubst du diese Fraktion ist wirklich diejenige mit der besten Umweltpolitik? Wie war die Zusammenarbeit?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Grünen-Fraktion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EverythingsBroken82,Danke dass du das machst/gemacht hast.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wolkenbaer,"Bei uns hängen ziemlich viele Plakate von der SPD mit Katarina Barley. Da ist immer ein Mann mit abgebildet, kennst Du den und was macht der?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Katarina Barley"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IsamuLi,"Hey Nico, nur eine Frage: Wieso?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ClausKlebot,"Stickies der letzten 7 Tage: * 19.05.2024 - [Sonntags-Thread!]( * 17.05.2024 - [Kulturfreitag - 17 May, 2024]( * 16.05.2024 - [KW 20 / 24 (Donnerstag): Was geschieht bei euch in der Region, wovon wir nichts mitbekommen?]( * 15.05.2024 - [Was spielt ihr so? - Inspirationen, Spaß und Freude-Faden]( * 15.05.2024 - [Hallo Reddit! Ich bin Nico Semsrott, noch Mitglied des Europäischen Parlaments. Ask me anything!]( Diese Aktion wurde automatisch ausgeführt. Beep Boop. [Hier findest du eine Liste aller Stickies](",2024-05-15,de,de,"[
+      {
+        ""entity"": ""19.05.2024"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""17.05.2024"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""16.05.2024"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""KW 20 / 24"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Donnerstag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""15.05.2024"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nico Semsrott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europäischen Parlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Alles wird gebraucht! Menschen, die nur Sachen liken und teilen im Internet, Petitionen unterschreiben, Geld spenden, demonstrieren, streiken, in Nichtregierungsorganisationen mitarbeiten und in Parteien gehen. Ganz ehrlich: Mach doch einfach das, was dir am meisten liegt. Menschen sind unterschiedlich und mögen unterschiedliche Dinge. Probier aus. Und versuche, dich wohlzufühlen. Damit hilfst du dir und damit auch der Sache am meisten!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Internet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Petitionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld spenden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""demonstrieren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""streiken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nichtregierungsorganisationen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ich habe keinen Einblick in die Prozesse seit her, weil die belgische Justiz und ein Hinterbänkler im EU-Parlament (wie ich) keinen Kontakt haben. Allgemein glaube ich, das Problem wird unterschätzt. Und ich mache das daran fest, dass so wenig kontrolliert wird. Zum Vergleich: Wenn es keine Fahrkartenkontrollen gibt, gibt es auch keine Schwarzfahrenden. Genauso ist es bei Korruption auch: Wenn niemand die Abgeordneten kontrolliert, kann auch niemand wegen Abgeordnetenbestechung auffliegen. Und hier wird so gut wie gar nichts kontrolliert. Und die Kommission und der Rat sind noch viel intransparenter als das Parlament! Dass es immer Geheimdienste sind, die Skandale aufdecken, und nicht die Institutionen selbst, ist für mich ein Alarmsignal. Noch verdächtiger finde ich es, dass es immer nur dann auffliegt, wenn das Geld aus Nicht-EU-Staaten kommt. Soll es wirklich nie Abgeordnetenbestechung von EU-Unternehmen? Das ist doch komisch. Bei so viel Macht und Geld MUSS es rein statistisch mehr Korruption geben, als berichtet wird. Die Loopholes sind so riesig, dass da jede:r Abgeordnete gemütlich durchspazieren kann. Bei so viel Dunkelheit muss die Dunkelziffer sehr hoch sein.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""belgische Justiz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allgemein"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommission"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geheimdienste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nicht-EU-Staaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Unternehmen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Darf ich nicht lieber eine Person zu einem Tortenessen einladen? Ich würde dann alle mal einladen, aber definitiv nie die Nazis und Nationalisten. Als Satiriker hätte ich dir die Tortenwurffrage vor fünf Jahren noch beantwortet. Aber jetzt weiche ich ihr einfach aus. Das hat die Politik aus mir gemacht!!! Am Anfang habe ich zumindest symbolisch auf die Milkshakes angespielt, die Nigel Farage von der Brexit Party im Wahlkampf ""erhalten"" hat. Hab gerade auf die schnelle kein besseren Link gefunden: [",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nigel Farage"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nationalisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Satiriker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brexit Party"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MeinNamewarvergeben,Und welche Torte würde Nico werfen,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElManuel93,Meinst du jede_r Parlamentarier_in oder alle Europäer_innen? :grinsendes_gesicht_mit_schweißtropfen: Bei letzterem könnte ich mir vorstellen dass es neben Torte auch Tote gibt :sich_die_augen_zuhaltendes_affengesicht: (erstickt an zu viel Torte),2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parlamentarier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europäer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Torte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tote"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nicosemsrott,"Dem Europaparlament das Initiativrecht geben, damit es selbst Gesetze starten kann. Genauso wie der Bundestag auch. Damit würden auch die Stimmen der Wählenden gestärkt. Und die Demokratie als Ganzes. Ansonsten: Nebentätigkeiten für alle gewählten Abgeordneten verbieten.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europaparlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundestag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählenden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nebentätigkeiten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"""Bist du stolz auf dich?"" * Nein. Weshalb sollte ich das sein? Ich habe nicht das geschafft, was ich mir vorgenommen habe. ""Würdest du anderen depressiven Menschen empfehlen, in die Politik zu gehen? Warum (nicht)?"" * Ich glaube, man kann sogar als depressiver Mensch in der Politik funktionieren. Es gibt sozusagen ""high functioning depressives"". Ich kann weder Empfehlungen noch Warnungen aussprechen, jede:r muss es für sich selbst entscheiden und ausprobieren und meistens lernt man schon vor dem Einzug in ein Parlament, wie Politik abläuft. Nämlich im Wettbewerb um die aussichtsreichen Listenplätze. Wenn man danach nicht aufgibt, ist das wohl was für Einen. Egal ob mit oder ohne Depression. Man kann ja psychische Probleme eh nicht zwingend voraussehen. Also: Alles mal ausprobieren. Politik ist grundsätzlich hart, weil es um Macht geht. Je mehr Macht, desto härter die Bandagen, mit denen gekämpft wird. ""Ich bin sehr traurig über dein Zerwürfnis mit Sonneborn. Wie blickst du heute darauf?"" * Ich glaube, das ließ sich nicht verhindern. Für mich steckt in dem Konflikt das grundsätzliche Spannungsfeld zwischen Satire/Kunst auf der einen Seite und Parlamentarismus/Politik auf der anderen. Beim Humor muss man keine Kompromisse machen, bei Politik muss man sie eingehen. Soll heißen: Am Ende können Künstler ihre Kunst gegenseitig doof finden, aber es ist egal, weil sie sich nicht einigen müssen. Politiker der selben Partei oder Fraktion müssen sich aber auf eine gemeinsame Position einigen, weil sie gemeinsam für etwas stehen. Und wir sind nun mal nicht nur Künstler, sondern auch Politiker. Ich will Martin Sonneborn gar nicht sagen, welche Witze er machen kann und soll. Ich will aber eben auch nicht dafür stehen müssen, wenn ich sie nicht gut finde. Und deshalb war mein Austritt folgerichtig. Das nicht aufzulösende Spannungsfeld zwischen ""Das ist doch nur ein Witz"" und ""Ich habe ein bisschen echte Macht und eine Vorbildfunktion"" bleibt ein Problem.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Martin Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2018"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Depression"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+M0ney2,"Hier will ich folgen, coole Fragen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Hier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""coole Fragen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ich habe mich und mein Können beim Antreten zur Wahl überschätzt, weiß dafür jetzt viel besser, was mir liegt und was nicht, was ich brauche und was nicht. Ich brauche zum Beispiel sehr viele Erfolgserlebnisse, um durchzuhalten, und je spielerischer etwas ist, desto besser bin ich. Je länger etwas dauert und je weniger Macht ich selbst habe über die Situation, in der ich bin, desto schlechter geht es mir. Und ich habe auch besser verstanden, was mir in zwischenmenschlichen Beziehungen gut tut und was nicht.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erfolgserlebnisse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+nicosemsrott,"Sympathisch finde ich eigentlich viele, selbst wenn ich ihre politischen Überzeugungen nicht teile. (Sympathisch trotz doofer Positionen? Ärgert mich selbst! ;) ) Politiker:innen sind, finde ich, oft umgänglich, sonst wären sie da meistens gar nicht gelandet. Aber ich habe persönlich nie die freundschaftliche Nähe, sondern extra immer die höfliche Distanz gewählt, damit ich gar nicht in (für mich in meiner teilnehmenden Beobachterrolle) unnötige Abhängigkeiten gerate. Es gibt beides: Eine starke Cliquenbildung nach Fraktionen und Ländern. Aber auch über die Grenzen hinweg, weil man in fünf Jahren sehr viel Zeit miteinander verbringt. Sowas wie den FC Bundestag kenne ich nicht. Aber es gibt im Parlament ein kleines Fitnessstudio (in dem ich auch nie war lol), vielleicht treffen sich da auch Abgeordnete?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Politiker:innen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""FC Bundestag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+simonfancy,"Danke für deine Arbeit, Nico! In dem Zusammenhang, was würdest du sagen wieviel Prozent der Abgeordneten dort Realpolitik / Lobbyismus betreiben und nicht nur die üppige „Aufwandsentschädigung“ abgreifen und hin und wieder an Abstimmungen und Ausschüssen teilnehmen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Realpolitik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lobbyismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Aufwandsentschädigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Abstimmungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausschüssen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bautznersenf,"""dass in 27 Staaten gleichzeitig gewählt wird, ist weltweit einzigartig und geil!"" USA hat Wahlen in 50 Staaten und mehreren Territorien",2024-05-15,de,de,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""27 Staaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""50 Staaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mehreren Territorien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Kann ich sehr gut nachvollziehen. Dass die Chefermittlerin ihren Posten räumt und etwas anderes ausprobiert, ist vielleicht nicht nur ein schlechtes, sondern auch ein gutes Zeichen. Es ist nämlich eigentlich nur das Sichtbarmachen von einem Problem, das ohnehin da ist. Und Sichtbarmachen ist gut! Indem die Chefermittlerin von Cum-Ex zum Verein Finanzwende gewechselt ist, ändert sie ihre Strategie. Sie versucht, auf die Politik einzuwirken, um Veränderung herbeizuführen. Etwas, dass sie vorher als Staatsanwältin aufgrund ihrer Rolle nicht tun konnte. Es geht also für alle, die etwas verändern wollen darum, die richtige Position in der Gesellschaft zu finden. Sie muss zu einem selbst passen und irgendwie gute Gefühle machen, am besten irgendwie sowas wie Wirksamkeitserlebnisse und Sinnhaftigkeit vermitteln. Ich antworte jetzt einfach mit meinen Überlegungen zu meinem eigenen politischen Handeln, weil da vielleicht Antworten drin stecken? Ich habe es als Jugendlicher mit ehrenamtlichen Engagement in Vereinen und ganz kurz auch in Jugendorganisationen von Parteien probiert. Dann habe ich Kabarettbühnen und Internetvideos ausprobiert. Dann jetzt fünf Jahre eine Parlamentsposition. Ich bin immer noch auf der Suche nach einem Ort, der das für mich sinnvoll erscheinen lässt. Aber ich werde weiterhin was ausprobieren. Und darum geht es glaube ich in erster Linie, selbst wenn man nicht ganz sicher ist. Wenn man Energie hat, kann man einfach weiter ausprobieren. Es gibt sehr viele Angebote unter Nichtregierungsorganisationen, wo man mitmachen kann und eine hohe Übereinstimmung mit den eigenen Idealen finden kann. Parteien sind leider Kompromissmaschinen. Da ist der Anspruch, sich komplett abgeholt zu fühlen, glaube ich, zu hoch. Es gibt nur ""eher gut"" und ""eher schlecht"". Das sagt mir jedenfalls mein Realismus nach 5 Jahren in einer Mega-Kompromiss-Maschine. Die Antwort fürs Engagement wie für alles im Leben ist glaube ich immer: Die richtigen Menschen. Also ist das engere, persönliche Umfeld schon der perfekte Ansatzpunkt! Wenn die Menschen passen, mit denen man an einem Ziel arbeitet, wird es gut. Wo die für dich richtigen Menschen sind? Keine Ahnung. Probier es aus und guck dir Projekte und Vereine an!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Chefermittlerin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cum-Ex"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verein Finanzwende"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsanwältin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jugendlicher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kabarettbühnen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Internetvideos"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlamentsposition"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nichtregierungsorganisationen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Projekte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vereine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,">Wie würdest du die Russlandnähe von *Die Partei* einschätzen? Ich habe den Eindruck, dass Russlandkritik eher unter den Teppich gekehrt wird, oder in Die Partei-Manier sich einfach über die Thematik lustig gemacht wird, anstatt sich tatsächlich mit den Inhalten auseinanderzusetzen. Ich glaube nicht, dass es zu irgendeinem Thema eine wirklich kohärente Position in Die PARTEI gibt, ich habe es damals jedenfalls nicht so erlebt. Viele Ortsverbände machen unabhängig das, worauf sie Lust haben und von was sie überzeugt sind. Und der Parteivorsitzende macht sowieso sein eigenes Ding. Wenn das mittlerweile anders ist, korrigiert mich in den Kommentaren! >Auch Die Linke ist aufgrund dieser Thematik für mich persönlich aktuell leider nicht mehr wählbar, wodurch ich noch sehr unentschlossen bin wie ich in den kommenden Wahlen meine Stimmen verteilen möchte. Hat der Angriffskrieg Russlands auch deine Sicht auf Parteien verändert? Ja, hat es. Vor allem unterscheide ich jetzt auch zwischen denen, die Ahnung haben und die, die weniger Ahnung haben. Bin jetzt eher der Meinung, dass man auf die Staaten hören sollte, die nah an Russland dran sind und schon immer gewarnt haben und nicht auf Frankreich oder Deutschland, die zwischen sich und Russland noch Pufferstaaten haben, zum Beispiel.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Die PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frankreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DerKev,"Ich möchte hier kurz erwähnen, dass Die PARTEI in der vergangenen Woche die ehemaligen russischen Konsulate in Deutschland besetzt hat! [für Link hier klicken ](",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Die PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russischen Konsulate"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vergangenen Woche"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nolog,"Martin Sonneborn (Spitzenkandidat der PARTEI) ist Erstunterzeichner des [Manifest für Frieden]( von Wagenknecht und Schwarzer. Ich glaube damit ist alles gesagt. Was die Linke angeht finde ich sie seit der Abspaltung von Wagenknecht durchaus wählbar, auch wenn ich ihnen beim Thema Russland nicht in allen Punkten zustimme. Bonus: Carola Rackete ist Spitzenkandidatin.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Martin Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Manifest für Frieden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wagenknecht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwarzer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Carola Rackete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LinqLover,Stimmen verteilen? Afaik hast du nur einer Stimme bei der EU-Wahl.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Nein. Als Künstler und Satiriker sollte ich nicht dauerhaft in so ein ""Team"" eingebunden sein. Aber ich kann mir vorstellen, für kurze Aktionen Mini-Bündnisse einzugehen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Künstler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Satiriker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,">1. Wie ist der Anteil von ""Abgeordnete machen ehrliche und gute arbeit"" vs. ""Abgeordnete machen quatsch und nutzen ihre Machtposition aus""? Gute Frage! Die Arbeit von Abgeordneten ist zu komplex, um das einfach beantworten zu können. Ich würde sagen, für alle gilt irgendwie eine Mischform mit unterschiedlich großen Anteilen. Die allermeisten machen ""ehrliche und gute Arbeit"" und auch ein bisschen Quatsch und nutzen wahrscheinlich auch in Teilen ein bisschen ihre Machtposition aus. Macht ist ja auch immer relativ. Man kann zum Beispiel als Abgeordneter im Parlament in der Opposition sein und wenig zu melden haben im Gesetzgebungsprozess und trotzdem fast absolute Macht haben über seine Mitarbeitenden. Und weil es so wenig Kontrollen in Budgets wie der Bürokostenpauschale gibt, gibt es hier sehr wahrscheinlich auch oft ein Ausnutzen der Machtposition. Verständlich, was ich meine? Es gibt sehr viele unterschiedliche Aspekte, die man hier betrachten kann. Und es ist ja auch eine Frage der Definition ""von ehrlicher und guter Arbeit"". Vermutlich ist es auch einfach ""ehrliche Arbeit"", wenn jemand für die Wirtschaft und gegen den Umweltschutz arbeitet, wenn er davon überzeugt ist, dass das richtig ist? Puh, die Welt ist echt kompliziert. Es wäre total unseriös hier eine einfach Antwort zu geben, also hier meine Antwort: 50% machen ehrliche und gute Arbeit und 50% machen Quatsch und nutzen ihre Machtposition aus. >2. Wie viele Bemühungen gibt es von den ""ehrlichen"" Abgeordneten Schabernack zu unterbinden? Verstehe die Frage leider nicht. Welche Art von Schabernack meinst du? >3. Glaubst du alle Machtstrukturen konvergieren immer in Richtung Korruption/Lobbyismus/Macht ausnutzen? Ja. Klar. Demokratie und Rechtsstaat funktionieren nach dem Prinzip der Machtteilung. Und zwar aus guten Gründen. Man muss sich das wie eine Waage vorstellen. Wenn es kein Gegengewicht gibt, fällt die Waage auseinander: Korruption. Deswegen ist es so wichtig, dass die Zivilgesellschaft und die progressiven Parteien für mehr Transparenz kämpfen und ein Gegengewicht stellen. >4. Könntest du dir ein besseres System vorstellen oder ist unseres schon gut, aber man müsste mal ordentlich draufhauen wenn Lausbuben in der Politik sich zu viel erlauben? Das System ist im Grund genommen gut, weil es veränderbar ist. Die Wahlergebnisse können sich ändern und damit auch das System. Ich wünsche mir logischerweise ganz andere Mehrheiten. Ich wünsche mir auch direktdemokratische Elemente, die das repräsentative System ergänzen und korrigieren.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Abgeordnete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Macht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Opposition"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Budgets"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bürokostenpauschale"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wirtschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Umweltschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zivilgesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""progressiven Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,">Wirst du auch außerhalb des EU-Parlaments politisch aktiv bleiben und wenn ja, in welcher Weise? Ja. Weiß ich noch nicht. Ich werde mich in irgendeiner Form weiter äußern. >Was hättest du die letzten 5 Jahre gemacht, wenn du nicht gewählt worden wärst? Die Depression hätte ich dank Corona wohl auch mitgenommen. Aber sonst wäre ich wohl weiter auf der Bühne und im Fernsehen gewesen, nehme ich mal an.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Corona"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bühne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fernsehen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Sehr viel Spaß. Bester Dreh meines Lebens. Der rowohlt Verlag hat eine Produktionsfirma beauftragt und die wiederum hat kameraerfahrene Kaninchen (kein Scheiß) gemietet. Ja, das waren Showkaninchen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""rowohlt Verlag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Produktionsfirma"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kameraerfahrene Kaninchen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Showkaninchen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Findest du das noch? Das würde ich gerne nochmal selbst angucken! Es ist schleichend passiert. Ich habe immer häufiger gespürt, wie wenig ich mit meinem Ansatz erreichen kann und als wie machtlos ich das EU-Parlament (relativ zu Kommission und Mitgliedsstaaten) empfinde. Vermutlich komplett die Fassung verloren habe ich, als es dem EU-Parlament und fast allen EU-Abgeordneten einfach egal war, dass es eine Diebstahlserie gab.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kommission"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mitgliedsstaaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ich freue mich, wenn am Ende jemand von den Grünen oder den Linken meinen Platz einnimmt. Wen von beiden ich selbst wähle, weiß ich noch nicht. Ich werde eine Münze werfen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Linken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tonjeglimmerdal,Bei den Vorträgen meinte er entweder Linke oder Grüne,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grüne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Glaubste dir wirds wieder besser gehen, sobald du aufhörst? - Aber hallo. Ja! Oder war es so ne krass soulcrushing Erfahrung, dass du glaubst aus dem Loch nich mehr rauszukommen? -Nein. Es gibt mindestens drei Ebenen: Die ""persönliche"", die ""parlamentarische"" und die ""globale"". Die globale wird aus meiner Sicht scheiße bleiben. Die ""parlamentarische"", die mir sehr schlecht getan hat, wird wegfallen, und die persönliche wird sich dadurch auch deutlich verbessern. Also gibt es auf zwei von drei Ebenen deutliche Verbesserungen. Was jetzt/dann? -Persönlich: Mal schauen :) -Politisch: Aktiv bleiben. Nur wieder in anderer Rolle. Und nie wieder in einem Parlament.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Glaubste"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""persönliche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""parlamentarische"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""globale"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Persönlich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politisch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Es ist als Problem erkannt und wird auch im EU-Parlament behandelt. Am Ende liegt es aber an den Nationalstaaten, da mit der jeweiligen Exekutive konkrete Maßnahmen zu treffen, die haben letztlich auch die ""Manpower"" dafür. Ich behaupte: Das wird in Estland z.B. ganz anders behandelt als in Irland, das deutlich weiter von Russland entfernt ist ... Ehrlich gesagt aber auch geraten und leider nicht meine Expertise.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nationalstaaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Exekutive"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Estland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Irland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Dass es die Europäische Union gibt, ist erstmal so krass. 27 Staaten, die sich auf gemeinsame Entscheidungswege geeinigt haben und sogar gleichzeitig Wahlen haben, ist ein Wunder. Die Europäische Union an sich ist so etwas wie die Vereinten Nationen, nur mit Macht. Bestes Demokratieexperiment auf diesem Planeten. Ich finde alles gut, wo sich Menschen bemühen um eine bessere Gesellschaft. Und davon gibt es so viel, selbst wenn es nicht immer Mehrheiten bekommt. Aber es gibt Verbesserungen: Ich finde es super, dass jetzt ab 16 gewählt wird. In der EU gibt es die besten Umweltstandards, die besten Verbraucherschutzstandards der Welt. Das ist nirgendwo besser. Die EU hat die Macht, auch riesige Konzerne wie Google oder Apple zu bestimmtem Verhalten zu zwingen. Das könnte ein einzelner EU-Staat alleine. Dass überhaupt über CO2-Emissionen gestritten wird, ist gut (das ist alles nicht ausreichend, aber so viel besser als das meiste, was auf diesem Planeten passiert). Ich habe Menschen um mich herum erlebt, die für ihre Themen gebrannt haben, denen es total wichtig war, wofür sie gestritten haben, Menschenrechte, Frauenrechte, Lieferkettengesetz, Nature Restoration Law, Plattformrichtilinie und sonst noch ganz viel Kram, der komplizierte Namen hat und sich vielleicht erst in zehn Jahren irgendwo im konkreten Leben von uns allen niederschlägt. Es gibt Leute, die gegen Korruption und für Transparenz kämpfen. Es sind die Menschen selbst, die bis tief in die Nacht in Verhandlungen sitzen und denen ich ihr Engagement abnehme. Sie sind überall, auch wenn sie und ihre Arbeit unsichtbar sind.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäische Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""27 Staaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Vereinten Nationen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Demokratieexperiment"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""ab 16"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Umweltstandards"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Verbraucherschutzstandards"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Google"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Apple"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""CO2-Emissionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Menschenrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Frauenrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Lieferkettengesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nature Restoration Law"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Plattformrichtilinie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Transparenz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+guenther_mit_haar,"Nicht Nico aber wusste zumindest, dass er jeden Cent sehr genau hier auflistet: [",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,">Auf die gefahr hin dass du das schon längst irgendwo beantwortet hast, interessiert mich was du eigentlich mit dem ganzen Geld gemacht hast? Dazu habe ich eine etwas längere Erklärung in meiner Youtube-Aufzeichnung, die in Kürze online geht. (Sorry, dauert etwas länger, deshalb.) >Ursprünglich wolltet ihr ja monatlich zurücktreten und das üppige Abgeordnetengehalt wäre unter vielen Parteimitgliedern verteilt worden aber das ging ja dann nicht. Das hatte Martin Sonneborn für 2014 angekündigt, weder er noch ich haben das zur Wahl 2019 angekündigt. >Ich weiß nicht wie viel du vorher als demotivationstrainer, komiker, kunstschaffender, wie auch immer du dich selbst bezeichnen würdest verdient hast, aber plötzlich 10.000 euro im monat zu bekommen war sicher eine ganz schöne Umstellung. Hattest du überhaupt eine sinnvolle Verwendung für die ganze Kohle? Ja. Unter anderem: Anwaltskostentopf (sicherheitshalber, falls ich noch Ärger vom Parlament bekomme), Spenden, Depressionsvorsorge, Altersvorsorge, Aufzeichnung der Show, die in Kürze online geht. >Wenn nicht, schick mir ne PN und ich geb dir meine Bankverbindung Danke fürs Angebot, aber da waren andere schneller!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Martin Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2014"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2019"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10.000 euro"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anwaltskostentopf"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spenden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Depressionsvorsorge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Altersvorsorge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Bankverbindung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Je länger die Entwicklung z.B. in der AfD dauert, desto mehr Leute sind leider wirklich überzeugt als opportunistisch, glaube ich. Das macht sie noch gefährlicher. Bei den Geldgebern dahinter kann ich mir auch gut vorstellen, dass die Menschenfeindlichkeit mit dem eigenen wirtschaftlichen Erfolg zusammenhängt, wobei nicht klar ist, was die Henne und was Ei war. Das ist aber geraten.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geldgebern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Menschenfeindlichkeit"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""eigenen wirtschaftlichen Erfolg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ja. Ich habe in einem ""geheimen Leseraum"" Dokumente angeguckt, über die ich unter Androhung von Strafe nichts erzählen darf. Durfte auch kein Handy mit dabei haben und nichts mitschreiben. Das eine war aus meiner Sicht brisant, das andere egal.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""geheimen Leseraum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Weiß man ja nicht, aber es gibt Indizien. Je wirtschaftnäher eine Partei, desto wahrscheinlicher, weil es mehr Berührungspunkte gibt. Ich glaube, je mehr Leute Nebentätigkeiten haben, desto wahrscheinlicher wird es. Hier eine aktuelle Übersicht von Transparency International sortiert nach politischen Fraktionen im Europäischen Parlament: [ NA: Fraktionslose EKR: Europäische Konservative und Reformer (mit der Meloni-Partei und der PiS-Partei) EVP: CDU & CSU & co RE: FDP & co ID: AfD & co S&D: SPD & co Greens / EFA: Grüne und co The Left: Die Linken und co",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Transparency International"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europäischen Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EKR"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europäische Konservative und Reformer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meloni-Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""PiS-Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EVP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CDU & CSU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""RE"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDP & co"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ID"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD & co"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""S&D"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SPD & co"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Greens / EFA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grüne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""The Left"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die Linken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+geeiamback,"Anschlussfrage: [Welches Kaninchen im Video ""Interview mit Kaninchen"" war das korrupteste?](",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Anschlussfrage"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Welches Kaninchen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Video"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Interview mit Kaninchen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Son Typ, der versucht, mit traurigen Sachen Menschen zum Lachen zu bringen und dann mit dem Ansatz ins Europäische Parlament gewählt wurde und dann selbst ganz traurig geworden ist.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Son Typ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europäische Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,Die wollen die Demokratie abschaffen und Gewalt anwenden. Also ja.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gewalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nicosemsrott,"Keine Ahnung, ob ""wir"" das schaffen. Wer ist ""wir""? Die Superreichen schaffen es bestimmt. Das Schöne an Geschichte ist, dass es immer Überraschungen gibt, auch positive. Natürlich müssen wir alle was dafür tun. Und es reicht, wenn sehr viele Leute sehr wenig tun statt nichts. Der Unterschied ist im Vergleich enorm! Wir sollten unsere Gesellschaft radikal verändern. Aber im Gegensatz zu den Nazis bin ich nicht für weniger Demokratie, sondern für mehr Demokratie.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Superreichen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Geschichte"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+TheBamPlayer,"Das selbe würde ich mal meinen alten Mathelehrer fragen, der ist immer mit dem gleichen Pullover rumgelaufen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Mathelehrer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pullover"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Die Büros der Abgeordneten haben ihre eigenen Toiletten mit Waschbecken, deshalb: keine Ahnung.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Abgeordneten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,">Teil der EU Kritik von links ist ja, dass das EU Parlament eher wenig Einfluss nehmen kann; deine Kritik an der Funktionsweise des EU Parlaments (Lobbyismus, Korruption, Geldverschwendung...) macht da jetzt aber nicht wahnsinnig gute Werbung dafür, die europäische Einigung zu vertiefen? Nein, das Gegenteil ist, glaube ich, der Fall: Mehr Macht bedeutet auch größeres öffentliches Interesse. Größeres öffentliches Interesse bedeutet mehr Kontrolle. Ich würde die Kritik genauso äußern, wenn ich ein paar Jahre im Bundestag oder im Nationalrat oder im FIFA-Vorstand verbracht hätte, nur dann eben mit passenden Beispielen. Das Problem ist nicht die EU, sondern schlecht kontrollierte Macht. >Wenn du z.b. das Bild erzeugst dass da nur Leute rumsitzen die sich legal die Taschen vollstopfen wollen, da bin ich doch froh, dass das Parlament keine vollen Rechte hat wie es ein nationales Parlament hätte? Was glaubst du, wie es in anderen Parlamenten aussieht ;) ? Im Schweizer Nationalparlament sind die Abgeordneten nicht mal angehalten, ihre Nebentätigkeiten anzugeben. Das ist freiwillig. Also noch schlechter geregelt als im EU-Parlament!!! Hier die Quelle: [ >Ist die korrekte Antwort auf deine Videos, ich habe sie leider nicht alle gesehen, nicht, grössere EU Skepsis, Rückkehr zu Nationalstaaten, etc etc? Den Schluss kann man ziehen. Aber ich glaube, wenn man als Rechter diese Videos guckt, wird man danach nicht links, wenn man als Linker die Videos guckt, nicht plötzlich rechts. Die Analyse ist ja erstmal, dass es Machtmissbrauch gibt, der auch ausdrücklich möglich gemacht wird. Was ist die Folge daraus? Man kann sagen, Option 1: Alles abschaffen! Aber was tritt an die Stelle? Nichts, das grundsätzlich besser läuft, im Gegenteil, siehe United Kingdom / Vereinigtes Königreich! Option 2: Das, was da ist, deutlich besser machen! Und dafür eben linke, progressive Parteien wählen, die das auch wollen. >Gerade wenn du so Dinge schreibst wie alle Länder ausser DE, F und IT haben eh nix zu melden, sollten sich also die anderen von der EU abwenden? Nein. Dafür streiten, dass das EU-Parlament mehr Macht bekommt und die Nationalstaaten weniger! >Mir macht diese Entwicklung Sorgen. Sorry, dass das so unfokussiert ist, vielleicht magst du mir einfach deine Gedanken dazu schreiben. Grüsse aus der Schweiz! Grüße zurück!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Funktionsweise des EU Parlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lobbyismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geldverschwendung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bundestag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nationalrat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FIFA-Vorstand"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schweizer Nationalparlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""United Kingdom"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Vereinigtes Königreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""DE"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""F"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""IT"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nur_so_ein_Kerl,"""Wenn du z.b. das Bild erzeugst dass da nur Leute rumsitzen die sich legal die Taschen vollstopfen wollen, da bin ich doch froh, dass das Parlament keine vollen Rechte hat wie es ein nationales Parlament hätte?"" Führt nicht gerade ein Parlament in dem die Parlamentarier keinen echten politischen Einfluss haben aber viel Geld bekommen dazu, dass vor Allem Leute ohne politischen Ziele, die aber Bock auf Geld haben in das Parlament gehen, während wenn die Parlamentarier mehr politischen Einfluss hätten, mehr Leute antreten würden, die tatsächlich was politisch bewegen wollen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlamentarier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ich finde, es gibt viele, die inhaltlich gute Arbeit machen, aber deren Social-Media-Kanäle überzeugen mich selten und ich kann da jetzt ehrlicherweise aus dem Stegreif nicht wirklich welche empfehlen, sorry. Aber ich guck mir das nochmal durch und reiche das evtl. auf meinem eigenen Insta-Kanal in der Story nach ...",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Social-Media-Kanäle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Insta-Kanal"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Story"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Wahlrecht ab 16 ist gut. Konkrete Idee: Europäische Bürgerinitiative verbindlich machen. Wenn z.B. 50 Millionen Unterschriften gesammelt wurden, muss etwas europaweit abgestimmt werden. Zack, plötzlich gibt es eine europäische Debatte zu einem europäischen Thema. Bin auch dafür, themenbezogen sowas auf Bundesebene einzuführen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäische Bürgerinitiative"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""50 Millionen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesebene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ehrlich gesagt, glaube ich, dass beide privat lustig sind und sehr viel Spannendes zu erzählen haben. Ich muss ganz viel nicht gut finden von dem, was sie entschieden haben, aber ich glaube, sie sind gute Politikerinnen, im Sinne von: Sie beherrschen das Spiel.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""glaube"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""beide"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""privat"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spannendes"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Politikerinnen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+nicosemsrott,"Ich denke, Satireparteien kommen erst ins Spiel, wenn Menschen schon enttäuscht sind. Ich glaube nicht, dass sie zur Enttäuschung beitragen. So viel Macht haben sie gar nicht. Schaffen sie grundsätzlich einen Mehrwert? Keine Ahnung, das müssen letztlich die Menschen entscheiden, die sie wählen. Sind ein oder zwei Satire-Abgeordnete demokratiezersetzend? Wohl kaum! Braucht es mehr davon? Bestimmt auch nicht.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Satireparteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Macht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mehrwert"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Satire-Abgeordnete"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demokratiezersetzend"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mehr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jojo_31,"Die Antwort auf Missstände sollte deiner Meinung nach also sein, sie nicht aufzuzeigen? Überhaupt haben Satireparteien doch auch ein Programm und setzen sich mit den Themen auseinander. Ist doch nicht so als ob die nicht abstimmen würden oder ja/nein würfeln.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Missstände"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Satireparteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BecauseWeCan,Eine Anschlussfrage: Denkst du mit dem destruktiven Ansatz mehr zur Verteidigung der Demokratie beitragen zu können als mit einem konstruktiveren Vorgehen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Anschlussfrage"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"An den Mitgliedsstaaten, die sich nicht einigen können. Das EU-Parlament kann nix machen. Besser erklären als die Tagesschau kann ich es auch nicht, siehe unten auf dieser Seite: [",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tagesschau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bruetelwuempft,"> Sommer- und Winterzeit Das heißt Sommer- und Normalzeit. ""Winterzeit"" ist ein reiner Kampfbegriff!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sommer- und Winterzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sommer- und Normalzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ja, war mir zu nah an der Realität. Habe ich nur wenige Folgen ausgehalten.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Realität"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nicosemsrott,"Wir wissen alle gar nichts. Ich hatte nach zwei Jahren mit zwei Abgeordneten genau darüber diskutiert und wir beiden jüngeren waren uns einig, dass wir das alles nicht richtig verstehen würden. Der Abgeordnete, der schon 15 Jahre drin meinte, ihm ginge das immer wieder auch so.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zwei Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zwei Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordnete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""15 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,Triceratops. Davon hatte ich als Kind eine Spielfigur.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Triceratops"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Davon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Nein. Ich bin nicht fürs Parlament gemacht, weil mir Talente fehlen wie Durchsetzungskraft, Ausdauer und Wachbleiben in langweiligen Sitzungen. Ich brauche Erfolgserlebnisse in meinem Leben.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nein"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Talente"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Durchsetzungskraft"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ausdauer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wachbleiben"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sitzungen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Erfolgserlebnisse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+nicosemsrott,"Das ist schwer messbar. Ich hoffe, ich habe ein paar Leute getröstet und ein paar Impulse gegeben, dass in Sachen Transparenz es irgendwann und irgendwie Verbesserungen gibt. Ganz selten bin ich froh darüber, dass ich das Mandat ganze fünf Jahre durchgezogen habe, obwohl es mir zwischenzeitlich sehr schlecht ging. Stolz ist es aber nicht.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ein paar Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Transparenz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""fünf Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Ich verstehe das Problem und habe lange mit mir gehadert und mich schuldig gefühlt. Vielleicht wäre ich auch zurückgetreten, wenn ich gewusst hätte, dass da jemand nachrückt, der die Arbeit klassisch macht. Aber dafür gab es eben durch Die PARTEI keine Garantie. (Nachrückende wären immer von Die PARTEI gewesen). Ich sehe eine geteilte Verantwortung zwischen mir und den 900.000 Menschen, die mich mit reingewählt haben und ziemlich genau wussten, dass sich weder Sonneborn noch Semsrott im Fischereiausschuss um die Fangquoten kümmern. Ich finde, es war den Versuch wert, alternativ zu arbeiten und mehr Öffentlichkeit reinbringen zu wollen. Aber nach fünf Jahren bin ich dafür, dass statt mir jemand reinkommt, der sich dann auch wirklich im Gesetzgebungsprozess einbringt. Öffentlichkeit und Stören und Experimente sind total wichtig. Aber ich bezweifle mittlerweile, ob ausgerechnet das EU-Parlament der richtige Ort dafür ist.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Die PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Semsrott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fischereiausschuss"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Im Parlamentsportal fülle ich einen Reisekostenantrag aus, insofern handelt es sich um Reisekostenerstattung. Und auch auf der Abrechnung setzen sich die Reisekosten eben auch aus den beiden Pauschalen zusammen, deswegen passt die Darstellung für mich total. Man bekommt irrsinnig viel Geld, ohne Ausgaben zu haben. Das ist einfach frech.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parlamentsportal"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reisekostenantrag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reisekostenerstattung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abrechnung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pauschalen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+xrimane,"Ernstgemeinte Frage: Wozu soll eine Zeitaufwandvergütung nötig sein, wenn man bereits eine auskömmliche Diät für seinen Dienst erhält? Und was vergütet eine Entfernungspauschale, wenn sowohl der Zeitaufwand als auch der Transportaufwand bereits abgegolten sind?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Ernstgemeinte Frage"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeitaufwandvergütung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Diät"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Entfernungspauschale"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Transportaufwand"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DasSchiff3,N.S. ist schon vor 3 oder vier Jahren aus der Partei Die PARTEI ausgetreten wegen Differenzen mit Martin.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""N.S."",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3 oder vier Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Martin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,Aus Versehen. Hier die Antwort :) [,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Aus Versehen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Kenne ich nicht. Habe ich, glaube ich, nie gehört. Erschütternd, oder? Sorry.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kenne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nie gehört"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erschütternd"",
+        ""entity_type"": ""SENTIMENT"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nicosemsrott,"Nein. Ich wurde schon vor vielen Monaten angefragt, als es das Buch noch gar nicht gab und habe den Termin kurz vor der Europawahl vorgeschlagen, weil das Thema EU mal kurz im Fokus steht. Und das Buch ist in dem Kontext sozusagen auch Mittel zum Zweck: Medienlogik bedeutet, dass ich Aufmerksamkeit bekomme, wenn es ein Buch gibt. Und ich möchte Aufmerksamkeit für meine Themen: Schlecht kontrollierte Macht und Korruption als Probleme, Transparenz und mehr Mitbestimmungsmöglichkeiten als Antwort. >Hast du schon Pläne was du nach der Amtsperiode arbeitest? Nein, ich lasse erstmal alles auf mich zukommen. Ich möchte mal für eine Zeit keinen Druck spüren. Ich habe das Gefühl, ich mache es wie mit einer Schneekugel, bei der der Schnee erstmal sinken muss, damit ich mich in Ruhe umgucken kann. >hattest du jemals das Gefühl oder einen konkreten Verdacht, dass dich jemand bestechen möchte, oder glaubst du aufgrund deiner Bekannten Einstellung ist nie jemand auf dich zugegangen? Ich wurde mal von einem Lobbyisten zum Weintrinken zu sich nach Hause eingeladen, aber ich spürte leider (?) zu viel körperlichen Widerstand, um das mal auszuprobieren. Ansonsten hatte ich wenig mit Lobbyisten zu tun, weil ich keine Einladungen angenommen habe und auch, weil ich nicht Mitglied in gesetzgebenden Ausschüssen wie Agrar oder Industrie war. Sondern Haushaltskontrolle und Petitionen. >wie viel Urlaubstage hat man als Abgeordneter im EU Parlament und kann man die wann immer man möchte nehmen? Muss sowas mit irgendwem besprochen werden? Freies Mandat bedeutet, man darf alles selbst bestimmen. Theoretisch kann man also 5 Jahre wegbleiben und trotzdem Gehalt bekommen. Dafür würde man aber ordentlich Ärger bekommen von den Kollegen. Dürfte man aber.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europawahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Medienlogik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Macht und Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Transparenz und mehr Mitbestimmungsmöglichkeiten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Schneekugel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lobbyisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Weintrinken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haushaltskontrolle und Petitionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordneter im EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freies Mandat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kollegen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+42robots42,"Die richtige Frage ist nicht ob es ""Anfragen zur Lobbyarbeit"" gab, sondern wie viele es im Monat gibt.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Anfragen zur Lobbyarbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+42robots42,er gehört zur Fraktion der Grünen,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EquivalentPlane6095,"Oh, Habe gerade gelesen dass die Frage schon mehrmals beantwortet wurde!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Habe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Nein, ich trete nicht nochmal an. [",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nein"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RemindMeBot,I will be messaging you in 1 day on [**2024-05-16 10:53:08 UTC**]( to remind you of [**this link**]( [**13 OTHERS CLICKED THIS LINK**]( to send a PM to also be reminded and to reduce spam. ^(Parent commenter can ) [^(delete this message to hide from others.)]( ***** |[^(Info)]( Reminders)]( |-|-|-|-|,2024-05-15,de,en,"[
+      {
+        ""entity"": ""1 day"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2024-05-16 10:53:08 UTC"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dramatic_Prior6378,"""Und versuche, dich wohlzufühlen. Damit hilfst du dir und damit auch der Sache am meisten!"" Dies! Denn das ist der beste garant, dass man nicht nach 2 Jahren ausbrennt und nix mehr macht.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""2 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StrikingJuice2201,Danke für die Antwort. Hoffentlich kannst du dich nach Europa auch mal etwas ausruhen.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ukezi,"Denkst du, dass die Geheimdienste, bzw. jene die über die Veröffentlichungen bestimmen einfach kein Problem mit inländischen Bestechungen haben oder selbst bestochen sind?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Geheimdienste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""inländischen Bestechungen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Lachimanus,In Deutschland definitv tote bei den Spitzenpolitikern.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spitzenpolitikern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Training-Accident-36,"Tja, dann bin ich halt ersatzweise bisschen stolz auf dich :) Ich habe mal bei einem ganz tollen Komiker gelernt, dass wir alle ein bisschen mehr Scheitern sollten. Zieh dir den Clip mal rein: [",2024-05-15,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Komiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ddombrowski12,"Naja, nur weil du deine Ziele nicht erreicht hast, hast du ja nicht nichts gemacht. Gibt es da nichts, was dir in seinen Konsequenzen gefallen hat? Danke für die ausführlichen Antworten.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Naja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ziele"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Konsequenzen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wolkenbaer,"Danke für die Antworten, insbesondere für die zu Sonnenborn. Da hätten sich wohl viele gedrückt. Du hast aber nicht nur geantwortet, sondern eine sehr nachvollziehbar begründete und angemessen neutrale Aussage gegeben, ohne dabei Inhaltsleer zu bleiben.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Sonnenborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+twitterfluechtling,"> > ""Bist du stolz auf dich?"" > Nein. Weshalb sollte ich das sein? Ich habe nicht das geschafft, was ich mir vorgenommen habe. Der Spagat zwischen Vorbild und Zurückhaltung :-) (Oder tatsächlich die hohe Kunst, unglücklich zu sein; damit meine ich nicht Depressionen, sondern negatives Denken.) Wer alle seine Ziele erreicht, hat sich wahrscheinlich keine ambitionierten Ziele gesetzt. Ich denke, wer sich bemüht, ohne Egoismus *das Richtige^(TM)* zu tun, und regelmäßig über sein Handeln reflektiert, darf (und sollte) Stolz auf seine eigene Integrität sein. Das sollte man öffentlich befürworten und ruhig auch für sich selbst in Anspruch nehmen, inklusive Nennung der Ausnahmen, auf die man dann mal eher nicht so Stolz ist. Es gibt keine preiswerteres Instrument, um Leute zu motivieren, sich um moralisches Handeln zu bemühen, als ihnen einfach zuzugestehen, dann auch Stolz darauf zu sein. Und es als Person im Rampenlicht dann auch vorzuleben. Und das schöne Gefühl, Stolz zu sein, denen zu überlassen, deren einzige Leistung es ist, geboren zu sein und Eltern der ""passenden"" Nationalität zu haben (oder einem Verein hinterher zu laufen, der sportlich was leistet), macht es denen leichter, zu rekrutieren. Das kann kein anständiger Mensch wollen. Ich denke, Du kannst Stolz auf Dich sein. Ich habe den Eindruck, Du hast Dich bisher nicht korrumpieren lassen, und bist immer noch auf der Suche nach Möglichkeiten, etwas zum Positiven zu verändern. Du führst Leute an die Politik heran, steigerst Politisches Engagement, und arbeitest an Dir selbst. (Und um nicht zu sehr als Speichellecker da zu stehen, das Gleiche würde ich auch über Sonneborn denken :-) Unabhängig davon, dass ich in einigen Bereichen weder mit Deiner noch mit Sonneborns Meinung übereinstimme.)",2024-05-16,de,de,"[
+      {
+        ""entity"": ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nationalität"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+memo9c,"Super Antwort, danke dafür!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Super Antwort"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+CertainDeath777,"sonneborns reflexhafte ablehnung von allem was mit krieg zu tun hat ist ja auch süß... als würde das alles vorbeigehen, wenn man nur den kopf in den sand steckte...\^\^",2024-05-15,de,de,"[
+      {
+        ""entity"": ""sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""krieg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kimmenwerkel_stefan,"> gleichzeitig Die bekommen das aber auch nicht hin, es ist jedes Mal zum Heulen",2024-05-15,de,de,"[
+      {
+        ""entity"": ""jedes Mal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Relkny,Danke für die Antwort und das gesamte AmA!,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""AmA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Snoo_80014,Sonneborn hat mich deswegen übrigens bei Twitter geblockt,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Twitter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+datboitotoyo,"Die Wagenknecht macht mich so fertig mit ihren Rufen nach Frieden, die zufällig mit einem Stopp für Waffenlieferungen an die Ukraine einhergehen, so als würde man Häusliche Gewalt dadurch beenden können indem man der Frau die Hände hinter dem Rücken zusammen bindet damit sie sich nicht wehrt. Die BSW ekelt mich an.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wagenknecht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frieden"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Ukraine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Häusliche Gewalt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""BSW"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+spralakentochta,"BSW ist in dieser Hinsicht wesentlich katastrophaler, aber die Linke ist nicht viel besser. Das ist der einzige Bonus.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""BSW"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dramatic_Prior6378,"""Martin Sonneborn (Spitzenkandidat der PARTEI) ist Erstunterzeichner des [Manifest für Frieden]( von Wagenknecht und Schwarzer. Ich glaube damit ist alles gesagt."" Jep. War für mich der Impuls der zum Austritt geführt hat.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Martin Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Manifest für Frieden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wagenknecht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwarzer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+divadschuf,"Klar, ist die Linke dadurch wählbarer geworden, aber trotzdem hängen sie bei mir in der Gegend noch Plakate auf, dass Deutschland abrüsten soll. Sorry, aber das ist einfach realitätsfern. Klar wäre eine Welt ohne Waffen toll, aber der Angriffskrieg auf die Ukraine hat uns doch gezeigt, dass wir und und unsere Werte auch verteidigen können müssen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ukraine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+J3ditb,in vielen Ländern sind noch Kommunalwahlen,2024-05-15,de,de,"[
+      {
+        ""entity"": ""viele Länder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommunalwahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheSteveGarden,">kommenden Wahlen Plural, weil ja auch Bundestagswahl 2025 oder Kommunal-/Länderwahlen",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Bundestagswahl 2025"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommunal-/Länderwahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+evilevidenz,"Danke für die Antwort :). Zu 2., mit ""Schabernack"" meine ich Korruption/Keine Kontrolle bei Kostenerstattungen/Nebenberuflich in diversen Firmen tätig sein etc., was einem so alles einfallen kann.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""2."",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schabernack"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Keine Kontrolle bei Kostenerstattungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nebenberuflich in diversen Firmen tätig sein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+W4ta5hi,Lustig. Danke für die Antwort :),2024-05-15,de,de,"[
+      {
+        ""entity"": ""Lustig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Training-Accident-36,[ Das sollte das Interview mit Hazel Brugger gewesen sein?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Hazel Brugger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GnuRip,"Ich habe ein Video gefunden, bei dem du erwähnst dass du sogar freiwillig vor 9 anfängst. Ich meine aber es gab noch mehr eindeutigere Aussagen in der Richtung von dir, die konnte ich noch nicht finden.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Video"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""9"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+georgikarus,Stört dich an den Linken nicht das Anbiedern an Russland?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Linken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DeQQster,"Warum keine Kleinpartei wie Volt? Lässt sich doch bei der EU Wahl gut machen. Und mach bitte weiter Comedy. Hab dich damals mal auf der Fusion im Palast gesehen, hab den Humor echt gefeiert. Kannte dich bis dahin nur aus der Heute Show.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fusion"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Palast"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Humor"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Heute Show"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dont_drink_and_2FA,Das klingt gut. Alles Gute fuer die Zukunft :) ma schauen wat kommt. hf gl,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alles Gute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Zukunft"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ma"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hf"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BaDTimeeee,"Vielen Dank, Nico! Mach dir 'nen schönen Tag!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+myrthain,:nach_oben_weisender_zeigefinger_von_hinten: Der Upvote Pfeil reicht hier nicht. Danke für diese Sichtweise und Antwort!,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Upvote Pfeil"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wert-16,"Hast du den Kapuzenpulli jemals abgelegt, oder bist du mit ihm geboren worden wie mit einem Exoskellet?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kapuzenpulli"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Exoskellet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DasSchiff3,Scheint aber nach 2021 nicht mehr wirklich verfolgt worden zu sein,2024-05-15,de,de,"[
+      {
+        ""entity"": ""2021"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Vermutlich das, was meine ""Nähe"" gesucht hat. Ich will sie nicht verpfeifen, aber sie hieß Fay. (Hier das Video:",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Fay"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bannerlord151,"Hm, interessant. Und traurig",2024-05-15,de,de,"[
+      {
+        ""entity"": ""interessant"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""traurig"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+georgikarus,"Was empfiehlst du dem Durchschnittsbürger, der nicht in einer Großstadt wohnt, zu machen? Meine Freunde und ich fühlen uns sehr hilflos",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Durchschnittsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Großstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freunde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Training-Accident-36,"Vielen lieben Dank für die Antwort! Ich fühle mich als EU-Befürworter in der Schweiz etwas alleine gelassen, in den letzten Jahren bildete sich ein breiter Konsens der die EU Mitgliedschaft ablehnt und sich ganz auf bilaterale Verträge festlegen will. Ich glaube mit einer demokratischeren EU die mehr Bürgerpartizipation ermöglicht würde die europäische Idee auch in der Schweiz ein bisschen mehr Anklang finden. Es ist definitiv etwas wofür sich zu kämpfen lohnt, auch wenn wir Schweizer da keinen Einfluss nehmen können. Ich wünsche dir alles Gute in der Zukunft, und vielleicht trittst du ja mal wieder live vor einem Publikum in meiner Nähe auf ;)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schweizer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Training-Accident-36,"Das ist eine legitime Antwort, die Nico auch geben darf ;) Doch umgekehrt ist ein mächtiges Parlament ein begehrteres Ziel für Lobbyismus... die Logik geht in beide Richtung und ist alles in allem Spekulation. Um es mal so zu sagen, die Chinesen kaufen sich nicht die Abgeordneten im Kantonsparlament Nidwalden.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lobbyismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Chinesen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kantonsparlament Nidwalden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wolkenbaer,"Wow, tolles AMA. Bin jetzt hier bei der letzen Antwort von dir angekommen. Vielleicht hast Du im Parlament nicht das erreicht was Du wolltest, aber ich glaube Du hast doch einigen das Parlament sichtbarer gemacht! Weiterhin viel Erfolg und alles Gute.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""AMA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nur_so_ein_Kerl,"Wenn ich mich richtig erinnere bezeichnete sich die PARTEI bei ihrer Gründung als eine ultrapopulistische Partei, die inhaltlich in jedem Punkt einfach ihrer Mitgliedermehrheit folgen wollte und Sonneborn erklärte ursprünglich im EU-Parlament bei jeder Frage einfach abwechselnd mit JA und NEIN abzustimmen. Wobei sich das insbesondere in den letzten \~5 Jahren durchaus geändert hat, Nico Semsrott ist auch Mitglied der Grünen Fraktion im EU-Parlament.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nico Semsrott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""~5 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünen Fraktion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pseudynom,> Ist doch nicht so als ob die nicht abstimmen würden oder ja/nein würfeln. Doch:,2024-05-15,de,de,"[
+      {
+        ""entity"": ""abstimmen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Niautanor,Warum dann nicht gleich Normalzeit und Unnormalzeit?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Normalzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unnormalzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DaComfyCouch,"In dieser Diskussion ist ""Normalzeit"" eher als Kampfbegriff zu bezeichnen als ""Winterzeit"". Da egalisiert die abweichende Bezeichnung die Situation eher.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Normalzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Winterzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xrimane,"So ein Blödsinn. Ich habe in meinen fast 50 Jahren nie was anderes im Alltag gehört als ""Winterzeit"".",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Blödsinn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""50 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Winterzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pandora3107,"Danke für deine Antwort. Für mich hast du mir regelmäßig einen ganz anderen Blick auf das europäische Parlament geliefert. Ich bin froh, dass du es durchgehalten hast. Danke für deinen Einsatz!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""europäische Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Shiros_Tamagotchi,Danke für die Antwort!,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Levikus,Durch dich habe ich mich mehr mit dem EU-Parlament auseinander gesetzt als ohne dich. Daher ist das definitiv ein Gewinn!,2024-05-16,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+wifirepetitor,"Hallo Nico, Ich-ab so gelacht uber diese antwort, echt genial (fur dieses post hast du dein lohn echt verdient im EU parlament) bin elektriker, technicker und Ingenieur von beruf, echt super (gruse aus Slowenien).",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Slowenien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xrimane,"Das ist jetzt die einzige Antwort in diesem AMA, die mich wirklich unvorbereitet trifft.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""AMA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mamuschkaa,"Ich denke, dass auch viele Geheimdienste einfach nicht innerhalb der EU spionieren. Wenn Korruption mit ausländischen Akteuren aufgedeckt wird, dann weil der ausländische Akteur überwacht wird, nicht der inländische Politiker. (Ich habe keine Ahnung wie die Geheimdienste Arbeiten, das ist eine Reine Mutmaßungen)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Geheimdienste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ausländischen Akteuren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ausländische Akteur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""inländische Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bautznersenf,Was meinst du? Wahltag ist in allen Staaten am selben Tag.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wahltag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""allen Staaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Es gibt viel Bemühungen bei den Linken, Grünen und teilweise den Sozialdemokraten, Missbrauch und Korruption zu bekämpfen. Weniger beim Rest. Das spiegelt sich eben auch in den Nebentätigkeiten der Abgeordneten wieder. Linke und Grüne haben die wenigsten, die rechten und Konsverativen am meisten.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sozialdemokraten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Missbrauch und Korruption"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nebentätigkeiten der Abgeordneten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rechten und Konservativen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Drumminganimal,"Soweit ich das mitgekriegt habe ist das seit dem Austritt von Wagenknecht und Co. ein gutes Stück zurück gegangen. Ich glaube, so wirkliches Anbiedern ist da jetzt nicht mehr vorhanden, eher naiver/falsch verstandener Pazifismus.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wagenknecht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Austritt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anbiedern"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pazifismus"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Chrome2105,Die sind wie die FDP nur in europäisch so wie ich das verstehe,2024-05-15,de,de,"[
+      {
+        ""entity"": ""FDP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+geeiamback,Danke das du dir die Zeit genommen hast auch diese triviale Frage zu beantworten. :hasengesicht:,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""triviale Frage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aksdb,"Im Sinne von ""was machen mit den ganzen AfD Wählern um mich herum"" oder im Sinne von ""was sollen wir denn sonst wählen""?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+420Moonrocks,"Von mir auch, hätte nie gedacht dass du auf alle Fragen geantwortet hast. Danke einfach für alles und ich werde dich auf jeden Fall weiter verfolgen! :zwei_erhobene_handflächen: (No creep :grinsendes_gesicht_mit_schweißtropfen:)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Von mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""alles"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Rymayc,Ich bin für nicht-binäre Zeit. Wir stellen einfach jeden Monat eine Stunde zurück,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nicht-binäre Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jeden Monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aggressive-Remote-57,"Auch Europäische Staaten spionieren sich ständig gegenseitig aus. Viel wird auch miteinander geteilt, so kommt es oft zu Fremdaufdeckungen, zu denen man selbst nie gekommen wäre, ohne Bürgerrechte zu verletzen. Wenn dir der z.B. französische Geheimdienst eine Terrorwarnung steckt, bist du da als BND wahrscheinlich recht froh darüber.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäische Staaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BND"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""französische Geheimdienst"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Terrorwarnung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kimmenwerkel_stefan,"Aus Wikipedia: > Most states allow early voting, letting voters cast their ballots before Election Day. Early voting periods vary from 4 to 50 days prior to Election Day. Unconditional early voting in person is allowed in 32 states and in D.C. In the 2008 presidential election, 30% of votes were early votes. > In 29 states, postal votes must be received on or before Election Day. Other states have later deadlines, with California election law allowing mailed in ballots to arrive at the elections office up to 17 days after Election Day. Some states, like Texas, give overseas and military voters extra time to mail in their ballots.",2024-05-16,de,en,"[
+      {
+        ""entity"": ""Wikipedia"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""32 states"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""D.C."",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2008"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""29 states"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""California"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""17 days"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Texas"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Chrome2105,naiver Pazifismus ist (zumindest für mich) fast genauso schlimm wie Russlandfreundlichkeit.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""naiver Pazifismus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Russlandfreundlichkeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Nimelrian,"Nein, sind sie nicht. Bitte einfach mal die Wahlprogramme oder das Abstimmungsverhalten in der noch laufenden Legislaturperiode vergleichen. Volt ist eher zwischen Grünen und SPD anzusiedeln.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aubenaubiak,"Da darfst du gerne noch mal den Wahl-O-Mat bemühen, wenn du dir das Wahlprogramm nicht selber durchlesen willst. Tipp: vieles könnte so auch bei den Grünen oder der SPD stehen, nur oft noch europäischer und weniger Ideologie.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wahl-O-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""europäischer"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""weniger Ideologie"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+georgikarus,"Im Sinne von wie kann man die Stimmen zu demokratischen Parteien bringen, die nicht faschistisch sind und zum Großteil aus Nazis bestehen",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Stimmen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demokratischen Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nazis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+bautznersenf,Und wo ist das Problem? Der offizielle Wahltag ist trotzdem der gleiche für alle.,2024-05-17,de,de,"[
+      {
+        ""entity"": ""offizielle Wahltag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sodis42,"Hast du eine persönliche Verbindung zu den Leuten? Dann kannst du es über die Gefühlsebene versuchen. Also nicht faktenbasiert argumentieren, sondern nachfragen, was sie besorgt und da dann ansetzen. Das ist aber hart, hat keine Chancen auf Erfolg und könnte dann auch mit Kontaktabbruch enden. Bei wildfremden Menschen halte ich es für nahezu unmöglich sie umzustimmen.",2024-05-16,de,de,"[
+      {
+        ""entity"": ""wildfremden Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Track-7970,"Wundert das irgendwen? Menschen werden immer affiner für extreme Ideologien. Egal ob es rechtsextremes oder islamistisches Gedankengut ist. Es geht darum, dass die Ideologien eine wenn auch falsche aber sie geben eine Antwort auf die Krisen die sich viele Menschen ausgesetzt sehen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""extreme Ideologien"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rechtsextremes"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""islamistisches Gedankengut"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ideologien"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Krisen"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+elperroborrachotoo,"Wenn ich die ganzen Fascho-Vereine aushalten soll ""wegen Demokratie und so"", dann müssen mir ein paar Möchtergern-Mullahs auch egal sein.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Fascho-Vereine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Möchtergern-Mullahs"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+QuastQuan,"Also das sind praktisch soetwas wie *muslimische* ""Reichsbürger"", ja?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""muslimische"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vonWitzleben,Von allen großen Religionen die beschissenste.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Von"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Religionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SnowflakeOfSteel,Der bekannte deutsche Comedian OTTO hatte schon 1975 das Lied *Tränen lügen nicht* von Michael Holm neuinterpretiert als *Dänen lügen nicht*.,2024-04-29,de,de,"[
+      {
+        ""entity"": ""OTTO"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1975"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Michael Holm"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tränen lügen nicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dänen lügen nicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bittemitallem,Kalifat sponsored by Jordan,2024-04-28,de,en,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jordan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+semar_on,Ich finde sowas gut. Immerhin sind diese „Individuen“ auf einem Haufen. Da muss man nur noch anhand der Bilder und Videos die Leute identifizieren und im Blick behalten.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Individuen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Mangobonbon,"Abschieben und/oder in den Knast stecken. Solche Menschen haben nur Hass im Sinn und werden sonst nur unserer Gesellschaft schaden. Erschreckend aber kaum eine Überraschung, dass es solche gibt. Leider.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Abschieben"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Knast"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+UESPA_Sputnik,"Besonders bemerkenswert finde ich die mitdemonstrieren Frauen in der Menge, vor allem diejenigen ohne Kopftuch. Die wissen schon, dass das im Kalifat dann nicht mehr geht, oder?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+jnnxde,>Muslime würden als Islamisten gebranntmarkt >Kalifat ist die Lösung Was darf eigentlich Satire?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+B5SF,"Ich frage mich manchmal, warum sie in einem Land leben, dessen Werte und Gesetze sie so dermaßen hassen. Ich würde auch nicht in einem Land leben wollen, in dem es mir nicht gefällt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cassiopei,"Letzte Woche, am 23.04. fordert die Hamburger CDU vom Senat, sich für ein Verbot von ""Muslim Interaktiv"" einzusetzen. Den Antrag zum Verbotsverfahren hat die CDU am Mittwoch, dem 24.04 in der Bürgerschaftssitzung zur Abstimmung gestellt. Quelle [NDR]( Tagesordnung | Drucksache | Inhalt | Ergebnis ---|---|----|---- 41| 14925| „Muslim Interaktiv“ muss verboten werden! Antrag der CDU-Fraktion | mehrheitlich mit den Stimmen der SPD und GRÜNEN gegen die Stimmen der CDU und AfD bei Enthaltung der LINKEN abgelehnt Quelle: [Protokolle der Hamburger Bürgerschaft]( 24.04.2024",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Hamburger CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Senat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mittwoch"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bürgerschaftssitzung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""GRÜNEN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""LINKEN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Protokolle der Hamburger Bürgerschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""24.04.2024"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skafdir,"Ich hasse es wenn Allahu Akbar Rufe als irgendein Hinweis genommen werden. ""Kalifat ist die Lösung."" - reicht vollkommen um zu zeigen, dass der Typ gefährlich ist. Wenn man danach noch ""und er hat auch Allahu Akbar gesagt"" schreibt, dann erweckt man den Eindruck als würde man daran Extremisten erkennen. Ein Moslem der Allahu Akbar sagt ist nicht mehr oder weniger extremistisch als ein Christ der Halleluja sagt. Vor allem geht es hier um Antworten auf eine Rede. Da stehen Moslems, hören eine Rede die mit dem Islam zu tun haben und Antworten an einigen Stellen Allahu Akbar. Viel normaler kann es nicht werden. Nicht falsch verstehen, diese Leute dort in Hamburg sind zum Großteil, wenn nicht ausschließlich, gefährliche Extremisten. Aber nicht weil sie Allahu Akbar sagen, sondern wegen allem anderen was sie da gesagt haben.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Typ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Moslem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Halleluja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Itakie,Islamistischer Influencer der auf Lehramt studiert. Viel Spaß mit der nächsten Generation. In den USA werden solche immerhin zurzeit direkt von den Unis gekickt. Sollte sich Deutschland auch mal stark überlegen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islamistischer Influencer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lehramt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jojo_31,"Die Lösung ist doch ganz einfach, zieht weg aus Deutschland?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Die Lösung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Entity_not_found,"> Nach einem Bericht des „Hamburger Abendblatt“ studiert der 25-Jährige an der Hamburger Universität Lehramt, doch auf Instagram und TikTok ist er eine Art islamistischer Influencer. Darf so jemand hier überhaupt auf Schüler:innen losgelassen werden oder verbaut er sich durch seine Aktivitäten in sozialen Medien zumindest hier in Deutschland den Zielberuf?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Hamburger Abendblatt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburger Universität"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lehramt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""TikTok"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""islamistischer Influencer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheFumingatzor,"Mich wundert, was die Frauen da unter den Demonstranten zu suchen haben.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Mich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demonstranten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+acakaacaka,Das ist verfassungswiedrig. Warum wird sowas in DE toleriert und nicht verfolgt?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""DE"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WriterwithoutIdeas,"Es ist jetzt irgendwie nicht überraschend, dass sich hier genau die Tendenzen abbilden, vor denen schon seit Jahren gewarnt wurde. Nein, der Islam ist nicht wie das Christentum, sondern ist anders als dieses noch politisch höchst relevant und dessen Gläubige organisieren sich durchaus auf Arten die einer liberalen Demokratie sehr schädlich sind. Aber gut, man musste dieses Feld ja auch zwingend der schlimmsten (relevanten) Partei in Deutschland überlassen und sich jetzt wundern, dass es doch nicht so gut funktioniert. War es nicht mal eine Tugend der liberalen Demokratie Grundrechtsfeinden und Religionen gegenüber kritisch aufzutreten? Warum musste das nochmal über Bord geschmissen werden, nur weil die Angehörigen der neuen Religion nicht Robert und Anne heißen?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""liberalen Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""liberalen Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Grundrechtsfeinden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Religionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Robert"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Full-Throat-6128,"Extremismus egal welcher Color stehen weder für Demokratie noch für eine tolerante und liberale Lebensweise. Trotzdem muss man das bis zu einem gewissen Punkt aushalten, unabhängig, ob es sich um rechter, linker, buddhistischer oder islamischer Extremismus handelt. Ich finde es nur erstaunlich, wie viele bei islamischer Extremismus angereichert werden. Für mich ist das alles ein gleicher Haufen mit fast identischen Werten und Einstellungen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""tolerante und liberale Lebensweise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""rechter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""linker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""buddhistischer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""islamischer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""islamischer Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+pubsibaer,"Der Islam unterdrückt weltweit Millionen von Frauen, diese können am normalen Leben nicht teilnehmen und sich nicht frei entfalten, wie sie es gerne tun würde. Viele Leben in sklavenähnlichen Verhältnissen. Die Geschlechter-Apartheid des Islams sollte weltweit bekämpft und zu jeder Zeit und überall angeprangert werden. Und ja, auch gemäßigte Muslime müssen sich diesen Vorwurf gefallen lassen, denn es ist ihre Religion.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Millionen von Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geschlechter-Apartheid"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RobbyLee,"Ich denke Politiker sollten aufhören geschwollen zu reden, und anfangen Wahrheiten auszusprechen und dann zu erklären welche Lösungen erdacht sind, und wieso Lösung xy von Gruppierung xy nicht funktioniert oder dumm ist. Solang Politiker in Deutschland aus diplomatischen Gründen leugnen, dass Israel an einem Genozid an Muslimen arbeitet, werden die Muslime in Deutschland sich verarscht fühlen und werden zum Extremismus getrieben. Und ich bin kein Verschwörungstheoretiker, ich habe nix gegen Menschen aus Israel, ich sehe einfach nur Posts in anderen Subreddits in denen von israelischen Militäraktionen gesprochen wird, Bilder und Videos von Bombenangriffen auf Zivilisten und Hilfsorganisationen sowie auch Videos davon, wie Zivilisten mit erhobenen Händen aus großer Entfernung von Militärs niedergeschossen werden und ich glaube dem israelischen Staat nicht, dass diese Menschen eine Gefahr für Israel darstellen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Israel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verschwörungstheoretiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschen aus Israel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""israelischen Militäraktionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bombenangriffen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zivilisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hilfsorganisationen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Militärs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""israelischen Staat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,"Das Video vom NDR zu der Demo war Herzallerliebst. Nur einer konnte sich äußern, bei den anderen Interviewees schritten die Ordner ein. Und was war es für eine Gruppe? Zum Großteil junge Männer - solche, wo man das Bahnabteil definitiv wechselt, wenn sie in einer Gruppe auftauchen - die für ""Meinungsfreiheit"" der Muslime eintritt. Die Meinungsfreiheit, das gleiche mit Homosexuellen zu machen wie jetzt [im Irak]( (Queer.de Artikel). Das gesichert extremistischen Gruppierung das Demonstrieren erlaubt ist - Menschen die sich den Tod anderer Menschen wünschen - verstehe ich nicht.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""NDR"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ordner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gruppe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Homosexuellen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Irak"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Queer.de Artikel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demonstrieren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+thekunibert,"Wie gut, dass so ein Kalifat keine Wertediktatur ist!",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheNimbrod,Hmm gab es wie bei G20 Wasserwerfer und Tränengas?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""G20"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wasserwerfer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tränengas"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Grindelbart,Man muss sich nur mal die Kommentare auf der Instagram Seite von Muslim Interaktiv ansehen. Was da brodelt wird uns in Deutschland noch Jahre beschäftigen.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Wenn jemand gerne lesen würde ohne Axel Springer Geld zu schenken: [Tagesspiegel]( [t-online]( [Focus]( Zitat von t-online: > In einer Mitteilung der Innenbehörde hieß es vorab: ""Der Veranstalter dieser Kundgebung ist die islamistische Gruppierung ""Muslim Interaktiv"" (MI), die vom Landesamt für Verfassungsschutz (LfV) Hamburg als gesichert extremistische Bestrebung beobachtet wird."" Mit anderen worten. Extremisten tun Extremisten Dinge. Wird aber schon beobachtet und hoffentlich bei gesetzeswiedrigem Verhalten auch schnell eingegriffen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Axel Springer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Tagesspiegel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""t-online"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Focus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Landesamt für Verfassungsschutz (LfV) Hamburg"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WrodofDog,> „Kalifat ist die Lösung“ Lösung für welches Problem?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Gigazwiebel,"Einerseits hat in Deutschland jeder das Recht, für die Abschaffung der Demokratie zu demonstrieren (solange er oder sie es beim demonstrieren belässt). Andererseits - Diese Menschen sind Teil einer Parallelgesellschaft, in der vor allem zählt, wie sehr ein Mensch frömmelt, und in der die Loyalität zu dieser Gruppe über Leben und Tod entscheidet. Wir haben in Deutschland eine Schulpflicht, damit solche Parallelgesellschaften sich nicht völlig abschotten können. In den Schulen muss noch eindringlicher vermittelt werden, dass man tolerant sein muss gegenüber Anderen, sogar wenn die eine andere Religion haben, schwul oder sogar eine Frau sind. Dazu gehört natürlich auch Demokratie, denn wer in der Gesellschaft nicht mitbestimmen darf, der wird genauso ausgegrenzt wie jemand, der zB. Rassismus erfährt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parallelgesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schulpflicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Toleranz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rassismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AutomaticAir3777,"Bundeswehr-Universität München, 1997. Vielleicht war es aber auch die Offiziersschule des Heeres, Hannover 1996. Egal. Unser damaliger Verteidigungsminister war zu Besuch. Seine für mich nachhaltig beeindruckende Feststellung war, dass Europas größte Gefahr im islamischen Fundamentalismus bestünde. Jetzt, mehr als 25 Jahre später, kann sich das immer mehr bewahrheiten.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Bundeswehr-Universität München"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1997"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Offiziersschule des Heeres"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hannover"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1996"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verteidigungsminister"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europas"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""islamischen Fundamentalismus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""25 Jahre später"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rom197,"Dann kann man sich doch einfach nach Saudi Arabien oder Iran verpissen, je nachdem. Für solchen demokratiefeindlichen Abschaum ist in Deutschland kein Platz.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Saudi Arabien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Iran"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+whitehatdesign,"Das ist ja ein glorreicher Honeypot, den der VfS da nutzen kann.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""VfS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wolpertinger55,"Schöne Burschen sind das ja, gottseidank wohn ich auf m Land. Kalifat in dein Arsch",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Schöne Burschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kat96Bo,"Yo, bitte so viele wie möglich polizeilich erfassen und Hausdurchsuchung.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""polizeilich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hausdurchsuchung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tigrisrock,Kalifat ist die Lösung. Ok. Dann geht irgendwie nach Syrien oder Iran und macht da euer dumpfes Kalifat.,2024-04-29,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Syrien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iran"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+halloalex,"Ich wünsche mir eine wehrhaftere Demokratie. Nein, wir müssen diese Auswüchse nicht dulden oder ertragen. Hier geht es nicht um links oder rechts, diese Bewegungen stehen gegen die freiheitlich demokratische Grundordnung. Es ist unerträglich, dass bei dem Normalbürger der Eindruck entstehen muss, möglicherweise untermalt von der Berichterstattung, dass der Staat nicht handelt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Normalbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+dauner,"Umso länger man wartet gegen die Probleme vorzugehen umso extremer müssen die Lösungen sein. Vor 20 Jahren hätte es gereicht den Eltern dieser Menschen in den Moscheen und muslimischen Schulen genau auf die Finger zu schauen, bei der Einwanderung genau vorzugehen und vermehrt Abzuschieben. Jetzt sind das vermehrt deutsche Staatsbürger die sich in Massen trauen die Abschaffung des deutschen Staates auf der offenen Straße zu fordern. Und wie schaut jetzt die Lösung aus?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Moscheen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""muslimischen Schulen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Vor 20 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutsche Staatsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""deutschen Staates"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+fructose_intolerant,Gefällt mir ganz und gar nicht.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Gefällt mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Transcendent_One,> Kalifat ist die Lösung Die Lösung für welche Probleme?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

@@ -1,0 +1,3651 @@
+author,text,timestamp,subreddit,language,gpt_output
+GuerrillaRodeo,"> DAVA. Es ging um die Aus*weisung* von Islamisten, nicht deren Aus*bildung*!",2024-05-09,de,de,"[
+      {
+        ""entity"": ""DAVA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+happysisyphos,"Die AfD hat sich unter der Ampelregierung verdoppelt und das zeitgleich mit dem Umfrageabsturz der Ampel. Damit sind die kleinen Parteien Grüne und FDP neben der SPD mit in der Verantwortung während die CDU in der Opposition saß und im Gegensatz zur Ampel Wähler hinzugewonnen hat. Die CDU ist nicht meine Partei, aber schon rein mathematisch macht es wenig Sinn ihr die Schuld für den AfD-Erfolg zuzuschieben. Die Migrationspolitik der Merkel-Jahre spielt natürlich auch mit rein, aber selbst damals konnte Merkel die AfD klein halten und es lag an der Ampel die Migrationspolitik so zu gestalten, dass nicht massiv Wähler nach rechts schwenken. Zudem war auch das von den Grünen geforderte Heizungsgesetz ein mega Umfragebooster für die AfD.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ampelregierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grüne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Merkel-Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ampel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Heizungsgesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+M0pter,Das ist mir zu pauschal.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pauschal"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NotAnAlien5,"Das erklärt, warum ich nix spezifisch zu Italien finden konnte. Danke! Italienische Post im Normalfall heißt, es dauert ca 2-3 Wochen, eventuell mehrere Monate bis was in Deutschland ankommt, falls es überhaupt ankommt. Leute schimpfen gern über die deutsche Post, wir habens da noch gut.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Italien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2-3 Wochen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mehrere Monate"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutsche Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TheRealCuran,"Solche Aussagen sind insgesamt sehr unschön für uns. Das kann theoretisch vom Wahlvorsteher schon als Störungsversuch der Wahl eingestuft werden und dann zu einem Verweis unter Hinzuziehung der Polizei führen. Wird bei diesem Level sicher keiner machen, aber eine mündliche Ermahnung, bitte nur zu wählen und die eigene politische Meinung nicht im Bereich des Wahllokals kundzutun, ist da schon drin. Am Besten ist: kommen, ausweisen, auf freie Kabine warten, Kreuzchen machen, denn Stimmzettel gefaltet in die Urne werfen und wieder gehen. Macht das Ganze auch super schnell. ;-)",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlvorsteher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stimmzettel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Urne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Neither_Ad5683,"Naja, offensichtlich eine Partei die nicht im Bundestag/EP vertreten war und ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Naja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundestag/EP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dogil_saram,"Man kann die Fragen gewichten, das könnte helfen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Man"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Stohpsel,"Aber wenn man überhaupt keine Ahnung hat oder der Wahl-o-mat zumindest eine Orientierung. Ich stimme dir allerdings zu, du solltest keine Union oder BSW wählen xD",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahl-o-mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""BSW"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xrimane,"Wie so oft sind das halt Thesen, die nur im Kontext sinnvoll zu beantworten sind. Und dazu muss man die Erläuterung der Parteien zu ihrem Standpunkt eben doch lesen. Z.B. ""Die EU soll eigene Steuern erheben dürfen"" - so pauschal werden die meisten Leute sagen, nein danke - aber wenn das zweckgebunden z.B. für eine gemeinsame Verteidigung geschehen sollte oder wenn die Steuern weiterhin vom Nationalstaat eingezogen aber eben der EU-Anteil nun transparent ausgewiesen und verrechnet werden sollte, wird sich das Meinungsbild auffächern. Das ist auch mein grundsätzliches Problem mit Volksentscheiden. Das kann man oft gar nicht so weit runterbrechen, um eine sinnvolle Aussage zu bekommen. Siehe Brexit, am Ende waren doch die meisten unglücklich. Hätte man ein aussagekräftigeres ranked voting gemacht, mit tausend Optionen wie ""Ja, aber nur wenn für UK-Bürger die Freizügigkeit erhalten bleibt und die irische Insel nicht geteilt wird und wirklich 350 Millionen pro Woche in den NHS gehen"" wären die meisten wohl bei der Abstimmung ausgestiegen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nationalstaat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brexit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""UK-Bürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NHS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tempeljaeger,"Ich halte es für sehr problematisch, wenn Menschen wirklich die Unsterblichkeit erreichen sollten. Mir würden die gesellschaftlichen Änderungen die damit einhergehen nicht gefallen. Wir würden noch mehr in eine Zweiklassengesellschaft abrutschen. Das jeder irgendwann mal sterben muss, ist der kleinste gemeinsame Nenner aller Menschen. Meine Abneigung zu Volt ist persönlich motiviert. Die haben eine Person zu einer Wahlveranstaltung eingeladen, die aus meiner Sicht gar nicht geht. Sollte die meisten anderen aber nicht abhalten.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unsterblichkeit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""gesellschaftlichen Änderungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zweiklassengesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""jeder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abneigung zu Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlveranstaltung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuerrillaRodeo,>Der bekannteste Also ich hab ihn nicht gekannt.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""bekannteste"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuerrillaRodeo,"Inwiefern soll eine Direktwahl nicht demokratisch sein? Das musst du mir jetzt schon erklären. Andersrum ist solches Postengeschachere alles andere als demokratisch und untergräbt das Vertrauen in das ganze System. Wenn du für Person A stimmst, die es auch nach Stimmen werden würde und dann aufgrund von Machtspielen es *nach der Wahl* einfach wer anders wird, dann kann ich doch das Wählen auch gleich bleiben lassen. Dieses Postengeschachere geht mir nicht nur bei der EU auf den Sack, sondern auch bei Bundestagswahlen. Wer da Minister für was wird, wird in irgendwelchen Hinterzimmern beim Schafkopfen entschieden (mutmaßlich).",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Person A"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bundestagswahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Minister"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hinterzimmern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schafkopfen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GuerrillaRodeo,"Und welche Parteien fordern das, vor allem glaubhaft? Die Ampel-Parteien haben sich alle die letzten Jahre groß auf die Fahne geschrieben, Volksentscheide auf Bundesebene endlich zuzulassen. Was ist passiert? Nada. Ausgerechnet die Grünen sind umgefallen und haben das aus ihrem Grundsatzprogramm 2021 gestrichen, dass die mal zu Demokratiefeinden (überspitzt gesagt) werden hätte ich vorher nie geglaubt. Mir gefällt Volt immer besser.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ampel-Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksentscheide"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grundsatzprogramm 2021"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratiefeinden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+dogil_saram,"Gute Frage. Strenggenommen, ja. Dann kann man nicht später die Schuld anderen in die Schuhe schieben, wenn die den Karren wirklich in den Dreck fahren. Gilt natürlich nicht, wenn der Saftladen (endlich) offiziell als rechtsextrem eingestuft wird, dann muss die Demokratie sich entsprechend wehren.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Saftladen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Hobbitfrau,"Oh. Ok, dann müsste es aber theoretisch über die alte Adresse gehen, wenn du dort noch gemeldet bist (falls du in D gemeldet bist zurzeit). Die Wahlbenachrichtigung ist ja nicht erforderlich zur Beantragung von Briefwahlunterlagen und man kann die Adresse, an die es gehen soll, aussuchen.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Wahlbenachrichtigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahlunterlagen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,oha lol das hab ich ja noch nie gesehn. Ich hatte einen regulären Brief mit QR Code usw. Faszinierend dass es doch nicht überall gleich gemacht wird,2024-05-09,de,de,"[
+      {
+        ""entity"": ""QR Code"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ze_insane_Medic,"Ich verstehe trotzdem nicht so wirklich, wie das zusammenpasst. Die Entfernung zwischen links und rechts könnte größer gar nicht sein",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""links"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rechts"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alexander_Selkirk,"Du kannst dich normalerweise einbürgern lassen, wenn Du länger in Deutschland lebst, arbeitest, und Steuern zahlst.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Steuern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MaiJuni2021,Mit der aktuellen politischen Stimmung wird sich das leider erst Mal nicht ändern.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""politischen Stimmung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+wung,Dann wählt wen anderen? Es gibt gerade bei der Europawahl *massig* Auswahl.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Europawahl"",
+        ""entity_type"": ""EVENT"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,Jede Stimme ist etwas wert. Sie ist nur dann nichts wert wenn jeder so denkt. Traurig...,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Stimme"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Traurig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Libropolis,"Ich bin regelmäßig Wahlhelfer. Mehrere Personen aus meinem Familien- und Freundeskreis ebenso. Ich war also bei vielen Auszählungen dabei und habe mehrere Menschen bei anderen Auszählungen, denen ich da vertraue.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlhelfer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familien- und Freundeskreis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auszählungen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Keberro,"Nur kriegt einen Führerschein der Bundesrepublik Deutschland auch jeder Ausländer. Und die europäische Flagge oben links ignorieren wir jetzt einfach mal, oder wie?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesrepublik Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausländer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""europäische Flagge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Treff,"Die Mädels stehen drauf, wenn man zur Europa-Wahl geht, ich sag's nur.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Mädels"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Europa-Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,"Das steht nirgendwo, das ist meine Meinung. Warum sollte sich jemand, der sich nicht am Wahlprozess beteiligt, beschweren? Jeder findet einen Weg an der Wahl teilzunehmen wenn man es wirklich wollte. Sei es passiv durch wählen oder aktiv als Wahlhelfer. Und zwischen 34 aufgestellten Parteien sollte man ja eine finden die nicht ganz kacke ist",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Wahlprozess"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlhelfer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GhostSierra117,Und wo finde ich solche Infos?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Infos"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Andreeeeeeeeeeewwwww,Hatte die heute im Briefkarten,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Briefkarten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+downforce45,Das erfahre ich auf Reddit?! Die Post hat Marketing echt durchgespielt.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Marketing"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+the_harakiwi,"oha, das hab ich sogar schonmal gelesen (c't vielleicht). Danke für die Erinnerung. Ich muss das aber falsch abgespeichert haben. Da gabs mal einen kostenpflichtigen Dienst die deine Post digitalisiert haben. Habe das wohl miteinander vermischt.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""c't"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einen kostenpflichtigen Dienst"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dnoxl,"Oder wie Anonym deine Wahl ist, bzw. was die Konsequenzen sind wenn man die Opposition wählt",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Anonym"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Opposition"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zzap129,"mach weniger ausrufezeichen dran, bitte.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""ausrufezeichen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DreizehnZwoelf12,">Wobei da die Wahrscheinlichkeit ziemlich gering ist. Davon ist auszugehen, wir sehen aber nicht selten, dass nur wenige Stimmen den Unterschied machen. >(Und man könnte auch vorab im Rathaus wählen, persönlich einwerfen, ...) Die Sofortwahl reduziert nicht alle immanenten Probleme der zeitlich und räumlich gesehen nicht direkten Wahl.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Rathaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DreizehnZwoelf12,Natürlich gibt es dieses Risiko und das ist [schon vorgefallen]( Die Briefe werden mit der normalen Post transportiert. Einen ähnlichen Fall [gab es 2023]( es wurden mitunter auch schon Wahlunterlagen aus [Versehen geschreddert]( Bei einer Stimmabgabe am Wahltag kann das nicht vorkommen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""2023"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Versehen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lagerbottoms,Müsste in r/de IMHO nicht mit MEMN (meiner ehrlichen Meinung nach) oder so ersetzt werden?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""r/de"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MEMN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"Der ist auf Platz acht, oder?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Platz acht"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TroubledEmo,Richtig. Selbstsicherheit wird heutzutage von vielen als Selbstverliebtheit oder „Narzissmus“ wahrgenommen (klinischen Narzissmus lasse ich absichtlich mal aus).,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Selbstsicherheit"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Narzissmus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WeirdFurby,Ein Trotzwähler! Ihr gefährdet unsere Demokratie! /s Ich Wähl seit ich darf nichts anderes als Die PARTEI,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Trotzwähler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"Die Partei hatte keinerlei Einfluss darauf, dass Cannabis jetzt Teillegalisiert ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+harakirimurakami,Sie sind zumindest nicht dagegen,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CPT-Lotus,"Lustig, dass du denkst das Parteien wie SPD und Grüne klein sind. Ich meine mit klein eher Volt usw.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grüne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheRealCuran,"In dem Fall würde ich wirklich gucken ob entweder ein anderer Postdienstleister in Frage kommt oder sonst Express machbar ist. Letzteres lohnt sich gerade dann, wenn ihr womöglich mehrere Wahlunterlagen in einem Rutsch nach Deutschland transferieren und euch die Kosten teilen könnt. Eure spezifische Situation kenne ich natürlich nicht, aber wenn ihr nur im Urlaub sein solltet: ihr könnt auch einfach vor dem Urlaub die Unterlagen zurückschicken. Man kann normalerweise auch auf dem zuständigen Wahlamt seine Stimme abgeben (das ist dann auch eine Briefwahl aber sozusagen vor Ort beim Wahlamt). Falls ihr dauerhaft im EU-Ausland leben solltet: je nach Konstellation könnt ihr auch dauerhaft in das Wahlregister eurer neuen Heimat aufgenommen werden und dann einfach dort wählen. Das würde dann natürlich normalerweise die Austragung aus dem dt. Wahlregister bedeuten. Wer im nicht-EU-Ausland leben sollte kann auch immer seine Botschaft oder sein Konsulat vor Ort kontaktieren. Die helfen normalerweise schnell im Bereich Wahlsachen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Express"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Urlaub"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Ausland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlamt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Ausland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlregister"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Botschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Konsulat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kin-Luu,"Wird entweder die Union oder Nichtwähler. So wirklich überzeugt mich aber keine Partei, das demotiviert mich ziemlich.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nichtwähler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"> Die EU soll eigene Steuern erheben dürfen Boah, das war die schlimmste Frage überhaupt. So bescheuert formuliert. Hab ja nichts gegen ne EU-Steuer. Aber warum soll jetzt die EU diese auch noch *erheben*? Wir brauchen kein europäisches Finanzamt, das allen EU-Bürgern einen Steuerbescheid schickt. Das bedeutet nämlich *Steuererhebung*. Dafür reichen doch unsere normalen Landesfinanzämter aus. Ich war so wütend über diese Formulierung. - Ja zur EU-Steuer. - Nein zur Erhebung. → Nein im Wahl-O-Mat?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Steuer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Bürgern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Steuerbescheid"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Landesfinanzämter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Formulierung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU-Steuer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Erhebung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wahl-O-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LvS,"Das ist eh alles Marketing. Auch die meisten Leute hier haben keine Ahnung, was die Parteien wirklich machen, die sie dann am Ende wählen. Man klickt halt Wahlomat durch oder ist Fan von irgendeiner Partei, weil die sehr gut ist oder geile Insta Memes hat und dann gehts los.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlomat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Insta Memes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Nils013,"Bin neugierig, um wen ging's?",2024-05-09,de,pt,"[
+      {
+        ""entity"": ""Bin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""wen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuerrillaRodeo,"Sein Wahlverhalten nur von einer Person abhängig zu machen finde ich nicht unbedingt gut, wenn die anderen Personen und vor allem das Programm passen, aber ist deine Stimme. Darf ich fragen, um was es konkret ging? Die Partei für Verjüngungsforschung kenne ich, die hat gute Ziele, aber von der Unsterblichkeit sind wir noch weit entfernt, das ist transhumanistische Science Fiction. Außerdem gibt es mehrere Konzere, die darauf hinarbeiten, da haben Tech-Bro-Milliardäre aus den USA deutlich mehr Einfluss als eine deutsche Kleinstpartei. Trotzdem setzen sich die für mehr Forschung im medizinischen Bereich ein (und verdammen gleichzeitig Homöopathie und sonstige Quacksalberei), was primär zu begrüßen ist, die rangieren bei mir tatsächlich im oberen Mittelfeld. Wobei ich dabei auch etwas voreingenommen bin, da ich selber Mediziner bin.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Personen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Programm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Partei für Verjüngungsforschung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Unsterblichkeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""transhumanistische Science Fiction"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Konzere"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tech-Bro-Milliardäre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutsche Kleinstpartei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Forschung im medizinischen Bereich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Homöopathie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Quacksalberei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Mediziner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+r0bc94,"Nur ein reminder, dass auch das nur eine „Empfehlung“ eines random redditors ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Empfehlung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""random redditors"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"> Inwiefern soll eine Direktwahl nicht demokratisch sein? Das musst du mir jetzt schon erklären. Umgekehrt. Nicht jede demokratische Wahl muss eine Direktwahl sein. Ich find's auch schwierig darauf zu bestehen, dass nur Direktwahlen dem Ideal von demokratischen Wahlen entsprechen. Zum einen fördert das eben den Personenkult und Populismus und rückt Persönlichkeitsfragen in den Vordergrund ([mit welchem Kandidaten würdest du lieber n Bierchen trinken]( Zum anderen verlieren damit die Parteien und deren gesamte politische Platform an Bedeutung. Ich verstehe aber deine Position durchaus, und so was wie bei der EU-Kommissionspräsidenten-Wahl geht halt gar nicht.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""EU-Kommissionspräsidenten-Wahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tommy24027,"Okay stimmt du hast recht, werd ich dann mal in Angriff nehmen. Danke dafür!",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Angriff"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheFumingatzor,"Ja, Genosse.....das ist das Ziel eines Kameraden!",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Genosse"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kameraden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Low-Possession1175,Ich fühl mich nicht deutsch daher mache ich das nicht aber man sollte zumindest mit entscheiden dürfen was mit steuergeldern passiert,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutsch"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""steuergeldern"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spityy,Man muss dafür nicht mal Wahlhelfer sein. Man darf auch als Wähler die Auszählung beobachten.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlhelfer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wähler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Konrad_Moreland,"Ist doch irgendwie offensichtlich das die Aussage nichts mit der Wahrheit zu tun hat. Wenn er die Wahl beobachten würde, dann würde der Wahlleiter das Ergebnis ändern etc. pp. Man sollte seine Aufmerksamkeit für solchen Quatsch nicht verschwenden.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlleiter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ManonMelmarc111,"Du hast mich falsch verstanden. Bezogen auf den Führerschein hast du Recht da steht Europa drauf, aber nicht auf meinen Personalausweis.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Führerschein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Personalausweis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sassi7997,In Wirklichkeit bin ich ein Marketingaccount der Post :D,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Marketingaccount"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xaomaw,">Da gabs mal einen kostenpflichtigen Dienst die deine Post digitalisiert haben. Vermutlich meinst Du ""POSTSCAN""",2024-05-09,de,de,"[
+      {
+        ""entity"": ""POSTSCAN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+iamagermanpotato,"Nein!!!!!!!!!!!!!!!!!!!! Hier, noch eins extra: !",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nein"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+johannes1234,"Es ist durchaus einigermaßen nachvollziehbar. Bei Zweifeln lässt sich der Verbleib des Wahlscheins (nicht zu verwechseln mit Stimmzettel) nachvollziehen und Auszählung ist öffentlich. Und ja, wie gesagt: Präsenzwahl ist aus vielerlei Gründen besser. Briefwahl ist aber um längen besser als nicht wählen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlschein"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stimmzettel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auszählung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Präsenzwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+selucram,Das H steht (zumindest ursprünglich) für humble nicht honest.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Das H"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""humble"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""honest"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+yosh0r,"Sympathisch man kann sich unterhalten, ein großer Vorteil gegenüber anderen Parteien und deren Mitgliedern.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Sympathisch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+happysisyphos,"Ich dachte bei kleinen Parteien = nicht Volkspartei, also alles außer SPD und CDU. Dass Splitterparteien nichts mit dem politischen Geschehen zu tun haben ist ja irgendwie offensichtlich und ohne Chance die 5%-Hürde zu knacken macht es auch wenig Sinn darüber den Rechtsruck bekämpfen zu wollen. Die Stimme würde verfallen und das Kräfteverhältnis dreht sich noch eher in Richtung rechts.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Splitterparteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""5%-Hürde"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsruck"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NotAnAlien5,"Ist ein Erasmus-Aufenthalt. Ich komme nur leider erst nach der Wahl wieder nach De. Ich frag hier mal bei der Post nach. Neben fun fact: Dazu sollte man hier einen Termin ausmachen, weil diverse verschiedene Sachen hier bei der Post erledigt werden und es gerne lange Schlangen gibt.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Erasmus-Aufenthalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""De"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+derfeuerbringer,Hast du dir die Partei Manifeste angesehen? Eventuell findet sich doch etwas das dir mundet,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Partei Manifeste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"Dann wähl lieber die Union bevor du nicht wählst. Damit hält man ua die AfD kleiner. Aber gibts denn echt keine kleine Partei, die dir mehr zusagt? Bspw freie Wähler oder so? Gibt ja keine 5%-Hürde.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""freie Wähler"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+xrimane,Genau dies - der Teufel liegt immer im Detail.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Teufel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xrimane,"Ich denke, in der repräsentativen Demokratie geht es ohnehin darum, Leute zu wählen, deren Werte man teilt, nicht um Einzelentscheidungen. Ich denke z.B., im Frühjahr 2022 standen die meisten Grünwähler hinter Habeck, als es darum ging, die Gasversorgung sicherzustellen, auch wenn das so definitiv nicht im Parteiprogramm stand. Da geht es dann darum, dass man Leute wählt, die Prioritäten ähnlich setzen wie man selbst.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Habeck"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Frühjahr 2022"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tempeljaeger,"Es geht lediglich um persönliche Antipathie. Das hat noch nicht mal auf kommunaler Ebene irgendwelche Auswirkungen. Auch wenn es noch jahrhunderte dauern würde, ist das kein Ziel, auf das ich hinarbeiten möchte. Die Tech-Bro-Milliardäre kann ich nicht beeinflussen. Ich kann auch mit meiner Stimme nicht dafür sorgen, dass die Atomkraftwerke in Frankreich abgeschaltet werden. Das bedeutet aber nicht, dass ich in Deutschland für welche stimmen würde. Wir sind alle etwas voreingenommen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Tech-Bro-Milliardäre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Atomkraftwerke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frankreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tempeljaeger,"Das sollte vollkommen klar sein. Wer seine Wahlentscheidungen auf Basis von redditoren trifft, macht etwas falsch. Dafür sind TikTok-Influencer da. Ü",2024-05-09,de,de,"[
+      {
+        ""entity"": ""redditoren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""TikTok-Influencer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+somedudefromnrw,"Dann kannste halt auch nicht mitentscheiden. Staatsbürger entscheiden was mit dem Geld des Landes passiert, wenn du dich eh nicht mit dazu gehörig fühlst hast halt Pech. ¯\_(ツ)_/¯",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Staatsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld des Landes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThaOppanHaimar,"Ich respektiere deine Entscheidung, möchte aber Anmerkung, dass ""citzenships"" erst mal weniger mit Nationalität zu tun hat, sondern mit Privileg. Wenn du dich also ""einbürgern"" lässt, hat dass mehr mit Privilegerlangung zu tun.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Entscheidung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""citzenships"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nationalität"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Privileg"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einbürgern"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Privilegerlangung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Libropolis,"Ja, genau das meinte ich mit meinem ersten Kommentar :) aber es noch mal klarzustellen schadet nie. Erfahrungsgemäß macht das kaum jemand, aber alle Interessierten können bei der Auszählung zuschauen. Einfach am Ende der Wahl ins Wahllokal spazieren, kurz Bescheid geben und sich hinsetzen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Erfahrungsgemäß"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Keberro,"Achso, ich meinte aber eigentlich den Reisepass. Und was nun?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Reisepass"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+the_harakiwi,Sehr gut möglich :),2024-05-09,de,de,"[
+      {
+        ""entity"": ""Sehr gut"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+TheRealCuran,Gib der Deutschen Post bitte keine dummen Ideen. ;-) Ich wünsche viel Erfolg bei der Wahl (und natürlich beim Studium).,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Deutschen Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Studium"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"Das ist, mit Verlaub, kein Detail. Das ist eine fehlerhafte Formulierung. Keine einzige Partei, die in Deutschland zur Wahl antritt, fordert dass die EU Steuern **erheben** soll - egal ob eigene Steuern oder andere Steuern. Sowas darf einfach nicht passieren.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LvS,"Was für einen Haufen Menschen dann aber auch sehr schwierig ist, weil >90% der Politiker sind Oberklasse und Egoisten. Und die meisten Leute wollen weder Politiker bereichern noch sind sie irgendwo in der Nähe der Oberklasse und da hat man dann irgendwie andere Prioritäten.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Oberklasse"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Egoisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nähe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Prioritäten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ignamv,"Wäre interessant, auf Landes- und Kommunalebene wählen zu dürfen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Landes- und Kommunalebene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spityy,"Ich hab den Leerdenkern schon so oft gesagt, dass sie die Auszählung begleiten können, um sicher zu gehen, dass da jede Stimme richtig ausgezählt wird. Die verfolgen trotzdem ihr Narrativ es wäre ja alles gefälscht und in der verplombten Urne wären falsche Stimmzettel. Gegen so viel Dummheit kann man leider nichts tun. Die glauben lieber ihrem TikTok und Telegram Chat, selbst wenn sie den ganzen Wahltag beobachten könnten. Es ist einfach nur zum Heulen mit diesen dummen Menschen und davon haben wir leider echt viele in Deutschland einige Familienmitglieder nicht ausgenommen. :(",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Leerdenkern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Auszählung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Narrativ"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Urne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""TikTok"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Telegram Chat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wahltag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familienmitglieder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ManonMelmarc111,Davon habe ich keine Ahnung also vom Reisepass da ich keinen habe. Aber wenn du sagst dem ist so dann ist das doch gut.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Davon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reisepass"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xrimane,"Schon richtig. Selbst wenn hinterher erklärt wird, was eigentlich gemeint ist, geht man von vornherein von einer falschen Vorstellung aus.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Schon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vorstellung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xrimane,"Naja, es ist keine neue Erkenntnis, dass viele Leute in oberen politischen Positionen dahingekommen sind, weil sie machtbewusst sind, glauben, dass sie es besser wissen und können und ein gesundes Ego haben. Und damit zumindest teilweise nicht die optimalen Volksvertreter sind. Das sind halt die Leute, die Willens sind, das alles zu machen, und sich durch die Niederungen der kleinen Politik hochzukämpfen. Anderen Leuten ist es zuviel Arbeit, zuviel Streit, zuviel Konkurrenz... oder zu schlecht bezahlt. Das ist ein Fehler, den das System mit sich bringt.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""politischen Positionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksvertreter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""System"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Libropolis,"Würde man zuschauen, könnte man ja sehen, dass man Blödsinn geglaubt hat. Das will ja keiner. :lachendes_gesicht_mit_träne: Und mal abgesehen von allem anderen, wir melden ja die Anzahl ungültiger Stimmzettel. Wenn plötzlich fast nur Stimmen für, sagen wir mal, die Grünen und die Linken aus einem Wahllokal kämen und dafür 60 % der Stimmzettel ungültig wären, würde das halt auch auffallen. Gefälschte Stimmzettel zusätzlich einwerfen? Ne, als allererstes wird kontrolliert, dass die Anzahl der Stimmzettel mit der Anzahl der Leute, die zum Wählen da waren, übereinstimmt. Einfach falsch auszählen? Geht auch nicht in großem Stil, das wird teilweise nachträglich noch mal kontrolliert. Und da sind acht Leute als Wahlhelfer, wenn da einer Blödsinn macht, fällt das wahrscheinlich jemandem von den anderen auf. Dass sich alle einig sind, dass und wie man die Auszählung manipulieren will, dürfte auch extrem selten vorkommen. Naja. Kurzer Rant Ende. Auch wenn's nichts hilft, lieber so als diesen Quatsch überall unkommentiert stehen lassen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Linken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LvS,"Vielleicht sollte man dann bei so einem System einfach nicht mitmachen. Anstatt zu versuchen rauszufinden, wer einem die beste Werbung vorspielt und dann in dessen Team mitzuspielen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""System"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spityy,"So ist es. Ich fühle das so sehr, aber wie kann man das unsern Schwurbelnden vermitteln?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Schwurbelnden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xrimane,"Was wäre denn die Alternative? Wie könnte man die Leute an die Macht bringen, die selbstlos und kompetent regieren?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LvS,"Du wirst wohl das System ändern müssen. Gibt diverse Ideen, wie man das machen sollte, aber kA, welche davon funktionieren würde. Wenn wir das wüssten, hätten wir das System vermutlich schon geändert. Nur halt einfach weiter mitspielen wird nichts ändern.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""System"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DrunkenDragonDE,"Blöde frage und ich will kein faß aufmachen aber wenn die schreiben ""Drogen"" müsste das nicht zwangsläufig auch Alkohol und Zigaretten beinhalten?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RazzyRaziel,"Scheissdreck, wollte mir gerade die Canna-Spritze drücken aufm Kinderkarussell.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Scheissdreck"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Canna-Spritze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinderkarussell"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fettlol,"Ich dachte, Schilder seien Mangelware?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schilder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Virtual_Economy1000,Was mich so nervt: Dass auf dem Schild „Konsumieren“ klein geschrieben ist :schmollendes_gesicht:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Konsumieren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+mavi54,Das was sich geändert hat: Da ist ein Schild. Du bekommst nur noch Hausverbot und keine Strafanzeige. Anfänglich gibt es mehr Kontrollen. Was gleich geblieben ist: Wenn du kiffend an einem Bullen vorbei läufst an so einem Ort wirst du kontrolliert. Wenn du abseits bist und keinen störst passiert gar nichts.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Hausverbot"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kontrollen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bullen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lunnaris001,Ist halt auch einfach Hausrecht. Ich darf bei mir auch nicht mit Inlinern in den Supermarkt. Und ja in der nähe von Kindern zu kiffen ist absolut nicht okay. Aber Tabakrauch ist halt auch nicht cool in der Nähe von Kindern. Oder die Verherrlichung von Alkohol wie sie in Deutschland weiter stattfindet.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Tabakrauch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kindern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Any-Information-1924,"Kann es schon verstehen. Rauche selber, aber der Geruch ist schon sehr penetrant wenn man das nicht mag. Ist bei Zigaretten ähnlich, die sind aber schon „eingebürgert“. Mal schauen wie es in ein paar Jahren aussieht, ich denke das braucht einfach ein wenig Zeit.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ein paar Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ireon95,"Es ist schon witzig... Naja, eigentlich eher traurig. Statt den logischen und durchaus sinnvollen Weg zu gehen und einfach ein generelles Rauchverbot auszusprechen + vielleicht noch einem Hinweis, dass illegale Drogen verboten sind (Was ja auch schon fraglich ist, schließlich sind sie ja eh schon illegal). Nein, lieber Gras pseudo kriminalisieren aber weiterhin schön die Köppe zulaufen lassen während gleichzeitig an der Zigarette gezogen wird. Natürlich alles völlig legal and akzeptiert... Ein Trauerspiel. Ein Rauchverbot würde ich ja verstehen, ja, sogar beführworten. Bei Alkohol kann man ja wenigstens noch argumentieren, dass wenn man es nicht übertreibt und sich zu säuft, es schließlich niemanden beeinträchtigt. Beim Rauchen ist das jedoch anders, unabhängig davon was eben geraucht.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Rauchverbot"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""illegale Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gras"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zigarette"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+krusenrott,Alkohol aber nicht? Konsequent inkonsequent nenne ich das.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MurkyPrimary3404,kann da bitte jemand ein Sticker mit nem durchgekreuztem Bier krug dazukleben?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""jemand"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sticker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier krug"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wulanbator,Also ich sehe kein Kokain auf den Bildern/s,2024-05-05,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kokain"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bildern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tschernoblyat,Würde direkt die Cops rufen wenn da Alkohol konsumiert wird lol,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cops"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+tactical_fortapelse,Und natürlich ist ein Babber von Eintracht druff,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Babber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eintracht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+biovio2,Ich geh einfach auf keine Alkoholfeste mehr. Mein Geld kriegen die nicht. Dieser komplett unnötiger Kulturkampf kotzt mich nur noch an.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkoholfeste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kulturkampf"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Sassi7997,Also sind Alkohol und Tabak ebenfalls verboten?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tabak"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Quetzacoatel,Also kein Alkohol? Finde ich gut.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+sriver1283,Schon peinlich wenn man es nicht mal schafft ein Schild ohne Rechtschreibfehler zu drucken.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Schon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+JabbelDabbel,"Kiffst du halt wo anders, sehe das Problem nicht.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kiffst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Oaker_at,"Warum klingen solche Schilder immer zeitgleich moralisch erhaben, aber intellektuell minderbemittelt?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Warum"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schilder"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Storomahu,"Aber sich totsaufen ist ok, nice.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Aber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""totsaufen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+janheymann,"Die ham Alle nur schiss, daß ihre Industrie ausstirbt wenn Leute schnallen das Cannabis seine Vorzüge über Alkohol hat und heulen jetzt deswegen rum.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Industrie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Baazee,"Ist denen klar, dass sie damit auch Bier (Alkohol) auf dem Festplatz verboten haben?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ImPossible7007,"Ähm, ok, also kein CaNabis, aber wie sieht's mit CaNNabis aus? :augen_verdrehendes_gesicht:",2024-05-05,de,de,"[
+      {
+        ""entity"": ""CaNNabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wundschmerz,"Da fehlt ein sehr wichtiges Komma, denn es gibt einen kleinen, aber feinen Unterschied zwischen: ""Das konsumieren von Drogen, auch Canabisprodukten, in jeglicher Form ist auf dem Festplatz verboten!"" und ""Das konsumieren von Drogen, auch Canabisprodukten in jeglicher Form, ist auf dem Festplatz verboten!""",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Da"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Canabisprodukten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Festplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SwissTanuki,Alkohol und Nikotin scheinen in Deutschland nicht abhängig zu machen. Faszinierend.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nikotin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+HD-in-3D,Und im Hintergrund nen Bierwagen:gesicht_mit_freudentränen: daneben einer der ne Zigarette raucht,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bierwagen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigarette"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bloodhoven_aka_Loner,"Von Drogen? Also auch Alkohol und Tabak, ja? :clown-gesicht:",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Von Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tabak"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Rostbolzenbande,Ja und? Und weiter? Sollen sich Konsumenten doch die Rübe in ihren 4 Wänden zuknallen und dann auf den Festplatz gehenm,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Konsumenten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rübe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4 Wänden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+king_of_n0thing,"Hier entscheidet der Chef noch selbst über gute Drogen und schlechte Drogen. Dann erstmal Kaffee, Zuckerwatte, Bier und ein Herrengedeck zum Frühstück.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Chef"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kaffee"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zuckerwatte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Herrengedeck"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frühstück"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Olderhagen,Aufkleber mit einer Bierflasche ausdrucken und mit auf das Schild kleben. Das wird ein Spaß,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Aufkleber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bierflasche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spaß"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+StrohVogel,"Ich hoffe, der Getränkestand schenkt keinen Alkohol aus? Wenn doch wäre das eigentlich ein Grund, da mal mit dem Ordnungsamt vorbei zu schauen. Allein, weil man es kann.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Getränkestand"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ordnungsamt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+epidrom,Also auch kein Alkohol?,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+usedToBeUnhappy,"1. zwei Rechtschreibfehler in einem Satz 2. alle Drogen außer Cannabis , Alkohol und Tabak sind doch eh verboten 3. wieso steht da kein Veranstalter dabei? So kann man sich nicht mal sicher sein, dass das Schild echt ist",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tabak"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kirla_,Nirgends wo darf ich mein Bierchen zischen! Danke Merkel. Dann wird es wohl doch die Fassbrause vom Bitburgerstand.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Merkel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bitburgerstand"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deutscher_Banause,"""Sie wollen mir meine Medikation verweigern?""",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Medikation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ApokaIyps,Imagine spritzen verboten ???? Wer würde denn sowas auf einem Festplatz machen wollen LOL,2024-05-05,de,de,"[
+      {
+        ""entity"": ""LOL"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+zxmma23,Cannabis schreibt sich mit zwei N,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Interview-8645,Verdammt jetzt muss ich mir mein Gras woanders spritzen,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Verdammt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gras"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Random_ff,Auch geil wie man im hintergrund sogar noch den bierstand sieht,2024-05-05,de,de,"[
+      {
+        ""entity"": ""hintergrund"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bierstand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Satzgubble,"Vielleicht mehr Energie ins Lernen von Rechtschreibung investieren, als in das Erstellen schwachsinniger Verbotsschilder. :victory-geste:",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Rechtschreibung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verbotsschilder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Schipu,Generelles Rauchverbot wäre angebrachter.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Generelles Rauchverbot"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dead_mortician,Grammatikalisch und rechtschreiblich ein Graus. Daher nicht verbindlich. Holt die Dübel raus.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Dübel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nice_trygotyo,Wie Alkohol nicht als Droge gewertet wird,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ennocb,Es sind nur Canabisprodukte verboten. Cannabisprodukte gehen also.,2024-05-07,de,de,"[
+      {
+        ""entity"": ""Canabisprodukte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cannabisprodukte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Large-Historian2560,Konsumieren schreibt man groß :zwinkerndes_gesicht:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Konsumieren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dhaos96,Ich darf dort also nicht Komasaufen? Verdammt,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Komasaufen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Beerbaron1886,Ja war bei unserem Dorffest auch. Die hiesige Dorf Gemeinschaft findet linksgrüne Politik natürlich absolut verwerflich. Dumm nur das am gleichen Abend ein minderjähriger an zu viel Alkohol umgekippt ist und behandelt werden musste,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Dorf Gemeinschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""minderjähriger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tiefenresonanz,"Find ich gut dass man auf größeren Ansammlungen von Menschen jegliche Drogen von allem fernhält und Kinder Jugendliche oder gar suchtgefährdete schützt. Alkohol und Zigaretten sind eine dermaßen Selbstverständlichkeit in der Gesellschaft dass es einen schüttelt. Die Auswirkungen auf Menschen und die Menschen die diese Auswirkungen auch noch öffentlich zelebrieren und vor sich her tragen, muss man ja nun nicht auch noch tolerieren",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kinder Jugendliche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""suchtgefährdete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol und Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+therealmrsfahrenheit,"bro es geht darum weil da auch Kinder sein können:totenkopf:. Finde diese Einschränkung auch tatsächlich sinnvoll, sollte es auch noch strenger für Alkohol und Zigaretten geben mMn. Wobei es ja bereits in Parks/ auf Spielplätzen/ auf Schulhöfen/ in Restaurants (minus Raucherbereich)/ in so ziemlich allen geschlossenen öffentlichen Räumen u.ä verboten ist und man Kinder auch nicht mit in Kneipen & Clubs nehmen darf. Finde das ehrlich gesagt völlig okay. Und da sich die Mehrheit sowieso nicht an solche Einschränkungen hält (auch auf die anderen Dinge bezogen) weiß ich nicht warum ihr euch trotzdem drüber aufregt",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parks"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spielplätzen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schulhöfen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Restaurants"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Raucherbereich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kneipen & Clubs"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Baciol0815,Die schildindustrie macht jetzt richtig Kasse,2024-05-05,de,de,"[
+      {
+        ""entity"": ""schildindustrie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+No-Pomegranate-69,Da fehlt n Komma.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Komma"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Panzerbiest,"Sicher, das sowas vom Veranstalter kommt?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Veranstalter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+thechrisss,"Traurig, dass solche Schilder nun überhaupt nötig sind.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Traurig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schilder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+omnomnomomnom,"Wir wurden letztens auch, mit Präsentation, darauf hingewiesen, dass wir nicht stoned arbeiten sollen. Fair enough. Saufen am Arbeitsplatz ist ja auch untersagt. Aber als dann jemand fragte, ob wir jetzt auf Betriebsfesten, auf denen die Leute natürlich trinken, kiffen dürfen, war die Antwort: ""Haha, natürlich nicht!"" Und wir sind eigentlich nen echt lockerer Verein...",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Wir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Präsentation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arbeitsplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Betriebsfesten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Enjays1,"Find die Leaglisierung richtig. Aber ich war am Wochenende auf einem Straßenfest in Hamburg und als ich aus der U-Bahn-Station direkt neben einer Bühne kam, stieg mir erstmal eine fette Graswolke ins Gesicht. Hat dann auch keinen Spaß gemacht, da in der Menge zu stehen und wir haben uns weit nach hinten stellen müssen. War schon eher unangenehm und ich bin daher solchen Untersagungen bei Festen nicht abgeneigt.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wochenende"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""U-Bahn-Station"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Graswolke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Lunarix117,Find ich gut endlich ein alkoholfreies fest diese ganzen besoffenen haben auch überhand genommen,2024-05-06,de,de,"[
+      {
+        ""entity"": ""alkoholfreies fest"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""besoffenen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+JustRedditTh,"Endlich mal ne veranstaltung, wo man nicht ständig zugequarzt wird, weil die ganzen Suchties ihre Kippen nicht stecken lassen können, und wo man nicht drauf achten muss, dass ein Kind nicht mit Bier übergoßen oder gar vollgekotzt wird, nachdem ne Gruppe Kumpels einen von ihnen mit ""Schluck! Schluck! Schluck!"" animiert hat....",2024-05-06,de,de,"[
+      {
+        ""entity"": ""veranstaltung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Suchties"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kippen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kind"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gruppe Kumpels"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schluck! Schluck! Schluck!"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Laurenz1337,"Ist zwar absolut unnötig das Verbot, aber um ehrlich zu sein ist die crowd die auf einem Bierfest oder Karneval ist eh nicht die, die gewöhnlicherweise gras raucht. Und wenn man es tut, dann reicht es auch einfach auf der Wiese vor dem Eingang zu buffen und dann da hin zu gehen.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Bierfest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Karneval"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Algiarepti,"Sagt mir nicht, dass ich der einzige bin, der der Meinung ist, dass, wenn auch nicht mehr änderbar, zu wenig Kommata auf diesem Schild ersichtlich sind. Es fühlt sich falsch an.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Schild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+audin_webman,Das Schild zu ignorieren ist keine Straftat.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Das Schild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Suit_Scary,"War doch zu erwarten, dass einige Alki-Boomer da auf die Barrikaden gehen. Die Legalisierung ist da, aber die Akzeptanz in den Köpfen kann Jahre brauchen zum Umdenken. Einige müssen erst persönlich davon überzeugt werden, dass nicht bald jede Innenstadt aussieht als wäre sie voller Fentanyl Junkies.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Alki-Boomer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Legalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fentanyl Junkies"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Innenstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+McMarcy1989,Was macht dann die bier Hütte da?,2024-05-07,de,de,"[
+      {
+        ""entity"": ""bier Hütte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No_Contribution_8779,Bei der nächsten Mauer schließen wir die Bayern auf jeden Fall mit aus. :sich_an_den_kopf_fassender_mann_helle_hautfarbe:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Allmightboi,Jetzt verbieten sie mir auch noch meine Ibus und Insulin.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ibus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Insulin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MrMbam,"...am allermeisten stört mich, dass ""Ca\_N\_abisprodukten"" so geschrieben ist. edit: tippen",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ca_N_abisprodukten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Baciol0815,Wer setzt sich da denn ein Schuss dann lieber am Bahnhof mit meinen Bro‘s,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bahnhof"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bro's"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Drop_myCroissant,Verbotene Sachen sind verboten ok,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Verbotene Sachen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+drlongtrl,"Alkohol sitzt gerade schmollend in der Ecke, weil er anscheinend seinen Status als Droge verloren hat.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Gluecksritter90,Hier regiert die SGE,2024-05-05,de,de,"[
+      {
+        ""entity"": ""SGE"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GoenndirRichtig,Ja mein Gott dann sucht man sich halt weiter ein ruhiges Eckchen außerhalb des Geländes und raucht sich eine Trompete,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Gott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ruhiges Eckchen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geländes"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cj_irememberthat,Können nicht mal Cannabis richtig schreiben. Da merkt man mal was der ganze Alkoholkonsum mit einem macht.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkoholkonsum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Piefke_Paul,Bier und Kippen sollte genau so verboten werden… Kotzt mich immer wieder an wenn die Raucher einen fck auf die kleinen kids um sich geben.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Raucher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BenderDeLorean,"Das Schild ändert eh nix, reiner Populismus. Meiner Auffassung ist Kiffen eh nicht erlaubt weil Kinder anwesend sind - damit ist das ja eh schon ausgeschlossen. Zum Glück darf man noch vor den Kindern rauchen :zigarette:. Die haben ja sonnst gar nix mehr davon.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kiffen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Orothred,"Top, mit dem Bierstand im Hintergrund. Merken die eigentlich noch was?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bierstand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Squeaky_Ben,Wenn ich da nur ein Bier sehe dreh ich durch.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+elementfortyseven,Fällt mir schwer zu glauben dass das erst eine Folge der Legalisierung ist und vorher erlaubt war.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Legalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Abroad_in_space,"Wer kennt es nicht, erstmal einen Druck setzen und dann entspannt im Autoscooter einschlafen... /s",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Druck"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Autoscooter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+0ldMother,"wenn man die polizei ruft und auf drogenkonsum (alkohol) auf dem festplatz hinweist, ist das strafbar?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""drogenkonsum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""alkohol"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""festplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Andreaslel,"Sag mir bitte dass dies auch Bier trifft, entweder alles oder Garnichts",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kode_tab,Dann bleibe ich halt zu Hause und gebe mein Geld anderweitig aus. Und die Alkohol-Fans bleiben einem auch erspart Ü,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hause"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol-Fans"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MBratke42,"Dann aber auch konsequent, ergo ohne Alkohol.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Reddmika,Dann bitte auch kein Alkohol!,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+bastianh,Sollten da einfach einen Spielplatz hinmachen. Schon ist das Problem gelöst.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Spielplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+urdadbeforehegotmilk,"Naja, war ja davir nicht anders",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Naja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""davir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mstrlnd,Keine Diabetiker mehr erlaubt?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Keine Diabetiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SwaggeddiYoloNese,Cannabis schreibt man mit doppel N - Wohl zu viel Kiffgras geraucht beim Schild schreiben...,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kiffgras"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Moraic1,Da ist n‘Rechtschreibfehler. Das gildet nicht.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Da"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtschreibfehler"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""gildet"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fragrant_Ad9680,"Abseits rauchen, ab ins Getümmel. War schon immer so, alles entspannt, gab nie Stress. Jetzt wird man milde mit Augenblinzeln drauf hingewiesen und nicht gleich eingesackt. Ich sehe hier den Vorteil der Legalisierung durchaus gegeben. :)",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Abseits"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Getümmel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Legalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+sensual_Warsinow,"Das ironische ist doch, dass die Leute die aufm Volksfest jetzt einen rauchen, wahrscheinlich härter bestraft werden, als vor der Legalisierung",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksfest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Legalisierung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Professional-Bus8449,Endlich mal eine Feier bei der man das Kokain nicht verstecken muss weil es nicht ausgeschlossen wurde:partygesicht::partygesicht::partygesicht::partygesicht::partygesicht::partygesicht::partygesicht::partygesicht:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kokain"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Heart_Dominator,Eintracht Ultras:lächelndes_gesicht_mit_sonnenbrille:Wo ist das überhaupt?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Eintracht Ultras"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Regiounlimited,"Da Hopfen ein Hanfgewächs ist ist doch Bier auch ein ""Can(n)abisprodukt"", oder? :nachdenkendes_gesicht: Frage für einen Freund",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Da Hopfen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hanfgewächs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Can(n)abisprodukt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mr-Keys1982,Ich nenne es die beleidigte Leberwurst csu Tafel :strahlendes_gesicht_mit_lachenden_augen:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""csu Tafel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ploedman,Das will ich sehen wie sie mir meine Brownies mit THC verbieten wollen ohne ein Labor Test.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Brownies"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""THC"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+N1N4-,Es regt sich ernsthaft keiner über den Cannabis Schreibfehler auf?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EisVisage,Ich liebe es mir Weed zu spritzen,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Weed"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Same-Shallot-488,"Wer auch immer das Schild gemacht hat, sollte weniger kiffen. Cannabis schreibt man mit Doppel-N! So ein N kann nen echten Unterschied machen: fragt mal Bayer und BayerN.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bayer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BayerN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Remarkable_Drink8797,Darauf ein Bier meine lieben,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Darauf"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Only_a_Man_1993,Ist so leider nicht umsetzbar.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ist"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""so"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""leider"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nicht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""umsetzbar"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ChrizZly1,Dart der Betreiber so eine feste nicht per Hausrecht diese Regel durchsetzen? Ist doch sein Ding. Andersrum wäre es ja bestimmt eine witzige Aktion,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Dart"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Betreiber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hausrecht"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+german_poopiehead,In dem kontext nachvollziehbar weil kiffer halt nichts trinken und maximal ne cola kaufen. Andererseits sieht das aus wie so ein dorffestplatz und solang man nicht die theke blockiert nimmt man niemandem den platz weg. Versteh nicht warum die unbedingt die busch-kotz- und schlägereienrate hochhalten wollen,2024-05-05,de,de,"[
+      {
+        ""entity"": ""kiffer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""cola"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dorffestplatz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""theke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""platz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""busch-kotz- und schlägereienrate"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TrienneOfBarth,"Lustigerweise ist die ""Folge der Legalisierung"" tatsächlich nur, dass da jetzt ein Schild steht. Vorher war es verboten, jetzt ist es auch noch verboten, faktisch hat sich also nichts geändert.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Lustigerweise"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Legalisierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,Ist doch kein Drama.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Drama"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Huppelkord,"Und grammatikalisch ist es auch falsch. Es heißt doch Cannabis ProduktE, nicht ProduktEN.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+iamnoone420,"Auf einem Rummel Gelände, wo höchst wahrscheinlich auch Kinder anwesend sind, muss das auch nicht sein dort zu kiffen. Kann man dann auch abseits des Geländes machen",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rummel Gelände"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JohnBilly2021,Was los mit Rechtschreibung?,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Rechtschreibung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+another_max,Das um 3 Uhr morgens nach 12 Bier und einmal übergeben lesen,2024-05-06,de,de,"[
+      {
+        ""entity"": ""3 Uhr morgens"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""12 Bier"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OTee_D,"Die Legalisierung wird von der Exekutive bewusst ignoriert und torpediert. Jeder kleine Frosch im Gesundheitsamt Kleinkleckersdorf, Ordnungsamt Dinkelbühl oder Polizeidienststelle Hintertupfingen lässt sich was einfallen um ein Bundesgesetzt möglichst negativ auslegen zu können.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Exekutive"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gesundheitsamt Kleinkleckersdorf"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ordnungsamt Dinkelbühl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polizeidienststelle Hintertupfingen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesgesetzt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ElectroRafa,mit dem Text darf da aber auch keiner Alkohol trinken...,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Text"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+goo_awaxy,Schade war meine Lieblings Tätigkeit,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Schade"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lieblings Tätigkeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+No_Maize_990,Blöde frage aber wie will man das kontrollieren?,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Blöde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""frage"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kontrollieren"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fennek-vulpecula,Das erste fest ohne Alkohol und Zigaretten?,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Das erste fest"",
+        ""entity_type"": ""EVENT"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""SUBSTANCE"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""SUBSTANCE"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ruckedigoo,"Ist das Schild gültig wenn Cannabis falsch geschrieben ist ? Und interessant , dass Cannabis nicht schon bei den Drogen inkludiert wird . Es geht voran !",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+chemolz9,Hier an nem Restaurant hängt seit neustem auch ein dickes Cannabis-Verbots-Schild (im Außenbereich).,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Restaurant"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis-Verbots-Schild"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CricketDazzling7123,Dann stellt man sich halt kurz außerhalb des festes hin und gönnt sich sein pfeifchen.,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""festes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rimalp,Aber Saufen ist OK!,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Aber Saufen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+M_Theinen,"Wetten wenn in die gegengesetzte Richtung fotografieren stehen ca. 100 Meter weg vom ""offiziellen"" Platz, in Alter (man darf auf dem Schulgelände nicht rauchen Manier) die neuen ""Raucher"" und alles findet wieder seinen vorbestimmten Platz. Wer wird wohl als nächstes dann Abseits stehen, sobald Kanabis den selben Status wie Alkohol und Zigaretten hat? Hab gehört dass evtl. Bestimmte PILZE schon eine Legalisierungsdepatte ausgelöst haben. Spannend, spannend.",2024-05-06,de,de,"[
+      {
+        ""entity"": ""Kanabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""PILZE"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lauke88,Canabis xD grad das ned Kanapiss hingschrieben haben lol,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Canabis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kanapiss"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ceadesx,Das geilste is der Bierpilz,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Bierpilz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+leon_prx,Finds sehr geil das kein Alkogol anhebildet ist und auch (ich weiss es natürlich nicht sicher) nicht verboten zu sein scheint.,2024-05-07,de,de,"[
+      {
+        ""entity"": ""Finds"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Alkogol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+baflai,Frei statt Bayern. Des han I schoa immer gsagt!,2024-05-07,de,de,"[
+      {
+        ""entity"": ""Frei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+deepskylistener,"VOR dem Schild darf man aber. Und so kommt es, dass da eine Menschentraube steht, die für die Nachkommenden das Schild leider unsichtbar macht. Also alles kein Problem.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Menschentraube"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nachkommenden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Greedy-Comment3609,Auch hier kann ich nicht anders. Penis,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Auch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Penis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+loopwhole69,"Und im gleichen Bild noch die Bierbude, kann man halt nicht ernst nehmen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bierbude"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+tigridi2,"Konsum, von Drogen ist verboten, aber wenn ihr mies besoffen seit, weil ihr euch überteuertes Bier gekauft habt ist das fein",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Konsum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ok-Share1190,Alkohol weg oder Platzverweis!,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Platzverweis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+UndeadBBQ,"> das Konsumieren von Drogen ist verboten lol. Man möchte sagen, lmao.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+milfschnidde,"Boar da ist mir vor Schreck fast meine Kippe ins Bier gefallen, als ich gelesen hab das Drogen verboten sind",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Boar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+pornographiekonto,Die einzige erlaubte Droge: EINTRACHT FRANKFURT,2024-05-05,de,de,"[
+      {
+        ""entity"": ""EINTRACHT FRANKFURT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+afriy,Als ob die Gras in irgendeiner Form außer nem Joint überhaupt erkennen könnten :gesicht_mit_spiralen_als_augen:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Gras"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BaraMGB,Ich könnte mir wirklich keinen beschissenen Ort vorstellen um einen zu buffen. :augen_verdrehendes_gesicht:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ort"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+hatethislifeThrowaw,P.S. der Bitburger Stand ist 5 Meter voraus ;),2024-05-05,de,de,"[
+      {
+        ""entity"": ""Bitburger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 Meter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Philly__Blaze,Cannabis-Produkte in jeglicher Form ist lachhaft. Als ob es irgendjemanden stören würde wenn ich CBD Kapseln nehme. Das würde nicht mal die Person merken die direkt nebendran steht. Selbes gilt für edibles jeder Art.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Cannabis-Produkte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""CBD Kapseln"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+forwheniampresident,"Was ist den Canabis? Kenn ich nicht. Ich würde mal sagen, das ist eine Folge daraus, dass es doch tatsächlich Leute gibt, die die Betonung auf dem „Na“ und nicht „Ca“ setzen, wodurch es sich anhört, wie ein einzelnes n. Kurzes a, doppel n. Durch doppelten Konsonanten wird Vokal kurz.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Canabis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Betonung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Successful-Rip6276,Alkohol ist auch Droge!?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Droge"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hour-Artist4563,Auf legalisieren folgt diskriminieren…,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Auf"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""legalisieren"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""diskriminieren"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+HerrFistus,"hmm vor nem jahr wars noch scheißegal wenn man in FFM auf dem fest gekifft hat. dafür gibts halt heutzutage dafür nen platzverweis statt einen BTM-Eintrag, wenn man erwischt wird. kein allzu schlechter deal find ich",2024-05-05,de,de,"[
+      {
+        ""entity"": ""FFM"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vor nem jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""platzverweis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BTM-Eintrag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Radiant-Age1151,Ja also Rauchen muss echt nicht sein finde ich. Sonst sehe ich kein Problem.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rauchen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+IDontWearAHat,"Hey, solang das auch Alkohol beinhaltet wär ich nicht dagegen. Wenn ich schon nicht druff auf dem Jahrmarkt sein kann will ich nicht von druffis umgeben sein",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jahrmarkt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Spieler42,"gut, dann gibts anzeige für alkoholkonsum",2024-05-05,de,de,"[
+      {
+        ""entity"": ""alkoholkonsum"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Freak_Engineer,"Mir wars eigentlich immer ziemlich egal, wer sich was reinzieht. Beim Maifeuer neulich hatte ich aber ein Gespräch mit nem Kumpel, der zum Feuer des ortsansässigen Fußballvereins dann gar nicht mehr hin ist, weil dort alles ""übel nach Gras gestunken hat"". Kann die Veranstalter also verstehen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Maifeuer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kumpel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fußballvereins"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Veranstalter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+percyman34,"Man, I wish there was a translate function in reddit. Hello from America!",2024-05-05,de,en,"[
+      {
+        ""entity"": ""America"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+herrspeucks,"Endlich kein Alkohol mehr auf solchen Festen, oder? ODER?",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Festen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Uniquarie,"Ab jetzt gibt es an den Theken nur noch Wasser, Fruchtsaft & Co",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Theken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wasser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fruchtsaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Septon3,Was ist mit Alkohol und Zigaretten? Demfall auch verboten oder?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zigaretten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Arrior_Button,Von Drogen? Also auch kein Alkohol?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Von Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MMBerlin,Mit dem Deutschen haben sie es auch nicht so.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Deutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DD_Fighter,Kann mir nicht vorstellen dass die Ultras SGE das unterstützen ;),2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ultras SGE"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Existing-Ad7113,Die Folge ist. Die mussten ihre Schilder umschreiben weil canabis nun keine illegale Droge mehr ist lol :gesicht_mit_freudentränen:,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Die Folge"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schilder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""canabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""illegale Droge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kirla_,Mit einem Widerspruchsbeweis kann man easy das Gesetz außer Kraft setzen.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Widerspruchsbeweis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BillytheKid419,"Ich muss ne Mpu machen und darf kein Cannabis einatmen, weder aktiv noch passiv. Bei Alkohol wäre das kein Problem aber würde jeder überall kiffen hätte ich ein Problem. Außerdem will nicht jeder beinander werden und passives einatmen, betrifft halt auch andere.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mpu"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alkohol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kiffen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dvoid93,Jegliche Drogen? Alk und Nikotin auch?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Jegliche Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alk"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nikotin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+8rianGriffin,"Wenn man dort nun trotzdem einen Joint raucht, gäbe es da rechtliche Folgen? Im Grunde kann der Kirmesbetreiebr in Form eines Mitarbeiters ja nur das Hausrecht durchsetzen und wenn ich dem Folge leiste ist das Thema erledigt? Im Zweifel hätte ich ja das Schild nichtmal gesehen.",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Kirmesbetreiber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mitarbeiters"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gwadro,Vor dem Satzzeichen kommt kein Leerzeichen!,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Vor"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Satzzeichen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leerzeichen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mauerstrassenheld,"Saufen! Morgens mittags abends SAUFEN , NEIN ZU DROGEN !1!1!1!1",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Saufen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Morgens"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mittags"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""abends"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DROGEN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Electrical-Debt5369,"Ja, ich drücke mir mein thc auch immer direkt IV",2024-05-05,de,de,"[
+      {
+        ""entity"": ""thc"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+n0xD_,"""Das konsumieren von Drogen..."" Aber dann schön die Bierbude aufgebaut. Jesus ...",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Drogen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bierbude"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jesus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alarming_Basil6205,"Jetzt mal ernsthaft, was würde passieren wenn man sich beim Rathaus beschwert, dass Alk und Zigarette konsumiert werden",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Rathaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alk"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zigarette"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Important-Crow352,Wo ist das ?,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Wo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Toorero6,Rauchst du halt vor dem Platz. Passt ja auch.,2024-05-05,de,de,"[
+      {
+        ""entity"": ""Rauchst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Platz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok_Cycle_6654,"""Die jungen Leute heutzutage sind alle gestört""",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Die jungen Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Alternative-Bid-7019,"Was soll das denn? Nichtmal ne Nadel, darf man sich rein Pfeifen. :augen_verdrehendes_gesicht:",2024-05-05,de,de,"[
+      {
+        ""entity"": ""Nadel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TangerineTwist44,I like how reddit suggests posts I can't even read oop,2024-05-05,de,en,"[
+      {
+        ""entity"": ""reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+il_the_dinosaur,Da ja theoretisch der Betreiber die Hausordnung selber festlegen kann ist da erstmal kein Problem. Könnte ich jetzt aber wegen Diskriminierung klagen wenn ich fürs kiffen des Platzes verwiesen werde aber alle die auch die Hausordnung brechen nicht das selbe Schicksal ereilt?,2024-05-06,de,de,"[
+      {
+        ""entity"": ""Betreiber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hausordnung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Diskriminierung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kiffen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Platz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

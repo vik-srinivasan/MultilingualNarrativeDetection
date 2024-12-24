@@ -1,0 +1,4426 @@
+author,text,timestamp,subreddit,language,gpt_output
+noblackthunder,"Kondolere, er altid trist når en venn må går, Eg har ikke mange støttende ord men eg kan fortelle deg selv om det er tungt har du gjørt det rette. Ja livet var kort men han har nok hat et bra liv. Jeg har mange katter men husker en del år tilbake så hadde jeg en katt som heter TinTin, beste katten noen gang. Han hadde så mye kjærlighet i seg og alle mine andre katter elsket han. Han tok in nye katter vi redded fra gaten in og blei beste venn med engang med dem. Han dødde plutslig føran meg en natt med tunga ut og bare falt om etter 20 sekdunder ... han heller blei ikke mer en 3 år gamel. Skyld følesen eg har hat i flere år om det var noe eg kunne har gjørt for redde han spiste meg nesten opp. Han vil aldri blir glemt. Så når det kommer til din bestevenn, ikke tvil på at du har gjørt det rette, Er ikke bra dem lider og piner seg og du fikk la han slippe på egne premisser. En ting eg har lært fra tintin er at alle dyre er helt utrolig, dem har føleser og dem vet hva kjærlighet er. La oss hedre dem for hver del av livet våres ! Hvil i fred lille puss ! og igjen kondulere jeg vet at det er ikke lett! men jeg kan berolige deg at du tok rette valget og det må du aldri tviler på <3",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolere"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""venn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""TinTin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""katten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Skyld følesen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""3 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+slap_my_nuts_please,"Kondolerer så mye. Jeg mistet nylig katten min i midten av mars. Det er en sjelden ting for meg å føle meg ensom eller alene, men perioden etter at hun gikk bort har vært tung. Trøst deg selv med at han levde tre gode år med deg. Du tok riktig valg, selv om det gjør vondt.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katten min"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mars"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""meg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ensom eller alene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""perioden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tre gode år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DontLookAtMePleaz,"Uff, så urettferdig. Kjærligheten man kjenner for dyrene sine er noe man ikke kan forstå med mindre man selv har opplevd det. Og med den kjærligheten forstår man også sorgen. Jeg har hatt 3 katter som måtte avlives pga. problemer med nyrene/urinveiene. Det er så fælt at katter er utsatt for de problemene så ofte. De fortjener det ikke. Jeg prøver å tenke på det som at dyrene våre bare er på besøk. Vi er her på jorda lenge. De bare besøker oss en liten periode i våre liv. De tilhører ikke oss. De tilhører resten av naturen. Og da er det så fint å tenke på at du fikk ha en så fin pus på besøk i tre år. Hold godt fast i de fine minnene. De kan du ta med deg ut livet.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""katter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""3"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nyrene/urinveiene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""jorda"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tre år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+alexdaland,"Måtte ta hunden min i dag, føler med deg. Jeg bor i SØ Asia, så jeg måtte gjøre det selv. Han sovna på fanget mitt med en sprøyte propofol",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""hunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SØ Asia"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sprøyte propofol"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Svampting,Pen pus! (alle puser er pene),2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Pen pus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""alle puser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CleverDad,Kondolerer :red_heart: Og så bare tre år gammel! Jeg mistet min egen katt for bare tre uker siden. Liknende historie. Nå er det så tomt og trist i huset.,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tre år gammel"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""min egen katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tre uker siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""huset"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CarpetH4ter,"Kondolerer, mista katten frå barndommen min rundt vinterferien i 2018, han hadde han heilt frå eg byrja på barneskulen, savner han framleis :red_heart: han heit Snorre.",2024-05-14,norge,nn,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""barndommen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2018"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Snorre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+cantona237,Kondolerer :red_heart: “How lucky I am to have something that makes saying goodbye so hard.”,2024-05-14,norge,en,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+an-can,"Gjorde det samma med min 14-åriga, mycket älskade, katt för exakt en vecka sedan. Det var för jävligt tungt.",2024-05-14,norge,sv,"[
+      {
+        ""entity"": ""14-åriga"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""en vecka sedan"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Today-Tight,Kondolerer! Kjæledyr kan være både venner og familie! :red_heart::red_heart:,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kjæledyr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Andrew-Lactate,"Han var veldig flott! Trist at det måtte ende slik, men du gjorde det rette. Kondolerer.",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Trist"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kiefitreal,Takk for alle fine kommentarer :loudly_crying_face::red_heart:,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""entity"": ""kommentarer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+WonderHuman9005,Hvil i fred ); min katt dødde halvår sida. Jeg vet hvordan det føles.,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""min katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""halvår sida"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bartesatan7,Kondolerer. Jeg må avlive min maine coon på 9 år i morgen om jeg ikke finner nytt hjem til han..,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""maine coon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""9 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""morgen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+chrkb78,"Huff, kondolerer så mye. :(",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Huff"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+in93,"Huff, så dumt, kondolerer så mye :red_heart: du tok det rette valget, selv om det føles tungt :red_heart:",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Huff"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Poopfacemcduck,Han var heldig som hadde noen som tok godt vare på han. Kondolerer.,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zhongli3112,Kondolerer så mye. Vet hvordan du føler. Min Main Coon gikk bort i 2019. Trodde ikke jeg skulle bli så lei meg den gang da.,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Main Coon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2019"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Issah_Wywin,"Kondolerer, det er aldri en hyggelig ting å si farvel til dyr som står deg nær.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tomsnurk,Utrolig trist å miste en firbent kompis.. Kondolerer så mye:red_heart:,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""firbent kompis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+fztrm,"Kondolerer! Mistet selv en 20 åring for ikke altfor lenge siden, utrolig trist",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""20 åring"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Frequent-Presence302,":pensive_face::persevering_face::crying_face: fine gentleman :black_cat: hvor gammel ble han/hun? Hadde min bestevenn i 4 år. Hun ble påkjørt, døde momentant. Helt forferdelig sorg. Å sørge over et kjæledyr er utrolig nedvurdert. Som å miste et kjært familiemedlem :raising_hands_light_skin_tone:",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""min bestevenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""4 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""påkjørt"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""døde momentant"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sorg"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kjæledyr"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""familiemedlem"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+shmiga02,"Kondolerer så mye, vet åssen det er. Veldig nydelig pus",2024-05-14,norge,sv,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Veldig nydelig pus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Shadow-Dude179,Var med bestemoren min til dyrlegen med katten hennes i dag. Katten hennes har bare et par uken igjen desverre,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""bestemoren min"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dyrlegen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katten hennes"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""i dag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bare et par uken"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+isleepforfun,Kondolerer. Klem fra meg :red_heart:,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""meg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LadderOk1988,"Kondolerer masse! Savnet er stort her enda etter Johnson, 22 år måtte avlives :pink_heart::pink_heart:",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Johnson"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""22 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TurnedOnLamp,"Kondolerer så mye, har en katt selv, Loke 4 år, som har slitet noen ganger med urinveisinfeksjon også, jeg fikk valget om å amputere penisen hans så han ikke ville slite med det, jeg valgte det, han hadde nylig en ny runde med plager men det var mer pga at han ikke fikk vasket seg ordentlig(begynte å bli rund) så var enda en gang hos veterinær og nå på slankekur og håper han ikke får dette flere ganger... mer for hans og min helse, og mindre lommeboka, har heldigvis forsikring på han. Kunne ikke sett for meg ett liv uten han, han er kosebamsen min...",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Loke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""4 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""urinveisinfeksjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""penisen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""veterinær"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""slankekur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""forsikring"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+elg9553,Er det en skogkatt? min skogkatt sleit litt med urinveiene til vi oppdaget det og satt han på spesialfôr etter det har han blitt frisk og aldri hatt problemet igjen og ble 7 år i februar. kondolerer.,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""skogkatt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""spesialfôr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""februar"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PrimozDelux,"Tipper det gjør helt sykt vondt å tenke på nå, det gjorde det i alle fall for meg når min pus døde av alderdom. Når det nærmest bunnløse savnet gir seg så vil nok du og sitte igjen med gode og morsomme minner fra en katt som levde et flott liv, selvfølgelig blandet med savn, men på en god måte. Kondolerer på det sterkeste",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""pus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""aldredom"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+YarnGems,Kondolerer :mending_heart: Sorgen over katter er helt spesiell,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fusho_Intoku,Kondolerer masse! Han var en veldig vakker katt! Vet du om han var en spesiell rase?,2024-05-14,norge,sv,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""veldig vakker katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""spesiell rase"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+propaganda22,Får en majestetisk katt. Kondolerer :red_heart:,2024-05-14,norge,sv,"[
+      {
+        ""entity"": ""majestetisk katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+aLmAnZio,"For en majestetisk skapning! Det gjør fryktelig vondt når kjeledyr dør. Ta vare på deg selv, og kondolerer :heart_suit:",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""kjeledyr"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""deg selv"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+chrliah,"Huff, så ufattelig vondt. Kondolerer :red_heart:",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Huff"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CultistNr3,Det er så vondt :( kondolerer,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Decafwine,"Kondolerer :red_heart: Få ting er så kjipt som å miste en firbent bestevenn, mistet selv en rett før nyåret.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""firbent bestevenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nyåret"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Time-Opportunity-469,"A wise man from auschwitz once explained that to be the one left behind, let’s the lost go on in peace without having to know the suffering that you now expirience. In a way that means you tak on that burden for them. It is a great message, and i really felt the power of it when i lost my bestfriend. The wise man was a great psykologist by the name of Victor Emil Frankl. He invented the logotherapy after having survived auschwitz.",2024-05-14,norge,en,"[
+      {
+        ""entity"": ""Victor Emil Frankl"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""auschwitz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""logotherapy"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ItzSid_,"o7, alltid tungt å si hade til loyale medlemmer av familien",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""loyale medlemmer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pageantfool,Kondolerer så mye :red_heart: For en nydelig katt han var! Har katt selv og kan ikke forestille meg hvor tungt det må være.,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Lanky_Score7414,"Måtte avlive en marsvin gutt på 3 år (5 dager før han ble 4), han hadde problem med urinstein og fikk en større urinstein bare dager etter operasjon, savnet er stort selv om det snart er 2 mnd siden, han hadde så vondt før slutten og jeg vet nå at han er ikke i smerte lengre, avliving er det beste alternativet når dyret har det veldig vondt, katten din har det bedre nå, kondolerer.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""marsvin gutt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""3 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 dager"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""urinstein"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""operasjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2 mnd"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""smerte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""avliving"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""katten din"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+illusemywords,"Kondolerer :red_heart: Mistet min kjære katt selv for et par måneder siden, utrolig hvor vondt det gjør",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""min kjære katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""et par måneder siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EffectSimilar8598,Kondolerer :red_heart: katter er fantastiske,2024-05-15,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ThyShallKnowPain,"Kondolerer, alltid tungt miste de <3",2024-05-15,norge,sv,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""de"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bartlaus,Kondolerer. Ser ut som han var en fin kar.,2024-05-15,norge,nn,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+eu4player90,"Kondolerer så mye. En nydelig katt. Har dessverre vært i samme situasjon selv. Det er forferdelig vondt, men prøv å huske på at du ga katten et flott liv i den tiden dere fikk sammen.",2024-05-15,norge,no,"[
+      {
+        ""entity"": ""Kondolerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kiefitreal,Det hjelper å tenke på at han ikke har det vondt lengre. Men savnet er stort. Takk :red_heart:,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""savnet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kiefitreal,Tusen takk! Trist å høre om TinTin :red_heart:,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Tusen takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""TinTin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kiefitreal,"Takk :red_heart: Kjenner meg igjen, leiligheten føles veldig tom ut nå..",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kjenner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kiefitreal,Ja han var flott :smiling_face_with_hearts:,2024-05-14,norge,nn,"[
+      {
+        ""entity"": ""Ja han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kiefitreal,"Uff :loudly_crying_face:, kondolerer :red_heart:",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Uff"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kondolerer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+glitterlys,Det er vitenskapelig bevist at alle katter er verdens beste katt.,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""katter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kiefitreal,"Trist å høre :crying_face: Vi snakket om amputasjon, men dyrlegen sa at det ofte er komplikasjoner og at katten fortsatt vil ha betendelse i blæren og vil ha smerter, og jeg klarte ikke tanken på at han skal ha vondt hele tiden uten at jeg vet om det :crying_face: Håper det ordner seg for pusen din!",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Trist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dyrlegen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""blæren"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pusen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kiefitreal,"Vet ikke hvem faren er, men moren er vanlig huskatt i allefall. Har vært hos dyrlegen flere ganger og prøvd flere forskjellige typer fôr, men det var ingenting som hjalp :crying_face: Glad for å høre at det hjalp din katt :relieved_face:",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""dyrlegen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fôr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kiefitreal,"Nei for alt jeg vet så er det vanlig huskatt, men vet ikke hvem faren er",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vanlig huskatt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hvem"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Severin_Suveren,"Man blir så jævli gla i de dyra, og jeg vet, det er det som gjør det så faens vondt. Men vit at han var jævla glad i deg også, og det var kanskje bare tre år, men det var tre år han fikk tilbringe sammen med den beste vennen en pus kan ha, altså deg :) Overtroisk eller ei, dere to er linket sammen for alltid. To kosmiske brødre på en dyp og meningsfull reise sammen i dette mikroskopiske lille dryppet av en eksistens vi kaller livet. Så lenge ditt lys fortsetter å skinne, vil gutten din alltid være med deg <3",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Man"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tre år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""den beste vennen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""pus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""deg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kosmiske brødre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""livet"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ditt lys"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""gutten din"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+alexdaland,"Han hadde vondt, det var på tide. Men takk.... Jeg har hatt 20 hunder siste 20 år, og det er aldri gøy. Den beste situasjonen var når jeg ba fetteren min, som er bonde, ta med bikkja på en tur, han trenger ikke se hva som kommer, bare sett det skuddet når han ser på solnedgangen. Jeg trenger ikke båndet.... la han sove der han sovner...",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""20 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fetteren min"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bonde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bikkja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""solnedgangen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TurnedOnLamp,"Huff ja hørtes ikke bra ut, Loke har heldigvis ikke hatt betennelse i blæra (bank i bordet) han fikk smertestillende hver gang så han viste ikke tegn til noen smerter mens han gikk på det, han er veldig flink til å vise han har vondt, eller noe annet for den saks skyld, veldig pratsom. Håper ikke denne hendelsen ikke skremmer deg bort fra å skaffe deg en ny venn! Og ikke få dårlig samvittighet for om du gjør det! Ett nytt dyr vil aldri erstatte de du har mistet! Det gir deg bare mulighet til å gi din kjærlighet til noen som er der og som kan gi det tilbake! <3",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Loke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""betennelse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""blæra"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""smertestillende"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""smerter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pratsom"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""hendelsen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ny venn"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""dårlig samvittighet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nytt dyr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjærlighet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+elg9553,Syntes ansiktet hadde litt den tradisjonelle trekant formen til skogkatten. Var en veldig pen blanding Til andre katteeiere som sliter med urinveiene så kan man tilføre ekstra væske med å vanne ut tørrfôr og gi våtfôr daglig så de ikke lager krystaller i blærene Så klart alltid vetrinær fôr anbefalt av en dyrlege,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Syntes"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skogkatten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katteeiere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vetrinær"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dyrlege"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kiefitreal,"Ja han var veldig fin :face_holding_back_tears: Flere andre som har sagt at han må være en rasekatt pga utseende, men har aldri fått vite hvem som er faren",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Ja han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Flere andre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rasenkatt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+meth_priest,"upvote for synlighet. Har vært i kontakt med russe ""aktører"" gjennom jobb - og vi opplevde inntrykk av ren svindel og bedrageri. Et tilfelle gjorde at vi sluttet å inngå samarbeid med folk i den bransjen. Idiotisk nok at ungdom bruker 10- om ikke hundretalls tusen på russeferinga - men de trenger ikke bli svindlet i prosessen.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""russ"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Idiotisk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10- om ikke hundretalls tusen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+aLmAnZio,Utrolig kult at dere når ut på Reddit!,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+DJ_Lazlow,Jeg har hørt det er vanlig praksis å tilby russestyret gratis russeklær mot at leverandøren får monopol ved skolen. Er dette lovlig?,2024-05-14,norge,da,"[
+      {
+        ""entity"": ""russestyret"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russeklær"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""leverandøren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skolen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_hackbandito_,"Har sendt inn bøttevis med tips til dere, aldri skjedd noe med noen av de.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Har"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bøttevis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CaptainKongo,"For ca. 10 år siden da jeg gikk vg2 designet jeg russekort bare på gøy (tror det var russeservice), godtok vilkår uten å lese de når jeg designet de. Fikk så tilsendt kortene med en faktura, det sto nemlig i vilkårene at jeg måtte kjøpe de når jeg designet de på nettsiden deres. Jeg var forøvrig 17 når jeg designet de, så jeg nektet å betale fakturaen siden de uansett ikke kunne selge på kreditt til noen under 18. Etter mye fram og tilbake med vanskelig kundeservice, og en inkassosak ble jeg til slutt bedt om å sende bilde av ID, og så trakk de hele kravet.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""ca. 10 år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vg2"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russeservice"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""17"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kundeservice"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""inkassosak"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Drops-of-Q,Så bra! Det var på tide.,2024-05-14,norge,sv,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Benskien,"var runn for sånn 10 år siden, men husker at det var så mye random shady shit ute å går blandt russe bedrifter etc, håper at dere kan få noe orden på stuffet! :D",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""10 år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russe bedrifter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Atillurt,"Hei hei Thomas! Det er bra at du tar opp dette. Jeg synes vi skal gå tilbake til det litt eldre russeopplegget som var før, det at du kjøpte en blå eller rød farget bukse og dekorerte den. At tradisjon skal markedsføres gjennom noen få og tjenes penger på blir litt tåpelig",2024-05-15,norge,no,"[
+      {
+        ""entity"": ""Thomas"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russeopplegget"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tradisjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ThomasIversen,Takk for oppfordring til upvotes! :),2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""upvotes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ThomasIversen,"Takk, jeg får ofte både inspirasjon og gode ideer fra folk her inne!",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""inspirasjon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""gode ideer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ThomasIversen,"Jeg vet at sånt skjer, og lokale ""ambassadører"" fra de store leverandørene er også en greie. Hvis leverandørene kamuflerer markedsføringen som spons ol. vil praksisen fort være villedende og ulovlig.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""leverandørene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""markedsføringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+rodtang,Hvordan funker dette i praksis? Har russestyret egne håndlangere som banker opp de som kjøper fra feil leverandør?,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""russestyret"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""håndlangere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""leverandør"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ThomasIversen,"Det har antakelig en kjedelig, men ærlig, forklaring - ikke alle tips fører til handling. Men, tips som nevnt i denne posten er allerde en prioritet.",2024-05-14,norge,da,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""kjedelig"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""ærlig"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""entity"": ""posten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DJ_Lazlow,På min skole var det slik at russestyret arrangerte en dag hvor alle kunne se og prøve klær. Bestillingene gikk via russestyret også ble alt levert samlet til skolen. Er temmelig sikker på at alt kom fra Russeservice. Det var ikke noe tema den gangen å undersøke alternativer.,2024-05-14,norge,no,"[
+      {
+        ""entity"": ""russestyret"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russeservice"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skolen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zize2k,"Nå er det over ca 20 år siden jeg var russ, men avtalen styret skrev med russeservice gav rabatter etter hvor mye vi bestilte til sammen, så om noen snakket om å bestille fra en annen plass så var det enkelte som var veldig gode til å prate om denne kvantumsrabatten hvis alle tok fra ett firma. Fant ut mye rart da jeg måtte tre inn i en rolle i styret på kort varsel da en person måtte trekke seg. Da fikk jeg et gullfarget kort for å ha i den plastlomma på buksa som viste at jeg var i styret, alle andre i styret fikk gratis klær for å pushe russeservice på alle andre på skolen. Nå kjøpte vel nesten alle på skolen gjennom avtalen styret hadde skrevet under på, lurer på hvor rævkjørt de som skrev avtalen hadde vært om alle bestemte seg for en annen leverandør da.",2024-05-15,norge,no,"[
+      {
+        ""entity"": ""20 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russeservice"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kvantumsrabatten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rolle"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gullfarget kort"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""styret"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""klær"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skolen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""leverandør"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_hackbandito_,"Jeg driver, og eier en russebedrift. Og vi får nesten ukentlig meldinger fra russ som ønsker å handle fra oss, men som tror de ikke kan for de ikke får lov av andre leverandører. MAsse andre henvendelser om konkurrenter som har ""tilbud"" som i praksis er vanlig pris ++++",2024-05-15,norge,no,"[
+      {
+        ""entity"": ""russ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russ"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MAsse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThomasIversen,"Takk for innspill, det går helt klart an å argumentere for at enkeltaktører utnytter en dominerende markedsposisjon til skade for andre leverandører - som for eksempel ditt firma.",2024-05-15,norge,no,"[
+      {
+        ""entity"": ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""dominerende markedsposisjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""leverandører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Curious-Frosting-368,Taxinæringen har blitt helt vill vest siste årene. Har begynt å strekke meg langt i å unngå å ta taxi.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Taxinæringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""siste årene"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+salvibalvi,"Tbf selskapet het Preimium taxi, så de leverte jo på det.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Preimium taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Benders1,"Bruk kun Oslo Taxi, Bærum Taxi, Drammen Taxi, Bergen Taxi. Styrer unna billige Teslaer med kun et taxi nummer på døren.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bærum Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drammen Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bergen Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Teslaer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dreadnought_69,95.48kr per km. 5.4x så dyrt per km som Tromsø Taxi i høytid. Premium Taxi har ikke en nettside hvor man kan se takster heller.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Tromsø Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Premium Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+personalityson,Det står Premium Taxi så det må ha vært en ekstra fin tur,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Premium Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Hag_bolder,Skulle ikke brukt «Premium Taxi AS» da,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Premium Taxi AS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Moistbananapeel,Du må alltid spørre om pris når du bestiller.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pris"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FJORLAND,"Jeg går heller 10km hjem fra byen enn å betale 1147kr for taxi. Hvor mye skal de ha betalt da? de klarer hvertfall 3 sånne turer iløpet av en time, en timespris på nesten 3500kr må jo være langt over hva det koster å drive et taxifirma.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""byen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1147kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""en time"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nesten 3500kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxifirma"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LeiphLuzter,"Skal man litt lenger, er det like greit å leie helikopter.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""helikopter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vesleengen,"Gikk på en smell som dette i fjor sommer også da jeg på minuttet ikke rakk siste t-bane fra majorstua til nydalen en sen og fuktig kveld. Hoppa inn i første taxi (selvfølgelig en tesla) som venta i krysset på maja og turen på skarve 5km, uten bomveier kl 2 natt til fredag kosta meg 700kr. Hadde kosta meg halvparten med Oslotaxi",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""fjor sommer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""t-bane"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""majorstua"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nydalen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tesla"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""maja"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bomveier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 natt til fredag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""OsloTaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Ashtar-the-Squid,"Da tror jeg jammen jeg heller hadde ventet på bussen. Går ikke den vanligvis omtrent hvert femte minutt derfra? Det er jo sannsynlighet for at det er litt andre tider på en helligdag, men det skulle vel fortsatt være mulig.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""bussen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hvert femte minutt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""helligdag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DiveInstructorNorway,"Eneste taxi selskapet jeg evt bruker i Oslo er ""oslo taxi"". De er som regel rimeligst. Men bruker nå stort sett bare Uber eller Bolt.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""oslo taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Laffen94-,"Bestill med taxifix alltid, så får du pris på forhånd. Opplevd det samme i Oslo her for ett par mnd siden, 800kr for tur fra Aker brygge til Oslo S, heeelt galemathias. Klikket på taxisjåføren og truet med anmeldelse så slo han av 500kr… jævla piratopplegg",2024-05-20,norge,sv,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Aker brygge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo S"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""800kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ett par mnd siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""500kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxisjåføren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+idontlikebeetroot,Ikke ta taxi. I hvert fall ikke der det går buss hele døgnet som fra Fornebu til sentrum.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Ikke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fornebu"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sentrum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Worth-Wonder-7386,"60 kr/km ville ikke vært så ille i seg selv for denne tiden av døgnet, men å skulle ha 1920 kr i timen er sykt. Kunne funnet konsulenter fra accenture som tar mindre",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""1920 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""accenture"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hpl002,Tar ikke taxi med mindre jeg vet hva prisen er i forkant. Detter er helt sjukt,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Tar"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""prisen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjukt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Academic_Flow6128,Burde kanskje ikke avregulert taxibransjen allikevel,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""taxibransjen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DJ3XO,"Jeg går langt og lenge for å sikre meg legitime taxi-selskaper når jeg først tar taxi altså. I Oslo er det stort sett OsloTaxi det går i, Christiana eller Norgestaxi til nød.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""OsloTaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christiana"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norgestaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KungFuKatten,Aldri ta noe annet enn oslotaxi,2024-05-20,norge,ro,"[
+      {
+        ""entity"": ""Aldri"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""oslotaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dreadfulwhaler,Prisen man betaler for deregulering pluss velger et tullete taxiselskap som heter Premium Taxi AS,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Prisen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deregulering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Premium Taxi AS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xlance,Det myndighetene må gjøre er å kreve at prisene vises synlig utenpå taxien. Det kunne feks vært krav til at det er et stort rødt merke på vinduet om prisen per km er høy. Da vil bransjen fikse seg selv.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""myndighetene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Det"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""feks"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kosmosesftw,"Når du kjører taxi så burde du alltid spørre om fastpris til hvor du skal. Når du er fremme kan du velge enten makspris eller pris som står på telleren. De er pliktig til å gi fastpris på starten om du spør, også er de pliktet til å ta betalt makspris eller pris på telleren, så du bestemmer :thumbs_up: Lærte dette av min far som pleide ofte å ta taxi pga jobb. Kan fort spare en god del penger. Edit: Skiftet fastpris til makspris",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""min far"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""jobb"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kaiser_vik_89,"23:00, fortsatt T-bane og buss tilgjengelig :man_shrugging:",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""23:00"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""T-bane"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""buss"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ildgrubtrollet,Hurra for frislippet av taxi-næringen...,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""taxi-næringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MaximilianusZ,"Opplevde samme - sky taxi elns fra plassen borte ved nasjonal til Ryen. Taxameteret var på 600 spenn allerede borte ved Sørenga, før tunellen. Laga et sabla helvete om det, så endelig regning kom på ca 800 (når det normalt er det halve) og aldri noe annet enn Oslo Taxi etter det, om jeg så må ringe og holdeplassen er full av andre biler.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sørenga"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ryen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""800"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+cogle87,Kan ikke huske sist gang jeg brukte taxi utenom jobbsammenheng. Er veldig sjelden verdt prisen.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MyNameIsNotGary19,"Jeg ville heller ha kjøpt en enkeltbillett for bussen for 42,-",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bussen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mcove97,"Pirattaxi.... Har tatt taxi sånn en gang i mitt liv, og det var fordi jeg var stuck med en crazy dude etter vi hadde vært på byen midt på vinteren. Da var det fuck it jeg peller meg til helvette vekk herfra uansett hva det koster.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Pirattaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""crazy dude"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""vinteren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LordGothmog,Taxifix er nice. Får du pris på forhånd og slippe å bli scammet.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""scammet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ThrowAway516536,Kjør Oslo Taxi eller Uber. Få pris på forhånd. Dette er de eneste alternativene. Hvis ikke risikerer du å betale skyhøye priser eller at sjåføren ikke har lappen.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Imaginary_Neat1838,"Du kan kun bruke Oslo taxi og NorgesTaxi i Oslo, men Oslo taxi er garantert den billigste. De gir deg til og med en maxpris",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""NorgesTaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""maxpris"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tafsern,Tar ikke taxi med mindre jeg får en fast pris i forkant.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Tar"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fast pris"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Xyfirus,Og folk lurer på hvorfor det er lukrativt å kjøre pirattaxi..,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""folk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pirattaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+squirrel_exceptions,"Oslo er virkelig et eksempel på at frislipp av markedet ikke behøver komme forbrukere, eller egentlig noen, til gode. Det har blitt for mange biler, for mange useriøse aktører, høye priser for å veie opp for lav etterspørsel (få turer), stadig færre turer fordi folk er lei av høye priser og useriøse aktører. Oslo Taxi er å foretrekke, men fortsatt vanskelig å forklare hvorfor så mye dyrere enn Bergen. Bolt er billigere. Yango er russisk og bør unngås som pesten.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""markedet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Bergen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Yango"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+VeryLargeTardigrade,Dette er Innovasjon hvis du spør Høyre.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Innovasjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Høyre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nordic_Krune,"Det at startpris er 166kr er helt idiotisk. Men 966kr for lutt under 10km? Det er nesten en hundrelapp per kilometer, dafuq. Noen som vet bensinpriser og bruken per km til å vite hvor mye fortjeneste Taxisjåførene kommer unna med?",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""166kr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""966kr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10km"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hundrelapp"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kilometer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bensinpriser"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bruken"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taxisjåførene"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+maverick-1009,Det er en lovlig måte å rane. Kun boikott kan hjelpe å returnere dem til reel verden.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""boikott"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LilleG0,Jeg spør alltid hva omtrentlig pris blir på før jeg setter meg i en taxi. Latterligste var en kar som skulle ha 500kr for en tur fra Oslo S til Sørenga.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo S"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sørenga"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShavedAlmond,"Jeg betalte over 400 fra bak slottsparken til akerbrygge for ca tyve år siden, det tror jeg tok to minutter",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""slottsparken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""akerbrygge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tyve år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""to minutter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ActualSwing9848,Bruk Bolt. Det er ALLTID rimeligere.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Bruk Bolt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ALLTID"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norwegian_waffle,"Var på Kiwiaden han ja, kan hende kiwi spander turen hvis han tar med regninger til sjefen sin. Var da gratis buss osv også, så må da være han som har bomma skikkelig",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Kiwiaden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kiwi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjefen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xInnocent,32 kr minuttet og 60 kr kilometeren er jo ganske sykt,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""32"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""60"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mancar1234428227,Lett fiks ikke ta taxi,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Lett"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Bright_Pen405,Imponerende distanse på 11min i Oslo,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""11min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+olegmangen,En jeg kjenner tok en taxi sjafør i Oslo for og med vilje kjøre unødvendige veier som tok lengre tid for og øke prisen..,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxi sjafør"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Fantorangx,"Forstår ikke mennesker som velger taxi over Bolt. Er jo så sinnsykt mye billigere, lettere å benytte deg av og mer forutsigbart.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Rude-Entertainment19,Derfor man skal avtale pris via uber,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+justagirlfromN,Husker for noen år siden. Var jeg i Polen. Vi tok taxi fra hotellet til en matbutikk et lite stykke unna. 7-5 minutter lot den stå å vente på oss så kjørte han oss tilbake til hotellet. Det kostet 170 norske kr. Vi ga han 200 kr for oss var jo 30kr bare småpenger. Og taxi sjåføren ble så glad. Han begynnte nesten å gråte. Man får ikke akkurat lyst til å gi Norske taxi tips. Bedre å laste ned bolt/uber så er prisene hvertfall litt mer ubehagelige.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Polen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hotellet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""matbutikk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""170 norske kr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200 kr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30kr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi sjåføren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""bolt/uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LeifurTreur,Oslo Taxi er scam. Kjør Bolt. Betaler under halvparten av det jeg ville gjort med Oslo Taxi. Forrige turen min var på 10 km og tok 16 min. Rett under 300 kr.,2024-05-20,norge,nn,"[
+      {
+        ""entity"": ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""10 km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""16 min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""300 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+oscar2107,"Er premium taxi da, koster å være kar",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Er"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""premium taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+danny_the_dog1337,"Problemet at det er så mange men fortsatt ikke noe konkurranse om å være billigst men om å scame kunder mest mulig, stoler mest på Oslo taxi men tar aldri taxi heller.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TJ25KAM,Uber er lov igjen folkens,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+plain-dad,Han valgte jo premium taxi da :woozy_face:.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""premium taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+adjustedreturn,"Kjør aldri taxi. Bestill via Bolt e.l. Om du absolutt må ta vanlig taxi, bli enig om prisen i forkant.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Teacherfromnorway,"Tar taxi regelmessig. Bruker kun yango, bolt, uber og taxifix - føler det er tryggere enn å hoppe i en taxi.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Tar taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""yango"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+toohot4me,Ca en hundrings per 1000 meter.,2024-05-20,norge,ca,"[
+      {
+        ""entity"": ""hundrings"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""1000 meter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kebman,"Dette er jo ekstremt bra reklame for Bolt og Uber, hvor turen er ""forhåndsbetalt"". Du ser hva du får før du trykker kjøp. Bolt og Uber funker i utlandet også, btw. De fleste land bruker det, så du slipper å laste ned rare lokale apper. Jeg var i Drammen og skulle til Oslo en natt. Da så jeg turer ned i 500 en vei. Men da jeg tok den, så kom taxien glidende, og så ble turen avbestilt. Deretter rulla sjåføren ned ruta og så, ""Jeg kjører deg for 1000"". Jeg gjorde dette et par ganger til, før jeg skjønte tegninga. De vil ha turen, men ikke for 500. Så jeg sa, ""for 1000 kan jeg like godt booke et hotell. Du må tilby noe bedre om du vil ha turen."" Så ble 800. Dyrt det og, men bedre enn å finne en park-benk...",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Drammen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""500"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""800"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Efficient_Freedom_48,Står vell også “Premium taxi as“ da så….,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Premium taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Efficient_Freedom_48,"Jerpeleina 16, 1415 Oppegård",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Jerpeleina 16"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1415 Oppegård"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+beornegard,Var det i det minste premium da?,2024-05-20,norge,sv,"[
+      {
+        ""entity"": ""Var"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""det"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""i"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""minste"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""premium"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+psaux_grep,PREMIUM TAXI - seff er det dyrt!,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""PREMIUM TAXI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+andeporn,Hold deg til OsloTaxi!,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""OsloTaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+smaagoth,Høytidstillegg også da :grinning_squinting_face:,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Høytidstillegg"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FriendoftheDork,Du betalte jo premium da.,2024-05-20,norge,eu,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""premium"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+likelytobecensored,Med Bolt hadde dette kostet deg mindre enn 200 kr. Utenkelig for meg å gå inn i en taxi uten å vite prisen på forhånd,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Med Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+paytience,Bruk Bolt eller Uber da vel..,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bruk Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tubislite,Last ned Bolt appen,2024-05-20,norge,en,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Starrymirror,"Hvorfor tok du taxi på en 11 min kjøretur, du kunne bare ha gått",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""11 min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Imaginary_Jump_8701,Burde starte taxiselskap! [Bolig]( [Proffs](,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Burde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxiselskap"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RutMariaB,"Ca 100 kr pr minutt :grinning_face_with_sweat:, lurer på hvilket taxi selvskap dette er..",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""100 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DrRushDrRush,Setter ikke meg i en situasjon at jeg tar taxi. 12 år siden sist.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""meg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""12 år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Chlash,Kjøre taxi er bare ikke et alternativ så lenge man må betale det selv. Helt idiot-priser det der! Uber burde få lov til å operere i Norge etter min mening.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Kjøre taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+storala,Har alltid vært ekstra dyrt på helligdager,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""helligdager"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+El3m3nTor7,Vel høytid er jo innlysende at er dyr periode! Start pris 166 er 44 kroner over takst i Lillehammer (der jeg jobber). Kjører du under 10km er det billigere enn etter 10km. Det beste du kan gjøre er å gå fra bil til bil og høre hvem som skal ha minst og spør om fast pris. Mange sjåfører som trenger å lære seg litt ekstra hoderegning! Men det tror jeg egentlig du trenger også as,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Lillehammer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10km"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dontouchmysoup,Heftig at de tar betalt for både tid og km samtidig. Er det helt innafor?,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Heftig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tid"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+El3m3nTor7,"Snakka med en kollega, 951 for 9.96km er latterlig dyrt. Han sa han lå på 4 kroner kilometeren, det stemmer ganske mye ift egen takst (Lillehammer Taxi 06565)",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""kollega"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""951"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""9.96km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4 kroner kilometeren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lillehammer Taxi 06565"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Syso_,"Folk ville ha frislipp på løyver, dette er resultatet. Kjør kun med taxier som er tilknyttet sentral.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Folk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""løyver"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sentral"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Traaseth,"Start pris på 166kr? Mener oh huske jeg betalte 155kr for taxi hjem fra byen når jeg bodde på Lillehammer, dette er ikke mer en 2 år siden. Var ca 3km tur, 6-8 min kjøring.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Lillehammer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Embarrassed_Can_3770,"Det er fint mulig å bare nekte, så kan de heller ta det til retten.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""retten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+crookedriverguy,"Kan teknisk sett ha vart 12:59 min, da. Ikke klag",2024-05-20,norge,sv,"[
+      {
+        ""entity"": ""Kan"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""12:59"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nsagaen,Du betalte en Premium lol,2024-05-20,norge,oc,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Premium"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Moze2k,Selv med høytidstakst er det fortsatt mer enn 50% dyrere enn i de ennå regulerte drosjeområdene. 10km 11min Hadde kostet ca 445kr + utlegg (30kr) Akkurat slik som næringen sa ville skje. Friåkere som belager seg på å utnytte kunder som ikke sjekker pris. Glad jeg ikke bor i byen.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Selv"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""høytidstakst"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""50%"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""drosjeområdene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10km"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""11min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""445kr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30kr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""næringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Friåkere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Burning87,"Nå begynner det å bli en del år siden jeg kjørte taxi (som sjåfør), men jeg kan ærligtalt ikke huske at noen turer på slik avstand gikk over \~300-350 på selv høytider. På eksempelvis natt til Søndager var det langt mer ønskelig med kjappe turer. Hadde jeg fått betalt slike summer så hadde pluttselig det å kjøre ikke vært så vondt lengre.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Søndager"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lemonesa,"I Trondheim tok en taxi over 500kr fra flyplassen til Stjørdal sentrum. (4minutter maks) bilen var skitten, sjåføren ba oss om å skrive inn adressen på en iPad han hadde liggende, og taxametetet var i hjørnet på bilen (skjult). Latterlig hvordan det har blitt.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Trondheim"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stjørdal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""500kr"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""4minutter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""iPad"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxametetet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Altruistic_Bobcat676,"Fekk samme regning for nokre år sia. Etter den turen bruker eg kun Uber og Bolt i Oslo, sjølv når jobben betaler. Taxi-næringa kan takke seg sjølv.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taxi-næringa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Upset-Quality5194,"Ja den avreguleringen var jammen vellykket, gitt! Nå har vi Thailandske tilstander, men med Norske priser. Fullt av kjeltringer med ripoff priser og man må prute på prisen før man kjører. Mangler vel bare at de slår av taksameteret som de rutinemessig gjør i Thailand, men det blir vel neste.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Thailandske"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norske"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kjeltringer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ripoff priser"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Taksameteret"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Thailand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NorthMaybe3565,Det er jo tyveri,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tyveri"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Significant_Rate2949,"Akkurat kommet hjem fra Egypt-ferie. Betalte 70 kroner fra flyplass til hotell 30 km unna Sist jeg tok taxi i Norge må ha vært nesten 20 år siden. Husker det, fordi jeg betalte kr 666,- hahaha. Fra Oslo hjem, også ca 30 km",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Egypt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""70 kroner"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30 km"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""666,-"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lollabear,Det skal ikke gå an. Det der må da være svindel av noe slag?,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""svindel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+funmonkey1,"As someone that uses taxis far too often to admit. Use Taxifix which is connected to Oslo Taxi. It is so sad to see these type of abuses over and over again. Thanks to Raymond and MDG everything was ruined in the branch. Now anyone can charge what they want - but is even worse - being held over their heads (taxis) is all must be electric. Tragic situation, nothing better for customers, and seriously stressful regulations based on climate that are non existent in Oslo. Edit: Reading through the comments and amount of misinformation is just wild. Absolutely there will not be taxis in the future, everyone will walk and we all will have a radius to a neighborhood around us. Which of course will include deliveries etc if all streets are no parking.",2024-05-20,norge,en,"[
+      {
+        ""entity"": ""Raymond"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""MDG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cute-Breadfruit-9085,Helt villt. Tror at prisen er så høy fordi det var natt og pinsedag. Men villt uansett.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""natt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pinsedag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tulipjalla,Det er vel inkl. Premium rekesalat til den prisen ¿,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Premium rekesalat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IntelligentBand9151,"Ofte billigere å bestille gjennom app, om taxiselskapene har det",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""taxiselskapene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sensitive-Parking-65,Mener du og si du ikke fortjente PREMIUM Taxi?,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Mener"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""PREMIUM Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VanillaJunior9517,Du må bruke Bolt i Oslo.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Soonbig,"Jeg glemte mobilen min i en taxi en gang, jeg ringte sentralen og fant ut at fyren bodde rett vedsidenav meg. Jeg sa de skulle be han ringe meg med en gang han skulle på jobb, og det gjorde de.. Han valgte å kjøre til andre enden av Bergen, sitter der uten oppdrag (som jeg vet fordi jeg fulgte han live på find my phone). Så ringte han opp å sa han var så langt unna at det ville koste 350 kroner å komme med den.... Jeg fikk bekreftet at de snakket med han før han satt seg i bilen den dagen, han hadde trengt å vente i 1 minutt mens jeg løp borti gaten.. Rasshøl",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bergen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""350 kroner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+dano5,"du har også tatt taxi på en helligdag, det hjelper ikke akkurat, men det var villt, helt enig....",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""helligdag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DennyHombre,2-4 turer = billig scooter.,2024-05-20,norge,en,"[
+      {
+        ""entity"": ""2-4 turer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""scooter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norweirdian,"Vi var dumme å ikke sjekke de ulike taxi selskapene før jeg ringte pga stress situasjon. I tillegg til høy regning fikk vi og over 50kr tillegg på tlf regning som ikke ble nevnt i telefon samtalen, en pris bare for å ringe dem? To år pluss siden nå og husker ikke prisen men det ble totalt endel mer enn vi forventet. Nå bruker vi taxi hvis det er eneste alternativ eller nødssituasjon hvor vi må komme ett sted raskt som f.eksempel sykehus! T bane, buss, trikk og tog går tregere men det er mye penger å spare på å bruke lenger tid å nå destinasjonen.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Vi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi selskapene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""50kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""To år pluss siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sykehus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""T bane, buss, trikk og tog"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lobster_porn,"Hadde fortjent en blåsejobb for den prisen, men medregnet krympflasjon får du kun ett lett utpust sammen med terminalen",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Hadde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""blåsejobb"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""prisen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""krympflasjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ett lett utpust"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""terminalen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+maho1998,"Følg med på tesla, de kommer med selvkjørende taxi. Kommer til å bli adoptert i Norge i stor grad innen få år",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""tesla"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""få år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SmegmaYoghurt69,Bor heldigvis i gangavstand til sentrum men hadde jeg måtte betalt 1100kr for en taxi tur så jeg heller brukt opp all data på telefonen min til å se youtube videoer på hvordan å lage ett makeshift shelter i skogen og sovet ute før jeg tok en buss hjem hvis det var det eneste alternativet. 1100kr i taxi er kun akseptabelt hvis en forelder ligger for døden og det er raskeste måten å komme fram til dem i tide.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bor"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sentrum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1100kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""youtube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skogen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""buss"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1100kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""forelder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bar-al-an-ne,Aldri kjør noe annet enn Oslo Taxi.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Aldri"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Quiet-Refrigerator21,"Les på kvitteringen : "" Høytid "" Da koster det skjorta.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Høytid"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+timgakk,Nordmenn bader jo i penger så en tusenlapp for 10min taxi er vel ingenting. Alle skal jo ha årslønn på 750.000-1.000000 så da må man jo betale deretter,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Nordmenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""750.000-1.000000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+myfriendintime,"Det er sikkert farlig å si dette, men man har deregulert en næring bestående primært av nye landsmenn, og resultatet er vill vest.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""landsmenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tott-enheim,"Det er veldig enkelt, ikke reis med premium taxi.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""premium taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Historical_Ad_5210,"Lived in Norway for 27 years and have never paid for a taxi. I would rather stay sober than pay those sick prices they charge. 6k NOK my friends wife was charged from Oslo to Sandefjord, and this was 15 years ago.",2024-05-20,norge,en,"[
+      {
+        ""entity"": ""Norway"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""27 years"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""6k NOK"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sandefjord"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""15 years ago"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OletheNorse,"Slik har det vært i alle år. Helligdager er ekstra dyre, pluss natt - det ER dyrt, men det er ikke noe nytt. Det har vært slik i minst 30 år.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Helligdager"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""natt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+redinina,Dette er en av mange grunner til at Uber tar over taxinæringen. Mye tryggere og langt billigere.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""taxinæringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+itz73,D der started for lenge side. Takk alle som stemmer Neo liberalt og tror på d fri Markede.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Neo liberalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""d fri Markede"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Heenerli,Wolfgang Wee hadde en bra episode om taxibransjen i Oslo. #298 med Roger Dørum Pettersen.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Wolfgang Wee"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Roger Dørum Pettersen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CriticismMission2245,"Jeg vet Uber hadde ødelagt næringen (Uber som i utlandet, vet det er en annen versjon i Norge), men er så mye bedre enn det vi har nå.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ELMIOSIS,Litt dumb å ta tradisjonell taxi når Uber finnes,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Full-Idea6618,"Det er ingen overaskelse at da er dyrt i Oslo. Børde faktisk boycotte taxi i Oslo. Har blitt svindla der fleire ganga. Han eine skulle kjøyre meg til Lillestrøm. Og ""plutselig"" viste han ikkje veien lenger.",2024-05-20,norge,nn,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lillestrøm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cyneganders,"Taxi i Norge er så latterlig dyrt at det har gjort meg skuddredd for å ta taxi i andre land også. Selv om jeg har bodd mye utenlands i mange år, sitter den dypt i ryggmargen! Hadde en pensjonert taxisjåfør som forklarte meg hvorfor prisene var så høye; de må ha nok lønn til å kunne sitte å vente på turer. Dette har ført til at færre tar taxi, og da må prisene bli enda høyere!",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""andre land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pensjonert taxisjåfør"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobbelars,Synd det ikke er uber her,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Synd"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""uber"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IamDoneMakingNewAcco,Bolt/Yango all the way,2024-05-20,norge,en,"[
+      {
+        ""entity"": ""Bolt/Yango"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+habbiib91,Du skulle brukt drosje istedenfor taxi..,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""drosje"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gentlewaterboarding,"Virker som ganske mange må lære på den kjipe måten at man ikke bare kan sette seg inn i en taxi lengre. Inkludert meg selv; det går årevis mellom hver gang jeg tar taxi, og sist gang falt det meg ikke inn å vurdere taxiselskapet på forhånd. Det fikk jeg svi for. Føles som en type utnyttelse av de som ikke vet bedre som vi vanligvis ikke vil ha. Litt som å komme hjem fra sydenferie og finne ut at du skylder en halv million i roaming-kostnader.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""meg selv"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sydenferie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+slap_my_nuts_please,"Taxibransjen er helt på trynet. Det er lite konkurransetrykk og det lar selskapene sette opp prisene grunnet manglende konkurranse i markedet. Det førte så til færre kunder pga. pristrykk, med følge at taxiselskapene *måtte* drive prisene opp for å dekke driftskostnader. Det morsomme i dette rotet er at staten beskytter bransjen og ikke lar andre konkurrenter slippe til.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Taxibransjen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""konkurransetrykk"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""selskapene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""prisene"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pristrykk"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxiselskapene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""driftskostnader"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""staten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""konkurrenter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Numberhalf,Vi kan takke Høyre for den fantastiske nye avregulerte taxinæringen.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Høyre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""taxinæringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Fadrn,Det är en grund man använder bolt till exempel.,2024-05-20,norge,sv,"[
+      {
+        ""entity"": ""bolt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Which_Pitch_5109,Tenk at detegulering av en slik næring skulle føre til ville vesten tilstander,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Tenk"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""detegulering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""næring"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ville vesten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+opherius123,"Taxi i Norge er kun ment for de rike, slik som andre næringer som har monopol.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+boringestnickname,Når var det noensinne billig for taxi i Oslo? Den ene gangen annenhvert skuddår jeg tar taxi kjører jeg i alle fall med ordentlige selskaper som ikke driver med plattformsøppelet. Betaler gjerne litt ekstra for ikke å finansiere utnytting av folk.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""annenhvert skuddår"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rogamot520,"Tok Taxi tur retur i Oslo. Brukte Vy appen hvor du får makspris. Norgestaxi makspris 450kr. Bilen var skitten innvendig. Sprekk over hele frontruten. Hull i setene. Bilen hadde varsellampe for bremser og antiskrens. Sjåføren kjørte mot GPS flere ganger for å makse ut maksprisen, og han brukte telefonen et par ganger. Oslo Taxi. 550kr makspris. Ren nyere bil i topp stand. Sjåføren kjørte kjappeste vei. Sluttpris 450kr.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Tok Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vy"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norgestaxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""450kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""550kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ren nyere bil"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""450kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MLRS99,Kan anbefale å bruke Bolt også.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Kan"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Outrageous_Question7,100% gjorde feilen 2 ganger ved å sette meg i en sort bil med taxi på taket og en gul taxi som begge tok blodpris 700kr fra national til Tøyen.. bruker kun de Oslo taxi nå,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""100%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tøyen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""National"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+External-Song3322,"Exactly , Man kan evt spørre om å få en fastpris om det er en lengere tur itilegg..",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Man"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fastpris"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+halfawatermelon69,"Lol, i mars i år spurte jeg om pris for en ~20 minutters tur en lørdag ettermiddag i Sandefjord og da sjåføren svarte ""250,-"" forsikret jeg meg ved å spørre tilbake ""du sa 250,- kr, ikke sant?"" og til det nikket han. Da vi kom fram sa han at prisen var på 600,- kr... Jeg hadde allerede dårlig tid siden jeg tok taxi, så jeg betalte men etterlot en klage på selskapets nettside (de var veldig på ""legg igjen tilbakemelding, vi vil bli Sandefjords/Vestfolds beste taxiselskap"" osv.) Ble ringt 10 ganger på 15 minutter mens jeg tok en dusj dagen etter, og snakket med en leder (eller selve eieren?), som kom med en lang tale om at sjåføren _aldri_ hadde sagt 250,- og henviste til taxipris, og at han hadde sett på opptak fra bilen (som jeg selvfølgelig ikke fikk lov til å se/høre selv)... Vi snakket nesten en hel time men jeg innså at vi ikke kom noen vei, så jeg lot det ligge. Jeg hadde aldri tatt turen om han sa det ville koste 600,- kr, jeg kunne gått med på kanskje max 450,- kr... Betalte jo godt og vel over det dobbelte av det sjåføren sa, og så er ledelsen av selskapet helt med på det. Kommer aldri til å bruke de igjen, for å si det sånn!",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Sandefjord"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""250,-"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""600,-"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Vestfold"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10 ganger på 15 minutter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""en hel time"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+eremal,"De klarer *ikke* 3 sånne turer på en time. Det er det som er problemet. Disse nye sentralene er avhengig av å plukke opp passasjerer på holdeplasser, men der må de ofte vente i flere timer på tur. De ""ekte"" sentralene har noe sånt som 80-90% bestillingsturer og har ikke samme problem.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""De"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Disse nye sentralene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""holdeplasser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""flere timer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""80-90%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Plenty-Effect6207,"Stemmer, buss 31, hele veien til Kvadraturen. Tar rundt 30 min. Koster 42kr hvis man kjøper billetten i appen, eller 62kr hvis man kjøper ombord. Ingen høytidstakst hos Ruter.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Stemmer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""buss 31"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kvadraturen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30 min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""42kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""appen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""62kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ruter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Eldhannas,Midt på natten på første pinsedag? Da har du billige konsulenter...,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Midt på natten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""første pinsedag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""konsulenter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Smart_in_his_face,"Høytids takst. Det er desidert dyreste tidspunktet i året å ta drosje. Det er mange år siden jeg kjørte drosje, men jeg tror høytids takst var på 140% den gangen. På nyttårsaften kjørte jeg inn 12k på bilen. Dette var over 10 år siden da.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Høytids takst"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""drosje"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""140%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nyttårsaften"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""12k"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tall_Associate_7381,Da kommer Uber til å spise opp markedet med billig taxi også skru opp prisene til vi er tilbake på start med ville priser igjen. Har skjedd flere steder i USA.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lyonaire,Dette er jo et normalt taxiselskap? De nye aktørene som har kommet inn etter regelendringene som bolt er jo mye bedre,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Dette"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxiselskap"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""aktørene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""regelendringene"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+adjustedreturn,Er du på bærtur? Dereguleringen er det beste som har skjedd den bransjen siden dens oppfinnelse. Aldri har det vært større tilgjengelighet og lave priser. Bestill en Bolt eller noe så får du 15 min kjøretur til 150 kr og de er der om 5 min.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Dereguleringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eremal,Er allerede krav om at prisene skal være synlig både utenpå bil (passasjervindu) og for passasjer idet de kommer inn i bilen (vanligvis dashbord og rygg på framsetene),2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Er"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""prisene"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""passasjervindu"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""passasjer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bil"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vanligvis dashbord"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rygg på framsetene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lockmart-Heeding,Dette er pirattaxiene som plutselig har blitt lovlige.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""pirattaxiene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kverrulant,"Er uenig, vurderer aldri vanlig taxi. Men bestiller Bolt/Uber regelmessig siden de har et bedre produkt og god pris",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Bolt/Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""de"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Macknu,"Oslo taxi er dyrer, bolt/uber er best i Oslo. Ofte runt 150kr for 15min kjøring nattetid. Er det dyrere en bergen?",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bolt/uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""150kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""15min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nattetid"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bergen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+personalityson,Er det russere som kjører Yango?,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""russere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Yango"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Efficient_Freedom_48,[proff.no/ er noe sketch hær ja..](,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""proff.no"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Randalf_the_Black,Står på kvitteringen.. Premium Taxi AS,2024-05-20,norge,sv,"[
+      {
+        ""entity"": ""Premium Taxi AS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Brillegeit,> Uber burde få lov til å operere i Norge etter min mening Burde?,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mobz84,Hvorfor tror du det kommer skje nå? Det er i hvert fall 20 år frem i tiden. Musk prøver holde liv i tesla i bare så noe helt selvkjørende biler kommer vi ikke se på lenge,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Musk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tesla"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20 år frem i tiden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""selvkjørende biler"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FindsNames,"Gikk 6km hjem sørpe dritings i 8 grader for to helger siden fordi taxi ikke er i vokabularet mitt engang. Bruker nok penger ute, har ingen planer om å doble summen med en 5 minutters kjøretur.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""6km"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""8 grader"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eremal,"Dette sto svart på hvitt i rapporten fra TØI som ble laget ifbm med deregulering av taximarkedet. I praie og holdeplassmarkedet så bør det være offentlig regulert makspris, om ikke fastpris. Særlig relevant dersom sentralene fjernes. Regjeringen dreit i dette, og resultatet får vi se nå. Grunnen til dette er at tilgjengelighet er alfa omega i de markedssegmentene. Det er det eneste som betyr noe. I bestillings- og kontraktsmarkedene så vil kundene vurdere pris. En alternativ løsning kunne vært å forby taxier å plukke opp kunder uten bestilling. Men det ville blitt komplett kaos.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""TØI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deregulering av taximarkedet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regjeringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tilgjengelighet"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""markedssegmentene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bestillings- og kontraktsmarkedene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gigachadpolyglot,"Synes det var vilt når kompisene mine sa de tok betalt 500 spenn for å kjøre en gruppe hjem fra byen for noen måneder tilbake. Jeg har kun tatt taxi i utlandet og lurte på hvordan de fikk til å ta dobbelt så mye som taxiene, ettersom at jeg hadde knapt betalt 300 kroner for å ta taxi alene til flyplassen for å komme meg hjem til jul. Så feil kan man ta!",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""kompisene mine"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""500 spenn"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""byen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""noen måneder tilbake"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""utlandet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""300 kroner"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""flyplassen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jul"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Any-Diet,"Helt feil konklusjon. Det er ikke ""mangel på konkurranse"" som er problemet. Problemet er frislippet som gjør at du har masse småaktører, hvis forretningsmodell er å loppe kundene.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""mangel på konkurranse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""frislippet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+eremal,"De store sentralene driver fortsatt med sunn konkurranse, har høy dekningsgrad på bilene, og priser som er hva man kan forvente ift normale utgifter. Denne turen her ville med en slik sentral koste ca. 300kr på helligdagstakst.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""De store sentralene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""bilene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ca. 300kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""helligdagstakst"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LoneWolf_McQuade,"Finns inte Uber/Bolt i Norge? Tvärtom är det nog mer avreglering som krävs, samma tur i till exempel Göteborg kostar 100-200 SEK med Bolt eller Uber. /svensk",2024-05-20,norge,sv,"[
+      {
+        ""entity"": ""Uber/Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Göteborg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100-200 SEK"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sashagaborekte,Dette er tradisjonelle taxisentralen. Med de nye reglene kan du bruke feks Uber hvor du får en fastpris. De nye reglene er fine,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""taxisentralen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""reglene"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ViennaLager,"Taxinæringen er mye bedre nå, men taxilobbyen har fremdeles mange kjepper i hjulet som hindrer at det blir et bedre system.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Taxinæringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""taxilobbyen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+manatidederp,"Når næringen var regulert var det jo aldri nok biler, så ikke lat som det var bedre før",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""næringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""biler"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+This_Is_The_End,Og AP har det ikke endret. Hvorfor glemmer folk alltid partier som endrer ingenting?,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""AP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Macknu,"Avreguleringen gjør att vi kan bruke uber/bolt, noe som gjør att taxi koster mye mindre idag en før. Så det er ett stort takk till Høyre da. Sen finnes de ju alltid de som blir lurt.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Avreguleringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""uber/bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Høyre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+aaOzymandias,Kommer jo ann på hvilkne by do bor i. Utenom Oslo er taxi mye bedre. Det er bare folk i Oslo som befinner seg i å bli svindlet tydligvis.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+BilSuger,"Derfor det står i Vy appen hvor ofte de er under makspris osv også, så man forsøke gjøre seg opp en mening",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Vy appen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kebman,"Hvis han ikke fulgte GPS, ville jeg krangla på prisen, og forlatt taxien uten å betale. Om han ikke leverer varen, har du ikke plikt til å betale.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""GPS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Basquebadboy,Om man først skal ta taxi i Oslo så er Oslo Taxi i praksis eneste alternativ.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+El3m3nTor7,"Så jævlig bra at du klarer å hente fram en hendelse ingen av oss kan bekrefte om stemmer da, du smører så jævlig tjukt på at det eneste som høres riktig ut er at bilen var skitten",2024-05-20,norge,sv,"[
+      {
+        ""entity"": ""ingen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bilen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ThirdRevolt,"Bolt kaster så mye rabatter etter meg på en regelmessig basis, at de gangene jeg bruker det koster det sjelden mer enn 150kr maks.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""150kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+danny_the_dog1337,"Ikke hvis du er jente, har hørt om flere som har hatt dårlige erfaringer med sjåfører fra bolt som prøver å sjekke dem opp.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""jente"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+dandandanftw,det beste er at du veit prisen på forhånd,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+idontlikebeetroot,Ulempen med buss er at om man sovner så er det langt til Grorud.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Grorud"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Worth-Wonder-7386,"Sjekket utregningen, og er ca 350 kr for tiden, og resten av fastprisen er for avstanden",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""utregningen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""350 kr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fastprisen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""avstanden"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AlexiTrevelyan,Kan du utdype og forenkle dette litt for meg? Jeg skjønner meg rett og slett ikke helt på det.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Kan du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""forenkle"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BilSuger,"Dette er ikke noen som ville hatt løyve med gamle regler. Dette er jo nettopp en typisk Bolt-sjåfør, tilfeldig selvstendig, som når noen ikke har fått fastpris via appen utnytter dem.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShowerMeWithKittens,Hva tror du et «normalt taxiselskap» er? Bolt er like mye et normalt taxiselskap. Og begge startet opp etter de nye reglene. At Bolt er billig betyr ikke at de nye reglene funker.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kaijoar,Dette er et taxiselskap som er opprettet etter regelendringene. Og du kan være nesten helt sikker på at dette er den samme taxien som kjører turen når du bestiller i Bolt. Det er bare det at den latterlig lave prisen du betaler i Bolt er avhengig av at taxien lurer den andre halvparten av kundene sine på denne måten for å ha råd til å kjøre for 120kr for Bolt.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""120kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ChelseaHotelTwo,"Dette er ikke vanlige priser. Avregulering førte til en haug med nye useriøse aktører som utnytter folk og tar 1000 kr for 10 min turer når man tar fra holdeplass. Å ta taxi fra holdeplass nå går ikke lenger fordi man bare blir lurt. Man er allerede i gang med å se på hvordan avreguleringen kan delvis reverseres pga disse ekstreme konsekvensene av et mindre regulert marked. Burde vært åpenbart at dette kom til å skje, men Høyre tenkte som vanlig at ideologi er mer viktig enn faktiske konsekvenser.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Høyre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""avregulering"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+squirrel_exceptions,"Bruker også Bolt, mente OT er beste av de tradisjonelle, og trolig bedre ift sjåførenes vilkår. Men Bolt funker best for meg som kunde. Uber er et relativt [forjævlig]( selskap.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""OT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"

@@ -1,0 +1,4936 @@
+author,text,timestamp,subreddit,language,gpt_output
+Remote-Chance-9525,没了共产党管的中国人的极端性都会放大数倍不管是写台湾还是中国台湾都会惹怒一部分中国人招致出征,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""共产党"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FflameOut,"我个人感觉是故意的，出于什么目的我说不好，但是日常真的不会有人tm的说台湾的时候说“中国台湾”，我感觉这么讲的都是故意的，有意识的
+
+现在变本加厉了，香港和澳门前面也要有人加中国二字了，完全无法理解",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中国台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""香港"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""澳门"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NotLittlePink_1911,"芝麻家吗？卖家自己定的名字吧。
+
+我们微信团购群里提到台湾的食物时候旁边都附一个:台湾:旗的。没有问题。",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cool_Fuzzy,"是有多自卑連個絞肉香腸都要搞統戰
+可以問他那個”虫幗”？",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""絞肉香腸"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""虫幗"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WaiLiThePooh,"他很有良心註明是中国的,有毒的。",2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Complete-Error6373,你要不要把這個丟到潤版看看,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""潤版"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+highcastlespring,"典中典之偷渡美国开餐厅申请庇护，同时加入中国爱国同乡会，赚够钱回中国养老。
+
+就是个100%纯正中国人",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""偷渡美国"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国爱国同乡会"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Emotionalzz7763,我去美國的中餐館都是拉丁裔在做:笑哭了:,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中餐館"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""拉丁裔"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ColddogHotSauce,這本來就是大陸自己發明創造的，和台灣手抓餅一樣，哪裡有台灣烤腸。不喜歡政治露陰癖就忽視他,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""大陸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣烤腸"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政治露陰癖"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+YamVegetable,要从中国进货的必然有勾兑背后是什么金主你可以发散思维就和那个北美省钱快报一样天天阴美国,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国 (China)"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""北美 (North America)"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""美国 (United States)"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sensitive_Job_5792,还天天吃这个的，说明没脱脂,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""天天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""脱脂"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Gustavoisback,來個台獨香腸，窪地烤韭菜，香辣梁家河蟹,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台獨香腸"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""窪地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烤韭菜"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""梁家河"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fishtank-CPAing,台灣支了全中國，現在又要帶上全海外華人群體.看來整個華夏後代之有台灣人是人呢.在過不了幾天，全地球只有台灣人是人呢.,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""海外華人群體"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""華夏後代"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""全地球"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RemoteHoney,"你不點，其他點的人更多了
+
+他們不會在乎你",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""其他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Apprehensive_Ear4864,在猫群里出生长大的小猪是猫么？一个中国人移民到欧元区就是欧洲人了？一个非洲人在中国生活就是中国人了？种族这么基本的东西不去重视？,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""小猪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""欧元区"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""欧洲人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""非洲人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,我有个中国人同事因为公司里系统国家选项是“taiwan（provinceofChina）”而兴奋不已,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""公司"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+qwe_red,中國台灣腸與台灣台灣腸的味道不大一樣。,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FiedenFreecss,在国内多数也只是台湾xxx，而不会在前面加个中国,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+smallbatter,一堆人喷都喷不到点上，这外卖系统是中国的呀，店主只是怕惹事而已。你们的智商呢？,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""外卖系统"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""店主"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Orange_Fish233,甜不拉几的台湾香肠难吃死了搞不懂为啥那么多洼地人喜欢日本/波兰的好吃多了,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""甜不拉几"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""香肠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""波兰"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Healthy-Home5376,一定是地下組織，付點租金就可以養住中國台灣，還會為黨賺外滙。太好賺。還可以做俱樂部聯誼，密謀推翻當地政府，破壞公眾財產嫁禍他人,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""俱樂部"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""當地政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""公眾財產"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""他人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WinnieTheXiCorp,这就是盐碱地天天吹的大国风范,2024-02-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""盐碱地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大国风范"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Last-Independent-233,美國SocialSecurity-China(Taiwan)怎麼解釋一中政策？,2024-02-06,Taiwanese,zh,"[
+      {
+        ""entity"": ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SocialSecurity-China"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一中政策"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PhilosophyMammoth748,LA的日料店90%是东北狗开的。,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""LA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""东北狗"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+LogGrouchy2892,来温哥华JAPANTOWN,2024-02-02,Taiwanese,ja,"[
+      {
+        ""entity"": ""温哥华"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""JAPANTOWN"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Peter-Tao,明哲保身，辛苦了。我真難想像這種眾人皆醉的日子要怎麼過。還是找機會潤吧，不然太清醒了反而難受。,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""明哲保身"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""辛苦"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""日子"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""機會"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alpha_YL,"這個潛移默化的過程
+在1984就有誇張荒謬化的演繹
+真理部把歷史燒毀用矛盾的詞語（戰爭即和平）
+
+電影裡大洋國對資訊的侵略性跟控制只是現實的誇張版:耸肩:",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""1984"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""真理部"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""大洋國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sea_Trouble1853,我从来不说台湾省，也没事呀。,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾省"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DeepseaGG,这是真的，身边的朋友无论什么倾向的人，绝大多数都没有细细思考过这个问题，就只是盲目遵从脑子里刻下的一条铁律。,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""朋友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Outside-Pause-4648,其實你直接說台灣也不會有人說你說錯呀,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,中華民國北平特別市烤鴨,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""中華民國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""北平特別市"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烤鴨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jichenghuyaobang,中国国家主席习近平吃台湾人的香肠,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""习近平"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mishas1x,也不是故意恶心台湾人，也有向大陆人表忠的意思,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大陆人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Practical-Soft8053,啥菜都吃啊周一中餐周二法餐周三意餐周四墨西哥周五土耳其周六西班牙周日越南一周的生活丰富多彩,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""周一"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中餐"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""周二"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""法餐"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""周三"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""意餐"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""周四"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""墨西哥"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""周五"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""土耳其"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""周六"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""西班牙"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""周日"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""越南"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一周"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生活丰富多彩"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Acrobatic_Whole7668,当地欧美人很多都对中餐不反感,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""当地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""欧美人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中餐"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Economy-Ad-3829,你很难想象瑞典的菜有多难吃,2024-02-05,Taiwanese,zh,"[
+      {
+        ""entity"": ""瑞典"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Apart-Individual4398,润版还真有支持大一统的,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""润版"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大一统"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+GrandBig9366,一般还是窝在美国养老的,2024-02-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""美国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mishas1x,graciasamigos,2024-02-02,Taiwanese,es,"[
+      {
+        ""entity"": ""graciasamigos"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BoogieMan80s,"你是店家?你看得到後台資料?
+不是說個堅?",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""店家"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""後台資料"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iamabot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""subreddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwanese"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+watchder69,十年前去佛州的日料，是廣東人開的，門口還放兵馬俑哈哈,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""十年前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""佛州"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""廣東人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兵馬俑"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mundane_Skin5138,东北逼就是欠图，像蟑螂一样满世界跑,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""东北"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""蟑螂"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Gustavoisback,的確沒勁，LA韓料還行，有韓國人開,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""LA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓料"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dazzling_Swordfish14,不是廣猴嗎？Mtl都是廣猴開的,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""廣猴"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mtl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+chenchen1984,"哎,我宁愿我也是愚蠢的一员,想逃又逃不掉",2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""愚蠢"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+chenchen1984,"不行,上一个话题刚说到中国同性恋不合法,下一秒说到台湾,小粉红肯定立马应激",2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小粉红"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Junping0615,还真是。想到啥就吃啥,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""还真是"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""想到啥就吃啥"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Complete-Error6373,那種就是生來注定當奴才的,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""那種"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DillonTuan,美式中餐是一种地道的美国传统小吃，通常有陈皮鸡和炒面，外加一个fortunecookie。,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""美式中餐"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""陈皮鸡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""炒面"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fortunecookie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Embarrassed_Cost_105,我意思是圖里這三樣對比顯的香腸貴啊,2024-02-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""香腸"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Fishtank-CPAing,我是美國人.正常美國人不會在乎台灣，中國，俄羅斯，烏克蘭嗎就是不在乎.只是單純對針對種族歧視感到厭煩.可能你並不是恨CCP這個政黨，你只是憎恨chinese這整個群體，所以你們喜歡搞歧視？你完全可以說在國外的CCP人，中國人，台灣人，大陸人，但你用的詞是海外華人.台灣人不想被當作是中國人，海外華人也不想被當作是中國人.,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""美國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""俄羅斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烏克蘭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CCP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""chinese"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""海外華人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RemoteHoney,"我知道一堆海外華人的取向啊
+
+這店不會因此缺生意
+
+搞不好生意變好都有可能",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""海外華人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""店"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wonderful-Assist9046,那家我幾年前也去過，反正便宜也好吃，誰管哪國人開，寫什麼標題。哈哈,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""那家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""幾年前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,我懂，即便在了解台灣台獨的必要性仍然是會讓你痛苦的。,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台獨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+mishas1x,没有逃不掉的，只有死半路上的,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""没有"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""死半路上"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Zealousideal_Web4866,而且當奴還當的歡天喜地,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""奴"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Junping0615,"在经营上面玩政治宣传的，很多是把自己玩死了的
+可以简单想一下，了解到这家店可能是靠ratings。
+进入点餐页面以后，基本肯定会点餐了。看到这个的粉红本来也要点，但是看到这个的反贼就直接退出了，相当于主动把客源减少了。",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""ratings"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""点餐页面"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BoogieMan80s,對啦你們就這麼好騙難怪都是吃科技狠活兒長大的,2024-02-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""科技"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Peter-Tao,"我猜應該不是，痛苦的部分恐怕是需要配合一群被洗腦的傻蛋裝傻。
+
+題外話，我個人對中國反賊的尊敬是非常高的，就類似戒嚴時代的台獨先驅一樣，沒有經驗相同時空背景的我恐怕永遠無法完全同理他們需要在那條路上多堅定，多清醒，才願意走那條我們認為是想當然爾的正路。與其說是路，很多時候更像是得走在小心翼翼的鋼索上，不過這點倒是跟台灣作為一個國家在外交上的處境有異曲同工之妙了。
+
+個人希望不管國族認同為何，中國、台灣終究都能夠找到一條自己到路，並且共存共榮。老話一句，願天祐台灣，天祐中國。",2024-02-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,"是的，我上文所說的痛苦就是身處於長期接受華國文化與觀念深植腦內的人群中生活所帶來的消耗。悲傷的是，每當我提起台灣獨立與台灣被中華民國殖民的時候，就會得到“不然不要用新台幣。”“不然不要用健保。”這種言論。
+但，我相信痛苦的大小還是有差的。在台灣講出來頂多同事同學變雞巴人，在中国可能就從此消失無蹤。願諸夏子民終得獨立與民主。",2024-02-03,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣獨立"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國殖民"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""新台幣"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""健保"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""諸夏子民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Peter-Tao,啊，我懂你的意思了。非常認同,2024-02-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BravoBlackBanana,"還在外資跑掉這咖腦袋裝什麼啊?
+
+這幾天外資進場逼近歷史新高耶
+
+沒買股票的智障柯粉再跟人大談外資笑死",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""外資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歷史新高"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BoogieMan80s,"跑去中國人的版貼台灣的新聞....
+
+",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alternative-Sound225,小心大外宣在装台湾人，挑拨离间。激化矛盾。,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""大外宣"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Due_Land_588,很不喜歡鍵委這個詞。中國特色太濃。台灣人是真的有權力治理自己的國家，不是鍵盤上的委員。,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""鍵委"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+EmbarrassedNote1585,"外資賣完隔天不就全買回來了嗎？:笑哭了:
+
+就是把選前的空單補一補阿順便軋空柯糞這種傻空兩手賺多爽
+
+而且我早就被太監區封了你居然還能留言",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""外資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""笑哭了"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯糞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""太監區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fight123,我也有看到這個人，然後他自己也說不喜歡中共，看發言也不是什麼無政府主義，感覺單純就是憤世忌俗罷了...,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,花旗2021年是退出亞太歐共13國消金市場，包括韓國台灣澳洲俄羅斯波蘭印度跟他最愛的中國，2022年還宣布要退出英國，這人是文盲嗎?有夠智障,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""花旗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2021年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""亞太"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""澳洲"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""俄羅斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""波蘭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""印度"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2022年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""英國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SkywalkerTC,我好像也有去留言。他不會跟你就事論事，會忽略不利的，跳來跳去講，打臉了繼續講別的，最後是沒內容，我也懶得繼續了。反正他講什麼，貼個連結打臉就好，剛好給其他人惡補。,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""其他人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GoPugRanger,"我看他在chain\_irl取暖好幾天了
+
+從頭到尾都散發出柯粉的氣息，但直指人家柯粉又感覺很失禮。
+
+要是他是韓粉就尷尬了orz",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""chain_irl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""韓粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Middle_Interview3250,"我家深藍長輩也在那邊嚎花旗撤走。
+
+明明是被星展併購了……我就是用星展，之前我還因為星展併購花旗人手不足，服務超級慢，打電話去投訴過:不说:
+
+Barclay也是，明明都回來了……",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""深藍長輩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""花旗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""星展"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Barclay"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lion1151,他過去當臺灣表哥掙karma，你別砸人家場啊！,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+colin1234514,"那個sub還有三個Ok,一個精神分裂、一個一直附和、一個整天貼copypasta.",2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""精神分裂"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""copypasta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+InternationalGrand83,裝理中客搞什麼AMA，結果拿不出什麼真實數據，還在崩潰跳針。,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""裝理中客"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""AMA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xjpnmdbrrczcctmycc,最近关注了一段时间中华民国选举，发现柯文哲真的和毛腊肉很像，柯粉的思维和行为也跟红卫兵很像，我感觉台湾年轻人再让柯文哲配合中共洗脑几年就可以开启十年大进步模式了,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""毛腊肉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯粉"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""红卫兵"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""十年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AloneSurprise6387,"畢竟他們不是來真正討論問題跟說服他人,而是像義和團信眾般地唸出口號咒語,最大目的是講給自己心安,講給自己相信ww(;\^\_\^A柯憐阿\~
+
+",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""義和團"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯憐"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,可以在china\_irl留言，羨慕,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""china_irl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Creepy-Sea-2407,有这种人做同胞，也是你们台湾人倒霉…,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Sun66261034,"你們不會是第一天認識這位this0great吧？
+
+不認識的翻翻他歷史紀錄就知道了",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""this0great"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ProfessionalBuyer517,去太监区取暖也就这点出息了,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""太监区"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SquareSugar3110,"這位This0great可太典了，是典中典中典！
+
+
+天天就在那轉貼台灣負面新聞，一副「跟各位鍵委說個臺灣秘密」的嘴臉，講一些平行世界的消息
+
+要不然就是整天貼一些企業毛利，幹跟他是有什麼關係，以為去了歐美日還是中國這些高薪他就隨便領嗎:笑得满地打滚::笑得满地打滚:
+
+人家才不想當甚麼賽博臺灣表哥勒，人家夢想是去北美當碼農爽賺勒:书呆子脸:不過沒人準備托福/GRE是整天上Reddit發廢文跟中國人取暖的啦",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""This0great"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""歐美日"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""北美"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kiwi_mi,沒關係，他們賺不到的錢都我賺走了，難怪在他們哭買不到房子的時候我的預售屋已經交屋了:得意:,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""錢"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""房子"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""預售屋"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Li-Ing-Ju_El-Cid,"柯粉多數被抖音洗成中國在台協力者惹
+
+比破格還了然",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""抖音"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gsm11428,他從投票前到現在一貫的行為，想黑他又覺得少了一點樂子可以看，我認為他可能連出國的能力(金錢)都沒有，大概就跟現在的粉紅一樣，被社會毒打後可能就會正常一點,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""投票前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現在"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""出國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""金錢"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Mysterious-Wrap69,這隻存在很久了。我是覺得不用理他啦呵呵呵,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""這隻"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Helpful-Gur9834,他可能真的沒買什麼股票，雖然外資確實都在割韭菜,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ShiraHiMEOuO,"算了吧柯粉就一堆沒出社會動漫宅男
+別說工作，連開戶都沒有
+
+就是對岸小粉紅天秤另一端的極端怪咖集合體",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""動漫宅男"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""對岸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""天秤"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""極端怪咖集合體"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AlbatrossCalm1911,我覺得這個人是中壢理性選民民眾黨版，不見得真的是白的,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""中壢"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""理性選民民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,"
+這是柯粉最近在吵的東西。
+有人有柯說自己智商超過157的紀錄嗎？",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""157"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Big-Video-9503,因為realchina友台的中國人比較多，監區很多都是恨習近平而已,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""realchina"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""習近平"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PigLearnsMath,一堆網紅憑著自己對政治的一知半解，把意識形態灌輸給自己的年輕觀眾，真的該認真處理。,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""網紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""政治"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""意識形態"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""年輕觀眾"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Emotional-Daikon-153,"&#x200B;
+
+",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": """",
+        ""entity_type"": """",
+        ""sentiment"": """"
+      }
+    ]"
+Emotional-Daikon-153,"&#x200B;
+
+",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": """",
+        ""entity_type"": """",
+        ""sentiment"": """"
+      }
+    ]"
+Benlex,"外資表示：電腦類股太香了
+原本美國開市外資回流美國結果NVIDIA跟AMD一搞台灣的電腦類股全部被買空",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""外資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NVIDIA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""AMD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yyy_364364,身为台湾人天天跑太监区发帖跟中国人互动，什么成分不用说了吧:笑得满地打滚:,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+iamorz666,"
+
+&#x200B;
+
+事實就是事實有啥好崩潰德我不懂ㄟ",2024-01-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""事實"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NokiaG42User,先別管那個了，你聽過冷雪年與張寧嗎？,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""冷雪年"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""張寧"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pristine_Topic_9849,Wow這個人做了什麼竟然要浪費時間討論一個人的留言,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""這個人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""時間"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Individual-Papaya182,為什麼要拼命的攻擊關於柯p的一切?大家都是臺灣人，不需要弄成這樣。 ,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯p"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MinimumPhilosophy848,"辛苦了，已經勝選了還需要一直打其他支持者，
+就好像所有不同聲音都應該抹除，
+最好是只有一個黨的聲音",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""辛苦了"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""勝選了"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""其他支持者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""不同聲音"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""一個黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zoroaster623,造謠一百萬次就會成真，這就是柯學DDos認知戰法,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯學DDos"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sugerplumberry,股票不是可以直接看數字嗎？為什麼吵外資要貼新聞,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""股票"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,他們就是邏輯死亡的一群人跟邪教一樣,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""邏輯死亡"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""邪教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Helpful-Gur9834,上週五跳空上漲450多點，跌了一週多，一天漲回去，小賺了一筆,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""上週五"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""450多點"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""一週多"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""一天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+vergil0506,就是跑去中國人那邊取暖的給臺灣人丟臉,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""臺灣人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Hinson731,那邊就一堆舔共藍白粉取暖區,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""那邊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""舔共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""藍白粉"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""取暖區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sun66261034,他三不五時就在那個版貶低台灣阿,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vergil0506,他沒裝臺灣人他感覺就是個沒社會化的臺灣屁孩,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bala3310,我還是第一次看到鍵委這個詞笑死,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""鍵委"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+vergil0506,太監區有時候還是有理性的網友的，一些觀點也還算ok,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""太監區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""網友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+fight123,跌不夠多啊，我還沒進場QQ,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+s8018572,花旗調整旗下的業務被他當成台灣外資撤離要毀滅笑死,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""花旗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RemoteHoney,"現在的情況就只是幾家外資銀行同時撤出多國的零售市場，是金融領域的一個小部份而已，而且看來是企業自己的因素居多，怎麼可能當作整體經濟指標？
+
+花旗也有星展接盤啊...又不是拍拍屁股就走",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""外資銀行"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""金融領域"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""企業"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""整體經濟"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""花旗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""星展"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,瘋狂跳針這是我目前跟柯粉們抗爭觀察下來的普遍現象,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+scherbenmeer,tankie是这样的,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""tankie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BravoBlackBanana,">從頭到尾都散發出柯粉的氣息，但直指人家柯粉又感覺很失禮。
+
+韓粉沒那麼蠢我同事一堆韓粉這陣子股票賺得滿開心的
+
+這種百分之百是柯糞這種沒錢買股票的北七
+
+因為他們看到的資訊都是片面化又不去查證
+
+外資跑掉都上禮拜三禮拜四的新聞在柯粉群組瘋狂轉載
+
+禮拜五外資大爆買柯粉群組並不會講柯粉自然不會知道",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""同事"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""外資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""北七"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""禮拜三"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""禮拜四"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""禮拜五"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aromatic_Key6537,那个地方就是滞纳人的同温层，一堆支味浓厚的民主小清新聚在一起恶臭不堪,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""滞纳人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""同温层"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主小清新"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vergil0506,就是個咳屁輸了就跑到中國人那邊取暖的屁孩,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AloneSurprise6387,是多崩潰才會淪落到要到那邊取暖阿...(´ε｀；),2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""多崩潰"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""那邊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sun66261034,什麼好幾天，他早在柯粉出現前就常常在那個sub貶低台灣了,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+IllTransportation993,他們又不敢來這裡講，只敢去中國。,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,"誰叫他造謠最好笑的是他說民進黨造謠然後我說咳屁製造假民調不也是造謠嗎？他就崩潰了
+想要有karma就給我好好講實話",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""咳屁"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""假民調"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Beehometown,不少反共中國大V也這麼說。,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""不少反共中國大V"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Beehometown,"2013年時柯文哲上周玉蔻節目時講的，後來被支持者大似宣揚。
+
+",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""玉蔻節目"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2013年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,好像有聽過好像是騷擾什麼國外鋼琴家？但我不知道事情經過,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""鋼琴家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國外"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,我倒覺得他講的內容有蠻多值得探討的經濟選票你就大概知道其他聲音他們平常接受的資訊到底是些什麼,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""經濟選票"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""其他聲音"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,大哥你有看貼文嗎？對方先貼文章攻擊民進黨，我反駁很正常吧？對方也可以舉證反駁啊？,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""大哥"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vergil0506,你有看貼文嗎是對方先貼了文章攻擊民進黨支持者互相辯論不是什麼壞事但請你理性分析誰的意見到底比較有理沒有要抹除誰的意見這裡不是中國,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DoubleOlive4644,懂得用Reddit在這邊取暖，卻不會用網路去查證事實，果然是Reddit用戶:拇指向上:,2024-01-27,Taiwanese,zh,"[
+      {
+        ""entity"": ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BravoBlackBanana,"因為柯糞根本不懂股票上禮拜TMD都還在否定期
+
+看到股票跌新聞報是外資大賣台股柯粉群組就瘋傳民進黨選上外資大舉逃離台灣
+
+但上禮拜五外資又大把買進台股這個柯粉卻沒update這個消息還拿舊消息罵DPP
+
+可以確定這個柯糞一來沒再買股票二來也不關心股市新聞甚至也沒在工作八成是學生還是啃老族(因為柯粉群組是報憂不報喜整天都是台灣民不聊生)
+
+因為如果有再工作上禮拜五同事間在傳的應該是股票大漲要上萬八",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯糞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""股票"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""上禮拜"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""TMD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台股"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯粉群組"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DPP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""工作"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""學生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""啃老族"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JACK_2040,"他們八成覺得是民進黨硬拉起來的
+
+然後劇本是我真有眼光賣了幾張台積電",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台積電"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Deleted,就是個鍵盤汁那人，簡稱，賤汁,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""個鍵盤汁"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""賤汁"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Hero105-106,大部分支持嗝P的都是这种中二还未被开化的吧，至少我身边支持他的朋友们都是（都超过30岁了还很中二）,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""嗝P"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30岁"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Due_Land_588,"中國有很多詞非常荒誕，沒有中國經驗你連想都想不到。
+
+比如“農民工”，農民就是農民，工人就是工人，“農民工”是什麼？兼職的嗎？
+
+還有“農村剩餘人口”？你猜是什麼？",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農民工"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""工人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農村剩餘人口"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+furious_dolphin_chen,"星展接花旗不也代表星展對台灣的市場有信心嗎
+他們只看片面真的很混",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""星展"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""花旗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KneeSmall89,"因為柯粉根本不想討論或理解事實，他們唯一在乎的是要吵架吵贏
+
+這是柯黨從上到下一貫的風氣
+
+例如炒地柯被發現特農地種巴士，隨便挖了那一下，就到處亂喊炫耀已經「該做什麼就做什麼」然後繼續對賴老家跳針，雖然根本什麼都沒做
+
+這些人所謂的務實，就是只要夠無恥就不必在乎理虧",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴士"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""賴老家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+HanksEseOrion,柯粉又沒錢只會在乎股票什麼時候跌啊,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""股票"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GoPugRanger,"他就說這裡是綠同溫層堡壘，不適合小白阿
+
+崩潰到去別的地方哭哭，可憐吶",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""綠同溫層"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小白"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""哭哭"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NokiaG42User,也沒什麼重要，但很好笑，仇恨總是比愉悅容易散佈。,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""仇恨"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""愉悅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Pristine_Topic_9849,多做一些有意義的事吧想辦法脫離讓自己悲哀的人生,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""多做一些有意義的事"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""脫離"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""悲哀的人生"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AKTEleven,"這種論述久了就只能吸引邊緣人了
+
+一邊看著身邊的人大賺，一邊看著一群在那民不聊生、吹捧救世主式的政客
+
+最後理性的人所做出的選擇應該很明顯",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""政客"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""選擇"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Miserable-Tax8582,"以前指平常是農民但在農閒時期進城打工的人，
+現在普遍指戶籍在農村入城打工的人。",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""農民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農閒時期"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""城"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""普遍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農村"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SkywalkerTC,這也太熟悉了吧....跟中共五毛、小粉紅不就一樣嗎？所以我就懷疑現任柯粉有好一部分都這種人在帶風向，有的台灣人沒想特別多就跟風了。想想，中共光是共產黨員人數就直接是台灣總人口4倍多，如果只算台灣會上網留言的人，這倍數又更誇張....整個就是資訊爆炸，這確實連高知識份子都可能被影響....即便我們一個個都聲稱不會被影響。有些人真的....,2024-01-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""五毛"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""高知識份子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,我不覺得自己的人生悲哀我覺得我過的很好但是對方針對一些不實資訊造謠我反駁他他也沒有舉證反駁我我認為多種聲音在民主社會是很重要的駁斥謠言這件事也非常有意義。我倒是覺得那些被短影音散步的不實資訊洗腦的人滿悲哀的，不知道你怎麼看呢,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""對方"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""多種聲音"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""民主社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""謠言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""短影音"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Due_Land_588,"農民工的意思是，你的身份是農民，但你在城裡做工。社會主義國家有“**身份制度**”，農民和工人是兩種截然不同的**身份**，不是職業。
+
+在胡溫朝改革以前，即使是裝模作樣的“公民投票”，也是寫進了法律的農民8票等于工人1票。更別說其他方面的差異了。比如說死亡賠償，胡溫朝改革以前，也是公然寫進了法律的**同命不同價**，農民和工人的賠償金相差數倍甚至十倍以上。
+
+直到現在，中國統計失業時，也不統計農民工，因為根據中國法律，農民永不失業。所謂“農村剩餘人口”，就是內部用來指代農村失業的估計數。意思是：不是工作少，而是你多餘！
+
+中國的恐怖之處真的遠超正常人想象，所以啊：一邊一國，唯一出路！",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""農民工"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""城裡"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""社會主義國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""身份制度"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""工人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""胡溫朝"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""公民投票"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同命不同價"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KneeSmall89,"雖然不否認中共介入，不過其實，我覺得民粹主義的粉絲好像都是這樣。
+
+美國伯尼‧桑德斯的狂粉或川普的MAGA，也都有類似的行為(當然後者比較嚴重且大規模，前者比較侷限於網路上)。兩者都認為支持的候選人當選就會實現烏托邦，都抱怨被主流媒體抹黑，認為職業專家不可信數據會說謊，號稱自己代表新政治，選前喊不利的民調是做假帶風向，選輸後質疑作票檢討選民。而且往往有仇女恐同的傾向。
+
+這些人的共同點都是邏輯死亡，藐視客觀事實，自我感覺至上，只有酸的狠吵架贏才是王道。普遍對生活不滿，平時對政治冷漠不甚了解，覺得自己人生不順之處都是社會害的，然後來了一個操弄民粹的政客，就突然發現一切都是某某群族的錯，只要不擇手段打倒他們就會世界大同。
+
+當年的共產黨跟納粹黨也都是這一套，所以才會覺得跟現在的五毛小粉紅一樣。",2024-01-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""伯尼‧桑德斯"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""川普"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MAGA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""納粹黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""五毛小粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Pristine_Topic_9849,"與其target這些網路上也不知道是不是真的人不如讓自己多賺點錢回饋社會培養優秀人才
+用點腦也知道你要制裁這些造謠的人不是可可蓮蓮的舉報舉報
+如果這種無聊的事真的是你人生的動力你應該自己成為有權力或有錢跟技術在社會上有地位的人讓你的話變的有重量
+不是在red上做糾察隊在我看來就是可悲",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""可可蓮蓮"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人生"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""網路"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,">美國伯尼‧桑德斯的狂粉或川普的MAGA，也都有類似的行為(當然後者比較嚴重且大規模，前者比較侷限於網路上)。兩者都認為支持的候選人當選就會實現烏托邦，都抱怨被主流媒體抹黑，認為職業專家不可信數據會說謊，號稱自己代表新政治，選前喊不利的民調是做假帶風向，選輸後質疑作票檢討選民。而且往往有仇女恐同的傾向。
+
+把政治人物當成神拜就是會發生這種事。當成偶像就夠麻煩了，何況當神？
+
+簡單來說這種論述就是賣給粉絲（通常是剛出社會或還在唸書的年輕人）一個美好未來，同時間讓他們把遇到的各種問題及不順怪罪到建制系統上。網紅政客本質上就是賣神藥王祿仔仙或江湖術士，靠著人們對於現實的不滿還獲得各種關注及利益。
+
+在現實破滅前，總是需要靠各種手法繼續維持士氣，拿出柯第二的民調然後質疑權威民調機構所做出的民調，繼續玩弄那個社會建制派陰謀的路線。這就像是電台賣的「神藥」之所以無法進到主流市場的原因是因為那些藥商怕自己的東西比不上，所以才用各種方式打壓。
+
+不過這種玩法最後總是要遇到現實，開票開出來後真的看到誰沒穿褲子；生病的人到最後才發現這個神藥完全沒屁用，只是讓你心裡好受的安慰劑而已。而那個江湖術士收割完一波後，準備下次有疫情時再用不同的樣貌出現。",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""美國伯尼‧桑德斯"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""川普"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MAGA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""主流媒體"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""職業專家"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""新政治"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民調"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""網紅政客"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯第二"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""權威民調機構"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""電台"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,"所以按照你的邏輯，對方在造謠的時候，我們就完全不理會，然後要一天24小時都專注在工作上，然後想辦法當上政客或是有話語權的YouTuber之類的？
+兄弟你知道謠言講了一百次就會變真的嗎？
+然後您不用擔心我的工作或我有沒有對社會做出貢獻，我自己非常清楚。
+您說我在reddit當糾察隊，你也可以從這個人的歷史紀錄看到他造謠了多少次，按照你的邏輯，假設你朋友說你有偷情，你要好好的工作完全不理他是這樣嗎？",2024-01-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""YouTuber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政客 (Politician)"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pristine_Topic_9849,看到你說24小時專注在工作上就知道沒救了你請繼續,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""24小時"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,你好像也沒專心看我寫的內容我在工作之餘的閒暇時間想幹什麼是我的自由跟其他網友的討論（不要說是爭吵好了）可以了解政治相關的議題，你如果認為這樣有問題那也由得你，你也不用浪費時間看我講的東西。你前面先是講我的人生悲哀，然後又說我沒救，抱歉我人生過的很滋潤，了解政治是每個臺灣人民的義務,2024-01-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政治"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Virtual-pornhuber,~~Sirthisisawendy's~~,2023-04-10,Taiwanese,en,"[
+      {
+        ""entity"": ""Sirthisisawendy"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Diligent-Success-596,"又出一位大佐，可喜可贺，吃辣猪是这样的，你说得一点都没错
+
+我一贯都是那句话，吃辣猪听不懂道理，吃辣猪唯一能听懂的是拳头和枪",2023-04-11,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""大佐"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""吃辣猪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""拳头"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""枪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Logical-General2066,希特勒名言：動員民眾不能用愛要用仇恨，仇恨是最好的凝聚力,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""希特勒"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""動員民眾"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""愛"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""仇恨"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""凝聚力"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Remarkable_Club8465,"發泄完了，説下正經的。中國人或漢人的本質是大一統帝國士大夫統治結果的編戶齊民與無產階級二重性。無產階級總是希望別人倒霉，多於希望自己獲利的，因為根據切身經驗，自己隨時都能害人，但從未得到好處，給自己許諾好處的人，事實證明都是騙子。所以你絕計不能給中國人講理，他會以為你是騙子或弱者，因為只有騙子想佔他便宜的時候，或者弱者鬥不過他想求饒的時候，才會跟他講理。如果你想讓他服從，非武斷不可，因為他認為強者必然不講理，所以壞是強的可靠標識，由於下等人缺乏判斷資源的能力，所以慕強不如慕壞，只有壞人才能贏得中國人的愛戴，
+
+例如見到普京就排卵，美國人雖然比普京強，但就是因為不夠壞，無產階級識別不出來，所以才得不到中國人的擁護。所以無產階級總會往下走，中國人總會得到越來越壞的統治者，都是自己的博弈策略決定的，而由慕強到慕壞的策略在下等人的微環境中是完全理性的，就像國家之間的博弈策略在國際政治鬥爭當中一樣合理。
+
+一般情況下，中國人或漢人大多屬於這種編戶齊民性格：軟弱卑鄙而狡詐。什麽都答應，什麽都不做，甚至做剛好相反的事。你去質問它爲什麽這麽做，它們會面不改色地推卸責任，表示自己很無辜什麽都沒做。然後你把它們揪出來抓出證據，它們也不會感到臉紅和羞愧。你要麽隨時隨地地監控它們，不然結果必然是這樣的。什麽便宜都想占，什麽責任也不願付。
+
+你如果真在中國生活很多年，它們大多數都有以上如同無賴流氓式的邏輯。如果我不是在這裏生活地足夠久，我也很難用嘴巴詳細寫出中國人的畜生本質。",2023-04-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""漢人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""漢人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""士大夫"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""無產階級"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""普京"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國際政治"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"認清本質是一回事但賺錢是另一回事
+
+對很多人能不能賺錢比較重要
+
+像馬克宏就是一個例子",2023-04-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""馬克宏"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sleepymonkey2,可能还有一定的见不得别人好的一种卑劣心理作祟，这在几千年来的农村每天上演，可说是一种纯粹的恶,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""农村"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""几千年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Logical-General2066,"民主國家是法治社會，要求大家遵守法律，當好人是最基本要求，對壞人就必須用法律制裁。
+在獨裁國家，黨就是法律，所以中國人不遵守正常，各種野蠻我都看過了。
+但對於他們的野蠻，我們是民主國家所以不能野蠻，心裡有多不爽，都只能先吞下去，只有正當的理由才能夠還擊，不論是伊朗、敘利亞、巴勒斯坦、阿富汗，只要誰敢攻擊就必定迎來民主大外送。
+[",2023-04-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""民主國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""法治社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""壞人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""獨裁國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""野蠻"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""我們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""伊朗"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""敘利亞"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""阿富汗"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主大外送"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+PruneFun1920,"如果日本人當年圖的是三千萬
+
+現在保底待遇是毛臘肉等級
+
+可惜只圖三十萬
+
+現在就是妥妥的大反派角色
+
+又如果當年日本拿走東三省再也沒還回來
+
+現在起碼有鵝爹一半的尊榮可以稱個乾爹",2023-04-11,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""日本人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""三千萬"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""毛臘肉"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""三十萬"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大反派角色"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""東三省"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""鵝爹"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""乾爹"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Rare-Bit-8445,哪來的窪地礦植物專家，淨說些大實話。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""窪地礦植物專家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wallye_Wonder,想了很久不知道说些什么，还是抱抱OP吧。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""OP"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+YourDaddie,冒昧问一下OP的年纪,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""OP"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,我沒想那麼多，台灣裡也很多台支，我也是跟這群人保持距離。中國人只要公開支持台灣獨立，背景正常，講話有禮貌，我無所謂,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台支"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣獨立"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+New_Journalist8049,虽然但是我觉得身边百分之90以上的人都是日子人，没有那么多人关心台湾问题只关心自己的生活能不能过好。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Remarkable_Club8465,被中國宣戰，飛彈扔的台北台南到處都是，老人婦女兒童死在街上的時候。希望台灣人殺中國人不要手軟，誰敢再提統促全關進大牢剝奪公民身份，視爲國家的公敵。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台北"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台南"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""統促全"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,"见过这种的,天天骂CCP但是支持武统台湾,理由是自己天天996累死累活过的不好,凭啥台湾人能活着轻松工资还高.统一了大家一起当人矿.",2023-04-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""CCP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""大家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Remarkable_Club8465,68岁，在中南海上班，你可以来找我。,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""68"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中南海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RemoteHoney,"都是些自掃門前雪的歲靜
+
+社會上出什麼事，街邊死什麼人不關我事，我自己沒被鐵拳打到就好",2023-04-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""都是些自掃門前雪的歲靜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""街邊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dltwmat,我原本想說艾希曼的，但窪地歲靜的下限應該會比艾希曼低得多,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""窪地歲靜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""艾希曼"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"PLA用坦克碾学生,该杀,
+
+顺便再多杀点黑皮就更好了",2023-04-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""PLA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""学生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""黑皮"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Remarkable_Club8465,中國人、華人、中華民族、中共，完全就是一回事，只要中共打台灣失敗有分裂的危險，中共表示只有我才能避免大一統中國走向分裂，所有這些民主小清新、民逗、反賊、太監身上携帶的大一統病毒就會爆發，關鍵時刻一定站到中共這邊。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""華人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民族"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主小清新"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""民逗"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""反賊"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""太監"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Remarkable_Club8465,無論是極端派中國人粉紅、臘左還是溫和派中國人歲靜、民逗、民小、反賊。他們的本質都是大一統入腦的中國人。無論他們多麽反共or反賊，多麽支持民主，只要一提到台灣囯獨立，香港獨立、圖博獨立、東突獨立就立馬翻臉，他們會咒駡爭取自由的香港年輕人是暴徒，維吾爾人進集中營是活該，儘管他們反共、主持民主。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""香港"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""圖博"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""東突"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""香港年輕人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""維吾爾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+New_Journalist8049,我加的两个跟工作有关的群组到处都是吐槽国家的声音，甚至知道群里的发言会被审查。吐槽社保医保，吐槽房价，吐槽当官的，吐槽连任皇帝，吐槽先富的那部分人。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""群组"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""国家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""社保医保"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""房价"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""当官"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""皇帝"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""先富"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+New_Journalist8049,偏见就是这么产生的，你们的素质高，不也一样会地图炮。一句话把大部分汉人都概括了。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""汉人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"讨厌大一统的大有人在,习:猪:他爹习仲勋当年也放话说,广东假如独立了能过得更好!",2023-04-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""习仲勋"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""广东"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Deleted,"我认为不但台湾要独立,还有西藏新疆,内蒙,东北,都独立,各个地区根据当地方言口音,统统都独立,学习韩国越南,摒弃汉字,文字字母化,两代人后就会各自发展为完全不同的语言.洼地人想过自由民主的生活,必须结束大一统.",2023-04-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""西藏"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""新疆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""内蒙"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""东北"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韩国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""越南"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""汉字"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""洼地人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dltwmat,我可是只講下限而已，董志民不也是只關心自己生活的歲靜嗎？,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""董志民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歲靜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Remarkable_Club8465,跟中國人沒有什麽好講道理的，你不要管它們說什麽，你就問一句。支持不支持台灣民族獨立建國、香港民族獨立建國、維吾爾人、圖博人獨立？它一定不敢正面回答的，因爲它一定反對，漢人中國人就是大中華膠入腦的。多買武器，多跟美國日本搞好關係，多練兵。跟中國人沒什麽好講的。,2023-04-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""香港"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""維吾爾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""圖博人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+New_Journalist8049,台湾独不独立建国我真的无所吊谓，但是你这种人在我眼里跟在你眼里的中国人是一样的祝你们台湾越来越好,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+New_Journalist8049,你们台湾人就全部支持台湾独立建国？你们自己还分好多派呢二极管发言香港和维吾尔族你怎么知道是愿意独立还是统一的人占大多数？你一个外人凭什么以你的立场作为锚点？不顺你的都是坏人,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾独立建国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""香港"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""维吾尔族"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Remarkable_Club8465,嗨呀，滯納金特有的理中客嗎？我們就是歧視中國人，大日本皇軍當年殺的好哦，30萬豬頭落地簡直大快人心，暴支應懲。向井君，要上了！我每年都要去一次靖國神社參拜屠支的老英雄們。每次被中國人惡心到的時候，想到大日本皇軍揮刀承接碰瓷的滯納金簡直舒暢透了。,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""大日本皇軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""30萬豬頭"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""向井君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""靖國神社"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Remarkable_Club8465,來呀，不是想侵略台灣嗎?狗叫了70年了，你們俄爹都看笑了，出了俄羅斯諺語“中國的最後警告”。有種就打過來啊，怕你們啊。沒什麽好講的，戰場上見。不要廢話，三小。我等不及台海到處飄著解放軍的尸體了，快跟台灣日本美國宣戰吧。,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""俄爹"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""俄羅斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Diligent-Success-596,汁辣猪滚，装你妈臭逼的李克忠呢，有意见滚回猪圈里去跟你200斤习猪爹提议让东土耳其斯坦和香港全民公投看看民意，敢吗？不敢速滚，在这猪叫你妈逼呢，人类世界不欢迎汁辣猪,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""李克忠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""200斤习猪爹"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""东土耳其斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""香港"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+New_Journalist8049,:苦笑::苦笑::苦笑:你为何始终不愿相信有中国人对你们那巴掌大的地方不感冒打下来能让我们工资涨两毛钱能让我们多放两天假吗？,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴掌大的地方"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""工资"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""两毛钱"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""放两天假"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2023-04-11,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iamabot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""subreddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwanese"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Remarkable_Club8465,滞纳金特有的装外宾技巧，好像普世发生的事在它们的猪脑子特色臆想后便突然消失不见了。湾友看到没，这就是如同畜生和无赖流氓一样的中国人。,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""滞纳金"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外宾"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""普世"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猪脑子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""湾友"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""畜生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""无赖流氓"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Remarkable_Club8465,你这滞纳人说话真有趣，大日本皇军的武士刀还是屠少了。笑死了，被大和武士像狗一样虐了一遍又一遍，不靠苏联和美帝输血，早就像以前那样跪下来给满洲人当狗、蒙古人当狗、鲜卑人当狗。将近一千多年历史是给人当狗的，还这么自大简直不可思议。台湾国本来就是独立国家啊，有本事你打呀，狗叫了70年，都给友邦俄友闹了笑话整出了谚语【中国的最后警告】快打呀，谁拳头大谁有理，真理在大炮口径之下，自己都说这么明白，真有种赶紧开战，战场见真章。,2023-04-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""大日本皇军"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""大和武士"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""苏联"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美帝"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""满洲人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""蒙古人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""鲜卑人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""友邦俄"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,民眾黨黨團總召(x)國民黨民眾分舵立院堂堂主(o),2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""x"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民眾分舵"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""立院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""堂堂主"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+s8018572,ㄏ2014的我真的不能想像現在這種樣子,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""2014"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,"民眾黨不分區立委，藥師公會全聯會祕書長，**林憶君**，支持潛艦洩密嫌疑犯馬文君當召委，讓大家知道一下
+
+國民黨不分區立委，海軍退役上將，前國防大學校長，前海軍司令，前海軍司令部參謀長，國艦國造舵手，**陳永康**，支持潛艦洩密嫌疑犯馬文君當召委，也讓大家知道一下
+
+黃珊珊沒意見嗎？抹黑你哥哥黃曙光的馬文君，又當召委囉，也讓大家知道一下
+
+",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""林憶君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""馬文君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""陳永康"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黃珊珊"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黃曙光"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ballball32123,有沒有駐板小草包要反駁的？,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""駐板小草包"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,"民眾黨立委黃珊珊進財政委員會，票投國民黨羅明才
+
+很多小朋友應該不認識羅明才了，幫大家複習一下
+
+他爸爸是天道盟創辦人羅福助(違反證交法、商業會計法、刑法)，2012畏罪潛逃至中國。他本人在財政委員會也是滿滿的政績，我一一列舉
+
+1.建設有輕重緩急，人口稀少的中南部鄉下，卻要把捷運延伸，「拿著鋤頭，搭捷運去種田嗎？」--國民黨立委 羅明才 2017
+
+2.對於51勞動節遊行抗議的勞工：「他們（走上街頭參加五一勞動節示威遊行的民眾）應該遊行來這個地方，這邊工作這麼多，他們不來找。」--國民黨立委 羅明才 2011
+
+3.投票支持浮濫圈地惡法的《土地徵收條例》修正案
+
+4.提案提高股市大戶條款的門檻，並對時任財政部長張盛和(KMT)說「你要公平正義，倒不如學習北韓。」
+
+ref:[wiki](",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""黃珊珊"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""羅明才"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""羅福助"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""財政委員會"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""中南部"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""捷運"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""五一勞動節"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""土地徵收條例"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""股市大戶條款"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""張盛和"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""北韓"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PruneFun1920,藍綠一樣爛召委可以投給自己啊，投給國民黨就是要去當小藍教囉,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""藍綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""召委"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小藍教"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BoogieMan80s,"好個『憶起挺國軍票投馬文君』
+[林憶君臉書](
+灌爆這個虛偽政客",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""林憶君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""馬文君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vergil0506,謝謝三百萬的草包讓全臺灣背鍋,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""謝謝"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""三百萬"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""全臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kyokuramoto,"反正就是當八顆石頭，短時間不想跟民進黨合作，這樣除了乖乖被國民黨當小弟使喚之外，就是當都不表態。
+
+不過國會國民黨又是多數黨，其實根本不稀罕有沒有多那八席，所以根本意義上人家也不會達成「合作」。大概以後不是慢慢被國民黨同化到變名符其實的小藍，就是偶而因為某些議題驚覺自己上錯車於是又變得兩邊都不合作，表現得像是自己兩邊都罵就是成功的第三勢力。
+
+關鍵少數這個超級籌碼可以用成這樣也是一絕了。",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國會"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""第三勢力"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ReggieChen0323,怕被說小藍，做事起來扭扭捏捏的。到頭來，說藍綠一樣爛，但我們更親藍。結果不是小藍是啥？,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""小藍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""藍綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""我們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ddk771,一些人自以為投白的，什麼狗屁制衡藍綠，喊的震天響，結果都是藍的，真棒!!,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""一些人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+mephistotw,國蔥就是新興宗教「我就小藍教」初始教主,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""國蔥"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""新興宗教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我就小藍教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""初始教主"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TaipeiMinerva,同意投票制+比例代表制>>>>>領先者當選制,2024-02-28,Taiwanese,ja,"[
+      {
+        ""entity"": ""同意投票制"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""比例代表制"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""領先者當選制"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WSHK99,還好這次是立法院而不是總統，讓一眾支持民眾黨的人看清他們的嘴臉,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""立法院"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Street-Lobster-9092,嘴巴說歸說，身體還是很誠實的,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""嘴巴"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""身體"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mysterious-Camel5205,"笑死現在檳榔汁們根本不演了啊！
+看你們還有多少小草願意再次被當韭菜割",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""檳榔汁"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小草"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韭菜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Best_Enthusiasm_6844,韓國認證的賣台馬都投！,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""韓國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""賣台馬都"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Puzzled_Drummer_2416,護台賣台分不清楚，還中間力量⋯根本藍白一家,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""護台"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中間力量"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍白"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuaranteeLeast,貨真價實愛韓小藍教噁心得很,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""韓小藍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Beginning-Island-182,還全力支持ㄌㄟ，有沒有你們有差嗎？笑死喔！,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""還全力支持"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""entity"": ""笑死"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+shilloya,有沒有他們都無所謂，召委注定都是藍綠的,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""召委"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Minute_Sea1917,投民進黨又沒用，法案排不出來再不排審法案8年?,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""法案"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""8年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+General_Career6286,政治倫理，監督執政黨亦無可口厚非。還是看提案及質詢表現。民進黨沒要怕。要擔心的該是國民黨。比較大可能會給取代的是國民黨吧！,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""政治倫理"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""監督執政黨"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Powerful-Reindeer341,綠蛆洗爽沒，你們還有基本邏輯思考嗎==，難怪ㄌㄨㄚˋ要要求ㄘㄨㄚˋ的網軍停止對他的攻擊，真的是抹黑到沒有人性欸你們,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""綠蛆"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""基本邏輯思考"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ㄌㄨㄚˋ"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ㄘㄨㄚˋ"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""網軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""攻擊"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MinimumPhilosophy848,"哦是喔，那投給綠的好不好？
+投給誰你都有話講啦
+腦粉就是腦粉",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""誰"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AdWild6169,更正，是藍白一樣爛喔！,2024-03-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""藍白"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+toastfantasia,"科幻小說還需要邏輯，現實不需要。
+
+",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""科幻小說"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現實"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Helpful-Gur9834,陳永康還是有能力的，不過政黨決定了他的立場，他想進立院做他想做的事，只能這麼幹,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""陳永康"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""政黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""立院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+One_Satisfaction1308,我要先等師傅下達命令，我們是不允許有做意識的,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""師傅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Beehometown,"二十年前人人都知道羅福助是什麼咖，立法院裡最有名的黑道，在立法院公然打女人的咖。
+
+他兒子和顏寬恆一樣是爸爸不能選了，代替爸爸上陣的。只有小草不知道。",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""羅福助"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""立法院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""顏寬恆"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小草"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,這連下去可大條了！天道盟創辦人！,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""天道盟"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Powerful-Reindeer341,小英旁邊的是誰？也是現任天道盟啊雙標欸,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""小英"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""誰"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現任天道盟"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""雙標"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,遇到綠的就是聖人新政治標準、遇到藍的就是務實理性標準：你綠的最好高道德看待你的行為，我白的就是無罪推定沒有立場！,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""綠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""藍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ReggieChen0323,只能回“憶”呀！回憶中挺國軍。,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""國軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+RemoteHoney,他們可能不在乎投給賣台共諜,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""賣台共諜"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Overall_Yak1202,在CF跟濕兄的力挺下、中國黨再撐10年絕對沒問題,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""CF"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""濕兄"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""中國黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RemoteHoney,已經表現出賣國洩密，破壞國防了，還讓馬當國防召委！？,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""馬"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國防"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Comfortable-Gate-448,這則回覆的內涵少到我懷疑是機器人或是反串,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""機器人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RemoteHoney,你投誰都好，投給洩密賣國破壞國防的人當國防召委？？？,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""洩密賣國破壞國防的人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+flykakaya,"所謂的理念呢?所謂藍白一樣爛呢?投藍是因為覺得藍人選真的好?如果是看人怎麼會一律支持藍?
+
+少廢話了啦,就只是想要反綠不要把自己講的那麼清高",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Beehometown,"他可以在內部討論時要求支持其他國民黨立委做召委啊，國防委員會裡又不是只有馬文君是國民黨的。
+
+他的選擇，反應了他想走的路。",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""馬文君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國防委員會"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,"哪一位，現在在小英旁邊，現在是天道盟？說清楚啊，他是有任公職嗎？
+
+幹最噁心就中國民眾黨，你要罵黃承國是黑道，你就不要去人家餐廳舔人家",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""小英"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""天道盟"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""黃承國"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""餐廳"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VeterinarianNo9326,民進黨在爛至少不是國民黨這種賣國賊,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WSHK99,不在乎就投給國民黨吧，我不覺得他們不在乎,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+General_Career6286,十年後倒也算台灣之大幸。,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""十年後"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MinimumPhilosophy848,"嗚嗚嗚大家都討厭綠嗚嗚嗚
+不要講得好像被欺負被排擠
+明明是多數，偏要搞得一無是處
+再不行拿李妍慧的五百筆土地出來大家發一發
+好歹新聞版面可以佔一陣子:笑得满地打滚:",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""李妍慧"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Helpful-Gur9834,他是不分區，你覺得呢？,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hs_ch,請問去餐廳舔黃承國是什麼梗，沒跟到這partXDDD,2024-03-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""黃承國"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""餐廳"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Overall_Yak1202,"我只有說10年內絕對倒不了、可沒有說10年後就可能倒了
+
+在小草演化出大腦前都不會倒的",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""10年內"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10年後"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小草"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VicAdward,"
+
+之前才在幫自己哥哥講話結果召委還不是投馬文君？
+
+馬文君比自己哥哥還重要是不是？",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""馬文君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自己哥哥"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,"想走體制內改革，確實就會遇到很多這樣的""誤解""，身在國民黨，就不可能跟我們一樣壁壘分明。但即便了解這點，看到他投馬文君還是很悶。比較慶幸的是陳永康配馬文君，遠遠好過吳斯懷配馬文君",2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""馬文君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""陳永康"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""吳斯懷"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Typical_Toe_1705,民眾黨尾牙辦在黃承國的餐廳，他們還很親密的握手合照,2024-03-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黃承國"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+General_Career6286,那你可能要習慣下與其共存了:不高兴::不高兴:,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""那"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""不高兴"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""不高兴"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MinimumPhilosophy848,"好啦，都投給綠好不好？
+綠的都很棒",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Typical_Toe_1705,綠的有缺陷，但80分跟30分非常好選，如果因為是綠的，就放棄更好的，跑去投30分，那就單純的利益交換而已,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""綠的"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80分"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""30分"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AloneSurprise6387,"反觀現在隨時都可以把""抄家""掛嘴上,只要一被批判就可以滿嘴綠共亂噴....(´・ω・\`)",2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""抄家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""綠共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Other-Tutor-108,只能說網路上那些調侃綠共的支豬自己想一想，如果民進黨真有那麼獨裁，那麽那些網路上批判執政黨的人怎麼還沒被消失，怎麼還沒有被滅門。,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""網路"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""綠共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""支豬"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""獨裁"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""網路"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""執政黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aggravating-Virus675,林宅血案至今兇手抓不到，1982-2024，32年的今天，國民黨還是存在，立委席次過半，馬文君這類人繼續開心賣台，民眾黨支持馬文君出任國防立委召委，台灣人民真的很健忘。,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""林宅血案"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""1982-2024"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""32年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""立委"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""馬文君"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國防立委"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Mynameshih,[楊牧／悲歌為林義雄作](,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""楊牧"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""林義雄"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mynameshih,[林世煜，〈最長的一日記林義雄先生家門慘變〉（十周年追思文選）](,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""林世煜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""林義雄"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fuckPROCCPMODs8964,兩岸一家支，這是東亞詛咒，不知道大支什麼時候才能趕上台灣,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大支"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""東亞"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Other-Tutor-108,"只能說蚼冥黨不倒，對不起台灣。
+個人非常支持一命換一命，就算已入土，也該挫骨揚灰並將他們生出來的蜘蛛全數屠盡，可能會有人覺得我說的很偏激，但看看他們留下來的孽畜都做了些穢台的垃圾事。",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""蚼冥黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"

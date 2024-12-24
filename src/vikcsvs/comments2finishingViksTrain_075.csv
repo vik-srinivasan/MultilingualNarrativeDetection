@@ -1,0 +1,4811 @@
+author,text,timestamp,subreddit,language,gpt_output
+DeltaPavonis1,Ja auch das ist Rechtsextremismus gegen den was gemacht werden muss,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+houseofechoes,Das ist erschreckend. Als Ex-Moslem fühlt man sich in keiner Großstadt mehr sicher.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ex-Moslem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Großstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nsn,"Was ist denn das mit diesen Verstrahlten? Was zieht die denn ausgerechnet zum Lehramt? Höcke, Nehrling und jetzt der Typ, irgendwo wird sich da doch ein Sack finden der groß genug ist?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Höcke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nehrling"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WERElektro,">„Wertediktatur“ *Was?* Eigentlich können sich die mit der AFD die Hand geben. Abgesehen davon... Anfangs scheint es für mich ein Bisschen eine verzwickte Situation zu sein. Weil Meinungsfreiheit und so. Is schon recht so, aber, zumindest für mich ist es so: Deine Freiheit endet dort, wo du eine Bedrohung für meine Freiheit darstellst. Ich weiß nicht genau was die sonst noch alles forderten auf dieser Demo. Aber da sollte man ganz genau hinschauen. Wie bei allem anderen demokratiefeindlichem Gesöcks. Is vermutlich Alles nicht so einfach....",2024-04-28,de,de,"[
+      {
+        ""entity"": ""AFD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Meinungsfreiheit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Deine Freiheit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Bedrohung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spamzauberer,Wertediktatur ist genauso sprachlicher Durchfall wie Gutbürger.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Wertediktatur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gutbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+oberstmarzipan,"Also ich bin politisch sehr grün, aber ich finde das hier noch bei sowas noch viel zu viel Toleranz geübt wird. Es kotzt mich immer an wenn gegen Flüchtlinge gehetzt wird aber dann bei Radikalen Islamisten mit wahrscheinlich überwiegend deutschen Pässen, es gefühlt nicht ansatzweise das selbe Medienecho gibt. Auch als nach dem 7. Oktober die Männergruppen hier durch die Städte gezogen sind, hätte das meiner Meinung nach viel Mehr Aufmerksamkeit(in Form von Gehenmaßnahmen) bekommen müssen. Religionen sind alle überflüssig, aber während das Christentum sich scheinbar sowieso langsam selbst abschafft wird der Islam(und dessen Interpretation) immer prägnanter und ich finde da sind wir auch beim Toleranzparadoxon angekommen. Keine Toleranz gegenüber Intoleranz.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Flüchtlinge"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Radikalen Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""deutschen Pässen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""7. Oktober"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Männergruppen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Religionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SwagsireDrizzle,"so geil dass springer medien immer noch mit allahu akbar panik generieren wollen, weil die leser keine ahnung haben was es heißt",2024-04-28,de,de,"[
+      {
+        ""entity"": ""springer medien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""allahu akbar"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PizzaMaxEnjoyer,"bei sowas ist es fast schon schade dass die AgD so unwählbar ist. eine partei die mal klare kannte gegen islamischen extremismus zeigen würde ohne angst und blatt vorm mund für ""korrektheit"" wäre mal spitze.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""AgD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""islamischen extremismus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+notmuchgoingontoday,"was kann ich wählen/tun, wenn ich möchte, dass gegen diese Menschen etwas unternommen wird, ohne dabei Rechtsextremisten zu stärken?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Rechtsextremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+KeinTollerNick,"Was ich stellenweise bedenklicher als solche Extremisten finde, sind diejenigen, die sich weltoffen geben, aber subtil ihr konservatives Weltbild in ihre Umgebung einfließen lassen. Eine ehemalige türkische Arbeitskollegin recht offen, trägt kein Kopftuch, aber zwischen den Zeilen merkte man schon, dass da sehr konservative Ansätze vorhanden waren. Sie meinte mal, das größte Glück/Pflicht einer Frau sei es, Mutter zu werden und durch Dritte erfuhr man, dass ihr Partner mit den grauen Wölfen sympathisierte. Ein anderer Kumpel, studiert, auch weltoffen, bis es um LGBTQ geht, dann ist er schnell auf AfD-Niveau. Da kann ich mir schon vorstellen, welches Weltbild den jeweiligen Kids daheim beigebracht wird. Für mich kein Unterschied zu den Biodeutschen, die stark konservativ oder gar afd-lastig sind, aber die haben wir, weil wir kulturell besser verstehen, wie die ticken, eher im Blick. Ich habe keine Lust, dass sowas auch bei uns passiert: >A sense of betrayal’: liberal dismay as Muslim-led US city bans Pride flags >Many liberals celebrated when Hamtramck, Michigan, elected a Muslim-majority council in 2015 but a vote to exclude LGBTQ+ flags from city property has soured relations >[Quelle](",2024-04-28,de,de,"[
+      {
+        ""entity"": ""türkische Arbeitskollegin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""grauen Wölfen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kumpel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Biodeutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamtramck, Michigan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslim-majority council"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""LGBTQ+ flags"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+darkslide3000,> Kalifat ist die Lösung Ist Volksverhetzung ein Abschiebegrund? Frage für einen Freund...,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksverhetzung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Vienesko,"Also um das mal zu sortieren: Wenn 1100 Neonazis / NPDler eine Demonstration auf offener Straße durchführen wollten / würden, auf deren Schilder dann Sprüche wie „das vierte Reich ist die Lösung“ oder ähnliches stünde, dann würde diese Demonstration verboten oder sofort aufgelöst während der Staatsschutz dort am rotieren ist. Eine Demonstration 1100 Islamisten, organisiert von der gesichert extremistischen Vereinigung „Muslim Interaktiv“, die offensichtlich die Demokratie ablehnen und gegen ein Kalifat austauschen möchten, lässt man einfach gewähren und ihre ekelhaften Parolen lautstark verbreiten?! Warum? Was zum Teufel läuft hier schief? Wieso ist der eine ekelhafte Extremismus verpönter als der andere ekelhafte Extremismus?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Neonazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""NPDler"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demonstration"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+semar_on,Ich finde sowas gut. Immerhin sind diese „Individuen“ auf einem Haufen. Da muss man nur noch anhand der Bilder und Videos die Leute identifizieren und im Blick behalten.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Individuen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MatsHummus,Der islamistische Influencer studiert auf Lehramt. Ich sehe da 0 Probleme voraus.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""islamistische Influencer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lehramt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Craftkorb,Kann die deutsche Politik bei Extremismus eigentlich endlich mal etwas anderes tun als nur den Kopf in den Sand zu stecken?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutsche Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Plejad,"Wir können nicht länger weggucken, spätestens seit der Demo in Duisburg muss doch klar sein, was hier passiert. Es ist keine Ausnahme, es ist systematisch. Ist passiert nicht am Rand, sondern in der Mitte unserer Gesellschaft. Das wird unsere Werte und unsere Demokratie gefährden und ich wünsche mir, dass das so langsam mal jeder begreift.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Demo in Duisburg"",
+        ""entity_type"": ""EVENT"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Duisburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Werte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Southern_Reason_2631,Kenne da einige ruhige Orte um ein Kalifat zu gründen: * Bikini Atoll * Mururoa Atoll * Mond Als Kalifen schlage ich Isnogud vor.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kenne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bikini Atoll"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mururoa Atoll"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mond"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Isnogud"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheTT,Hat sowas eigentlich Konsequenzen im Ausländerrecht?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ausländerrecht"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DarkFite,"Die sehen mir eher so aus, als ob die nicht wüssten, was das Kalifat eigentlich ist. So typische ""Wir sind Muslime, aber tun alles außer Schwein essen, was man im Islam nicht machen sollte"" Typen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Timetofixcritalready,ich bin etwas verwirrt. die polizei hat nicht eingeschritten? wäre diesmal sogar berechtigt gewesen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+felis_magnetus,"Und das ist der Preis dafür, dass man sich über Jahrzehnte gegen einen entschieden säkularen Staat gewehrt hat. Religionsfreiheit muss auch das Recht auf Freiheit von Religion beinhalten, wodurch jede religiöse Agitation aus dem öffentlichen Raum verbannt und auf die private Lebensführung beschränkt wäre. Was selbstverständlich auch ein Verbot von Missionierung usw beinhaltet. Die Grenze der eigenen Freiheit muss nun einmal die Freiheit des anderen sein.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Religionsfreiheit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""öffentlichen Raum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""private Lebensführung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Missionierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Entity_not_found,"Und die Demo wurde von einer gesichert extremistischen Bewegung organisiert. Genau das sind die ignoranten Arschlöcher, die die Schuld daran tragen, dass es immer noch so viele Vorurteile gegenüber denjenigen unserer muslimischen Mitbüger:innen, die hier einfach nur ein normales Leben führen wollen, gibt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""extremistischen Bewegung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ignoranten Arschlöcher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""muslimischen Mitbüger:innen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+r_de_einheimischer,"Das ist übrigens eine Tarnorganisation der bereits mit einem Betätigungsverbot belegten [HT]( Irgendwie scheint sich nur kein Journalist oder Kommentator drum das mal anzumerken. Im englischen [Artikel]( sieht man auch das die international sehr aktiv sind. Deren letzte Demo ist ins Wasser gefallen, weil nicht genug Leute kamen. Jetzt scheint man aber Leute rangekarrt zu haben um die gewünschten Bilder zu erzeugen. Die wollen diese Aufmerksamkeit, das ist Strategie.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""HT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Omoplataci,"Das ist eine kleine Splittergruppe, die sich Hizbut Tahrir nennt und mich als Muslim auf gar keinen Fall repräsentiert. Ich distanziere mich von dieser Organisation und finde, dass sie mit ihren Aktionen das Leben der Muslime in diesem Land erschweren. Schade, dass solche Kundgebungen überhaupt erlaubt sind.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Hizbut Tahrir"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslim"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Organisation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""diesem Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+0HelluvaFan0,Sie bekommen das was Sie verdienen. LOL,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""LOL"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ASM-One,Dachte immer das Mittelalter ist lange vorbei. Da sieht man mal wie Religion bei manchen auf das Gehirn wirkt.,2024-05-03,de,de,"[
+      {
+        ""entity"": ""Mittelalter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Turtle456,Ist nicht Afghanistan so eine Art Kalifat? Funktioniert ja prächtig dort! lol,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Afghanistan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+r_de_einheimischer,"Islamismus ist rechtsextremismus, nur halt aus einem anderen kulturellen Umfeld. Die wollen genauso Frauen unterdrücken, Homosexuelle und andere Völker auslöschen und so weiter. Die haben halt keine Glatze und Baseballschläger sondern Knüppel und Bart. Und nein das wundert keinen. Das Internet ist Brutstätte für diese Leute und über TikTok oder Telefran erreichen die unglaublich viele Personen die anfällig für sowas sind. Sowas hat sich früher über soziale Kontrolle in viel kleineren Zirkeln regeln können, heute wird alles schnell global.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Homosexuelle"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""andere Völker"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Internet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""TikTok"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Telefran"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+goyafrau,"> Menschen werden immer affiner für extreme Ideologien. Egal ob es rechtsextremes oder islamistisches Gedankengut ist. Oder Extinction Rebellion oder sowas, gibt ja ganz viel.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rechtsextremes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""islamistisches"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Extinction Rebellion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hoax1337,"Etwas off-topic, aber mich würde mal interessieren, wie das Verhältnis zwischen ""tatsächlich religiös"" und ""gehört auf dem Papier der Religion an"" bei den verschiedenen Religionen so aussieht.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Religionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Systral,"Finde ehrlich gesagt alle scheiße, Buddhismus ist die einzige, die auch positives hervorbringt, weil viele seiner Glaubensrichtlinien auch wichtige Grundgedanken allgemeiner Philosophie und Spiritualität vertritt. Tatsächlich finde ich den durchschnittlichen Moslem *deutlich* netter und friedlicher als die meisten Christen etc, bis man auf bestimmte Kernpunkte trifft (Frauen/LGBT rechte). Aber sonst sind Muslime echt extrem freundlich, die Gastfreundschaft ggü Fremden ist bemerkenswert.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Buddhismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Moslem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frauen/LGBT rechte"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Fremden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+s0x00,Wie soll das gehen wenn es deutsche Islamisten sind?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutsche Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bedbooster,Forderst du das bei ***allen*** demonstrierenden Extremisten?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Forderst"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demonstrierenden Extremisten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Vau8,"DuBistDeutscher, die sicher auch.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""DuBistDeutscher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eipotttatsch,Die große Mehrheit von denen wird deutsch sein. Da kann man wenig machen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Die große Mehrheit"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutsch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dontChuck,Leoparden wurden doch niemals MEIN Gesicht essen,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Leoparden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MEIN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WikipediaKnows,"Die andere Querfront heutzutage. Schau dir die linken Anti-Israel-Proteste an amerikanischen Unis gerade an, viele junge Frauen dabei, viele LGBT, die offen die Hamas anfeuern. Hilarious.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Die andere Querfront"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""linken Anti-Israel-Proteste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""amerikanischen Unis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""viele junge Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""viele LGBT"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,"Vor allem standen am Kopf der Demonstration auch deren Zukunft - Burka-tragende, komplett-verschleierte Frauen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Burka-tragende"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EntrepreneurWeak6567,"Haben dort tatsächlich Frauen ""in der Menge"" demonstriert? Ich glaube eher dass die separat demonstriert haben... Ich sehe jedenfalls in der großen Menge keine einzige Frau.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+huskergirl-86,"> Was darf eigentlich Satire? ***""Alles.""*** Bin unsicher, wer das gesagt hat. Google behauptet: Kurt Tucholsky. Das Känguru behauptet: Recep Tayyip Erdogan. Ich vertraue dem Känguru. Das sagt ja auch, das Geld nicht arbeitet, sondern kleine Kinder und Sklaven. Ich glaube, vor allem in Kalifaten.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kurt Tucholsky"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Recep Tayyip Erdogan"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Känguru"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sklaven"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ganbaro,"Die finden Islamismus ja gut. Schlecht finden sie dein Recht, Islamismus kritisieren zu dürfen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dein Recht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Junktown-JerkyVendor,"Und glauben sie der wirtschaftliche Erfolg liegt an der geografischen Lage? Wenn sie das Land in ihr Heimatland verwandeln, läuft es auch wie in ihrem Heimatland.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""wirtschaftliche Erfolg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""geografischen Lage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heimatland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nick19922007,Naja gibt nich so viel bessere Länder. In den ratsächlichen Kalifaten gehören die nich zur Elite und haben also nichts zu sagen. Und alle anderen Länder sind eben noch keine Kalifate und müssen dazu gemacht werden (laut dieser extremisten). Und da Deutschland eins der schönsten Länder der Welt ist kann ich schon verstehen warum sie es hier versuchen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+cz1ko,"Weil die einfach dumm sind. In den Herkunftsländern gilt glaube statt wissen. Die sind ausschließlich aus wirtschaftlichen Gründen hier. Die logische Konsequenz das wir diese Leute hier aufnehmen und ihnen ein lebenswertes Leben ermöglichen, ist das man hier in Sicherheit erstmal auf dicke Hose macht und diese Schwachsinns Religion bei uns salonfähig machen will.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Herkunftsländern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""wirtschaftlichen Gründen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sicherheit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NotPumba420,"Weil sie sich hier benehmen können wie sie wollen, dafür kaum bis keine Konsequenzen bekommen und das System noch komplett ausnutzen können.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""keine Konsequenzen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AkaAtarion,"Das erklärte Ziel des extremistischen Islam ist die Eroberung der Welt und die geht am einfachsten von innen heraus. „Wenn Gottes Endsieg kommt und die Eroberung, und wenn du siehst, wie die Menschen in Scharen zum Islam übertreten, dann lobpreise deinen Herrn und bitte ihn um Vergebung! Er ist ja zur Vergebung bereit.“ Sure 110 übersetzt nach Prof. Dr. Otto Jastrow von der Universität Tallinn Hier ein Artikel vom Deutschlandfunk also keinem rechten Verschwörungsmedium zu Sure 110 und ihrer Bedeutung:",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Welt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gottes"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Endsieg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eroberung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Otto Jastrow"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Universität Tallinn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschlandfunk"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skulldetta,"Diktaturenfreunde lieben es, die Vorzüge einer liberalen Demokratie zu genießen, während sie ihre Mitbürger dazu verdonnern, weiterhin in der Diktatur zu leben. Sieht man ja bei den ganzen Putin- und Erdogan-Fans, die mit Freunden für ihre autokratischen Helden gestimmt haben, aber eine permanente Rückkehr in die Heimat unter gar keinen Umständen wollen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Putin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Erdogan"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+senor_uber,"Für diese Menschen ist Deutschland halt ein Kalifat, was noch aufgebaut werden muss.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WaveIcy294,Der Islam den diese Menschen praktizieren ist auf Missionierung und Ausbreitung aus. Die nutzen absichtlich freiheitliche Werte aus.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Important-Cupcake-29,Ganz offensichtlich um unser Land von innen heraus in ein Kalifat zu verwandeln. Genau das wird da ja immerhin gefordert.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ganz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Azweik,Vielleicht sind sie hier geboren?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Vielleicht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""geboren"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dragor,"""mehrheitlich mit den Stimmen der SPD und GRÜNEN gegen die Stimmen der CDU und AfD bei Enthaltung der LINKEN abgelehnt"" Die Begründung würde ich gerne wissen.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""GRÜNEN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""LINKEN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DrHeywoodRFloyd,"Das Problem ist halt, dass vor allem in jüngerer Zeit (seit dem Aufkommen des IS z.B.) „Allahu Akbar“ auch zu einer Art Schlachtruf geworden ist, und somit nicht mehr nur so harmlos konnotiert wird wie eine stille Aussage im Gebet. Das wird bei diesen „Demos“ daher vermutlich bewusst (und provozierend) auch als Schlachtruf verwendet. Der friedliche Islam hat leider manchmal ein Abgrenzungsproblem zum gewalttätigen Islam, weil beide oft ähnliche Codes verwenden.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""IS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ganbaro,"Es ist nicht so, dass dieses Sub Demos von Fundichristen, auf denen Gott gepriesen wird, gelobt haben. Marsch fürs Leben und so ein Kram wird hier genauso kritisiert Viele sind konsequent gegen fubdamental-religiöse Indoktrination, auch auf Protesten, und das ist mMn richtig so Es ist offensichtlich, was für Werte man in so einem Kontext mit so einem Ruf signalisieren möchte",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Marsch fürs Leben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fundichristen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Viele"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fundamental-religiöse Indoktrination"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Protesten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werte"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MyPigWhistles,"Bei Christen, die ""Halleluja"" durch die Straßen brüllen, würde ich auch davon ausgehen, dass die geistig nicht ganz stabil sind.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Halleluja"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straßen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Itakie,"Sind nicht alle religiösen Fanatiker Extremisten? Wenn Christen nun auf die Strafe gehen und ""Gott ist groß"" nach jeden dritten Satz brüllen würde doch jeder akzeptieren was die damit meinen. Der Kampf von Religion über weltliche Führung kam bei uns doch schon mit der 2 Schwerter Lehre groß auf und zog sich über tausend Jahre hinweg. Jeder der bei einer politischen Demonstration religiöse Bilder benutzt baut sein Argument doch auf Religion auf. Der erste Kreuzzug hatte auch weltliche Gründe da Ostrom seine Gebiete verlor, wurde jedoch zum religiösen Akt weil man sich anderswo lieber auf Religion bezog um die Massen zu mobilisieren. > Ein Moslem der Allahu Akbar sagt ist nicht mehr oder weniger extremistisch als ein Christ der Halleluja sagt. Wenn Höcke eine politische Rede hält um den Krieg in der Ukraine zu beenden, die Menge dann lautstark ""lobet den Herrn"" zuruft herrscht in Deutschland aber ein gewaltiger Aufschrei. Es kommt immer auf den Ort und Sachverhalt an imo. Wer Religion in die Politik hineinzieht hat man keine Ausreden mehr.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 Schwerter Lehre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ostrom"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Moslem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Halleluja"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Höcke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ukraine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shifu_shifu,I like learning new things.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""I"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kleinbonum,"> Da stehen Moslems, hören eine Rede die mit dem Islam zu tun haben und Antworten an einigen Stellen Allahu Akbar. Viel normaler kann es nicht werden. Da stehen Moslems in einer Menschenmenge, die auf Plakaten eine radikalislamische Diktatur propagieren, hören Reden, in der die Redner die freiheitlich-demokratische Grundordnung Deutschlands ablehnen und Politiker und Berichterstattung der Lüge bezichtigen, und antworten an einigen Stellen ""Allahu Akbar"" - und du bist der Meinung, viel normaler kann es nicht werden?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschlands"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Affectionate_Tax3468,"Mal davon abgesehen, dass ich selbst im tiefsten Bayern noch nie Menschengruppen laut ""Halleluja"" skandieren hörte.. ""Gott ist der Größte"" hat eine deutlich andere Bedeutung und andere Implikationen als ""Preiset den Herrn"". Aber da müsste man dann darüber diskutieren, ob der Islam inhärent problematischer ist als das reformierte Christentum. Und DAS will ja nun wirklich keiner.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""reformierte Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+darkslide3000,"In Deutschland hör ich aber auch nie jemanden ""Halleluja"" auf einer politischen Demo rufen. Wenn Muslime ""Allahu Akbar"" im Gebet rufen, oder als instinktive Reaktion auf etwas unerwartetes, dann ist das eine Sache. Wenn sie es aber auf einer politischen Demo als Schlachtruf skandieren ist das eine andere. Es ist ein Anzeichen für ein Level von Religiösität in der politischen Einstellung die denke ich in Deutschland nichts verloren hat (von keiner Religion). (Und ja, wenn der Söder überall seine Kreuzchen aufhängt dann ist das das selbe Problem.)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Söder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThoDanII,Nicht wozu sie Allahu Akbar gesagt haben,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Katepuzzilein,> Ein Moslem der Allahu Akbar sagt ist nicht mehr oder weniger extremistisch als ein Christ der Halleluja sagt. Also sehr extremistisch?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Moslem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Halleluja"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Different_Archer_35,"Also wenn ein Christ Halleluja sagt, dann ist das schon ziemlich extrem, wenn es nicht nur ne Floskel oder gar als Art Fluch ausgesprochen wird.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Christ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Halleluja"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+schoener-doener,"Der dürfte doch so niemals Lehrer werden können, oder?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Lehrer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NoExpertAtAll,Sie sind zum Missionieren der Ungläubigen hier. Warum sollten sie wieder weggehen? Läuft doch alles.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ungläubigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Plejad,"Naja, Eroberung ist ohnehin das Ziel, nicht friedliches Zusammenleben. So gesehen, sind sie hier aus ihrer Sicht schon richtig.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Naja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eroberung"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ziel"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EntrepreneurWeak6567,Forderst Du etwa freiwillige Remigration? Dünnes Eis!,2024-04-28,de,de,"[
+      {
+        ""entity"": ""freiwillige Remigration"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Important-Cupcake-29,"Das ist aber nicht deren Ziel. Die wollen Deutschland zu einem Kalifat umbauen, nicht woanders hinziehen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kompergator,"Studieren darf er, wird halt mit dem zweiten Staatsexamen schwierig, denn als Lehrer musst du auf das Grundgesetz schwören.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Lehrer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zweiten Staatsexamen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundgesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GirasoleDE,">Zu der Kundgebung hatte die Gruppe „Muslim Interaktiv“ aufgerufen. Sie gilt nach Einschätzung des Hamburger Verfassungsschutzes als gesichert extremistische Bestrebung und steht ideologisch der islamistischen Hizb ut-Tahrir nah, die ein Kalifat auf Basis der Scharia errichten will. **Die Gruppe ist seit 2003 mit einem Betätigungsverbot belegt.** (meine Hervorhebung)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hamburger Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hizb ut-Tahrir"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Scharia"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2003"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JJE1992,"Wer bitte sagt, dass es toleriert und nicht verfolgt wird? Der Verfassungsschutz agiert längst gegen die islamistische Gruppe, die von diesem als gesichert extremistisch eingestuft wird, es wurden auch schon Demonstrationen dieser Gruppe verboten.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""islamistische Gruppe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demonstrationen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zennofska,"Die sind nicht Links, dann kann man halt nichts machen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""nicht Links"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Feuerraeder,"Der Begriff ""Islamist"" existiert bereits und ist hier der zutreffende. Rechtsextremisten haben sehr unterschiedliche Ziele und sind Islamisten gegenüber feindseelig, daher macht es keinen Sinn diese in eine Gruppe zu werfen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Rechtsextremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BlueHatScience,"Weil man Religion wie Hautfarbe und Herkunftsland behandelt - als eine Art unveräußerliche Eigenschaft, die nichts über den Charakter sagt... statt als Ideologie, die mit moralischen Urteilen und Verboten einhergeht... mithin etwas, über das man reflektieren und das man auch ablegen kann. Einerseits in anbetracht religiöser Verfolgung nachvollziehbar - andererseits spielt man natürlich genau denen in die Hände, für die Religion wirklich unveräußerlich und identitätsbestimmend ist - den Fundamentalisten.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hautfarbe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Herkunftsland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Charakter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ideologie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""moralischen Urteilen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verboten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""religiöser Verfolgung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fundamentalisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Der_Rhodenklotz,"Das stimmt einfach nicht. Die religöse Rechte ist is überall gleich bekloppt, egal ob Hindus, Juden, Christen oder Muslime. Im mittleren Osten und Nordafrika gibt es halt wenige Gegenangebote und das ist oft die einzige Möglichkeit sich irgendwie zu organisierten. An diesen Zustände ist der ""Westen"" halt auch nicht ganz unschuldig.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""religiöse Rechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hindus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Juden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mittleren Osten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nordafrika"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Westen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+fforw,"> Es ist jetzt irgendwie nicht überraschend, dass sich hier genau die Tendenzen abbilden, vor denen schon seit Jahren gewarnt wurde. Nein, der Islam ist nicht wie das Christentum, sondern ist anders als dieses noch politisch höchst relevant und dessen Gläubige organisieren sich durchaus auf Arten die einer liberalen Demokratie sehr schädlich sind. Es gibt 5.5 Millionen Muslime in Deutschland, so eine Demo zieht 1100? 0.01%? Das sind ""Tendenzen""?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_fedora_the_explora_,"> Trotzdem muss man das bis zu einem gewissen Punkt aushalten, Nö, wieso? Man muss sich grundsätzlich erstmal garnicht von irgendwelchen Extremisten bieten lassen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""garnicht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LateDefuse,natürlich gibt’s wieder so einen :gesicht_mit_freudentränen:,2024-04-28,de,de,"[
+      {
+        ""entity"": ""natürlich"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gesicht_mit_freudentränen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+round_reindeer,">Und ja, auch gemäßigte Muslime müssen sich diesen Vorwurf gefallen lassen, denn es ist ihre Religion. Müssen gemässigte Christen es sich auch gefallen lassen, wenn ihnen die Unterdrückung von Frauen und Queeren Menschen in Afrika oder bei Fundamentalisten in den USA vorgeworfen wird?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Queeren Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Afrika"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fundamentalisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ilphfein,"> Solang Politiker in Deutschland aus diplomatischen Gründen leugnen, dass Israel an einem Genozid an Muslimen arbeitet, werden die Muslime in Deutschland sich verarscht fühlen und werden zum Extremismus getrieben. Wieviele Tote gibt es nochmal in Gaza? Seit wann ist da Krieg? Und jetzt nehmen wir Operation Reinhard unter den Nazis: 14k Tote pro Tag. Und Israel hat die militärische Macht deutlich mehr Menschen zu töten, es ist nicht so, dass sie wollten aber nicht können. Und das sich die Hamas hinter den Zivilisten versteckt (was ein Kriegsverbrechen ist), wird natürlich auch gekonnt ignoriert.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Israel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gaza"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Operation Reinhard"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nazi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Israel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hamas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zivilisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+schuhuEule,Hast einen Link zum ndr Video? Konnte adhock nichts finden,2024-04-28,de,de,"[
+      {
+        ""entity"": ""ndr Video"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Swarlsonegger,"> Und was war es für eine Gruppe? Zum Großteil junge Männer - solche, wo man das Bahnabteil definitiv wechselt, wenn sie in einer Gruppe auftauchen Naja klar wer denn sonst? Die alten aus dieser community gibt es ""noch"" nicht und die frauen haben keine erlaubnis für solche aktivitäten",2024-04-28,de,de,"[
+      {
+        ""entity"": ""junge Männer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""community"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lenni-Da-Vinci,"Ich will ja jetzt nicht ablenken oder die Meinungen von diesen bekloppten unterstützen, aber die anfänglichen Demos gegen die AFD wurden auch von der Antifa organisiert.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Antifa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""AFD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SeniorePlatypus,"Demonstrationen haben keine rechtlichen Hürden beim Inhalt. Wenn die Inhalte nicht justiziabel sind und es im voraus oder vor Ort zu verhaftungen kommt muss eine Demonstration erlaubt werden. Alles andere wäre einer freien, rechtsstaatlichen Demokratie auch nicht würdig. Ich hoffe nur, dass der Staat und Verfassungsschutz dabei war und sehr genau hingesehen hat.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Demonstrationen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Inhalt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""justiziabel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demonstration"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""freien, rechtsstaatlichen Demokratie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Staat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vxrz_,"Sehr schwierig…. Ich denke, das Demonstrieren sollte schon erlaubt sein, grundsätzlich dürfen die sich das vma auch in ihren Köpfen „wünschen“. Dem muss natürlich gekonnt, scharf und entschieden entgegengetreten werden, für eine tolerante, offene Gesellschaft. Aufklärung, Aufklärung, Aufklärung. Aber wir wollen eben auch keine thought police. Aber, sobald das von der Idee, auch nur den Hauch einer konkreten Handlung annimmt, sollten die Personen gnadenlos ausgewiesen werden, sofern nicht Staatsbürger, ohne Rücksicht auf nix. Wenn doppelte Staatsbürgerschaft, dann die hiesige verlieren und abschieben. Da wo beides nicht möglich, müssen dann die Strukturen offengelegt und aufgebrochen werden unter Zwang, Auflagen, Maßregeln. Aber das bloße demonstrieren… ich will halt lieber wissen, wenn Leute so einen abartigen Dreck glauben. Gilt aber natürlich auch für den Schwurbler-Kaffeesatz, Faschos und die Wahnhaften der Christus Sekte.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Demonstrieren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aufklärung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""thought police"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Staatsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""doppelte Staatsbürgerschaft"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Strukturen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwurbler-Kaffeesatz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Faschos"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Christus Sekte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+LunaIsStoopid,"Gesichert extremistischen Gruppen wird regelmäßig das Demonstrieren verboten. Ich kenne mich jetzt in dem Fall nicht aus und da ist das Landesrecht auch unterschiedlich, aber aus meinen Demozeiten in Thüringen (da ging’s um Neonazis) kenne ich das so, dass die Demos dann unter einem Vorwand von ständig wechselnden Leuten, die keine bekannten extremistischen Verbindungen haben, angemeldet werden. Defacto organisiert wurde es meist von hochrangigen bekannten Neonazis, aber angemeldet von Horst-Dieter, den niemand kennt und der erst seit neustem aktiv bei den Neonazi ist. Kann mir also gut vorstellen, dass das bei solchen Sachen ähnlich gemacht wird. Es gilt halt in der Regel, dass man nur unter ausreichender Begründung (Demos von der Person eskalieren regelmäßig, bekannter Extremist usw.) Demos verbieten darf und ein (vorerst) unbeschriebenes Blatt erstmal alle Demos anmelden darf.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Thüringen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Neonazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Horst-Dieter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+superINEK,Wie kann man etwas so einfaches falsch verstehen?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Wie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""etwas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shifu_shifu,I enjoy playing video games.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""video games"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+punnotfound,Für 1000 Leute lohnt sich das nicht...,2024-04-28,de,de,"[
+      {
+        ""entity"": ""1000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FunEnd,"Das Problem ist mMn halt, dass gerade islamistischer Extremismus in der breiten scheinbar moderaten Bevölkerung halt schon irgendwie stille Zustimmung hat. Das sind nicht nur ein paar, die man dann einfach mit dem V-Schutz beobachten kann und dann wird das schon. Wir müssen uns langsam überlegen wie wir damit strategisch umgehen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""islamistischer Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""breiten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""V-Schutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schootingstarr,Ist die Forderung nach dem Kalifat nicht schon gesetzeswidrig?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+EntrepreneurWeak6567,"Bzgl. dem schnellen Eingreifen kann ich diese Runde empfehlen: [ 10 Jahre wird nur beobachtet. Wir sind auf dem IS Auge sozusagen blind, meiner Meinung nach.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""IS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Gastaotor,"Danke, in meinem Browser wird alles von Axel Springer geblockt, dank uBlock-Filter-Liste:",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Axel Springer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""uBlock-Filter-Liste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MyPigWhistles,"Menschenrechte, Bildung, Diversität und Demokratie.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Menschenrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bildung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Diversität"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BavarianBarbarian_,"Auflösung für die Frage ""was ist die menschenverachtendste Regierungsform, die momentan noch praktiziert wird?""",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Auflösung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frage"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""menschenverachtendste Regierungsform"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+-Machbar-,"Du hast keine Ahnung was Rechtsstaat in einer Demokratie bedeutet. Geh nach Russland, da fühlst du dich wohler.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SiofraRiver,In Anbetracht des faschistischen Terrors und der faschistischen Umsturzversuche hierzulande eine ziemlich lächerliche Aussage.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Anbetracht"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""faschistischen Terrors"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""faschistischen Umsturzversuche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""hierzulande"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ziemlich lächerliche Aussage"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+munchmills,"Nice try, russian bot.",2024-04-28,de,en,"[
+      {
+        ""entity"": ""russian bot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Insane_Unicorn,"Nicht möglich, sie haben sich nicht auf die Straße geklebt oder einen Minister als Pimmel bezeichnet",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nicht möglich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straße"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Minister"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kellerlanplayer,"§18 GG konsequent anwenden und nicht so streng auslegen wie bisher. Notfalls eben anpassen, damit das Verfassungsgericht nicht wie jetzt die Handhabe hat, es quasi unanwendbar zu machen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Verfassungsgericht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""§18 GG"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Krambambulist,"Würdest du sagen, dass wenn die Regierung Gelder für Initiativen gegen Rechtsextremismus ausgibt, diese dann gegen islamistische Gruppierungen wie ""Muslim Interaktiv"" eingesetzt werden?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gelder"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Initiativen gegen Rechtsextremismus"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""islamistische Gruppierungen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Krambambulist,"Würdest du sagen, dass wenn die Regierung Gelder für Initiativen gegen Rechtsextremismus ausgibt, diese dann gegen islamistische Gruppierungen wie ""Muslim Interaktiv"" eingesetzt werden?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gelder"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Initiativen gegen Rechtsextremismus"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamistische Gruppierungen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Krambambulist,"Würdest du sagen, dass wenn die Regierung Gelder für Initiativen gegen Rechtsextremismus ausgibt, diese dann gegen islamistische Gruppierungen wie ""Muslim Interaktiv"" eingesetzt werden?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gelder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Initiativen gegen Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Islamistische Gruppierungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+bedbooster,"Ich kenne Moslems, die aber so was von kompatibel mit ""unserer"" Lebensart sind. Welche sind da deutscher als ich.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutscher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BlueHatScience,"Und das ist auch genau mein Problem mit Identitätspolitik - wenn man nicht mehr die Rechte von einzelnen (z.B. eine Religion auszuüben oder auch nicht) in den Fokus nimmt, sondern die von Gruppen, zumal ideologisch identifizierten Gruppen - dann bestärkt man auch die normativen Zwänge dieser Gruppen, und hilft, die Stimmen der Nonkonformisten in diesen Gruppen zu unterdrücken. Die wirklich Schutzbedürftigen werden damit ""ihren"" Gruppen ausgeliefert.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Identitätspolitik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gruppen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nonkonformisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schutzbedürftigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+DrHeywoodRFloyd,"Kann man denn so einfach aus dem Islam austreten, wie bei anderen (christlichen) Kirchen?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""christlichen Kirchen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kompergator,"Für rückständige Menschen ohne Kapazität zum eigenen Denken sind Werte wie Menschenrechte für ALLE nun mal Diktatur, ist doch klar.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Werte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschenrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+huskergirl-86,"> in Form von Gehenmaßnahmen Freud'scher Verschreiber? Ich glaube, eine ""Gehen!""-Maßnahme (im Sinne von: die ""dürfen"" gehen) der Regierung hätte sogar die Opposition unterstützt. ;)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Freud"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Opposition"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Slow_Fish2601,"Ich würde nicht jeden Muslim in den gleichen Topf mit Islamisten werden. Es kommt nichts gutes dabei heraus, wenn gemäßigte Menschen mit Extremisten gleichgesetzt werden. Mag sein dass Du mit Religion Nichts angefangen kannst, aber das bedeutet nicht dass jeder religiöse Mensch potenziell Gefährder ist.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslim"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""gemäßigte Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""religiöse Mensch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kiminho,Naja für den Umgang problematische Flüchtlinge gibt es vermeintlich(!) einfache Lösungen. Deutsche Staatsbürger kannst du halt nicht einfach abschieben. Da müsste man wieder über Integration sprechen. Das macht man jetzt bald seit 40 Jahren allerdings ohne große Fortschritte und deswegen hat da keine Partei Bock drauf. Wobei ich garnicht weiß ob Integration überhaupt noch der richtige Begriff ist. Viele von diesen Islamisten sind in zweiter evtl sogar dritter Generation. Deren Eltern waren in vielen Fällen nicht annähernd so radikal. Es ist mittlerweile kein Einwanderungsproblem sondern eher ein Pädagogisches.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutsche Staatsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Integration"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""40 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""zweiter evtl sogar dritter Generation"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Einwanderungsproblem"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Pädagogisches"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SiofraRiver,"""Religionen sind alle überflüssig, aber während das Christentum sich scheinbar sowieso langsam selbst abschafft"" In Uganda haben Fundichristen aus den USA mit Erfolg dafür lobbyiert, dass homosexuelle Handlungen mit dem Tod bestraft werden können.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Religionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Uganda"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fundichristen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""homosexuelle Handlungen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tomahawkist,"das war bis zur hälfte ein echt guter beitrag, aber dann wurds sehr r/atheism",2024-04-28,de,de,"[
+      {
+        ""entity"": ""r/atheism"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GoldenMic,"Das Christentum schafft sich nicht selber ab. In Deutschland darf sich kaum einer mehr erlauben als die katholische Kirche, trotz der Mitgliederzahlen. Dann schaust zudem mal in die USA, was da alles unter dem Sammelbegriff Christentum läuft und stellst fest das du dir nur an den Kopf fassen kannst warum es gefühlt links und rechts solche Unmengen an fanatischen ""Idioten"" gibt. Möchte nicht sagen das eins schlimmer ist als das andere, finde beides arg bedenklich.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katholische Kirche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""links"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rechts"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sephris,"So geil, wie die nebenbei dann auch noch ein Kalifat fordern. Ist auch nur ein ganz ganz kleines Kalifat, also gar nicht so gefährlich. Aber da ja Springer darüber berichtet, ist es automatisch falsch und doof. ^(/s)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Springer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+lost123467,Im Kontext einer islamistischen Demo kann es schon als Schlachtruf verstanden werden.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""islamistischen Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Plenty_Award_4545,"Es braucht halt mal ein politisches Korrektiv gegenüber falsch verstandener Toleranz, speziell beim Thema Islam. Und zwar ohne das alle vernünftigen Moslems verärgert oder in Sippenhaft genommen werden.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""politische Korrektiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Toleranz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typohnename,"Das kommt drauf an was du als ""Rechtsextrem"" empfindest, deine beste Chance in dem Fall wäre wohl die Union AfD wäre die schlechteste Wahl btw da die garantiert kein Interesse haben werden überhaupt irgendwas daran zu verbessern Radikale Islamisten die durch die Straßen laufen und den Umsturz fordern sind schließlich genau das was sie wollen um ihren anderen Bullshit durch zu drücken",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Radikale Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ilphfein,"Derzeit spricht sich BSW dagegen aus, aber die haben die Russlandnähe. CDU ist vmtl auch eher dagegen - vor allem wenn nen konservativer Flügel an die Macht kommt, aber ... ist halt CDU Stillstand. FDP geht es nur ums Geld ihres Klientels, die kriegen aber evt nichtmal 5%. Linke und Grüne kannst du was das Thema angeht vergeßen. SPD würde vmtl sowas mittragen als Koalitionspartner. Ich würd schauen ne Koaltion aus irgendwas aus FDP/CDU/SPD/BSW zu kriegen mit Mehrheit für CDU/BSW über den anderen (also CDU > SPD und BSW > FDP). Also wenn es nur dieses eine Thema gäbe.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""BSW"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Russlandnähe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""FDP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Klientels"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grüne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+immxz,Schnell auf AfD Niveau? So weit muss man nicht nach rechts rutschen - reicht schon cdu und csu.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""cdu"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""csu"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dabrush,"Die Sache mit den Flaggen wird oft ein wenig falsch dargestellt. Es wurde die Darstellung von allen Flaggen mit politischen, ethnischen oder rassistischen Hintergründen auf öffentlichem Raum verboten. Das trifft eine Gadsden Flag oder Palästinenserflagge theoretisch genauso wie die Regenbogenflagge. Ob es dann wirklich auch so durchgesetzt wird ist natürlich eine andere Frage.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Gadsden Flag"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Palästinenserflagge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regenbogenflagge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Itakie,"Die sind halt zurzeit da angekommen wo viele Christen in Deutschland vor/während des Nazireichs waren. Leute wie Kardinal von Galen setzen sich auch dafür ein deutsches Leben zu schützen und Menschen mit Behinderungen nicht zu töten (weswegen die Nazis den Holocaust nicht mehr öffentlich präsentierten). Mit Juden könnte man im Zweifel noch zusammenleben. Aber Kommunisten welche wie der Nationalsozialismus der Kirche die Stellung streitig machen sollte man am besten direkt beseitigen. Viele haben und hatten einen blinden Fleck sobald man sich selbst ""bedroht"" fühlt oder seine Werte in Frage gestellt werden. Am Ende würde es denen genauso wie es von Galen bei Sieg Hitlers ergangen wäre und von den anti-liberalen Kräften ausgeschaltet werden. Für die geht man in der Freund/Feind Unterteilung eben nicht weit genug.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kardinal von Galen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nazireichs"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschen mit Behinderungen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Holocaust"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Juden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommunisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nationalsozialismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kirche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hitlers"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""anti-liberalen Kräften"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Reis_aus_Indien,"Die Einstellung findest du auch bei ""Biodeutschen"". Konservativ sein ist kacke. In jeder Bevölkerungsgruppe gibt es Konservative, speziell in sozial prekären Millieus. Wenn wir daran scheitern, junge Migranten vernünftig zu integrieren, z.B. durch fehlende Deutschkurse, kaum Bildungsmöglichkeiten, etc., natürlich werden die dann Konservativ. Dasselbe ist bei vielen Spätaussiedlern der Fall, nur ist es schwieriger, die rassistisch zu diskriminieren, weil die ja ""Biodeutsch"" sind - obwohl sie in einem anderen Kulturkreis aufgewachsen sind. Ich kenne persönlich viele Kinder von Spätaussiedlern - die Anzahl von deren Eltern, die die AfD unterstützen, ist wirklich beunruhigend. Das soll jetzt nicht relativieren, was da in Hamburg abgeht, das ist kacke. Aber es ist eben auch ein Symptom von Abschottung.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Biodeutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Konservativ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Migranten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spätaussiedlern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ratherinStarfleet,"Ich checke es nicht, warum ""liberale"" sich freuen, wenn ein Council mehrheitlich einer Religion angehört",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""liberale"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Council"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BroSchrednei,"hä? Das größte Glück/Pflicht Elternteil zu werden ist eine stinknormale Sicht auf der ganzen Welt. Wenn das schon Extremismus in deinen Augen ist, dann haben absolut garnichts zu befürchten.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Elternteil"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Welt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"> Eine ehemalige türkische Arbeitskollegin recht offen, trägt kein Kopftuch, aber zwischen den Zeilen merkte man schon, dass da sehr konservative Ansätze vorhanden waren. Hier im Video sehe ich genau zwei Frauen dort, die auch beide kein Kopftuch tragen:",2024-04-28,de,de,"[
+      {
+        ""entity"": ""ehemalige türkische Arbeitskollegin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kopftuch"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Video"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zwei Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"> Sie meinte mal, das größte Glück/Pflicht einer Frau sei es, Mutter zu werden Meine Erfahrung als Vater ist, dass es das größte Glück ist, Vater zu sein, und meine Frau es anscheinend sogar noch mehr genießt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mutter"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Vater"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Omoplataci,Die grauen Wölfe sehen sich als laizistisch und kontra zu den Konservativen. Irgendwas passt da nicht.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Die grauen Wölfe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Konservativen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dragnod,Wohin willst du deutsche Staatsbürger genau abschieben?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutsche Staatsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Neonbunt,"Weil gegen den einen Extremismus vorzugehen von manchen Seiten als Rassismus ausgelegt wird, und das möchte sich keiner vorwerfen lassen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""keiner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+piotr289,"Das Problem ist ja, dass dadurch, dass solche Aktionen überhaupt zugelassen werden, man den Rechten in die Hände spielt. So eine Veranstaltung lässt sich prima ausnutzen, um auf Wählerfang zu gehen.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Rechten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Veranstaltung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählerfang"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OTee_D,"Mal abgesehen davon, dass Dein Statement ein wenig nach ""Whataboutism"" riecht: Wenn Du das als reines ""gleicher Maßstab für alle"" meinst: Dann hast Du Recht, sollte ebenso aufgelöst und am besten die Rädelsführer beider Gruppen zusammen in U-Haft.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Dein Statement"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Whataboutism"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rädelsführer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""beider Gruppen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""U-Haft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGrach,">Wenn 1100 Neonazis / NPDler eine Demonstration auf offener Straße durchführen wollten / würden, auf deren Schilder dann Sprüche wie „das vierte Reich ist die Lösung“ oder ähnliches stünde, dann würde diese Demonstration verboten oder sofort aufgelöst Nö. Solange es keine Volksverhetzung und/oder Verwendung von Zeichen verbotener Organisationen gibt wird das nicht aufgelöst. ""Das vierte Reich ist die Lösung"" fällt meines Wissens nach nicht drunter. Gibt doch auch genug Naziaufmärsche die krasseres Zeug machen und nicht aufgelöst werden. Man denke an den dritten Weg und ihre drei Puppen mit roter Farbe. >Warum? Was zum Teufel läuft hier schief? Wieso ist der eine ekelhafte Extremismus verpönter als der andere ekelhafte Extremismus? Islamismus ist bei weitem verpönter, nur mal so (siehe Wahlergebnisse von rechtsextremen Parteien vs islamistischen Parteien)",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Neonazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""NPDler"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demonstration"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vierte Reich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dritten Weg"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+lurchenmann,Sicher Ethik und Geschichte,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Sicher"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ethik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geschichte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shifu_shifu,My favorite movie is Inception.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""Inception"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+JJE1992,"Ich mein, auf Lehramt studieren kann jeder, da gibts keine Prüfung vorher, wie man zur freiheitlich-demokratischen Grundordnung steht. Wenn er tatsächlich Lehrer an einer deutschen Schule werden will, wird das schon schwieriger, da die Gruppe vom Verfassungsschutz als Tarnorganisation einer verbotenen extremistischen Gruppe und als gesichert extremistisch eingestuft wird. Somit dürfte recht gesichert sein, dass dieser Influencer vom Verfassungsschutz beobachtet wird. Und er dürfte also recht sicher nie an einer deutschen Schule angestellt werden.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""extremistischen Gruppe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Influencer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutschen Schule"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ASM-One,"Nö, machen sie ja bei vielen anderen Dingen auch. Die Macht der Gewohnheit.",2024-05-03,de,de,"[
+      {
+        ""entity"": ""Nö"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gewohnheit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+itsthecoop,"Oder halt einfach die unzähligen existierenden, islamisch oder gar islamistisch geprägten Länder auf der Welt. (Ist ja nicht so, als wäre das eine Religion, deren AnhängerInnen jetzt darum kämpfen müssten, diese *irgendwo* in grösserem Umfang ausleben zu können. Sondern diese Länder bestehen doch)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Länder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Philmriss,"Hey hey, nix gegen Isnogud",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Isnogud"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Metalmind123,"Mit der neuen Gesetzesreform der Ampel, ja! Wenn die Person identifiziert wird, müsste rechtlich die Einbürgerung verweigert werden. Wenn die innerhalb der letzten 10 Jahre eingebürgert wurden, kann die Staatsbürgerschaft wieder entzogen werden, sofern deren ursprüngliche noch weiterbesteht, wie etwa bei gebürtigen Iranern. Wenn's nicht gemacht wird, liegt's definitiv nicht an den Grünen/der Ampel, denen haben wir die Verschärfung zu verdanken.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ampel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Einbürgerung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsbürgerschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iranern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,office fanatical tap selective entertain reach ancient person dolls snobbish *This post was mass deleted and anonymized with [Redact](,2024-04-28,de,en,"[
+      {
+        ""entity"": ""ancient person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Vau8,Hast du irgendeinen Pass gesehen?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Pass"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Abject-Investment-42,"Das sind die Fusssoldaten, für die gilt bei jeder radikalen Bewegung beim Rekrutieren: je ignoranter desto besser. Die sollen nur loyal sein und Freude am Brüllen, Einschüchtern und ggf. Prügeln haben.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Fusssoldaten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rekrutieren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+joergboehme,Deutschland heute ist ein säkulärer Staat. Was du fordest nennt sich Laizismus.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Laizismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PrimAhnProper998,"Kommt drauf an. ""Die Moslems sind doch alle kriminell"" wäre ein Vorurteil ""Die Moslems können sich alles erlauben, die können auf offener Straße die Vernichtung Deutschlands und die Errichtung eines Kalifats fordern- und nichts passiert"" wäre kein Vorurteil. Solange der zweite Punkt zutrifft, seh ich nicht wie die Vorurteile wie im ersten Beispiel effektiv bekämpft werden können.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschlands"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifats"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+round_reindeer,"Richtig Klimaaktivismus oder Kalifat wo ist da schon der Unterschied? Solche dermassen bescheuerte Kommentare wie dieser hier führen dazu, dass der politische Diskurs verroht. Wenn so getan wird, als wäre das blockieren einer Strasse für Klimaschutz vergleichbar mit dem Terrorismus der RAF und die Forderung nach mehr Klimaschutz vergleichbar mit der nach einem Kalifat oder einer faschistischen Diktatur.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Klimaaktivismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""politische Diskurs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Strasse"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klimaschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Terrorismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""RAF"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Forderung nach mehr Klimaschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""faschistischen Diktatur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vonWitzleben,"Oh, gute Frage. Auch ziemlich schwierig, weil der Übergang zwischen religiösem und allgemeinem Brauchtum fließend ist, sodass oft unreligiöse Leute technisch gesehen religiöse Bräuche befolgen. Weihnachten ist ein Extrembeispiel, aber bei meinen Eltern gibt’s beispielsweise schon immer an Karfreitag Fisch, obwohl der letzte Kirchenbesuch sich quasi immer mit der letzten Beerdigung das Datum teilt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Weihnachten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Karfreitag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""meinen Eltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vonWitzleben,"Alle Religionen sind eine Form der Ideologie und Ideologien gibt es in besser und in schlechter, je nachdem, welche Wirkung sie auf die Menschen haben. Ich habe auch für das Christentum wenig übrig, aber muss ihm zugute halten, dass es sich im Verlauf der Jahrhunderte auf eine Art und Weise gewandelt hat, die ihm eine Koexistenz mit anderen, in meinen Augen wichtigeren Ideologien wie dem Liberalismus ermöglichen. Vom Islam kann man das nicht behaupten, wenn man sich die Tendenz mehrheitlich muslimischer Staaten anschaut, illiberale Theokratien hervorzubringen. > Tatsächlich finde ich den durchschnittlichen Moslem *deutlich* netter und friedlicher als die meisten Christen etc, bis man auf bestimmte Kernpunkte trifft (Frauen/LGBT rechte). Diesen Punkt finde ich aufrichtig absurd. Zum einen hat niemand was über das Individuum gesagt, zum anderen kannst du mit dieser Argumentation jede Bevölkerungsgruppe gegen alles verteidigen: > Tatsächlich finde ich den durchschnittlichen Nazi *deutlich* netter und friedlicher als die meisten Demokraten etc, bis man auf bestimmte Kernpunkte trifft (Juden/Schwarze/Sinti+Roma/LGBTQ). Du wischst religiös bedingte Frauenfeindlichkeit und Hass auf andere Sexualitäten beiseite, so als sei das nichts, was das Individuum diskreditiert. Bizarr!",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Liberalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Moslem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nazi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokraten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Juden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schwarze"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sinti+Roma"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""LGBTQ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+round_reindeer,"Ich glaube die Rohingya fanden den Buddhismus in Myanmar jetzt wahrscheinlich auch nicht so super positiv... Das Problem ist schlussendlich nicht welcher Religion jemand angehört sondern, ob die Gesellschaft drumherum für Extremismus anfällig ist.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Rohingya"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Buddhismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Myanmar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WriterwithoutIdeas,"Eh, die moderne Leistungsgesellschaft, also die, die uns unseren Wohlstand beschert hat, wie auch die generelle Korruptionsresistenz der westlichen Welt sind zu einem nicht unwesentlichen Grad auf die protestantische Glaubensethik zurückzuführen, insofern ist da schon viel positives dabei. Der Fakt, dass die staatlichen Fundamente gut funktionieren ist dann auch ggf. etwas wichtiger, als die Frage ob man im persönlichen Kontakt der netteste ist. Man kann hier aber auch anmerken, dass diese ehemals protestantischen Werte sich gut ins allgemeine kulturelle Fundament integriert haben und damit ihre religiösen Wurzeln grds. hinter sich gelassen haben.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Leistungsgesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""westlichen Welt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""protestantische Glaubensethik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""staatlichen Fundamente"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kulturelle Fundament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+jrriojase,"Darf ich fragen ob die Christen, die du kennst, nur aus Deutschland bzw. Europa kommen oder auch aus anderen Ländern/Kontinenten?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""anderen Ländern/Kontinenten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Coreshine,Ganz sicher nicht nur seine,2024-04-29,de,de,"[
+      {
+        ""entity"": ""Ganz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sicher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheGermanPanzerClock,"Staatsbürgerschaft entziehen. Dazu muss nur Artikel 16 der Verfassung für diese Leute außer Kraft gesetzt werden. Das ginge nur, natürlich, wenn sie eine zweite Staatsbürgerschaft hätten. Sehr gefährlich, ich weiß, aber es geht.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Artikel 16"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verfassung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsbürgerschaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zweite Staatsbürgerschaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vanZuider,Die Forderung war > Abschieben und/oder in den Knast stecken. Mindestens eine von den beiden Lösungen ist auch für deutsche Staatsbürger möglich.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutsche Staatsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EmperorApo,"Nein nein, niemals. Ganz sicher nicht.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nein"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""niemals"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ganz sicher nicht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Wassertopf,Warum hat es denn der Leopard in diese Redewendung geschafft? Das ist doch die umgänglichste aller großen Raubkatzen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Leopard"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Redewendung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FifaFrancesco,"> die offen die Hamas anfeuern Ich glaube du hast da sehr sehr seltsame Quellen. Kaum jemand feuert Hamas an, die Leute wollen hauptsächlich, dass es eine Waffenruhe gibt. Das ist nicht Pro-Hamas.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Hamas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Waffenruhe"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KeinTollerNick,"Mir sagte mal eine dazu: ""Man kann auch gegen Unrecht sein, wenn die Unterdrückten einen selbst nicht mögen."" Weiß ja nicht, wenn die ""Unterdrückten"" mir den Kopf abschneiden wollen, weil ich nicht in deren Weltbild passe, würde ich es mir zweimal überlegen, ob ich jene Menschen unterstützen würde. Aber, wenn man nur Buzzwords kennt und nebenbei gegen den Kapitalismus hetzen kann, dabei aber die freiheitlichen Vorzüge des Westen genießt, lässt es sich gut demonstrieren.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unterdrückten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kopf"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Buzzwords"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kapitalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Westen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wassertopf,"Ich weiß, an ein paar ausgewählten deutschen Unis haben wir auch solche Leute, aber verglichen mit fast allen anderen westlichen Ländern ist das Gottseidank kein großes Phänomen bei uns.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutschen Unis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""westlichen Ländern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+UESPA_Sputnik,In den Video unten im Artikel sind ein paar Frauen an Rand.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Video"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Artikel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShaunDark,Für im Land aufgewachsene Islamisten auf jeden Fall eine korrekte Aussage.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AltenaiveSchreiwaise,"Werden Sie denn hier festgehalten? Sie können Doch gehen, wenn es Ihnen hier nicht gefällt. Mit dem deutschen Pass in der Tasche sollte das doch recht einfach sein.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutschen Pass"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cassiopei,"Ich habe eben, da es mich auch interessiert, danach noch einmal gesucht, aber in den Dokumenten nur die Drucksache an sich gefunden. Das letzte, ausführliche Plenarprotokoll scheint vom Februar zu sein. Ich paste hier mal den Antrag und verweise auf die Suchmaschine der Stadt HH, da das verlinken von PDFs gefühlt den Post blockt. **Antrag** der Abgeordneten Dennis Thering, Dennis Gladiator, Ralf Niedmers, Richard Seelmaecker, André Trepoll (CDU) und Fraktion **Betr.: „Muslim Interaktiv“ muss verboten werden!** Am 4. April 2024 trafen sich erneut Hunderte Mitglieder und Anhänger der umstrittenen Gruppierung „Muslim Interaktiv“ im „Elite-Eventhouse“ in Allermöhe. Sie lehnen Israel zutiefst ab und würden in Deutschland am liebsten die Scharia und ein Kalifat einführen. In ihrer Ausgabe vom 8. April 2024 berichtet die „Bild“ dazu: „Der Hamburger Verfassungsschutz beobachtet die Treffen und warnt: Derzeit werde dort vor allem das Thema Nahost-Konflikt genutzt, um Kontakte zu neuen jungen Mitgliedern zu suchen und diese anzuwerben. Verfassungsschutz-Chef Torsten Voß (58) zu BILD: „„Muslim Interaktiv“ ist gefährlich, weil durch solche Veranstaltungen auf Sicht die Zahl der Islamisten und Scharia-Extremisten ansteigen kann.“ Im Prinzip ist „Muslim Interaktiv“ eine auf jung und cool getrimmte Nachfolgeorganisation der verbotenen Vereinigung „Hizb ut-Tahrir – Islamische Befreiungsfront“. Erfahrene Insider aus den Sicherheitsbehörden formulieren es so: „Das sind radikale Pop-Islamisten, die über das Internet junge Menschen ansprechen.“ (…) Das Ziel von „Muslim Interaktiv“ ist die Verbreitung des Islam – und zwar in einer knallharten Variante. Gegen die USA, gegen Israel, gegen Demokratie, gegen Frauen. Und vor allem am Ende mit einem Gottesstaat, in dem sich alles der Religion unterordnet.“ ( Es ist unerträglich und brandgefährlich, dass derartige Treffen, die sich gegen unseren Rechtsstaat und die freiheitlich-demokratische Grundordnung richten, in Hamburg stattfinden. Da „Muslim Interaktiv“ bundesweit tätig ist, liegt die Zuständigkeit für ein Verbotsverfahren beim Bundesinnenministerium. **Die Bürgerschaft möge beschließen: Der Senat wird ersucht,** 1. sich beim Bundesministerium des Innern und für Heimat für die Einleitung eines Verbotsverfahrens gegen „Muslim Interaktiv“ einzusetzen; 2. der Bürgerschaft bis zum 31. Oktober 2024 zu berichten [Quelle](",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Dennis Thering"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dennis Gladiator"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ralf Niedmers"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Richard Seelmaecker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""André Trepoll"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburger Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Torsten Voß"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BILD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hizb ut-Tahrir – Islamische Befreiungsfront"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Israel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gottesstaat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bundesinnenministerium"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bürgerschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Senat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesministerium des Innern und für Heimat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+darkslide3000,"> in jüngerer Zeit lol, ich bin mir ziemlich sicher, dass Allahu Akbar schon viel länger auch ein Schlachtruf ist, wahrscheinlich etwa so lange wie der Islam überhaupt existiert. Der Unterschied ist nur das die meisten Christen heutzutage bei politischen Demos nicht mehr ""Deus Vult!"" skandieren, aber bei denen das Memo irgendwie noch nicht angekommen ist.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skafdir,"Und wenn wir aufhören würden ständig ""Allahu Akbar"" als Erkennungszeichen für Extremisten zu verwenden, dann gäbe es vielleicht auch eine Chance, dass sich die Situation wieder normalisiert und die Extremisten sich andere Erkennungszeichen zulegen. Aber selbst wenn es nicht dazu kommt, ich bleibe mal argumentativ einfach in Europa: Wir würden zumindest dafür sorgen können, dass sich die vielen friedlichen Moslems nicht aus allen möglichen Richtungen angegriffen fühlen. Der durchschnittliche europäische Moslem wird von vielen anderen Europäern als geradezu riskant nah am Terrorismus betrachtet. (Das was du hier als ""Abgrenzungsproblem"" bezeichnest) während sie von Seiten der Extremisten als Verräter angesehen werden und teilweise direkt der Apostasie beschuldigt. Irgendjemand sollte den europäischen Moslems eine Hand reichen und klar und eindeutig dafür stehen, dass Muslime in Europa ein Teil der Gemeinschaft sind. Wenn das nicht von den nicht muslimischen Europäern geschieht, dann sind es genau solche Extremisten wie derjenige der diese Demo veranstaltet hat, die es stattdessen tun. Gerade junge Männer werden, wenn sie sich in ihrer Gesellschaft ausgegrenzt fühlen, die erstbeste Hand greifen, die sich ihnen mit dem Versprechen eines Gemeinschaftsgefühls entgegen streckt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Europäer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Apostasie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""junge Männer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PizzaScout,"Das stimmt, das macht aber den Begriff ""Halleluja"" nicht zum Erkennungsmerkmal eines Extremisten. Viele nicht sehr gläubige Menschen sagen Halleluja wenn sie z.B. Glück in einer brenzligen Situation hatten. Wenn man jetzt Allahu Akbar aber als Erkennungsmerkmal von Extremisten darstellt, nur weil Extremisten das auch sagen, führt das sicherlich zu Spannungen zwischen Moslems und nicht-Moslems in der allgemeinen Gesellschaft.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Halleluja"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nicht-Moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skafdir,Ich verweise nochmal auf meinen letzten Absatz,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzten Absatz"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MonkeySafari79,"Es wurde gerufen, es wurde berichtet.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Es"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gerufen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""berichtet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Freder145,"Was, eine Religion mit einem Kriegsherrn als Propheten ist keine Friedensreligion? Finde jede Religion ist Schmarn, aber immerhin predigt Jesus meistens Nächstenliebe.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kriegsherrn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Propheten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jesus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Ossa1,"Wir wissen alle, was mit den Leuten geschieht, die ""Jehowa"" rufen. (Falls jemand zu jung ist - ist eine Anspielung auf Monthy Python)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Jehowa"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Monthy Python"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PizzaScout,"Trotzdem sollte nicht das ""Allahu Akbar"" an sich kritisiert werden, sondern eben diese Inhalte, wozu sie das gesagt haben.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Assassiiinuss,"Ernsthaft, stell dir mal vor es gäbe eine große Demo in der irgend ein verrückter Prediger einen neuen Kreuzzug vordert und eine riesige Menschenmenge mit ""Halleluja"" antwortet. Ich hätte Todesangst.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Prediger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""EVENT"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hansaundkush,Wenn er keine Vorstrafen hat und bei der Verbeamtung nicht angibt islamist zu sein kann er Lehrer werden,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Lehrer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vorstrafen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verbeamtung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""islamist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Spanholz,An den Spinner hat beim Radikalenerlass keiner gedacht.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Spinner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Radikalenerlass"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ganbaro,"> Remigration Ist ja schon deshalb Quatsch, weil viele Teilnehmenden da sicher in Deutschland geboren sind",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Remigration"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bdsmlover666,"Ein Kalifat ist per Definition nicht auf ein Land beschränkt, sondern im Prinzip die Weltherrschaft bzw. die Herrschaft über alle Muslime.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Entity_not_found,"Dass er studieren darf, finde ich (bis auf die Praktika als Lehrer, die er machen muss), deutlich weniger bedenklich. Besteht der Schwur denn nur daraus, dass man irgendeinen Satz hinunter betet, oder kann man dort aufgrund der Hintergründe bei ihm die Glaubwürdigkeit hinterfragen?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Lehrer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwur"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Philmriss,":nachdenkendes_gesicht: e: ah das Betätigungsverbot bezieht sich auf Hizb ut-Tahrir, nicht die ""Muslim Interaktiv"", die vorher als ""Gruppe"" tituliert wird. Ein Schelm etc",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Hizb ut-Tahrir"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Trappist235,Religiöse vernatiker sind Rechtsextremisten. Das selbe wie christliche extremisten die einen Gottesstaat wollen,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Religiöse vernatiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rechtsextremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""christliche extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gottesstaat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Hobbit9797,Islamismus ist aber eindeutig eine Form von Rechtsextremismus. Der völkische Gedanke wird einfach nur mit Religion ausgetauscht. Tankies und Anarchos sind ja auch gegenseitig durchaus feindlich gesinnt und trotzdem beides linksradikal bis -extrem.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""völkische Gedanke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Tankies"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Anarchos"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""linksradikal"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""extrem"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Trappist235,"Rechtsextremisten und Islamisten arbeiten in einigen Ländern schon eng zusammen gegen Frauenrechte, LGBTQ, Juden und Demokratie. Der Feind meiners Feindes ist mein Freund (fürs erste).",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Rechtsextremisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frauenrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""LGBTQ"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Juden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WriterwithoutIdeas,"Das Christentum wurde hierzulande halt entzahnt, der Islam nicht, aber nur eine dieser Religionen genießt (relative) Narrenfreiheit.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WriterwithoutIdeas,"Frag mal bei muslimischen Jugendlichen nach, wie sie es mit Scharia und Rechtstaat halten. Abgesehen davon, nur weil man nicht auf der Straße steht, heißt das nicht, dass man Sympathien haben kann.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""muslimischen Jugendlichen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Scharia"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtstaat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straße"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sympathien"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ser_Mob,"Bei mir sind das 0,02%.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Bei mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""0,02%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Full-Throat-6128,"Okay, was schlägst du vor?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""schlägst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WriterwithoutIdeas,"Wenn sie Teil der gleichen Kirche sind? Sicherlich, so wie es halt immer ist, wenn man sich einer Gruppe zurechnet, in diesem Fall auch durch Glaubensakt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kirche"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ganbaro,"IMHO ja Wer zB als gemäßigte christliche oder jüdische Person die Kirchensteuer zahlt, finanziert eine große religiöse Organisation mit. Natürlich ist man mitverantwortlich für Dinge, die man direkt und bewusst mitfinanziert",2024-04-28,de,de,"[
+      {
+        ""entity"": ""gemäßigte christliche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jüdische Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kirchensteuer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pubsibaer,Ja sowieso und dass die Kirche ein Club von Pädophilen ist.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kirche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Pädophilen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+xSilverMC,"Für asoziale Christen brauchst du weder den Kontinent noch das Land verlassen, die Pfarrer/Priester/Bischöfe die Kinder missbrauchen und/ider den Missbrauch decken reichen schon aus. Und ja, diese Vorwürfe müssen sich selbst diejenigen gefallen lassen, die nur am Heiligabend in die Kirche gehen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Pfarrer/Priester/Bischöfe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kirche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Heiligabend"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schmigolo,"Ja, indirekt unterstützen sie ja unter anderem die Bibel und das Christliche Dogma, die genau diese ""Werte"" enthalten, also propagieren sie diese Werte auch wenn sie selbst nicht an sie halten.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Bibel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christliche Dogma"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RobbyLee,"In deinem kompletten Beitrag ist nicht ein relevantes Argument. > Wieviele Tote gibt es nochmal in Gaza? Seit wann ist da Krieg? Keine Ahnung. Sag du es mir, und interpretiere es bitte auch, damit man versteht was das mit meiner Aussage zutun hat. > Und jetzt nehmen wir Operation Reinhard unter den Nazis: 14k Tote pro Tag. Ich sehe die Relevanz nicht. > Und Israel hat die militärische Macht deutlich mehr Menschen zu töten, es ist nicht so, dass sie wollten aber nicht können. Das ist wie den Mann, der seine Frau schlägt, zu feiern, weil er die Möglichkeit hätte sie noch viel öfter und viel härter zu schlagen. > Und das sich die Hamas hinter den Zivilisten versteckt (was ein Kriegsverbrechen ist), wird natürlich auch gekonnt ignoriert. Es ist nicht von Relevanz. Diese UN Hilfsarbeiter waren nicht die HAMAS, und trotzdem wurden sie eiskalt vom israelischen Militär ermordet: Das sind auch Kriegsverbrechen. Somit hast du mit deinem Beitrag **nichts** ausgesagt. Vielen Dank für diese Zeitverschwendung.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Gaza"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Krieg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Operation Reinhard"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Israel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""UN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""israelischen Militär"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kompergator,"> Und das sich die Hamas hinter den Zivilisten versteckt (was ein Kriegsverbrechen ist), wird natürlich auch gekonnt ignoriert. Ein Kriegsverbrechen kann aber nicht ein weiteres rechtfertigen. Israel hat ja nun wahrlich die Macht, diese Zivilisten nicht anzugreifen und das lange Spiel zu spielen, die Hamasleitung auf eine Liste zu setzen und X Tage / Monate / Jahre später zu erwischen. Das ist doch sogar eigentlich das Tagesgeschäft des Mossads über viele Jahrzehnte gewesen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Hamas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Israel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zivilisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mossad"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shifu_shifu,I'm learning to play the guitar.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""guitar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"Naja, die 'Alten' wurden von den Peschmerga erschossen, oder sind Politiker in den Emiraten, Katar, Irak etc. pp.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Peschmerga"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Emiraten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Katar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Irak"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+katba67,"Es gibt keine die antifa, also können die auch nichts organisieren.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""antifa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ganbaro,"""Die Antifa"" gibt es nicht im Sinne eines Dachverbandes Die Proteste, auf die du dich beziehst, waren nicht unbedingt von einer Organisation angemeldet, die als extremistisch eingestuft war",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Die Antifa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kompergator,> Ich will ja jetzt nicht ablenken Dann lass es doch. Denn genau das tut dein Kommentar.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""ablenken"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Kommentar"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,> Ich will ja jetzt nicht ablenken Warum dann der Whataboutismus?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Whataboutismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Track-7970,"Es gibt nicht die Antifa. Unter Antifa zählen Dutzende antifaschiste Gruppen. Manche machen ganz normales Öffentlichkeitsarbeit gegen Faschismus wie Demos, Reden, Diskussionen, etc. andere sind extremer und wenden Straftaten an. Das ist keine zentralisierte homogene Gruppe, sondern ein Zusammenspiel aus tausenden Gruppen, vereinen, Aktionen etc.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Antifa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dutzende"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Faschismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Straftaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tausenden Gruppen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cr4ckshooter,">Alles andere wäre einer freien, rechtsstaatlichen Demokratie auch nicht würdig. Die freie, rechtsstaatliche Demokratie verbietet Extremismus doch ganz grundsätzlich?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""freien, rechtsstaatlichen Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremismus"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SeniorePlatypus,Das passiert doch. Die Zahlen an Gefährdern und bekannten Extremisten gehen seit 2016 relativ kontinuierlich runter. Langsam aber immerhin. Die Arbeit muss weiter verfolgt werden. Gegebenenfalls auch mit mehr Ressourcen für diese Arbeit um besser voran zu kommen. Aber ein komplettes umdenken scheint da nicht nötig. Im Gegensatz zum Rechtsextremismus der unsere am stärksten und am langfristigsten wachsende Form von Extremismus ist.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""2016"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+round_reindeer,"Wo siehst du denn bitte Zustimmung für islamistischen Extremismus in der breiten Bevölkerung?? Das ergibt doch schon allein keinen Sinn, weil es in Deutschland keine muslimische Mehrheit gibt? Selbstverständlich ist diese Entwicklung beunruhigend und bedrohlich aber wenn eine Demo von 1000 Menschen in einer Großstadt ein Indiz dafür wäre, dass es eine breite Zustimmung gibt, dann hätten die Coronaleugner 2021/22 tatsächlich die Regierung stürzen müssen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""islamistischen Extremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Coronaleugner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""1000 Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2021/22"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Von sich aus dürfte es nicht gesetzeswidrig sein. Dafür müssten explizite Aufrufe zur Gewalt, terroristische Ziele, verunglimpfung des Staates, Volksverhetzung oder ähnliches stattfinden. Grundsätzlich die Idee eines Kalifats zu unterstützen sollte noch kein Angriff auf die demokratische Grundordnung sein. Genauso wie Reichsbürger mit ihren Königen und Adligen nichts illegales machen, solange sie nicht aktiv das Gesetz der Bundesrepublik Deutschland brechen. Obwohl ihre Ideologie und ihr Ziel mit dem Grundgesetz unvereinbar ist.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Von"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gewalt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""terroristische Ziele"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Staates"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifats"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reichsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Königen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Adligen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesrepublik Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ideologie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundgesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bdsmlover666,">10 Jahre wird nur beobachtet. Wir sind auf dem IS Auge sozusagen blind, meiner Meinung nach. Hier warnt der Außenminister der vereinigten Arabischen Emirate bereits vor 7 Jahren davor, dass der Westen nicht gewillt ist, die Probleme beim Islamismus anzuerkennen und zu bekämpfen. [",2024-04-28,de,de,"[
+      {
+        ""entity"": ""IS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Außenminister"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vereinigten Arabischen Emirate"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Westen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DrHeywoodRFloyd,"Nicht nur auf dem Auge, fürchte ich…",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nicht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Ohne die Gefahr kleinreden zu wollen. Die Zahlen bei PMK - religiös gehen, abgesehen vom Anstieg über alle Gruppen 2023, in Tendenz zurück. Anders als bei Rechtsextremismus wo der Trend klar nach oben geht und das schon seit Jahrzehnten haben wir bei Islamismus seit 2016 einen Rückgang. Wenn einzelne Politiker das übersehen haben ist das natürlich ungut. Und es sind definitiv zu viele um zu entspannen. Da ist echte und substantielle Gefahr. Gerade die Entwicklung bei jüngeren, wie bei Lanz angesprochen, sehe ich auch kritisch. Das könnte bei Eskalation zu massiven Problemen führen. Aber von einem Blinden Auge zu sprechen ist im Ergebnis dann doch einfach falsch. Das Thema wird offensichtlich bearbeitet und das Erfolgreich, wenn auch sehr langsam und ohne baldige Perspektive auf Entspannung. Im Gegensatz zum Rechtsextremismus, wo die Zahlen kontinuierlich eskalieren. Deshalb spricht man dort von einem ""blinden Auge"".",2024-04-28,de,de,"[
+      {
+        ""entity"": ""PMK - religiös"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2023"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""2016"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lanz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jüngeren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eskalation"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Elk-Tamer,"Kontra, Re, Schneider und schwarz oh Beherrscher der Gläubigen!",2024-04-30,de,de,"[
+      {
+        ""entity"": ""Kontra"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Re"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schneider"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schwarz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sephris,"Schöner Ablenkungsversuch. Man könnte auch einfach anerkennen, dass es beide Probleme gibt - und dementsprechend beide Probleme lösbar sind, wenn man sie nur angehen wollte.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Schöner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ablenkungsversuch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AutomaticAir3777,"derartig flache, semi-zynische kommentare machen mich wütend. die aussage von rühe wurde vor gut 25 jahren getätigt. da hat sich niemand träumen lassen, was HEUTE in europa abgeht. ferner geht es hier und im zugrunde liegenden artikel eben genau darum. echt: was stimmt nicht mit dir? morgens beim kacken mal schnell ein paar pavloveske nicht-antworten raus knallen, oder was?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""rühe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""25 jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ganbaro,Cannabis hatten sie auch nicht dabei. Kann man leider nichts machen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DeltaPavonis1,"Nö, aber sollte es halt auch.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nö"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DeltaPavonis1,Ist halt ne Spielart von Rechtsextremismus,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Spielart"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+houseofechoes,"Nö, kommt aber auf das Umfeld an. Im Islam ist es eine Sünde aus der Religion auszutreten. In den meisten muslimischen Ländern wird der Austritt aus der Religion mit der Todesstrafe bestraft. Hierzulande wird man aus der Familie verbannt, sozial ausgegrenzt, geschlagen, bedroht, ist unterschiedlich, kommt auch vor das man in den nahen Osten geschickt wird um sich nur mit der Religion zu beschäftigen",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""muslimischen Ländern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Todesstrafe"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Familie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sozial ausgegrenzt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""geschlagen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bedroht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nahen Osten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MyPigWhistles,"Ich will das in keinster Weise gleichsetzen, aber nur FYI: Du kannst auch aus kirchlicher Sicht nicht aus dem Christentum austreten. Du kannst dem Staat sagen, er soll dich nicht als Katholik/Protestant führen und aufhören, die Kirchensteuer bei dir einzutreiben. Aber ohne Exkommunikation bist du aus kirchlicher Sicht weiterhin ein (schlechter, sündiger) Christ.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Staat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Katholik/Protestant"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kirchensteuer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Exkommunikation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Christ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+oberstmarzipan,"Ja, ich dachte dass ist klar…aber danke fürs klarstellen.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""klar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""klarstellen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+qwertzinator,"Es geht ja um Deutschland, und da stimmt das schon.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+oberstmarzipan,"Konkreter ging es um Deutschland bzw. Europa. Hier kann man schon sagen, dass es sich altersmäßig rauswächst. Aber das geht beim Islam gefühlt eher in die Gegenrichtung. Da sind die jüngeren teilweise die radikaleren.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jüngeren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+munchmills,"Korrekt, denn es dient nur dazu, die Leser aufzuhetzen. Fick Springer.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Springer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+notmuchgoingontoday,"afd ist für mich rechtsextrem. und das ist ja eben das problem, die wollen genau diese situation wie wir sie hier hatten...",2024-04-28,de,de,"[
+      {
+        ""entity"": ""afd"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rechtsextrem"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+KeinTollerNick,"Zwischen ""Schwule nicht mögen bzw nichts mit ihnen zu tun haben wollen"" und ""das Vorgehen gegenüber Schwulen in Polen/Ungarn als Volkshygiene zu bezeichnen"" liegen noch paar Unterschiede. Das Letztere ist für mich AfD-Sprech.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Schwule"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ungarn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Freder145,"Alles gut, wenn es gegen alte weiße Männer oder den ""imperialistischen"" Westen geht.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""alte weiße Männer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""imperialistischen Westen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+KeinTollerNick,Steht im Artikel: >They viewed the power shift and diversity as a symbolic but meaningful rebuke of the Islamophobic rhetoric that was a central theme of then Republican presidential candidate Donald Trump’s campaign.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""They"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamophobic"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Donald Trump"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+KeinTollerNick,"Ich habe nicht von Extremismus gesprochen, sondern von konservativen Werten und Rollenbildern. Also ist es die Pflicht einer Frau Mutter zu werden?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremismus"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""konservativen Werten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rollenbildern"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pflicht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mutter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KeinTollerNick,"Sieht es deine Frau gleichzeitig auch als Pflicht an, Mutter zu werden?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mutter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StehtImWald,"Es ist nicht interessant was jeder individuell für sich möchte, sondern welche Konsequenzen man für das Miteinander daraus zieht. Wählt man zum Beispiel eine Partei die Abtreibung und Verhütung zu beschränken plant, dann führt das eigene Weltbild dazu, dass man anderen eben dieses aufzwingt. An der Stelle ist man dann intolerant. Ich würde das sogar noch weiter führen und sagen dass man auch intolerant ist wenn man seinen Kindern ein zu enges Weltbild anerzieht bzw. durch Druck verschiedenster Art aufzwingt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Abtreibung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verhütung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+KeinTollerNick,"Klingt für mich wie *Konservativ++* >**Die Ideologie der Grauen Wölfe** >Die Ideologie und Gesinnung der türkischen Rechtsextremisten und der Grauen Wölfe stützt sich auf ein Konglomerat verschiedener Diskurse und Grundpfeiler. Hierzu gehören neben rassistischen Positionen auch Sexismus, Homophobie, Antisemitismus und andere Ungleichwertigkeitsvorstellungen sowie Autoritarismus, Führerkult, Gewaltakzeptanz etc. Folgende Elemente sind insbesondere hervorzuheben: >**Nationalismus und ""Idealismus"" (Milliyetçilik ve Ülkücülük)** >Ausgangspunkt der politischen Ideologie der türkischen Rechtsextremisten ist ein sogenannter ""idealistischer Nationalismus"". Dieser beinhaltet einen ausgeprägten Nationalismus und Rassismus gegenüber allen (im ethnischen Sinne) nicht-türkischen Bevölkerungsteilen. **Rassismus** >Auch wenn innerhalb der Grauen Wölfe aus taktischen Gründen eine offene rassistische Position ausgeblendet oder häufig geleugnet wird, bildet der Rassismus einen zentralen Pfeiler der MHP-Ideologie. Er richtet sich vor allem gegen Armenier, Kurden und Juden. Nihal Atsız, ein Vordenker der Grauen Wölfe, hat die wichtigsten Elemente des Turkismus vor mehr als 60 Jahren wie folgt formuliert: ""Ein Türke glaubt an die Überlegenheit der türkischen Rasse, schätzt deren nationale Vergangenheit und ist bereit, sich für die Ideale des Türkentums zu opfern, besonders gegen Moskau [also die damalige, kommunistische Sowjetunion], den erbitterten Feind.""Zur Auflösung der Fußnote[10] Nicht zuletzt zeigt sich der Rassismus von MHP und Grauen Wölfen auch in der kurdenfeindlichen Positionierung, etwa der drohenden Aussage von Alparslan Türkeş: ""Wenn ihr Kurden weiterhin eure primitive Sprache sprecht (…), werdet ihr von den Türken auf die gleiche Weise ausgerottet, wie man schon Georgier, die Armenier und die Griechen [auf türkischem Boden] bis auf die Wurzeln ausgerottet hat.""Zur Auflösung der Fußnote[11] >**Neun-Lichter-Doktrin (Dokuz Işık)** >Im Zentrum der MHP-Politik steht die sogenannte Neun-Lichter-Doktrin von Alparslan Türkeş, in der er übersteigerten, extremen Nationalismus und islamische Frömmigkeit vereinte. Die neun Eckpunkte der MHP-Ideologie sind laut Türkeş: Nationalismus, Idealismus, Ehrgefühl, Wissenschaft, Einheit, Bauernschaft, Freiheit und Selbstständigkeit. Das Wichtigste an der Neun-Lichter-Doktrin ist jedoch weniger ihr Inhalt, sondern vielmehr dass durch sie Türkeş' Autorität als Ideologiestifter begründet und permanent gefestigt wurde. Die Politikwissenschaftler Karl Binswanger und Fethi Sipahioğlu stellen in diesem Sinne fest, dass ""Diktion und Inhalt (…) an Hitlers 'Mein Kampf' erinnern"".Zur Auflösung der Fußnote[12] >**Führerprinzip (Başbuğ)** >Autoritäre Strukturen und unhinterfragbare Gefolgschaft spielen bei Grauen Wölfen wie MHP eine wichtige Rolle. Parteigründer Türkeş wird auch lange nach seinem Tod als ""Führer"" (Başbuğ) verehrt. Sein Foto hängt in allen Lokalitäten der Grauen Wölfe und wird auf Großveranstaltungen gezeigt. Die Biografie von Türkeş ist auf allen Internet-Seiten der Bewegung zu finden. Seine Prinzipien werden von der Anhängerschaft der Grauen Wölfe wie ein Befehl befolgt. >**Islamischer Nationalismus und Türkisch-Islamische Synthese** >Im Laufe der Geschichte der MHP wurde der Islam in verschiedenen Phasen unterschiedlich akzentuiert. Zwar steht ein ""idealistischer"" türkischer Nationalismus im Zentrum der MHP-Ideologie, doch wird dem Islam eine relativ starke Bedeutung zugeschrieben. Die Bezugnahme auf den Islam diente und dient im Rahmen des gesellschaftlichen Diskurses als Gegenpol zum Einfluss säkularer, liberaler und oft pluralistischer Ideen, wie etwa Minderheitenrechte und Gleichstellung. Die MHP hat damit einen aktiven Beitrag dazu geleistet, dass die von Politologen sogenannte ""Türkisch-Islamische Synthese""Zur Auflösung der Fußnote[13] zu einem Kernideologem des türkischen Rechtsnationalismus' wurde. Die zentrale Implikation dieser ""Türkisch-Islamischen Synthese"" ist die Vorstellung der Untrennbarkeit von türkisch-nationalen und islamischen Bestandteilen in der türkischen Geschichte. Zugleich dient die Betonung des Islam durch die MHP dazu, breitere islamisch geprägte Bevölkerungsgruppen stärker beeinflussen und leichter rekrutieren zu können. Dies gilt derzeit nicht allein für die MHP, sondern alle konservativ-nationalistischen Parteien und islamischen Bewegungen in der Türkei. >[Quelle](",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Grauen Wölfe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""türkischen Rechtsextremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nationalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rassismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""MHP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Alparslan Türkeş"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kurden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Türkisch-Islamische Synthese"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Türkei"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+darkslide3000,Die sind sicher nicht alle deutsch. Jene die es sind können in die JVA mit anschließendem Betätigungsverbot für alles wo sie noch jemanden aufhetzen oder beeinflussen können.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""JVA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"Btw, hat Höcke auch Ethik gelehrt?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Höcke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WeeklyRustUser,Ganz schön viel Vertrauen in den deutschen Staat hast du da.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutschen Staat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spamzauberer,Dafür müsste ja erstmal einer die 1 Akte Papier unter den 100en anderen finden wo was über den drin steht.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Akte Papier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+-alphex,"Das steht zu hoffen, allerdings hockt der halt trotzdem in Pädagogik-Vorlesungen und ähnlichem und nutzt das Wissen dann um auf TikTok fürs Kalifat zu werben. Das ist auch irgendwie nicht ganz im Sinne des Erfinders. Es ist leider generell ein Problem, dass Bildung oft mit ""wird schon das richtige damit tun"" gleichgesetzt wird.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""TikTok"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Doldenbluetler,"Das ist aber eine Religion, die danach strebt, den Glauben in anderen Ländern zu installieren, in denen er noch nicht alles beherrscht.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Religion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""anderen Ländern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bdsmlover666,"Was rein praktisch nichts bringt, weil du die Leute trotzdem nicht wieder los wirst. Staatsbürgerschaften erkennen wir auch nur ab, wenn die Person nicht staatenlos wird.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Staatsbürgerschaften"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Person"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Myrialle,Einbürgerungsrecht ≠ Ausländerrecht. Das müsste bereits bei der Aufenthaltsbewilligung relevant sein.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Einbürgerungsrecht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausländerrecht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aufenthaltsbewilligung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheTT,"Nein, habe ich nicht. Wie sollte ich auch?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nein"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+felis_magnetus,"Nee, solange das Reichskonkordat von 1933 nicht gekündigt ist, gehe ich da auf keinen Fall mit.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Reichskonkordat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""1933"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schwubbertier,"Ja, da ist was wahres dran. Aber viele Menschen schließen sehr schnell vom einem auf das andere, ohne großartig zu reflektieren. Stichwort Stammtischpolitik. Und jetzt ist auch die Frage, was passieren würde, wenn eine andere Religionsgemeinschaft mit derartigen Forderungen auf die Straße gehen würde. Es gibt kaum fundamentale Christen in Deutschland, und andere Religionen sind auch nicht in nennenswerter Größe vertreten. Der Islam scheint die Weltreligion zu sein, bei der (durch einzelne Gruppen) in dieser Größenordnung internationale politische Ambitionen verfolgt werden.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Stammtischpolitik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Entity_not_found,"Ziemlich genau das, was Du im letzten Absatz sagst, meine ich doch.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ziemlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzten Absatz"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"Naja, die RAF, eine Terrororganisation, ist jetzt schon eine etwas andere Dimension als _zumindest *noch* friedlich_ demonstrierende Islamisten oder Leute, die unersetzliche Kunstgüter zerstören und Krankenwagen blockieren. Aber die blosse _Forderung_ nach ""mehr Klimaschutz"" ist auch noch mal etwas anders, als was XR machen. Ich habe schon bewusst XR gesagt und nicht die Grüne Jugend oder Fridays for Future, XR ist schon was besonders und ziemlich durchgedreht. XR und diese Islamisten finde ich schon vergleichbar; die wollen beide einen staatlichen Ausnahmezustand, um ihre extreme Ideologie durchzuzwingen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""RAF"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kunstgüter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Krankenwagen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Klimaschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""XR"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grüne Jugend"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fridays for Future"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Systral,">Alle Religionen sind eine Form der Ideologie und Ideologien gibt es in besser und in schlechter, je nachdem, welche Wirkung sie auf die Menschen haben. Ich habe auch für das Christentum wenig übrig, aber muss ihm zugute halten, dass es sich im Verlauf der Jahrhunderte auf eine Art und Weise gewandelt hat, die ihm eine Koexistenz mit anderen, in meinen Augen wichtigeren Ideologien wie dem Liberalismus ermöglichen >Du wischst religiös bedingte Frauenfeindlichkeit und Hass auf andere Sexualitäten beiseite, so als sei das nichts, was das Individuum diskreditiert. Bizarr! Tue ich nicht, weil diese Punkte idr weniger mit Religion und mehr mit Wohlstand und Bildung zu tun haben. Länder in denen der Islam vorherrscht sind und wurden in der Vergangenheit durch die geopolitischen Vorzüge und damit Prädominanz westlicher Nationen strukturell benachteiligt. >Vom Islam kann man das nicht behaupten, wenn man sich die Tendenz mehrheitlich muslimischer Staaten anschaut, illiberale Theokratien hervorzubringen. Wie gesagt, das gilt auch für christliche Staaten, siehe Ungarn und Russland. >> Tatsächlich finde ich den durchschnittlichen Moslem *deutlich* netter und friedlicher als die meisten Christen etc, bis man auf bestimmte Kernpunkte trifft (Frauen/LGBT rechte). > Diesen Punkt finde ich aufrichtig absurd. Zum einen hat niemand was über das Individuum gesagt, zum anderen kannst du mit dieser Argumentation jede Bevölkerungsgruppe gegen alles verteidigen: Nein kannst du nicht, da die Gruppe als solches nicht verantwortlich ist für die extreme. Die sind bei den Nazis auf breiter Bevölkerungsebene mehr vertreten als die islamistischen Randgruppen in muslimischen Ländern, die maßgeblich für die rezipierts Radikalität des Landes und Bevölkerung als ganzes verantwortlich ist.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Christentum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Liberalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ungarn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Moslem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frauen/LGBT"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Systral,">Ich glaube die Rohingya fanden den Buddhismus in Myanmar jetzt wahrscheinlich auch nicht so super positiv... Das stimmt, jede Religion kann extremistisch ausgelegt und ausgelebt werden, aber manche bieten in ihren heiligen Schriften einfach mehr Spielraum für radikale und faschistische (Fehl) Interpretationen. >Das Problem ist schlussendlich nicht welcher Religion jemand angehört sondern, ob die Gesellschaft drumherum für Extremismus anfällig ist. Ja, und das hat natürlich primär mit umgebenden Faktoren wie sozialer Wohlstand und Bildung zu tun, da wir alle als Menschen gleich anfällig für dumme Gedanken sind.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Rohingya"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Buddhismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Myanmar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+munchmills,Wär schön wenn es nur seine wäre.,2024-04-29,de,de,"[
+      {
+        ""entity"": ""Wär"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FifaFrancesco,Wir haben Alcatraz zuhause. Alcatraz:,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Alcatraz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+el-limetto,Das ist kein sicheres Herkunftsland.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Herkunftsland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+eipotttatsch,"Ne, weil sie dann immer noch gegen ein stark genuges Gesetz verstoßen haben müssten. Wer deutscher ist, hat erstmal das Versammlungsrecht. Meines Wissens gibt es kein Gesetz, nach dem man mit den gemachten Aussagen wirklich im Gefängnis landen könnte.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutscher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mmbon,Sind das nicht die Geparden?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Geparden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ilphfein,Ich empfehl diesen tweet:,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tweet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PromVulture,Witzig das zu schreiben nachdem die Polizei in den USA wieder mit extremer härte gegen protestierende durchgreift Sind das diese freiheitlichen Vorzüge?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""protestierende"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""freiheitlichen Vorzüge"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EntrepreneurWeak6567,"Ahja, am Rand. In der Menge hätte es mich wirklich gewundert. Herrlich.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ahja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shifu_shifu,I enjoy the sound of rain.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""rain"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kleinbonum,> Wenn man jetzt Allahu Akbar aber als Erkennungsmerkmal von Extremisten darstellt Hat ja keiner getan.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"

@@ -1,0 +1,4983 @@
+author,text,timestamp,subreddit,language,gpt_output
+Western-Insect8254,從你的言行舉止也更能證實我的結論，只是要假裝自己很正常而已，其實心裡面全是反話，你應該正視自己腦袋有問題這個事實，然後祝福自己永遠都著幸福快樂的日子而不是我XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心裡面"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""XD"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Western-Insect8254,"**一、何謂憂鬱症?**最常見的症狀如下:
+
+1.憂鬱情緒:悶悶不樂、面露愁容、哭泣、易怒。
+
+2.生活失去平時的興趣或樂趣、性慾減低。
+
+        3.認知及動作遲鈍:反應遲鈍、記憶力變差、無法專心、猶豫不決、生活懶散、生活及工作能力減退。
+
+4.食慾不振、體重減輕。
+
+5.失眠、經常凌晨醒來。
+
+6.疲倦及四肢無力。
+
+7.躁動不安、手足無措。
+
+8.自責、罪惡感。
+
+9.無助、無用、無望。
+
+10.自殺念頭或企圖。
+
+11.其他:酒精濫用、慮病(過度注意身體症狀，擔心患有重大身體疾病)。
+
+12.另外憂鬱症病患，也常合併有明顯焦慮症狀，如恐慌、莫名的恐懼、心悸胸悶、頭暈及全身疼痛等。
+
+簡單總結就是神經病，對所有的一切都不知足，認為所有人都對她不好想害他或想強姦她，也就又衍生出被害(幹)妄想症XD",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱情緒"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""生活失去平時的興趣或樂趣、性慾減低"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""認知及動作遲鈍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""食慾不振、體重減輕"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""失眠、經常凌晨醒來"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""疲倦及四肢無力"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""躁動不安、手足無措"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自責、罪惡感"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""無助、無用、無望"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自殺念頭或企圖"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""酒精濫用、慮病(過度注意身體症狀，擔心患有重大身體疾病)"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""焦慮症狀"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""恐慌、莫名的恐懼、心悸胸悶、頭暈及全身疼痛"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""神經病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""被害(幹)妄想症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,憂鬱症的病症就是這樣，你到底有什麼問題?我又不是你，幹嘛模仿憂鬱症，你愛上王志安了喔XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""王志安"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Western-Insect8254,你的言論充滿著無知和愚蠢的氣息，怎麼會把生理和心理的疾病混為一談?感覺就是邪教來著XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""言論"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""無知"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""愚蠢"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""生理"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""心理"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""疾病"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""邪教"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,"你這話就像是吃維他命運動就不會感冒一樣，這有相關性、有幫助，但流感來該得的就是會得。更何況不是每個人都有餘裕學習健康新知、可以天天吃補品上健身房
+
+我真的會笑死，這是你媽教你的嗎?流感來了就戴口罩阿，吃什麼維他命XDDDD
+
+
+來場車禍撞死全家、老婆出軌當天被老闆炒魷魚、小孩偷錢吸毒離家出走、父母癌症吃光家中積蓄，你還要在家照顧沒辦法上班，這世界上多得是我們這種幸福的人想像不到的悲傷場景
+
+????這些都算是小事阿，有什麼好悲傷的?XDDDD
+
+更重要的是，你對一個心臟病的人說你不運動活該，不會對病情有惡劣影響。對憂鬱症的人說不感恩活該，這是會非常嚴重增加他的病情。就算感恩對憂鬱症有用，也絕對不能用這個形式傳遞
+
+你的腦袋到底裝什麼啦?心臟病本來就不能太劇烈運動，但憂鬱症還是可以感恩阿，想治療就好好感恩，不想治療就滾XDDD",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""維他命"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""流感"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""笑死"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""口罩"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""車禍"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""全家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""老婆"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""老闆"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小孩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""父母"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""癌症"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""家中積蓄"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心臟病"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,你不知道感恩是所有精神疾病的疫苗嗎?已經罹患憂鬱症後感恩是治療，又是一個把心理當生理的SBXD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""SBXD"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ElectronicShibe1793,有一個細節被錯過了，就是成為黑羊**未必是自己的問題**，解決手法是一回事，起因又是另一回事。,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""黑羊"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+glassmenagerie430,如果是小學到高中的時期，班上就這幾個人，不會有新的羊群可依附,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""小學"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""高中"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,整串下來你一直再講別人有病，你的問題可能比較嚴重喔,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""問題"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ElectronicShibe1793,除此之外，所謂的不知足指的是慾望過高、總是渴望更多而不滿足。你難道都沒有發現憂鬱的症狀反而是想要的太少而失去動力嗎？這完全是顛倒的嘛！你不只科學素養差，連語文理解能力都很需要再加強喔！,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""科學素養"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""語文理解能力"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElectronicShibe1793,"那你說說看藥物是如何影響情緒的？人類的情緒又如何產生的？這些很基礎很基礎的問題你完全都沒有搞清楚欸，你要批評我無知跟本太嫩太遜了。
+
+除此之外，電痙攣跟磁刺激療法又是如何影響情緒的，它可不是藥物啊！那為什麼會有醫生使用？你的立場依然坑坑疤疤、完全站不住腳，超級好笑的啦！
+
+除此之外，憂鬱跟躁鬱其實並不是相反的症狀喔！在臨床上有非常多案例是初期判斷為憂鬱治療效果不好，改為躁鬱治療後效果極佳的，如果症狀完全相反那醫生不可能會有模糊判斷的現象。這樣你的觀點依然跟事實完全矛盾，太淒慘啦！
+
+你呀，不懂事沒關係，討厭我也無所謂，至少該多念點書吧！",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""藥物"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人類"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""情緒"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""電痙攣"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""磁刺激療法"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""醫生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憂鬱"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""躁鬱"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ArturiaEmiya,很符合東亞文化圈裡“憂鬱症不是病”，然後對各種不同心理疾病患者污名化的論述。,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""東亞文化圈"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心理疾病患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ElectronicShibe1793,所以咧，人家叫你查清楚「原理」。結果你卻只看著可能產生的「症狀」列表，自己只靠*瞎猜*把「原理」給*腦補*出來了。真的是啊娘喂喔，小學生上網做報告都比你還用心欸。,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""人家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""原理"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""症狀"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""瞎猜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""原理"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""腦補"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小學生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+vergil0506,同學我來告訴你，精神疾病就是「疾病」，跟你腦內分泌的物質有關，以憂鬱症為例，就是dopamine的分泌減少了，減少的原因可能是創傷、基因遺傳、壓力等等。這是一種會發生在任何人身上的疾病。請把他想像成一種意外，跟你講的知不知足沒半點屁關係。你要是敢跟一個憂鬱症患者這樣講，只會加重他的病情，然後他的家屬真的會揍你，我勸你真的好好去看一下憂鬱症的講解,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dopamine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""創傷"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""基因遺傳"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""壓力"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dt5101961,憂鬱症的病症沒什麼問題，問題是你並不了解觸發憂鬱症的原因,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""觸發憂鬱症的原因"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Clean_Care_824,生理心理沒有你想的這麼二元，建議去讀一些基本生物常識跟心理學常識吧，這兩個東西是相互關聯的，你連這個都不知道，更不用談身心科相關的醫學知識了。,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""生理心理"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""基本生物常識"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""心理學常識"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""身心科"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""醫學知識"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElectronicShibe1793,你完全可以舉出證據來來反駁我的論點啊，但你卻只用無知、愚蠢、像邪教這種訴諸人身的方式來攻擊我。Adhominem是最低階的辯論手段，現在是誰比較無知啊哈哈？,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""Adhominem"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,神經病確實無法理解自己已經發病XDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""神經病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""XDDD"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,我一直說憂鬱症能治，但你們都說沒救了，到底誰有病XDDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""你們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,我明白，人的悟性都不相同，等你能悟出來我的意思，你的人生一定會發生巨變!!!,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人的悟性"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人生"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,看來你對不知足的了解還是太膚淺了，不滿意考試分數就是一種不知足，非常想考100但是可能每次都只差個一兩分，太偏執長期下來精神也會出狀況的，想交朋友但都交不到和想被父母稱讚但都得不到，等等都是，明白了嗎理解力為0的你XDDDD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""考試分數"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""100"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""朋友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""父母"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,"會問這種問題不是更顯得無知和愚蠢嗎?google情緒產生有兩個歷程，一個是沒有被意識到的自動化歷程：**由視丘接收到感覺訊息，經由杏仁核傳到下視丘，啟動自律神經系統(緊急應變)及內分泌系統(長期抗戰)作反應**。而內分泌系統是可以靠藥物調節的
+
+實際上的應用就是興奮劑還有一種叫做毒品，例如搖頭丸
+
+
+在臨床上有非常多案例是初期判斷為憂鬱治療效果不好，改為躁鬱治療後效果極佳的???你的智商是低於0嗎?這不就證明是相反的了?我真他媽會笑死XDDDDDDDDDDDDDDDDDDDDDDDDD",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""google"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""杏仁核"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""內分泌系統"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""興奮劑"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""毒品"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""躁鬱"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ElectronicShibe1793,他這種人就是會說「被強姦都是你自己穿太露」、「自己想想為什麼你會受害而我不會哈哈」的個性。沒有能力思考邏輯因果，只會無腦亂分黑白、訴諸道德謬誤:翻白眼:,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""個性"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,可是我說憂鬱症是精神病阿，然後心理疾病都是精神病，沒有不同XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心理疾病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,還有救的是輕度和中度XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""輕度"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中度"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,好的你打臉自己了，感恩不就是心理影響生理嗎?,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""心理"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,邪教不是說用想的就可以治療心臟病嗎?,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""邪教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心臟病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,他們說沒救的是你喔，你的問題真的比較嚴重，看起來你似乎以詆毀心理疾病患者為樂，且看起來沒有病識感,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心理疾病患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+readingabook229,你能過好自己的人生就不錯了：）,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+ElectronicShibe1793,"我發現你很喜歡為反而反欸，到底是誰膚淺啊XDDD
+
+憂鬱最大的症狀就是沒有動力且害怕麻煩別人，因為覺得自己不值得。只要你還是覺得我應該要繼續爭取並願意付諸行動，那你就離憂鬱症狀的條件有距離。
+
+簡單來說，你提的那些只是誘發性的潛在因子，你還是在逃避生理結構需要被修復的關鍵因素！
+
+哈！論理解力你遠遠在我之下太多了，真是小兒科。",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憂鬱"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""症狀"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""潛在因子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生理結構"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElectronicShibe1793,"很棒喔，你查到了腦內的組織構造，給你一個乖寶寶印章。
+
+那你有沒有想過，以上那些歷程如果有某些細胞或構造發生了錯誤或損傷，那你的情緒不就絕對跟一般人不一樣了嗎？那這種情況下你要如何靠感恩來康復？你是什麼奇怪的生物可以自己靠感恩就能把身體組織修好啊！繞了一圈有沒有發現你自己打了自己的臉！
+
+然後，該笑死的人是我啦XD
+就跟你說了兩種病的症狀在醫生眼裡很相似，從來都沒有相反過啊！救命喔你的智商怎麼還可以比我更低啦XDDDDDDD
+
+「他們治療手段有差，但症狀很相似，對症下藥才會好，不要依賴感恩魔人」結論都幫你整理好了，這樣還能誤解那我也是笑笑的啦",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""腦內的組織構造"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""乖寶寶印章"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""細胞"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""構造"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""情緒"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""身體組織"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""笑死的人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""病的症狀"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""醫生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""智商"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""感恩魔人"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ArturiaEmiya,">
+簡單總結就是神經病，對所有的一切都不知足，認為所有人都對她不好想害他或想強姦她，也就又衍生出被害(幹)妄想症XD
+
+sureman",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""神經病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""被害(幹)妄想症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vergil0506,你回的跟我講的完全是兩回事，算了，你覺得是怎樣就是怎樣，你小心哪一天真的禍從口出,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Clean_Care_824,哪裡打臉，我前面根本沒留其他的留言。我完全認同感恩可以讓人好一點，但是這不代表感恩就不會得憂鬱症啊，今天問題就是在討論「一輩子感恩=不會得憂鬱症」，並不是我也認同的「感恩可以減輕憂鬱情緒」，你也太滑坡了吧。重點是，生理也會影響心理啊，前面一堆人跟你講神經傳導物質、腦構造、基因你都不聽，只會到處downvote指出事實的人，howignorantareyou?你有修過心理學、變態心理學、生理心理學、認知心理學？如果感恩解決一切，那科學家真是白痴浪費時間欸。,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""今天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""神經傳導物質"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""腦構造"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""基因"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""心理學"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""變態心理學"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生理心理學"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""認知心理學"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""科學家"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElectronicShibe1793,邪教也覺得用感恩的就可以治療憂鬱症呀，把學者們都當塑膠呢！,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""邪教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""學者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""塑膠"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,哈哈，一堆SB看一個演講在發神經，還會說叫他們要感恩的人沒救了，你們末期了啦XDDDDDDDDDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""SB"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""演講"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,詆毀心理疾病患者為樂?原來叫病患要感恩是在詆毀阿，真不知道你的智商有沒有高於0XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD,2024-03-10,Taiwanese,fa,"[
+      {
+        ""entity"": ""心理疾病患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""病患"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,問題是你無法過好自己的人生阿，當民進黨說台灣平均薪資5萬的時候你有領到4萬以上嗎?當民進黨說台灣8成人有房，你買房了嗎?而我都有XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5萬"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4萬"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""8成"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,害怕麻煩別人，因為覺得自己不值得。這不就是知足了?XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD,2024-03-09,Taiwanese,fa,"[
+      {
+        ""entity"": ""害怕麻煩別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,"**一、何謂憂鬱症?**最常見的症狀如下:
+
+1.憂鬱情緒:悶悶不樂、面露愁容、哭泣、易怒。
+
+2.生活失去平時的興趣或樂趣、性慾減低。
+
+        3.認知及動作遲鈍:反應遲鈍、記憶力變差、無法專心、猶豫不決、生活懶散、生活及工作能
+
+           力減退。
+
+4.食慾不振、體重減輕。
+
+5.失眠、經常凌晨醒來。
+
+6.疲倦及四肢無力。
+
+7.躁動不安、手足無措。
+
+8.自責、罪惡感。
+
+9.無助、無用、無望。
+
+10.自殺念頭或企圖。
+
+11.其他:酒精濫用、慮病(過度注意身體症狀，擔心患有重大身體疾病)。
+
+12.另外憂鬱症病患，也常合併有明顯焦慮症狀，如恐慌、莫名的恐懼、心悸胸悶、頭暈及全
+
+    身疼痛等。",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""生活"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""食慾"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""失眠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""疲倦"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自責"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自殺念頭"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""焦慮症狀"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""恐慌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心悸胸悶"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""頭暈"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""全身疼痛"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,"躁鬱症它的症狀有哪些？
+所謂「躁態」或「躁期」是指情緒上呈現極端高興、高昂興奮或很急躁的狀態，至少連續一週之久。可分別由情緒、思考、態度、動作、講話、行為及身體狀態來看。
+躁症的症狀包括：
+1.情緒：自覺高興、興奮、輕鬆、愉快、常常沒有原因便樂不可支
+。偶爾會很暴躁、發脾氣。
+2.思考：自以為有超人的能力、偉大的計劃、財富、地位，自誇為明星或上帝。
+3.態度：愛管閒事、膽大、過分自信及慷慨。
+4.動作：整天到處走動，做事做個不停，一刻也閒不下來。
+5.講話：一反常態，便得非常喜歡講話，滔滔不絕，甚至把嗓子都講啞了。
+6.行為：拼命花錢、亂捐款、隨意投資、做不尋常且不智的事。
+7.身體狀態：本來性格害羞、內向、沉默寡言，突然變得非常熱情
+、熱切追求異性、有時興奮到連晚間也睡不著。",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""躁鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""躁態"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""躁期"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一週"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""情緒"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""思考"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""態度"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""動作"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""講話"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""行為"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""身體狀態"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,"那你有沒有想過，以上那些歷程如果有某些細胞或構造發生了錯誤或損傷，那你的情緒不就絕對跟一般人不一樣了嗎？
+
+這個我很難回答你，就像一個笑話，有的人覺得很好笑，有的人覺得不好笑，大概只會有這種差別，總不可能你聽到笑話會哭吧?XDDDDDDD",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""細胞"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""構造"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""情緒"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一般人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""笑話"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,然後你到底有沒有查過這兩種症狀的情況?憂鬱是極度內向，造鬱是極度外向，到底是哪個庸醫跟你說相似的?柯文哲嗎?XDDD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""造鬱"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,是一樣的，輕度和中度代表自己還可以抑制，這時候跟他說才有用，如果到了無法溝通的地步那當然沒救了，懂嗎?,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""無法溝通"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""地步"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,經常真心感恩的人是不會有憂鬱症的，還是你看過有憂鬱症的人會感恩?,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""經常真心感恩的人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,難道醫生會叫你想不好的事嗎?XDDDDDDD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""醫生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,矮噁~你怎麼情緒這麼激動，你要不要去看一下心理醫生,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""矮噁"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心理醫生"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+readingabook229,"我如果都有呢？4萬是有很困難嗎:笑得满地打滚:
+反過來說就算我今天還沒有今後也不可能有？我的人生價值並不是只有這些東西好嗎可以多充實點心靈層面的事物嗎？XD也難怪只能到處去亂回覆XDD",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""4萬"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""今天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElectronicShibe1793,"你才是沒有好好查清楚的人吧，躁鬱是bipolar，是雙極的意思，也就是Bipolar也會隨週期有憂鬱的症狀，誰跟你外向
+
+哈哈哈哈你看看你，做功課不作清楚，只查一半就想跟我鬥，這下丟臉了吧XDDDDDDD",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""躁鬱"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bipolar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bipolar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,我也覺得你無法溝通，完美詮釋了沒救的情況,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""沒救"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Clean_Care_824,"超好笑，你終於發現自己吵不贏了吧，你講這有什麼經驗證據嗎？我提供的都是嚴謹的科學跟醫學的論點欸。
+另外你說的這種人我身邊有，蠻多的。
+老實講，如果感恩就可以化解憂鬱症，那你應該去拿諾貝爾獎啦，現代人類集體健康面臨的很大問題就是憂鬱症，你直接找到解藥欸！大聰明！",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""經驗證據"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""科學跟醫學"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""諾貝爾獎"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""現代人類"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Clean_Care_824,"
+哇，科學家發現感恩可以幫助有憂鬱風險的人處理他們的憂鬱症狀欸，並且接受自己有憂鬱症的事實欸。以你的邏輯這怎麼可能！有感恩的話根本就沒有憂鬱風險啊！直接藥到病除了幹嘛接受疾病",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""科學家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""憂鬱"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ElectronicShibe1793,醫生會說「不必壓抑想法」。自己不懂事就乖乖認帳、好好學習，不懂裝懂死命硬拗真的超級難看XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""醫生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""XD"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Western-Insect8254,等等，我這是看到奇葩的正常反應，是你的反應比較激動，不激動怎麼會留言?留了言順便發現原來自己智商低於0XDDDDDDDDDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""奇葩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""智商"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,就這個回覆我按了噓，因為完全是為了掩飾自己悲哀的人生而說的，這講座不就是為了讓你充實心靈層面的事物嗎?只有失敗人生的人看到這種會討厭，所以為何你要打臉自己呢?XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""失敗人生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""講座"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,我也這麼覺得，長期跟藍白舔共仔嘴砲更是感同身受XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""藍白"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,不過感覺你還有救，不要放棄治療阿XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""治療"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElectronicShibe1793,他如果把一半的厚臉皮拿去認真做功課就會知道自己有多可笑XD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""厚臉皮"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""功課"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,我只問你，你到底明不明白感恩是什麼意思?,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,感覺你的理解程度比我的老二還低，對有憂鬱症的人來說感恩是治療，對沒有憂鬱症的人來說感恩是預防，貼了一個文章來打自己臉還那麼開心XDDDD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""老二"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""文章"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,自己不懂事就乖乖認帳、好好學習???這句話不就是叫你要知足嗎?XDDDDD,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""認帳"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""學習"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""知足"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Crafty-Quarter8697,"
+
+我本來就是想看你能發病發到什麼程度的，沒想到你比我還激動
+
+不過我不排斥喔，聽人發洩也是心理疾病治療的一環",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""心理疾病治療"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+readingabook229,你請便XDD一下子問別人有沒有達到什麼什麼目標別人說有達到又說別人悲哀好ㄛ早點睡比較有眠啦:苦笑:,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""早點睡"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+vergil0506,謝謝你的提醒，我真心希望看到你禍從口出被人打的那一天，無知還裝作自己很懂很會講道理，你不是蠢就是壞，懂嗎？蠢的話早點回頭是岸，壞的話遲早有一天會有報應，好自為之,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""謝謝"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""禍從口出"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""無知"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""蠢"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""壞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""報應"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Clean_Care_824,我只問你，你有看我貼的paper嗎，感恩是什麼裡面寫的清清楚楚，這很多都是已經有科學共識的東西，你在這裡一直吵到底有啥意義我不懂,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""paper"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""科學共識"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Clean_Care_824,"拜託，我前面講了一兩次我認為感恩可以緩解憂鬱「症狀」，但不代表感恩就不會得憂鬱症了，怎麼還要我說第二遍呢？感恩可以治療不就跟你說的「憂鬱症的人都不會感恩」矛盾嗎，憂鬱症的人如果做不到感恩那是要治療啥==
+
+幫你複製貼上，我前面說：今天問題就是在討論「一輩子感恩=不會得憂鬱症」，並不是我也認同的「感恩可以減輕憂鬱情緒」。文章只有支持後者也就是我們都同意的事情，而不是你現在要聲稱的前者欸，看來吵到現在你還是分不清楚這兩個的不同。
+
+啊我基本上就是念這個的啦，受過基本科學跟邏輯訓練的人跟你吵完全沒意義，你被downvote成這樣還可以沾沾自喜算你厲害啦，整篇文就你一個在反對事實，可能像你這種活在自己的自滿世界裡，真的比較不會得憂鬱症吧。
+最後不知道這一切跟你的老二有什麼關係，大概顯示出你不只是沾沾自喜講話也滿沒水準的吧。",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""今天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElectronicShibe1793,"NONONO，我倒是很希望你可以對自己的知識與水準「不知足」一點，這樣你才會認真思考、研究啊！
+
+看看你現在什麼德性，明明沒有根據沒有邏輯，還對自己的偏見滿滿的「知足」，結果就是會丟人現眼，笑掉眾人大牙！
+
+啊，如果你勵志要當一位愚者或小丑的話，那我就不叨擾了，畢竟你已經達成你的人生目標了，我真的就不該企圖改變你了，對吧。",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""知識"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""水準"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""思考"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""研究"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""德性"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""根據"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""邏輯"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""偏見"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""笑掉眾人大牙"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""愚者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小丑"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人生目標"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,可是當你留言的時候就已經發病了XDDDDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""留言"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""發病"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,你是不是不認同演講?你是不是不認同我的話?你是不是非常不開心?那就對了，這就是發病的特徵，這就是憂鬱症患者發病的特徵,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""演講"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我的話"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""不開心"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""發病"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症患者"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ElectronicShibe1793,自信一點，是又蠢又壞:得意:,2024-03-09,Taiwanese,zh,"[
+      {
+        ""entity"": ""自信"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""一點"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""蠢"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""壞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""得意"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Western-Insect8254,經常感恩的人確實不會得到憂鬱症，而得到憂鬱症的人如果做不到感恩那是要治療啥?沒錯啊，做不到感恩那就代表沒救了阿，看來你讀的都是錯誤的知識，跟柯文哲一樣，自己診斷自己有精神病XDDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,"如何幫助憂鬱症患者？劉宗憲提醒，憂鬱症患者的腦部化學物質處於失調，容易偏向鑽牛角尖、負向思考，若沒有同理而太常對他們告誡想法，如「你不要那樣想就好」、「不要想太多」，恐讓患者覺得「別人都可以處理，只有他處理不好」，反而會造成患者更多壓力。「一個腦袋正常的人，一直勸已經憂鬱症的患者，久而久之，勸人的人也會不耐煩。」醫師強調，不是患者不願意改變想法，而是他們應付不來，反而讓他們更自責、內疚。
+
+**多傾聽陪伴　待憂鬱病友最好的方式**
+
+劉宗憲建議，尤其面對憂鬱症急性期的病友，少勸導，多陪伴、傾聽，鼓勵患者說出心裡話，並多多安慰他們。若情況真的嚴重，藥物治療恐無法避免，透過醫師幫助，情況一定能有所改善。
+
+懂了嗎?其實這兩段互相矛盾，上面的說法「你不要那樣想就好」、「不要想太多」不就是在安慰?下面還要多多安慰?就沒用了阿，聽不懂人話，無法溝通就代表沒救了阿XDDD",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""劉宗憲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""腦部化學物質"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""鑽牛角尖"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""負向思考"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""同理"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""告誡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""壓力"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""醫師"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""改變想法"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""自責"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""內疚"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱病友"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""急性期"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""勸導"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""陪伴"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""傾聽"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""安慰"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""藥物治療"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""醫師幫助"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""溝通"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""救"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,"那自己不懂事不乖乖認帳是什麼意思?
+
+被我打臉很多次了，還要繼續嗎?XD",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""那"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""不懂事"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""不乖"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""認帳"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""打臉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""XD"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,您真神奇，不論是語氣還是論述我看起來都很正常阿，反而是你每一篇留言都挺讓人汗顏的,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""您"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"我對這個演講沒有感覺，我是不認同你講的話，不過你這種人我見的太多了，我認為生你的氣是很浪費生命能量的事
+
+我相信很多人想跟您吵應該也是看你可憐喔，他們應該也認為能拉你一把，不讓你繼續偏執",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""演講"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Clean_Care_824,"你講的都不是文章提到的點，文章就講了憂鬱症可以透過感恩來改善了，人家說感恩可以避免、改善改善憂鬱症不等於感恩就得不到憂鬱症好嗎。難道運動可避免、改善生病，那麼只要有運動就不會生病？
+邏輯鬼才，白紙黑字你也看不懂，沒救的應該是你吧，最後只剩一句話回你：你都是對的沒錯只有你你是智慧的結晶你是文明的瑰寶你是人類的獨苗你是上帝的遺珠你是最後的希望你是電你是光你是唯一的神話",2024-03-11,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""運動"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""邏輯鬼才"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""智慧"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""文明"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""瑰寶"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""人類"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""上帝"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""希望"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""電"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""光"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""神話"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Clean_Care_824,看一看你的karma，你應該是反串帳號吧？看你留言紀錄沒頭沒腦洗了一堆藍白舔共柯文哲什麼的，這到底跟柯文哲有啥關係？你等等應該也會繼續反串回覆我這則留言，啊我不會再理你，時間很多你可能可以多多感恩一下，不要花時間到網路上反串,2024-03-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ElectronicShibe1793,"看你的志願是想當聰明人還是當小丑。我是覺得啦齁，你想當前者還太早，當後者綽綽有餘，但既然你那麼熱愛知足，那你乖乖當後者就好XD
+
+從頭到尾都在強詞奪理，以為只要把XD的D拉的超長就是自己贏了，不管你想當智者還是愚者，自己多花點時間去聽聽專業醫師跟心理師的講座，不要羞辱所有專家跟研究者的辛勤努力",2024-03-09,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""專業醫師"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""心理師"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,你發病的太嚴重了，明明非常不認同，非常想靠北，卻還裝正常XDDDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""明明"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""靠北"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,"具腦神經科學背景的洪蘭教授，這篇鼓勵民眾多感念的文章，因意外提及「一個懂得感恩的人一輩子不會得憂鬱症」，引起許多人討論。其實這句話太武斷但也並非完全錯誤，劉宗憲受訪時解釋，心理上懂得調適、處理挫折的人，壓力比較不會太大，罹患憂鬱症的風險自然比較低。
+
+
+那你認同以上這段話嗎?",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""洪蘭教授"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""劉宗憲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,"這段話就是證明你的精神狀況有問題了，不認同卻說不生氣，然後跑來留言?這種行為已經異常到不能在異常了你沒發現嗎?
+
+舉個例子，你看到有人亂丟垃圾，你不認同，然後認為像這種人我看太多了，我認為生氣是浪費生命能量的事，但是又跑去跟亂丟垃圾的人說一大堆有的沒的????你真的不覺得你精神有問題嗎?XD",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""精神狀況"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""生氣"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""行為"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""垃圾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""生命能量"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""亂丟垃圾"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,你怎麼一直再打自己臉還不自知？感恩改善憂鬱症不就是治療憂鬱症？可以避免不就是不會得？還用運動來打自己第二次臉，運動會不會生病要看是哪種病阿，至少可以保證心血管疾病不會得到，但武漢肺炎就不知道了，這邊只單一針對憂鬱症，結果你用所有的病在那邊練笑威，看了感覺可憐，我可以確定你的精神一定有問題了:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""武漢肺炎"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,你不是讀醫科的？柯文哲也是阿，你們就同一個水準阿:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"我是認為沒問題的，尤其這一句""其實這句話太武斷""
+
+一個憂鬱症個案的治療相信是患者自身和家屬，知情人士和社會大眾都要背負一定責任。
+
+相信憂鬱症患者自身想要治療的決心是有的，但你似乎沒做到相對的責任喔
+
+你只是一昧的要求憂鬱症患者同一般人那般""感恩""不是嗎",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""家屬"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""知情人士"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""社會大眾"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,我是抱著看奇葩的心情釣你的阿，人有百百種，有這種喜歡見識人類各種姿勢體位的喜好也不奇怪吧,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""阿"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,你有憂鬱症乾我屁事阿，為什麼我要揹責任XD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,講一堆幹話，還敢說你精神沒問題?,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""講一堆幹話"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""精神"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,然後你完全忽略後面那句但也並非完全錯誤，這代表你只想看你想看的東西而已，不想看的就通通不看，很好，果然很柯文哲XD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Western-Insect8254,結果事實證明你只證明自己精神有問題，為什麼自打臉的都會說是在釣魚阿XDDD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""結果"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自打臉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""釣魚"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"這是社會風氣的問題，如果社會大眾對心理疾病是漠視和敵視的態度，那整體國民心理健康是會出問題的
+
+整個社會同你一般對待憂鬱症患者的個案也確實有歐，就是中國，前幾天他們還在納悶小孩子怎麼這麼容易被殺，他們的社會到底發生什麼事呢",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""心理疾病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國民心理健康"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""前幾天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,你不也忽略了前面我指出的那一句嗎，你好意思講別人,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""前面"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Crafty-Quarter8697,"我不懂你是用什麼根據來證明我精神出問題的，這整串看下來你的語氣始終處在很激動的狀態，怎麼看都是你的狀況比較讓人擔心吧
+
+小心別氣中風了",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""精神出問題"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""語氣"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""激動的狀態"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""狀況"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""氣中風"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,你有神經病為什麼不去精神病院?為什麼還要出門害人?要是突然發病傷到人怎麼辦?神經病殺人無罪喔，但你反擊殺死神經病是有罪的，大家當然怕，我以為這是常識XD,2024-03-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""神經病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""精神病院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""出門"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""突然發病"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""殺人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""反擊"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""常識"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Crafty-Quarter8697,"神經病之所以殺人就代表著社會在某個層面上有愧於他，讓他認為這個社會和法律不值得花心力去遵守阿
+
+一個人的人格被社會否定，羞辱，打壓，遭受暴力之後目所能及只有冷漠和嘲諷，你要怎麼維持那個不傷害人的信念?對他們而言這個社會就是在拿自己的痛苦取樂阿
+
+當然人是會恐懼的，也從未意識到每一個人或多或少都參與進了這頭惡魔的創造之中，他們只曉得有人違反了規定，與所有人不一樣，所以要殺掉他，或至少把他埋在我們看不見的地方。
+
+也確實殺掉是最簡單的方法，但社會風氣問題還是擺在那，沒有人去注意一個人的創傷是否有被妥善關懷到，放任它腐爛，發臭，那之後還是會跑出第二第三個神經病在路上殺人
+
+當然你也可以不做，反正有問題的就那幾個害到你也難",2024-03-10,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""神經病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""法律"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人格"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""冷漠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""嘲諷"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""恐懼"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""惡魔"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""創傷"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""神經病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,結果你又再發神經了，你們不是說憂鬱症情緒是無法控制的嗎?就是沒有理由的覺得全世界都虧欠他阿，在無意識下見人就殺這才是你們所描述的憂鬱症，如果他認為社會在某個層面上有愧於他，讓他認為這個社會和法律不值得花心力去遵守阿，那就代表這個情緒是可以控制的，而他也清楚明白自己在殺人阿XDDDDDDDDDDDDDDDDDD,2024-03-11,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""全世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""社會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""法律"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Crafty-Quarter8697,"你在說什麼?我聽不懂。
+
+你在質問我為何精神病不同你那般躲在精神病院裡而是跑出來害人，那我便如實照答了，結果你現在反倒把憂鬱症搬出來了?",2024-03-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""精神病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""精神病院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,這篇文的神經病指的不就是憂鬱症？看來你真的要去看精神科了？:笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""精神科"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"我會這樣說是因為所有精神疾病都是一樣的
+同你這般只會潑冷水說風涼話只會徒增憎恨罷了
+
+不需要這麼拐彎抹角的跟我玩文字遊戲，然後沉浸在自己的勝利之中，從你一廂情願的認為憂鬱症就是不懂感恩不知足，且保持著這個歪理在多個留言引戰開始，就說明你對心理疾病不認知和道德觀是有瑕疵的，有嚴重缺限的",2024-03-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心理疾病"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Crafty-Quarter8697,"真是無法理解你是怎麼得出精神病患就該躲進精神病院別出來害人這種漠視他人的結論的，你用有色眼光看待犯病的人，然後為了自己的自我滿足去對病患講一些羞辱的言語去刺激他們病情惡化，最後來一個""滾去精神病院別出來害人""
+
+不好意思我講的難聽點，你算個老幾?有那個資格去教育別人，去指責一個病患的不是?",2024-03-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""精神病院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,憂鬱症本來就是不懂感恩和不知足阿，知足常樂沒聽過？難道憂鬱症會快樂？還有，你又再講幹話了，什麼叫做所有精神疾病都是一樣的？你說出這句幹話臉都不會紅喔？老年癡呆？雙(多)重人格？智能障礙？認知異常？這些不叫精神疾病？而這些確實不是靠感恩就能治療的，越嘴炮就越覺得你很可悲越來越像柯文哲，腦袋空空真的什麼都不懂，被打臉也一副無所謂的樣子，如果不是靠著家裡有點錢能醫學系畢業？一直堅持自己那可悲的謬論:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""憂鬱症"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""老年癡呆"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""雙(多)重人格"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""智能障礙"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""認知異常"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Western-Insect8254,你看，不管你怎麼被打臉總是能講出新的幹話，精神病院或者說精神科本來就是治療精神疾病的地方阿，你有精神病不去看醫生治療還在這裡講幹話？還是你跟柯文哲一樣自己診斷自己有精神病但是卻不想治療阿？叫你去精神病院是為了你好，是你自己用有色的眼光看精神病院的，這就跟特教班是一樣的，學習能力有問題還排斥去特教班？自己歧視自己？:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""精神病院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""特教班"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,你不需要這麼激動的貼藍白標籤，你給別人扣太多的帽子了，又像是用最激動的情緒去羞辱別人，在我看來最像藍白的反而是你自己,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍白"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"好了，不用再說了，這整個串就你病的最重，你越講越像個躁鬱症患者
+我本來抱著看奇葩的心情感覺還有些動情緒了，才剛開始要懷疑自己而已，現在又放心了
+
+您繼續蛤，畢竟讓患者發洩情緒也是治療的一部分",2024-03-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""躁鬱症患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""奇葩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,你本來就是一直被我打臉還一副無所謂的樣子阿，這不是事實嗎？除了藍白我還真的沒看過這種人呢，你要不要數數被我打臉幾次了:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍白"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,你到底算了被打臉幾次了沒？你還是躲到旁邊咳到時間到吧:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""被打臉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""旁邊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""時間"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"你不用這麼大聲吼叫，你什麼時候有了你打臉我的錯覺的?
+
+你要不要回顧一下為什麼這串的人都沒給你好臉色看呢？你要不要想一想誰的問題比較嚴重?錯的人是誰?",2024-03-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""這麼大聲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""什麼時候"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""打臉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""錯覺"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""好臉色"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""回顧"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""這串"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""問題"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""錯的人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Crafty-Quarter8697,"真好玩，你這種想要從某個人身上搶到某個東西但又搶不到的模樣
+
+您請繼續，我看您表演呢",2024-03-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""某個人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""某個東西"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,這串的人本來就都有問題阿，至於你不是說精神疾病都是一樣的然後被我打臉嗎？其他的就先別提了，你就繼續活在自己的世界裡就好了:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-12,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"你一直很強調我被打臉的這一點，你到底對我有什麼奇怪的期望?你希望我生氣哭哭?但整串看下來快被氣到中風的應該是你
+
+我大發慈悲的告訴你吧，照你這種態度看世界那恐怕你目所能及的人都是有問題的，畢竟他們可不像你單純的以為憂鬱症只要每天都在感謝就能好起來
+
+怎麼辦呢～你生活在全是精神病患的世界，或許你該把自己一頭撞死?我給實際一點的建議好了，就是你乾脆刪帳號永遠別再這裡轉悠",2024-03-12,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""打臉"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""奇怪"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""期望"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生氣"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""哭哭"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""氣到中風"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""慈悲"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""態度"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""問題"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""感謝"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""精神病患"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""建議"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""刪帳號"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""轉悠"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,什麼叫做無恥近乎神勇？在你身上完全的詮釋，不是我對你有什麼期望，而是你在表演什麼叫無知無能無恥給我看，就跟你說屎是不能吃的，你硬是要嘗上一口再得到原來屎是不能吃的結論？不認錯、又無知、無恥的人能給我什麼期望？:笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚::笑得满地打滚:,2024-03-13,Taiwanese,zh,"[
+      {
+        ""entity"": ""無恥近乎神勇"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""無知無能無恥"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Crafty-Quarter8697,"從你決定用那種態度對待憂鬱症患者開始，用那種態度對待心理疾病患者開始，你的任何言論，任何思想和任何評斷都不再有參考價值了，基本也沒有看的必要
+
+要論不認錯，這麼多人試著同你辯論，傾盡自身所知，告訴你對待憂鬱症患者用這般言語是，羞辱，而你做何對待?嗯，你得出了這整個串的人都有問題的結論，依然故我
+
+要論無知，你在這串的討論我所見到的是複製貼上，和辱罵，還有每個句尾不知道為什麼這麼長的笑臉，可以說我在你的字句間見不到任何一點內涵
+
+要論無恥，我暗示這麼久了，再怎麼智障的白蓮教和KMT多少都會摸摸鼻子走人，他們自己知道吵下去是自己理虧，可你比他們還不如。你貌似想以綠營自居是吧，那同你這般嘴臉，小草們喊塔綠班可真是一點都不奇怪
+
+無恥無知又不認錯，說誰呢？不就是你嗎？腦袋看起來除了髒話和漿糊之外什麼都不裝的老東西",2024-03-13,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""憂鬱症患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""心理疾病患者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""KMT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""綠營"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Crafty-Quarter8697,"不需要一直重複在座各位都是白痴這句話，這樣不會顯的你比較聰明，這麼多人同你說憂鬱症治療不可能只有感恩這件事你依然故我。
+
+該被電死的應該是你才對，我看你在現實不是沒被人打過，就是過得很慘，只能在這邊羞辱人來獲取那扭曲的快感。
+
+就憑你這點我甚至不需要找資料反駁你，你既然用羞辱對待他人，那你也只配獲得加倍的羞辱
+
+你想繼續那請便，我接下來會嚴格檢視你的每句話是不是違反該SUB的規定，我看你會不會蠢到一直發違反規定的地圖砲",2024-03-13,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症治療"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現實"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""資料"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SUB"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,"不需要一直重複在座各位都是白痴這句話，這樣不會顯的你比較聰明，這麼多人同你說憂鬱症治療不可能只有感恩這件事你依然故我。
+
+A:為什麼你要一直證明在座各位都是白痴這句話?我沒有說過只有用感恩能治療憂鬱症，我還說過藥物可以控制XDDDDDDDDDD
+
+該被電死的應該是你才對，我看你在現實不是沒被人打過，就是過得很慘，只能在這邊羞辱人來獲取那扭曲的快感。
+
+A:難道你在現實生活過的不慘嗎?為什麼還要上網來自討羞辱?像你這種人在現實應該很多人想打，像你這種被打臉還能一直講幹話的人我也見的很多了XDDDDDDD
+
+就憑你這點我甚至不需要找資料反駁你，你既然用羞辱對待他人，那你也只配獲得加倍的羞辱
+
+A:為什麼會認為被修辱?這叫被我打臉，而會被打臉則是你自己智能不足，是你自己的問題XDDDDDDDDDDDDDDD
+
+你想繼續那請便，我接下來會嚴格檢視你的每句話是不是違反該SUB的規定，我看你會不會蠢到一直發違反規定的地圖砲
+
+A:是你自己跑過來的，我從來沒主動找過你吧?是你被打臉後腦羞一直繼續的，我就看你到底能瘋到什麼時候XDDDDDDDDDD",2024-03-13,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""A"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""憂鬱症治療"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""感恩"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藥物"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現實"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SUB"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"第一點回覆，不要再狡辯了，你就是歧視憂鬱症，歧視心理疾病，在別人試圖跟你講道理的時候你是怎麼回覆別人誠意的，那些都是證據
+
+第二點回覆，我在現實中至少對每個我所見的人笑顏以對，我在盡我所能在我生活周遭盡可能善待別人，跟你這種心理陰暗的老廢物有本質上的區別
+
+第三點回覆，該結果是我根據你在該串言論表現所得出的結論，你能總結出你打臉我我只能說你腦袋非常之奇葩
+
+第四點回覆，請不要裝出一副自己很無辜的樣子，我的第一個回覆還是最溫和的，你大可在我第一次回覆之後就直接閉嘴，可你選擇跟我吵到現在，愛嫌又愛講
+
+
+自己選吧，你閉嘴我就閉嘴，或者我可以陪著你到你被人打死為止",2024-03-14,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""第一點"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""第二點"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""第三點"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""第四點"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Insect8254,這四點你也請你不要在狡辯了，我對你也是笑顏以對，我不是每次都XDDDD嗎？為什麼你笑就叫做善待？我笑就叫做歧視？你的標準是什麼我也不懂，畢竟我也很難理解神經病的想法，我明明對你很和善，為什麼你都要說我歧視你呢？關於第一點我在補充一下好了，按照你的神奇邏輯，人多就是對的，那中國的人口比台灣多，所以中國說台灣是他的一部分也是對的？我就說嘛，你們中國人都是這種智障邏輯還說你沒病？說你舔共還反駁XDDDDDDDDDDD,2024-03-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Crafty-Quarter8697,首先，你的笑臉噁心死了。其二，你是抱著什麼心態來的我都看的一清二楚，你裝笑臉裝的有夠爛。最後，不需要貼我中國人標籤，最有中國人味道的就是你這喜歡嘴巴對別人噴屎的老東西，腦袋裡跟小粉紅一樣都是裝屎，不覺得自己有錯，總以為別人有義務要聽你的狗屎,2024-03-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kyokuramoto,"現在的英國人講華語:
+
+「老铁们早上好，我有个东西牛逼极了。」
+
+十年後的英國人講華語:
+
+「大家早，我手頭有個東西超強的啦幹\~」",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""英國人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""華語"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""老铁们"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""十年後"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NiceDEEEER,"自己的留言可以再拿出來重複利用真是愉快。
+
+",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,補充資料，文中提到的間諜案：[間諜嫌疑人身份曝光炸翻英國議會(rfi.fr)](,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""間諜案"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""間諜嫌疑人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""英國議會"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FormosanMacaque,雖然是好事，但外過好像到現在還不大懂，台灣也不少中國人...,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cool_Fuzzy,"中共滲透臭名昭著
+
+暖心",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""臭名昭著"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,最近我聽過很多人講到教中文是巨大商機如果有人有勇氣去海外開學院會賺翻不知歐美東南亞也是,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""教中文"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""海外"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歐美東南亞"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fearless123we,只要是中国人在的地方，就有间谍。,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bubble_Boba_neither,還是要審查吧，畢竟在台灣也有不少滯....,2023-09-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ja_Blask,如果得以实施，在英国吃着这碗饭离岸爱国的中国人有福了。,2023-09-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""英国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+No_Egg5420,多少有点搞笑，无非是中国的中文老师有点官方背景，中国体制内的都有这个背景，但你说这些中文老师都是间谍多少是有点搞笑。不过也无所谓，就是政治作秀。台湾教中文也可以，除了难学一点之外，也还好。,2023-09-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中文老师"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Murky-Doubt-9382,但是台湾人不懂中华历史只能教教中文了,2023-09-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中华历史"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中文"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Theooutthedore,雖然北京政府很可惡，但這直接影響平民誒，有點歧視？,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""北京政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""平民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Active_Marketing1153,"不是大家早，是""搭早""",2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""大家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""搭早"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,"現在：「你真頂啊」
+十年後：「你很勇嘛」",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""現在"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""十年後"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Yrlyn,为什么你可以发语音～,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AloneSurprise6387,還蠻有畫面的耶ww(^o^)如果混個台語講“打給吼”偶覺得就更有趣惹w,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台語"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""打給吼"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BoogieMan80s,小弟不懂為什麼中國人老是到別人國家要求憲法保障?他們不知道各國憲法是政府跟人民訂的契約嗎?異邦人沒簽約要什麼憲法權利?,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""各國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Inside-4705,哈哈哈，居然還有這樣的妙用！,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈哈哈"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""entity"": ""這樣的妙用"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Remarkable_Main_412,逻辑闭环，品客辩无可辩,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""逻辑闭环"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""品客"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RD_GM,那種人不會出去，出去了也不屑教書，頂多當個「大教授」,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""那種人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""大教授"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BravoBlackBanana,"誰叫中國人老鼠屎太多
+
+像美國發生一堆宣誓效忠美國的中國裔都能背叛誓言幫助中共竊取機密
+
+連宣誓都能不當一回事是要歐美怎麼信任中國人不是人人都是SPY
+
+信任跟尊重是爭取來的不是天生就應該施捨給中國人
+
+被歧視要怪就怪這族群老鼠屎太多了",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國裔"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""歐美"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SPY"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""歧視"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Character_Message729,因為這些「平民」在海外協助中國政府從事間諜活動的「前科」太多了，搞得當地政府要出台這樣的政策,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""海外"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,會覺得殘酷是合理的，不過這樣的趨勢很可能是接下來十年的主旋律,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""會覺得殘酷"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""十年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BoogieMan80s,不想被歧視就起身換掉這個政府啊,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Cheap-Help5833,你不能因為一鍋屎裡還有一粒粥就不放棄吃這鍋屎呀！,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一鍋屎"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""一粒粥"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OyMing,Wow聖女貞德:花痴::花痴::花痴:,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""聖女貞德"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RemoteHoney,"孔子學院就是中國政府的對外漢語教學領導辦公室搞的
+
+負有宣傳洗腦任務
+
+平民？？",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""孔子學院"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""漢語教學"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""領導辦公室"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RD_GM,親身經歷了幾次中國人的神奇行為之後，我看到這種新聞已經不會有任何同情心了,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Phyllisno,只能说没办法。中国人太难了，要么同流合污，要么因为自己身上的标签被外界连坐，因为出身地里外不是人。,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dense-Possibility170,也不是搭早，是「勞榨(或敖榨)，你看我這個超爆幹強的啦！」,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""勞榨"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""敖榨"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+No-Inside-4705,"因為中國人沒有契約觀念，只有主與奴的分別。憲法叫做國家根本大法，是不可改易的天條。既然是天條，就要無條件遵守。
+
+另外可笑的是，「國家根本大法」這幾個字出自於黨國時期的台灣公民課本。",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""憲法"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,匪区的情况是征服者与被征服者的关系,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""匪区"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""征服者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""被征服者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Theooutthedore,"對呀…有點遺憾，因為不能直接斷定他們都是人渣，說不定有一些貢獻也被開除了
+在英國華人中大陸人已經很常被港台鄙視，但他們也不見得是小粉紅，畢竟他們也已經移民了",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""英國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""華人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大陸人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""港台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""移民"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Theooutthedore,我又不是大陸人…我要去起身換掉那個政府啊，我出生台灣18年也不能投票，我能影響的政府只有英國而已,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""大陸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""英國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Theooutthedore,但你不能看到有鍋屎，就說每鍋都是屎啊,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""鍋屎"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Due_Land_588,他是想說那個“連讀”的感覺。大啊早。,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""連讀"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大啊早"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tommy_159357,中国人对“民主”的理解就是“人民当家做主”，中国人对“当家做主”的理解就是横行跋扈、骑在别人头上拉屎撒尿。,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人民当家做主"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""横行跋扈"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""骑在别人头上拉屎撒尿"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+InternationalTop8912,"既然你們這麼重視憲法，你也知道憲法是根本大法，為什麼台灣從上到下都完全無視憲法？中華民國憲法規定中華民國包含大陸和台灣，為什麼連中華民國總統都不承認？還編出什麼中華民國是台灣的明顯違憲言論？根據憲法，中華民國成立於1912年，中華民國就是中國，為什麼沒什麼台灣人承認？
+
+真是太好笑了:不说::翻白眼:不知道台灣人哪裡來的臉來嘲笑大陸人不遵守憲法，台灣人跟中共沒什麼兩樣，都不遵守自己的憲法",2023-09-19,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大陸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國總統"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1912年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SouthNorth7757,"移民了卻在台灣或香港人集會或活動搞破壞,
+
+又經常在英國華人communities中經常打壓任何anti-ccp的言論",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""香港"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""英國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""華人communities"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""anti-ccp"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Cheap-Help5833,您這樣的心態最適合投資中共國股市了，祝你好運。,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""您"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Inside-4705,世上不是只有一鍋中國嗎？:想一想:,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cheap-Help5833,如果不用計算被臭死的風險，我相信你總有一天能在糞坑裡挖出鑽石的，加油:鼓掌:,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""糞坑"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RemoteHoney,"你說開私人中文補習班也就算了
+
+（你沒有英國身份沒辦法留在那邊教私人補習班）
+
+孔子學院這種就是中共國務院去組織的
+
+教材什麼的都是中共決定的
+
+選派出去的人訓練的時候就告訴他們要宣傳XXX
+
+然後因為合作大學的關係拿到簽證去
+
+這叫平民嗎？？",2023-09-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""孔子學院"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共國務院"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""XXX"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+corgi-king,中國式的民主是，你是民，我是主。,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Individual-Pie-5468,不知道為什麼我看到當家作主這四個字就想到拿著毛語錄的那些臉,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""毛語錄"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+lord-yuan,睁眼说瞎话，它怎么制裁你了？,2023-09-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""睁眼"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""它"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+garychen2048,"憲法限制的是政府權力、保障人民權利
+
+憲法條文內根本沒有限制人民的條款，所以人民不需要""遵守""憲法(包括政黨)
+
+你說的國土範圍是指政府不能單方面更改，沒有限制人民要求更改，這個是憲法保障的言論自由
+
+憲法內甚至還規定了更改國土的方式，如果這個是不能討論的，要怎麼更改？你的說法根本不符合邏輯",2023-09-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""憲法"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國土"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""言論自由"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Imaginary_Ad_8422,因為沒有去破壞的，就待在家裡，你也不會知道他們的存在,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""家裡"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Theooutthedore,不見得是所有人啊…很可惜我們能應付的方法不多,2023-09-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""我們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aggravating_One7736,我们智能猪是这样的，让湾友见笑了,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""我们智能猪"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""湾友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+notebookino,這是火星人吧，字都不會打,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""火星人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,完全看不懂他們的文字,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Thick_Secretary_311,不要理蜘蛛隔绝低端人口的交互是必学的课程,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""蜘蛛"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""低端人口"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NoExit_2001,第一句是什麼意思有沒有寵物溝通師能說一下,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""第一句"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""寵物溝通師"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Single_Solution_9924,"連中文都不懂
+說自己是中國人
+真的有點諷刺",2023-07-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中文"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""諷刺"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kejihenhuo,煞笔陆蛆，祝他早日被活摘器官,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""煞笔陆蛆"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""祝他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+molchatkino101,しなじん出来还要打一股汁味的太监文，属实是没被铁拳锤够汁臭未干，我肉身翻墙之前在QQ群里和朋友建政习近平和共产党都直接打出来直球辱骂:笑得满地打滚:,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""习近平"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共产党"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""QQ群"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jcnebehh13847,作为一个中国人，我也看不懂他这在讲什么…,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Much_Protection_1243,只有1karma的假账号,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""1karma"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FixEmotional9443,回他台灣是國家又要爆氣一次,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+educationalgoose,见笑了，我们洼地人是这样的,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""洼地人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ballball32123,什麼時候貴國可以脫離拼音簡寫年代啊？這跟台灣20年前注音文年代87%像。,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20年前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""87%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PermitPleasant687,看不懂，汁人真的好抽象,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""汁人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+HaiX-_-Z,被阉割得不会说话了…,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""被阉割"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WatanabeTakumi,是啊，我有自己的国家啊,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""国家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MattLovesMusik,IsRedditallowedinChina?Imeanit’sreallyfuckingleftwinged.,2023-07-22,Taiwanese,en,"[
+      {
+        ""entity"": ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""China"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mosaic_the_j,抱歉，咱滞纳金是这样的,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""滞纳金"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Shigure0726,能好好打字嗎，老是用英文拼音...乳華？,2023-07-22,Taiwanese,mk,"[
+      {
+        ""entity"": ""乳華"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tigerk035,我看不懂他的語言文字？那是支語？還是:猴子:語？:笑得满地打滚::笑得满地打滚:,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok_Sentence8137,LOL這傻屌話不會講，倒是知道台灣=國家，也算時失小節有大義了。（不排除誤以為你是其他國家的人的可能性）,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Admirable-Magazine61,大陆关键词审查严格，就算翻出来，设备或者输入法也是有硬件扫描，所以还是需要拼音缩写,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""大陆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""关键词"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""审查"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""翻出来"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""设备"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""输入法"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""硬件扫描"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""拼音缩写"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Icy_Coat_6733,我一個中國人都沒看懂他說的什麼,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Due_Discussion_1380,您國人思想鋼印太牢，在紅迪都各種縮寫，這輩子算是有了,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""您"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""紅迪"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NoMix1023,蜘蛛連翻牆都不能好好說話，硬是要把牆內那套帶出來，誰知道他們講的是什麼外星語言啊,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""蜘蛛"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外星語言"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hopeful_Fisherman_41,反手改成青天白日:台湾:,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Level-Marsupial7737,中國人不用中文，是不是乳滑？,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中文"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+order11246,Oudeltdoutsidethecnsslcommunity,2023-07-22,Taiwanese,nl,"[
+      {
+        ""entity"": ""Oudeltd"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""cnsslcommunity"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Straight-Document-78,翻了牆還是過得像牆內，真的是被精神閹割了吧？,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""翻了牆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""牆內"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Responsible-Golf8036,让大家见笑了我们洼地人素质是这样的,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""洼地人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alazyredditmush,最後一句，破防了嗚嗚嗚嗚嗚嗚,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""最後一句"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Significant-Name-346,"芝麻猪又在狗叫了
+p.s.是我离开洼地太久了吗？我怎么完全看不懂它第一句话在说什么",2023-07-25,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""芝麻猪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""狗"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""洼地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AloneSurprise6387,"為啥整天愛國愛黨,卻不好好把中文說好在那邊abc講甚麼暗號語?(＾ω＾;;)",2023-07-27,Taiwanese,zh,"[
+      {
+        ""entity"": ""abc"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中文"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hopeful_Fisherman_41,智能豬笑死，新梗嗎？,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""智能豬"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""新梗"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Vast_Ad6873,那你属实低能儿，我用简体字能看懂繁体字，小学看繁体字书都看懂，你天天用个繁体字这么大了看不懂个简体字，重开吧,2024-01-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""那你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""简体字"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""繁体字"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小学"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重开"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Squirrel-6725,我中國的我也看不懂，可能是哪里的方言，或者和具体语境有关系,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""方言"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Past-Philosopher9969,抱歉，这捞逼支语我查了几分钟也没查出来,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""抱歉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""这捞逼支语"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheoPluszreo,不用查，应该是不知道哪里的方言。土中土的土狗会在网络上讲自己方言的，举个例子比如说四川的那种方言之类的,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""土狗"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""四川"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hank1014,"-790，237
+但剛剛看已經被破壞到看不出來了",2023-07-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""-790，237"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kramer0205,尷尬的是注音文我還看得懂....,2023-07-22,Taiwanese,zh,"[
+      {
+        ""entity"": ""尷尬"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""注音文"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""懂"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hank1014,我原本就是在這樣幹:笑哭了:,2023-07-23,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""這樣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2023-07-22,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""approve"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,没办法，为了回避红迪的种族轨道炮，我们只能用各种变种自称了,2023-07-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""红迪"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""种族轨道炮"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,わたしはシナ語が全然わかりません,2024-01-25,Taiwanese,ja,"[
+      {
+        ""entity"": ""わたし"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""シナ"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2023-07-23,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iamabot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""subreddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwanese"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WonderSearcher,"Ithinkit'sveryaccurate.Taiwanislikeanerdbecause:
+
+
+1.Nerdalwaysgotbulliedbythebiggestbully,whichisChina(Inthispicture)
+
+
+2.Nerdalwaysgotleftoutonsocialoccasionsorevents(OftenbecauseofChina).Also,whenWesternersorforeignmediamentionEastAsiancountries,Taiwanisusuallyforgottenforsomereason.
+
+
+3.Nerdalwaysbeingextremelyenthusiasticandknowledgeableaboutaparticularsubject(Iassumeit'sthecomputertechnologyandsemiconductorindustry)
+
+
+4.Nerdsarenotpoorbutstilldon'tknowhowtodressupnicely(LookhowbadTaiwan'scityscapeis.Also,yeah,averageTaiwanesepeopledressupprettybadtbh,comparedtoJapaneseandKorean)",2023-06-14,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""Taiwan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""China"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Westerners"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""East Asian countries"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Japanese"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Korean"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+johnruby,Nerdgirlisthebestgirl.,2023-06-14,Taiwanese,en,"[
+      {
+        ""entity"": ""Nerdgirlisthebestgirl"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+XijinpingfromFuping,":无语::无语::无语::无语:
+:无语::羞涩微笑::冷漠::羞涩微笑:
+:无语::无语::羞涩微笑::羞涩微笑:
+:墨镜笑脸::羞涩微笑::冷漠::挑眉:",2023-06-14,Taiwanese,unknown - fasttext error,"Since the text provided is in Chinese characters and does not contain any named entities related to PERSON, LOCATION, ORGANIZATION, or TIME, I am unable to extract and analyze any entities or sentiments from this text. If you have another text that includes relevant entities, please provide it for analysis."
+sansboi11,"iamthai
+
+popular:叉号:
+
+""girl"":勾号:",2023-06-14,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""iamthai"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""popular"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""girl"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+William_Ce,TheChinapartisdefinitelytrue,2023-06-14,Taiwanese,en,"[
+      {
+        ""entity"": ""China"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alazyredditmush,"AstheChinaexistintheclass,Taiwanshouldnotshowupintheroom",2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""China"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Business_Cow1911,Itistrulyforboy,2023-06-14,Taiwanese,pt,"[
+      {
+        ""entity"": ""boy"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SkywalkerTC,"Koreaonedoesn'treallyfit""popular""....Theyseemmore""nationalistic"",stickingtogether.",2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""Korea"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nationalistic"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OriginalWinner8070,whoisthestrangeguy?,2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""whoisthestrangeguy"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ziyv,nerdgirllol,2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""nerdgirllol"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Snoo-23495,WhyisSingaporetheonlytriangle?,2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""Singapore"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+maoding,"Damn,thisisgold.",2023-06-14,Taiwanese,en,"[
+      {
+        ""entity"": ""Damn"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Secret_Ad1065,"Damn,tootrue.",2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""Damn"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tootrue"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Fun_Contribution3051,"Ican'tagreemore.
+
+That’sawesome!!!",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""I"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""awesome"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+No-Inside-4705,IthinkthelanguageoftheThaisoundsbeautifulandsoft.,2023-06-14,Taiwanese,en,"[
+      {
+        ""entity"": ""Thais"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+magkruppe,"Itisn'ttalkingabouthowKoreansact,it'showaboutthecountryitself
+
+Kpop,K-dramasandevenmoviesareprettymassiveacrossAsia",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""Koreans"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kpop"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""K-dramas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""movies"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Asia"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Inside-4705,ItseemstobePapuaNewGuinea.,2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""Papua New Guinea"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Salt-Information-140,你484自己有一個才知道,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sansboi11,"itssuperhardtolearnlol
+
+16yearsandimstillnotfluentinreadingorwriting,thaiinwrittenformissoannoying​andalotreliesonguess​ing",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""16 years"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Thai"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+No-Inside-4705,"Yes,it'sreallydifficult.lol",2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""lol"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+toastfantasia,這就是政黑版所謂的愛韓小藍教嗎:笑得满地打滚:,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""政黑版"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""愛韓小藍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+nightxfrog1231,"小綠不行，但可以小藍。
+
+哈哈，小柯粉看了不尷尬就好。",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""小綠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小藍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""小柯"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,"我什麼都不用評論，我就把他曾經說出來的話重貼一次就好
+
+那些該罵的話，以前的黃國昌早就都說過了
+
+",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Typical_Toe_1705,上週的昌：我不是來立法院交朋友的,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""立法院"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+unadix9567,黃國昌不尷尬，尷尬的就是支持他的人了,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zoohoods,"在我的記憶和實際觀察所謂的現實歷史，在台灣所謂什麼第三勢力其實都是紅的另一支代理人罷了。
+
+往往演到最後露出真面目被台灣人唾棄才乾脆不演了因此而加速滅亡，這種所謂的第三黨縱使幫忙藍紅拉下綠的也註定要滅亡因為他們的任務就是配合拉下綠的其利益分配不在台灣所以他們自己在台灣消聲匿跡而後出現在中國。
+
+局面一直都是一對三
+
+民進黨VS國民黨新黨共產黨
+
+民進黨VS國民黨親民黨共產黨
+
+民進黨VS國民黨民眾黨共產黨
+
+難道台灣人被騙了這麼多次記不起教訓？這其實只是套
+個表皮換個人的挫劣伎倆。
+說白了其實根本就是滯台中國人人在角色扮演罷了
+如果你是台灣魂的台灣人還被他們騙的一愣一愣的
+那麼真的著實可悲。",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""第三勢力"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""新黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""親民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+otoshied,好想找個昌粉，給他看看這個畫面，再問問他為什麼支持黃國昌,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+frankchen1111,"![gif](giphy|10o80f5ucCNU3e)
+
+你不是死得像英雄，就是活得久看著自己變壞人。
+
+—哈維·丹特（HarveyDent）",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""哈維·丹特"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SkywalkerTC,感覺很沒出息，出賣自己理念，幸好言合的不是綠白。,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""沒出息"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""出賣自己理念"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""言合"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""綠白"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JM_Wu,無奈白蓮教的想法與正常人有點不同,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""白蓮教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eyehatebarca,黃國昌說蔡其昌要選得先為自己過去的立院表現解釋，黃國昌當年打韓國瑜砂石，現在為什麼不會覺得韓國瑜需要解釋？,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""蔡其昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""立院"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓國瑜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓國瑜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Used_Cardiologist159,這不是甚麼大和解，而是他活成了自己討厭的人。這一幕真是太噁心了,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+cchangg,"身為時代力量創黨時有拿錢出來資助的高雄人。
+
+幹。",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""時代力量"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""高雄"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShockFit5727,政治就是場秀，你以爲什麼高喊公平正義的都是垃圾，背地裡才是最假的那個人,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""政治"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""公平正義"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Lionheart2772,早知如此又何必君悅？,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""早知"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""君悅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VigilentRemorse0805,愛韓小藍教，謝謝含院長，謝謝謝謝。,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""小藍"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""含院長"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AloneSurprise6387,"""把國家還給人民,把立院還給KMT"",以後拜託就用這口號了www(=\_=)
+
+還真不能怪當初一堆人柯韓昌粉,混在一起喊,現在看起來本是同根生嘛ww",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""KMT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯韓昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+k0ug0usei,"韓粉>>>>昌粉
+
+至少前者沒有一下台獨反紅媒一下變小藍教謝謝主席沒有立場...",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""韓粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""昌粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台獨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""紅媒"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小藍教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""主席"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Plus_Flamingo_1826,民眾黨早就是藍營側翼,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍營"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Usual_Hamster_8365,為了讓你看到這翻轉的一幕,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""為了"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""這翻轉的一幕"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

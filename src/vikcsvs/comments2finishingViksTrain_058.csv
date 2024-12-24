@@ -1,0 +1,4241 @@
+author,text,timestamp,subreddit,language,gpt_output
+Jackyboi98,"«Tipsekulturen i Norge». Hvilken? Aldri vært en kultur, skal aldri bli det. Noen steder er frekke og som du sier ber direkte om tips og det er nettopp det, frekt.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+scottwsorli,Jeg tipser aldri selv om jeg har mer en råd. Jeg tipser ikke av prinsipp.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+saintnickel,Helt enig. Allt är ju så sinsykt dyrt i norge og folk får väl løn? Jag tipser alltid 0.,2024-05-06,norge,sv,"[
+      {
+        ""entity"": ""norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""folk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norwegianlass,Ble bedt om tips av en selvbetjent butikk på et smarthotell. Herregud.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Ble"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""selvbetjent butikk"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""smarthotell"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Valonia-Ventricosa,Tips har ikke noe i Norge å gjøre. Vi har alt for gode arbeidsforhold og lønnsforhold til at det bør være nødvendig.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+pruchel,Lønning er arbeidsgivers ansvar. Ferdig.,2024-05-07,norge,nn,"[
+      {
+        ""entity"": ""Lønning"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeidsgivers"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kartmanden,Standard tips på firmwaren til betalingsterminalene burde bort. Altså når jeg betaler for henting av mat på min lokale leverandør av mat fra Asia skal jeg i alle fall ikke tipse.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""betalingsterminalene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Asia"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+-Dagoth_Ur-,"Det jeg hater med tips er at utesteder gir deg/snur betalingsterminalen mot deg, og forventer tips. Flere ganger har jeg holdt på å gi koden til kortet mitt som tips, fordi jeg forventer at å kun skrive koden for å kunne betale.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""utesteder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""betalingsterminalen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Flere ganger"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""koden"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kortet mitt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Elnathan,Mat fra Foodora er et godt eksempel. Før kunne du kjøpe mat og betale for at den ble kjørt rett til deg. Nå må du betale serviceavgift og du må betale ekstra for direkte levering. Også blir du spurt om tipse sjåføren på toppen av det hele…,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""serviceavgift"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""direkte levering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sjåføren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Neat-Engineering-513,Jeg jobbet med ryggknekkende arbeid med mye tung bæring i mange år. Ingen tipset med i alle de årene. Hvorfor må jeg tipse noen som bærer et fat bort til meg?,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ryggknekkende arbeid"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ingen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hvorfor"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Warchild103,"Tips er greit om maten er fenomenal og servicen er eksepsjonell, ellers er det bare å trykke 0,- I Norge har man vanlig lønn, tips er ikke nødvendig som det er i USA",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Milorg80,"Ser noen som putter skål/glass på disken også, uten noe nevneverdig skrevet. Er pengene til kundene kanskje? Vant til å få dårlig tilbakemelding, ""Ta med deg noen skarve mynter som kompensasjon""?. Nei, tips gir man etter man har spist seg god og fet på Babettes Gjestebud og du kjenner den herligste varmen bre seg utover i kroppen. Da smiler vi vinkende og hvisker i frøkenes øre på ekte hikkoriansk vis ""Du skal også få en liten slump av dette etegildet, i form av denne umistelig krøllete seddel"".",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Babettes Gjestebud"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+NORmannen10,"Jeg tipser aldri. Det er en ukultur, og skader bare arbeidstakerne i det lange løp.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ukultur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AlltidMagnus,"Bare betal hva det koster. Ikke driv med tips. Snekkeren, tannlegen, barnehageansatte og kjøpmannen får sparken om de tar imot håndpenger eller ""runder opp"", hvorfor skal det være greit når folk som selger alkohol eller mat gjør det?",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Snekkeren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tannlegen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""barnehageansatte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kjøpmannen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""håndpenger"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""alkohol"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+aej6aeBa,"Denne tråden: Horder av folk som aldri tipser en krone. På Egon og Los Tacos, lol. Har dere prøvd å gå på en restaurant hvor dere faktisk er fornøyde med mat og opplevelsen? Eller på en lokal bar hvor du kan runde opp etter å ha fått en anbefaling eller bare kjapp service? Det er ikke svart/hvitt, selv om det ikke skal være forventet eller påkrevd å tipse. Men prøvd å være raus neste gang du er på en uavhengig bar og se om bartenderen legger merke til det når du står i kø for neste runde. Det trenger ikke nødvendigvis koste noe heller, bare ta med tomme glass tilbake så er du plutselig prioritert kunde...",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Egon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Los Tacos"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""restaurant"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""bar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""bartenderen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+SkyeeORiley,"Jeg husker på en kafe hvor jeg bestilte pannekaker med blåbær og litt kaffe så syns jeg det var fantastisk gode saker og heiv på tips fordi jeg hadde lyst. Ellers, hvis det ikke er out of this world amazing, som de pannekakene, så tipser jeg nok ikke da jeg vet at i Norge så får de som jobber der betalt det de skal, tipsen er som en liten bonus (og jeg ville gjerne gi litt ekstra til de som lagde de supergode pannekakene og den superdupre servicen jeg fikk). I Amerika så får de ikke betalt det de skal og lever på tips, så om jeg handlet der så hadde jeg følt meg som en skikkelig prump for å ikke betale tipsen. Jeg syns at problemet ligger der, tips skal være noe som man ønsker å gi, ikke fordi at man må :( Hvis man plutselig MÅ gi tips i Norge, noe som ikke er en del av kulturen vi lever i, så blir det å fungere ganske dårlig.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Amerika"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+No-Ground6920,"Jeg betaler for maten, og den som leverer maten har timelønn som alle andre. Du får ikke mer penger av meg for å gjøre jobben din.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""maten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""timelønn"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+slabradask,"> Der det før var naturlig å tipse 10-15 %, forventes det nå 30 % eller høyere. Det er der det startet, det er ingen steder i norge der det er naturlig å tipse 10-15 %.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10-15 %"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30 %"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_co_on_,"Det er helt dust! Ikke får du service, også forventes tips? Tips for hvilken service? (Oftest)",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""service"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Suvaius,Kommer aldri til å tipse :),2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Kommer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Darksider123,Burde bare være ulovlig så tar vi knekken på denne giften med engang,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""ulovlig"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+HinoiTeam,"Det som er veldig rart med tips i Norge er at man må skatte av tipsen, men du får ikke tips når du ikke er på jobb. Dette gjør at inntekten kan bli drastiskt kuttet ved fravær og sykdom, spesielt på enkelte datoer som 17 mai og julebord sesongen. Synes vi trenger en ny runde på skattelegging av tips og hvordan arbeidsgiver fordeler tipsen. En jeg kjenner som jobber på resturant i Oslo får alt fra 200kr til 20 000kr i tips fra et bord. Man deler tipsen med alle på jobb, så 20k i tips er bare spennende om de andre også dro inn så mye tips den kvelden. Jeg forstår at potten ligger på mellom 10-20k på fredager og lørdager.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""17 mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""julebord sesongen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200kr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20 000kr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fredager"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lørdager"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hakaisha89,om du spør om tips ønsker jeg å tips -100%,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""om"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Superkritisk,"Liker ikke tips så styrer unna plasser med slik tigging, betal de ansatte bedre.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""tigging"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ansatte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Sneip,Jeg tipser konsekvent ikke. Nettopp fordi jeg ikke vil ha den ukulturen hit. De som jobber i Norge har forhåpentligvis gode og ordna arbeidsforhold. Tips er ikke noe som vi trenger eller burde ha.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Terminal-Insomnia,"Tipsekultur i Norge? Det er ingen tipsekultur i Norge, lønnen til arbeiderene skal være inkludert i prisen mener jeg",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeiderene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MeMyself_And_Whateva,Tipsing skal ikke være nødvendig i Norge. Har hørt om enkelte snobberestauranter i Oslo hvor servitørene forventer tips. Jeg gir som regel 20 kr når jeg bestiller på Wolt eller Foodora. Det er det eneste. Kommer aldri til å gi tips på selvbetjeningssystemer i butikker.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SjalabaisWoWS,"Jeg har mer eller mindre sluttet å gi tipps, særlig på de stedene der man ikke blir betjent likevel.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tipps"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DuplexSteelNo,"Tipser ikke nevneverdig i Norge. Men har tidvis rundet av, spesielt når jeg var yngre og dro på byen.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""yngre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yojag,"Velger alltid 0 i driks. Får personalet driks, vil sjefen regne det inn i lønna deres og de opptjener mindre pensjonspoeng og får mindre i sykelønn. Liker jeg maten, går jeg heller tilbake.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""personalet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjefen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""lønna"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pensjonspoeng"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sykelønn"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ArcticSwimx,Jeg kommer aldri til og tippse. Trykker nei med ett smil.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ett smil"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+holdmyTRex,"De har blitt mer pushy og det dukker opp mer på terminaler før mann betaler enn for 5år siden ja. Er bare trykke nei det da, å det kommer nok ikke til og forandre seg heldigvis.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""De"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""terminaler"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OrdinarilyNerdy1478,Skjønner ikke hvorfor så mange er så glad i å kysse skoene til USA,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Liljefjes,"Jeg bestilte en brus i baren, ble bedt om tips og tenkte ""ikke f om du skal få tips for å ha åpnet en brus for meg"" brusen koster allerede 57 kroner.. dyre dråper",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""baren"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""brus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""brusen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""57 kroner"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+aaOzymandias,"Jeg gir tips hivs det var service som var langt over forventing, men ellers får jo de som jobber her til lands lønn, i motsettning til USA, så ingen grunn til å gi tips.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Successful-Trick-334,"Når det gjelder tips så sluttet jeg med det da alt ble digitalisert! Dersom man kjøpte en øl på en pub for 67 kr og betalte med en hundrelapp tok jeg de store myntene og lot de små bli igjen, de som spekulerte i dette og ga veksel med 13 i kronestykker fikk nada! Sånn driver jeg enda… runder opp, men tips må til livs! Vil ikke ha amerikanske tilstander!!!!",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Når"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""digitalisert"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""67 kr"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hundrelapp"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""store myntene"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""små"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""spekulerte"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""veksel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""13"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kronestykker"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nada"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""driver"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""amerikanske tilstander"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+bartzabello,"Husker når Subway prøvde å innføre tipsing, de ansatte snudde terminalen så lunder skulle skrive inn totalen lol",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Subway"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Husker"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lunder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AccomplishedMethod11,Hater tips... går ikke på dissa restaurantene,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Hater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""restaurantene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Disastrous_Leek8841,"Jeg tipser alltid på restaurant med mindre servicen er lite kundevennlig. Men jeg liker at servitørene ikke er avhengig av å være perfekte for å tjene lønna si, slik som i USA, og servitørene her er da autentiske fremfor falske fordi de ikke er avhengige av at folk liker trynet ditt for å tjene til livsopphold. Tipsekulturen i USA er dustete, her er den frivillig.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""servitørene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+bingobot580,"tipser konsekvent aldri på Wolt/Foodora. man kan vel velge mellom 10 20 30kr osv, og de hadde merket 20kr som ""det mest populære valget"". drit og dra.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""tipser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wolt/Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10 20 30kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MartinATL,"Enig i at det er i ferd med å gå i gal retning også i Norge, men USA er fortsatt i en klasse for seg. Kjøpe en pretzel fra en sånn stand i et kjøpesenter i fjor sommer. Dama åpnet en pose, la pretzel inn og ga meg kortterminal som var FERDIGUTFYLT med ""recommended tip"", og jeg måtte bevisst velge det bort. Forbanna kjeltringer.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pretzel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjøpesenter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fjor sommer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dama"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kortterminal"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+schkmenebene,"Hver gang jeg føler meg dårlig for å ikke gi tips, så tenker jeg på de store selskapene\ kjedene som ikke betaler arbeiderene sine nok så de må ha min tips. Da gir jeg faen å trykker ingen tips med god samvittighet. Det er ikke jeg som tar lønna deres, det får de ta opp med sjefen sin. Jeg jobber innen IT, skal jeg begynne å ta tips i tillegg til at firma mitt sender regning til firma ditt? Er jo helt absurd.",2024-05-07,norge,da,"[
+      {
+        ""entity"": ""selskapene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""arbeiderene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sjefen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""IT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pruchel,Lønning er arbeidsgivers ansvar. Ferdig.,2024-05-07,norge,nn,"[
+      {
+        ""entity"": ""Lønning"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeidsgivers"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Full-Idea6618,Det er bare og boykotte dei. Vi trenger ikkje den praksisen her. I USA er dei underbetalt. I Norge kjem det bare fram dom desperat tigging.,2024-05-07,norge,nn,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LeifurTreur,"Opplever det motsatte. Føler at det blir vanligere og vanligere å ikke forvente tips. Før så hadde alle terminalene i barer osv, tips valg. Nå er det vanligere og vanligere, i alle fall i barer, at det ikke er noe tipsgreier. Er det jeg opplever da. Mulig jeg tar feil.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""terminalene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""barer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ivara-Ara-Fail,"Er jo bare å ikke betale tips, er ikke verre enn det.",2024-05-07,norge,da,"[
+      {
+        ""entity"": ""ikke betale tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ash_is_my_name,Jeg gir aldri tips. Ferdig med det. Jeg har en venn som jobber innen mat levering og han sa han ville ødelegge maten til folk som ikke ga tips. At det går ann. Jeg måtte snakke med han for å få han til å skjønne at det ikke er greit. Nå skal han bare levere maten saktere til de som ikke gir tips.,2024-05-07,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mat levering"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+satansatan111,Det vil aldri bli slik som i USA hvor tips SKAL betales. Jeg føle overhodet ikke noe press eller ubehag ved å taste inn nøyaktig beløp eller å ikke etterlate noe mer enn brukte servietter etter å ha brukt en liten formue på et helt ok måltid.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dr_Strange_Love_,Null. Alt er kjempedyrt allerede,2024-05-07,norge,nn,"[
+      {
+        ""entity"": ""Null"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Glennsoe,"På peppes pizza forventes det at man betaler driks/tips når man bestiller, leeenge før man har smakt mat eller drikke... Den er langt over streken..",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Peppes pizza"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Bodegard,"Var i en forening hvor vi var 15-20 som gikk ut og spiste jevnlig, og en av de nye medlemmene passet alltid på å betale til sist, for da hadde noen gange de fleste tipset såpass at det ikke stod igjen noe på regningen. (gamle betalingskassene der tips ikke var eget punkt) Fett triks, men han ble ikke så populær!",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Var"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""forening"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""15-20"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""medlemmene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Baardi,"Tipser konsekvent 0%. Heldigvis er lønna betre i Noreg, enn USA i restaurantbransjen, så eg slepp å føle på dårleg samvittigheit.",2024-05-07,norge,nn,"[
+      {
+        ""entity"": ""Noreg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RebekkaBecka,"Kan hende en av årsakene at det har spredd seg såpass mye til oslo fordi det er en del turister der som ikke vet at vi i norge ikke egt tipser. Så da kan de ""lure"" turistene for mere penger. Når man tippser på en bankterminal i norge, går det da ikke bare rett til bedriften? Og ikke til den ansatte som ""får tips""?",2024-05-07,norge,da,"[
+      {
+        ""entity"": ""oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Issah_Wywin,Tipser konsekvent aldri på noe som helst. Den kulturen kan de se langt etter å innføre her.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Tipser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kulturen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+alexdaland,"Jeg tipser taxi-sjåfører, og servitører OM jeg syns de er flinkere/hyggeligere etc. enn jeg hadde forventet. En trivelig taxisjåfør som forteller en artig historie, joda, da runder jeg gjerne opp eller legger på noen kroner når jeg betaler. Samme med servitør, er det en servitør som går en halvmeter ekstra, eller kanskje har litt ekstra kunnskap om mat/vin eller hva det skal være, så kan jeg føle meg fristet til å gi noen kroner. Utover det, uhyre sjeldent. Og det gjelder både i Norge og der jeg bor når i Kambodsja, veldig lik tipsekultur sånn sett. Den dagen det forventes tips i Norge fordi servitører etc ""må ha det"", har fagforeningene tapt og LO kan legges ned. At servitører (nå bruker jeg bare de som eksempel..) gjerne *ønsker* å tjene 20% ekstra, og dermed lager løsninger som gjør det enkelt, kanskje nærmest naturlig, for deg å gjøre det. Er jo forståelig sånn sett...",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""taxi-sjåfører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""servitører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kambodsja"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fagforeningene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""LO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Patient-Impress-8936,Enig. Jeg kjenner på presset. Men betaler alltid bare prisen. Men hadde det vært ille om tipsing ble regelen? For da ville på en måte servitørene og servitrisene være litt uavhengige og det ville blitt en selvselektering der de beste fortsatte i jobbben.,2024-05-09,norge,no,"[
+      {
+        ""entity"": ""servitørene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitrisene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Successful_Bit_1950,"Tipser alltid Foodora, Uber og restauranter, jeg syns det er hyggelig å gjøre ved gode eller hyggelige opplevelser og man får muligheten.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Tipser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""restauranter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Coolbeans_97,Hvis det ikke er valgfritt sum så syntes det er ganske dårlig. Er det valgfritt så syntes jeg der er helt greit,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""valgfritt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dårlig"",
+        ""entity_type"": ""SENTIMENT"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""greit"",
+        ""entity_type"": ""SENTIMENT"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Triskaka,"Tipse? her har folk rettferdig lønn så jeg tar heller pengene line til noe annet gøy, takk!",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pastill,"Bro, de minner deg på fucking spylevæske og klubbmedlemskap når du prøver å fylle litt bensin!",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Bro"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fucking spylevæske"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""klubbmedlemskap"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bensin"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Panzerknaben,"Nå må man ikke overdrive problemet her da. Man har da alltid kunne gi tips. Det eneste ""nye"" er innføringen av tips via kortbetaling da folk stort sett aldri bruker kontanter mer og det har da vært her de siste 10-15 årene. Det er heller ingen i Norge som forventer å få tips, eller blir sure om de ikke får det slik det er i USA.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+El3m3nTor7,"Du, seriøst, nordmenn er noen fitter når det gjelder tipsing. Kjører taxi i Lillehammer og gjør en jævla god jobb med servicen, så alle forstår det med en gang så får ikke en taxi sjåfør times betalt! Menn tipser alt fra 2/5/10/40. kjerringer tipser aldri! Folk her til lands fortjener en ordentlig rapp over henda så uforskamma frekke som mange er",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""nordmenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lillehammer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjerringer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Folk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_____michel_____,"Det vil uansett være en stor forskjell til USA. Mange som jobber med servering i USA tjener nesten ingen ting. Det er ingen overdrivelse å si at de er AVHENIG av tips for å få nok penger til å overleve. En servitør i Norge er ikke nødvendigvis spesielt godt betalt, men de ligger antakeligvis på minst 170 kr/t og kanskje opp mot 240 kr/t. Jeg gir KUN tips dersom jeg har sittet ned for å spise på en restaurant og jeg har vært spesielt fornøyd med opplevelsen. Mangel av tips betyr ikke nødvendigvis at jeg ikke var fornøyd, men dersom jeg legger igjen tips ble jeg definitivt GODT FORNØYD!",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""170 kr/t"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""240 kr/t"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+entotresepodet,Som en servitør så hjelper det faktisk en del selv her i Norge. Timelønn på 184kr er litt lite å leve av.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""184kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vegtodestiny,"Vi tipset nok før amerikanerne, vet ikke hvor deu får det fra at det er importert",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Vi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""amerikanerne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+amaurea,"Er det noen partier som ønsker å forby tips? Tips er: * Korrupsjon: En bestikkelse for å gjøre jobben sin, ala den byråkrater forventer i mer korrupte land. * En skjult avgift som gjør at den totale prisen ikke er åpenlys fra starten. For eksempel koster middag på restaurant i USA 25% mer enn det ser ut til på menyen. At deler av prisen er skjult fordreier konkurransen i forhold til andre deler av samfunnet der man ikke har tips. * En almenningens tragedie: Det er i hver kelners interesse å motta tips, men i mot deres interesse at tips er vanlig, siden lønningene i bransjen da går ned for å kompensere Ved å ikke tipse selv straffer man kelneren uten å gjøre mye med tipskulturen som helhet. Derfor synes jeg en kollektiv løsning (f.eks et forbud) er bedre enn å bare håpe at alle skal nekte å tipse hver for seg.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,Its a shame people think industry workers are paid a living wage in Norway and that should be enough. In the USA i made way more money bartending than in Norway. The way inflation is moving in Norway experienced service industry people are becoming less and less because people in the richest country in the world are cheap AF on a high horse of imaginary values. Edit: LOL exactly my point in these responses. Big yikes. Norwegians hate the truth about themselves hiding behind a false vail of equality. A nation run by accountants and it sure does show. I dont think the American system is the way to go but it sure is better than what the Norwegian system offers. If you think you are standing in solidarity by not tipping you are an awful person.,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""Norway"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""inflation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norwegians"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""American"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wheeljack7799,Jeg liker deg og holdninga di. Tror det sparer mange for en ekkel følsele.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""holdninga di"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""mange"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ekkel følelse"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SneakyTrampoline,"Hvis du evt skulle få tips, går da pengene uavkortet til deg alene? Eller hvordan deles og utbetales det når det brukes terminal?",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""terminal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CommonShallot97,Den er ny. Jobbet i resepsjon på hotell i 6 år ved siden av studie og det var aldri verken forventning eller mulig for gjester å tipse. Hotell er dritdyrt og tarifflønn er ok (ish),2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Den"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""resepsjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hotell"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""6 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tarifflønn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tor_kit,"Jeg opplevde dette forrige onsdag i resepsjonen. Skulle ha meg en fanta og så så jeg på terminalen at det var valg om tips, men fyren valgte null tips før han lot meg betale. Jeg liker ikke å gi tips, med mindre det er en ekstra ordinær grunn til det.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""onsdag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""resepsjonen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fanta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""terminalen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""fyren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""null tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Pastill,Jeg har hatt taxi sjåfører som har gjort dette for meg før å. Mega kudos.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""taxi sjåfører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mega kudos"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+PetraPanda75,Elsker når dere gjør det!,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""dere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+TulleQK,"Ja, nei, det er flaut å måtte betale tips for kondomene jeg skal bruke til å være utro med. /s (for satan di fettsjur, hvor stor kuke fette-idiot er du for å tenke at dette er ekte?)",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""kondomene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""utro"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Apple-hair,*Mange* steder som gjør dette med de nye terminalene.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Mange"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""terminalene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+boringestnickname,"Dette har blitt helt normalt i Oslo generelt. Man må aktivt trykke seg unna tips, og det har blitt vanlig med egne knapper for prosenter istedenfor å kunne skrive inn egen sum. Helt bak mål.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""prosenter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lime89,"Så det i Mathallen på Paleet i Oslo også. Man blir bedt om å gi 5, 10 eller 15 % tips når man legger inn bestillingen i appen, uten å engang ha vært i kontakt med noen som jobber der. Det var riktignok en liten knapp under tipsalternativene der det stod «jeg ønsker ikke å gi tips».",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Mathallen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Paleet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No_Responsibility384,er ikke for drøyt før Burger King ber om tips på selvbetjentkassene sine...,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Burger King"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+psaux_grep,"Hvis systemet er crap nok og du kan taste inn eget beløp kan det være at å putte minus foran funker. Tvilsomt, but you never know.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""systemet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""minus"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+highleech,Akkurat den metoden der kan det med fordel komme en lov som forbyr.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Akkurat"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""metoden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lov"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Business-Let-7754,"Blir for dumt. Betjeningen har ikke hilst på deg engang, og du blir spurt om tips...",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Betjeningen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Welcome_to_Retrograd,"Får ikke dårlig samvittighet av å trykke ingen tips, føles akkurat som å trykke pila ned på hver og en reddit ad for meg",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Patient-Impress-8936,Er det ikke også en fordel da kelnerne yter mere slik? Eller blir de bare mer desperate og alt blirbdritt?,2024-05-09,norge,da,"[
+      {
+        ""entity"": ""kelnerne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DeathTripSebastian,Samme med foodora. Bare drit i tips. Arbeidsgiver skal betale god nok lønn,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Samme"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Arbeidsgiver"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Odd_Technology3736,"idk, er det bare meg her? har spist på mange resturanger og spist flere steder og aldri blitt spurt om tips, det ser mer ut som at visse tjenester som spørr om det og om de spør sier du nei, enkelt og greit, vil aldri gi tips for noe jeg har betalt for.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""idk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""resturanger"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EldreHerre,"Jeg gir ALDRI tips før jeg har spist. Hender jeg nevner det for betjeningen, og har bare møtt forståelse.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ALDRI"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""betjeningen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SpaceTimeChallenger,"I utgangspunktet er det jo dette som er utgangspunktet for tips. ""To improve personal service"" aka TIPS oppstod fordi man kunne legge penger i en bøtte når man ankom restauranten for å få bedre service enn de andre",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""TIPS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""restauranten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IAmAQuantumMechanic,Antar at pengene i så fall går til deg?,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Antar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pasan90,Gøy å gå å handle i butiken der bare for å skjønne senere at MVA ikke er forhåndslagtinn på prisen så man aner egentlig ikke hva noesomhelst egentlig koster.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""MVA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""noesomhelst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Arildm,"Bare til info, Jeg var en tur over dammen i ett arbeidsrelatert oppdrag over 7 dager. hotellet jeg bodde på skulle ha 300 kr dagen for FROKOST!!! (Sinnsykt) så jeg gikk på en kafe rett nedi veien. Første dagen jeg kom inn ble jeg vist til ett bord og fikk bestille. Når regningen kom så la jeg ikke med noen tips, betalte og gikk videre. Dag 2 ble jeg stående lenge å vente i køen for bordplassering selvom det var fler ledige bord. Etter en drøye 15 minutter så vurderte jeg å gå igjen før en dame kom å plasserte meg på ett bord som tydligvis nettopp var benyttet da det lå grøtrester igjen. Fikk da vite fra Arbeidsgiveren at siden jeg ikke hadde gitt tips så var ikke jeg interesant for dem, og at jeg heller burde velge nye steder hver gang hvis jeg ikke ønsket å bli dårlig behandlet dagen derpå. (Da lærte jeg om tips-mentaliteten og hvorfor den var såpass høy). Så ett tips, hold deg inne på de normale 10%\`ene når du er ute å spiser.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dammen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hotellet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""FROKOST"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kafe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arbeidsgiveren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+daffoduck,"Vel, nå med NOK i dass, gjør deg klar for norske priser + sales tax + tips.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""NOK"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""norske"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JestersHat,De leder kulturkrigen desverre. Bare vi som kan gjøre noe med det.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""kulturkrigen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Sunyata_Eq,USA sier *hopp* Norge svarer *hvor høyt?*.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eiroai,"Vi nordmenn gjør det generelt... Hvor mange matvarer på butikken har et engelsk navn, f.eks? Men i sånne her tilfeller, så er det bedriftene som driver frem amerikanske tilstander. For der står arbeidstakere mye svakere, og tjener mye mindre, på bedriftene sin profitt mens befolkningen taper. Så våre bedrifter ser hva de driver med og hvordan de tjener på det, og prøver å innføre samme shiten her.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Vi nordmenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""engelsk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""amerikanske"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""arbeidstakere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bedriftene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""befolkningen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MarioCraft1997,"Har en litt annen vri: Dårlig service: 0kr God service: runde opp til neste tier. Fantastisk service: rund opp til neste 50-lapp. Starta når jeg fortsatt brukte fysiske penger, holder det gående den dag i dag.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Dårlig service"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""God service"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Fantastisk service"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Patient-Impress-8936,"Blir det ikke bedre performance på servicen? Og bør ikke tipsingen betales i det du kommer inn i restauranten, så kan servitøren eller servitørene velge om de vil betjene deg? Dermed får man god service",2024-05-09,norge,da,"[
+      {
+        ""entity"": ""servicen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""tipsingen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""restauranten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitøren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitørene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nordvestlandetstromp,"190kr/timen er en elendig lønn da, tilsvarende 370 500 kr i årslønn.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""190kr/timen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""370 500 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nordic_Krune,"Helt enig, samme skjedde med meg i helga og jeg ble forbauset over idiotien",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""meg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""helga"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sad_Bookkeeper_8228,"Jepp, hele verden blir likere og likere, og USA er jo fremdeles en kulturel og økonomisk motor. Snart er vi og kanskje frie!",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+fra_nord,"Jo selvfølgelig merker jeg det, og det er på både godt og vondt. Jeg har reist mye i USA, og tipsekulturen er noe av det som gjør reisen værst for min del. Derfor irriterer det meg voldsomt når dette plutselig skal bli vanlig her og. Til tross for alt det kjipe med USA er mye bra også, som er grunnen for at jeg stadig reiser dit.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""tipsekulturen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+flac_rules,"På noen måter, men andre ting er jo bare at folk tar ting fra USA og appliserer det til norge, om det er reelt eller ikke. Et typisk eksempel er snakk om økonomi, der mange bare resirkulerer ting fra USA uavhengig av data fra norge, og da virker det jo likt selv om det ikke er det.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mirrevirrez,Det er stort sett forretningsmodellen og politikk som blir kopiert fra USA til Norge sakte men sikkert. Kulturen er ganske norskt med tanke på at norske folk er ganske introverte folk.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""norske folk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LuxuryBeast,"I Japan blir de fornærma av få tips! Drar mye heller dit enn til USA, for å si det sånn.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Japan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+high_throughput,"Jeg pleide også å gjøre det, men etter 12 år i USA hvor forventet tips gikk fra 15% før skatt, til 22% etter skatt pluss 4% living wage surcharge pluss 3% kitchen appreciation fee så tipser jeg ALDRI i Norge lenger. Denne jævelskapen vil jeg ikke spre.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""12 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+assblast420,">Eneste måten jeg gir ""tips"" på er å runde opp til nærmeste hele tall Føler dette er noe som henger igjen fra kontantenes tid. Med kortbetaling har det ikke noe å si, med mindre du er spesielt glad i runde tall.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Eneste"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nærmeste hele tall"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kontantenes tid"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PartDeCapital,"Jeg leste meg litt opp på det der ja. Og nå har det jo blitt sånn i USA at du må nesten lese deg opp på minstelønnsregler i hver delstat for å tipse riktig. Jeg kan gjerne tipse i stater der de får 4 dollar timer for å servere, men å tipse i f.eks. Cali der de får en fornuftig timeslønn fra før av virker jo noe sprøtt.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""minstelønnsregler"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hver delstat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4 dollar"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cali"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Patient-Impress-8936,Navn på kjede eller direktøren eller eieren? Så vi kan sky hans bedrifter,2024-05-09,norge,sv,"[
+      {
+        ""entity"": ""Navn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjede"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""direktøren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eieren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bedrifter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DoughLloyd,Alle som ikke tipser burde ta et 10 timers skift på kjøkken eller i service i en restaurant med 200-300 gjester på ti timer. Come on feet.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Alle"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10 timers"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjøkken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""service"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""restaurant"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200-300 gjester"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ti timer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""feet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_____michel_____,Hvor legges det automatisk inn tips??,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Hvor"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dewnar,Er det ikke brudd på loven?,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""loven"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PatientBelt,Da hadde jeg nekta å betalt,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fra_nord,"Kan aldri huske at det har vært uhørt å tipse i Norge, men før de senere årene har Jeg har aldri opplevd å bli direkte spurt om tips når jeg har bestillt mat, bortsett fra når jeg har vært på reise i USA. Men i de senere årene har jeg opplevd dette flere ganger her også, og jeg opplever det oftere og oftere. Problemet mitt er at det aldri har vært en forventning her, og om du har ønsket å tipse må du gjøre ett aktivt valg for å gjøre det. Men nå må man begynne å ta ett aktivt valg for å ikke tipse, i ett håp om at det blir ukomfortabelt å si nei.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No_Responsibility384,men da betalte de kanskje kontant også? og rundet opp til nærmeste 20 kroning eller 50 lapp slik at man ikke fikk lommeboken full av en kroninger og femtiøringer?,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""kroning"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""femtiøringer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nordic_Krune,Det har utviklet seg til å bli mer av et problem,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+largely_useless,På mange betalingsterminaler kan du bare trykke ok uten å skrive inn noe som helst for å hoppe over det steget. Jeg prøver alltid det først med mindre jeg vet det er en terminal som ikke godtar det.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""betalingsterminaler"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ok"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KjellRS,"Den godtar ikke at du slår inn mindre, har testa det ved uhell.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Den"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pazaak__,"Nei, vi tipser ikke noen steder.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jennydb,"Enig - jeg tipser stort sett alltid på restaurant. Men så ser jeg f eks heller ikke på Los Tacos som en restaurant. :p Og det med glass tilbake har jeg opplevd flere ganger! Tenker det er naturlig, jeg, da, å ta med glass tilbake når jeg uansett skal til baren. Men tydeligvis ikke så vanlig ettersom bartenderen setter så pris på det. Hender jeg får litt billigere øl / vennepris og greier",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Los Tacos"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""glass"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""baren"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bartenderen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""øl"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Valonia-Ventricosa,"Tipser aldri,uansett. Men jeg går ikke av veien for å takke for god service, og skrive en positiv tilbakemelding etc.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Tipser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""positiv tilbakemelding"",
+        ""entity_type"": ""OTHER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Valonia-Ventricosa,"Tips cash til Volt og Foodora. Da går det rett i lomma på budet,slik det bør være.",2024-05-07,norge,da,"[
+      {
+        ""entity"": ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Valonia-Ventricosa,Da pleier jeg bare å avbryte handelen og bruke pengene mine ett annet sted.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Da"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""handelen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+elektromas,Tipser du i restauranten om det må bestilles fra app også? Noen steder ser man jo såvidt servitøren. Gir forøvrig mer mening å tipse kokken spør du meg,2024-05-07,norge,da,"[
+      {
+        ""entity"": ""restauranten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""app"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitøren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kokken"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Valonia-Ventricosa,Gjør det i isåfall kontant rett å hånda til budet. Er flere som melder at de ikke får ut oppsamlet tips.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Gjør"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""isåfall"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""budet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Valonia-Ventricosa,"Circle K er ett amerikansk selskap,så hva forventer du?",2024-05-07,norge,sv,"[
+      {
+        ""entity"": ""Circle K"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""amerikansk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+elektromas,Har jobbet i bransjen å jo det er definitivt mange servitører som forventer tips..,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""servitører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fra_nord,"Dersom tipsing blir normalt og forventet her, er jeg ikke særlig bekymret for at servitører i Norge kommer til å få dårligere betalt. Vi er sosiale dyr, og ingen vil virke grådig, så jeg er mer bekymret for at folk som ikke tipser vil bli sett ned på, få dårligere service, og ikke minst den følelsen av dårlig samvittighet om man trykker eller sier nei. For det er slik det er å være kunde i USA.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VanEmoji,Kjenner du noen som ansetter med 240 kr timen ?????,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""240 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LordFedoraWeed,Så snakk med sjefen,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""sjefen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wheeljack7799,"Det er ikke kundenes ansvar å sørge for at du får en anstendig lønn, det er det arbeidsgivers ansvar. Ved å oppfordre til tipsing så bidrar du til at arbeidsgiver slipper å gi servicepersonell mer i lønn.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""kundenes"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeidsgivers"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servicepersonell"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ancistrusbristlenose,"Finnes mange yrker som har mindre lønn enn det der i timen, hvor det aldri mottas noen form for tips. Slutt å sutre. Du har god nok lønn for å springe rundt med tallerkener.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Finnes mange yrker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lønn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tallerkener"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Myrddin_Naer,"Snakk med de andre ansatte, bli med i en union og gå til sjefen. Det er sånn man gjør det i Norge. Du burde ha mer selvrespekt enn å tigge om penger fra gjestene",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjefen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gjestene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+fra_nord,Jeg sier ikke at tipsing i Norge er importert fra USA. Jeg sier at tipsekulturen i USA importeres til Norge.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ole_Flashy,Thats between them and their employer. Not the role of the customer to provide salary for workers.,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""employer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""customer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pasan90,Its a scummy practice that offloads the salary from the employer directly to the customer.,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""employer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""customer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ILikeToDisagreeDude,We have unions and workers rights here. Tipping is NOT the solution and only causes more harm than good. Made more in the US? You were lucky then. How about the millions of other bartenders who worked at lesser popular bars? Guess they didn’t earn much now did they? Exactly…,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""unions"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""workers rights"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Tipping"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""US"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bartenders"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheVendelbo,"The expectation that a living wage should be provided by the customer, in lieu of fair compensation on the employers part, is inherently un-norwegian. To twist this into ""customers not appreciating service"" or any other variations of this sentiment is nonsensical; because I appreciate serviceworkers I wish for them to gave a good unionized agreement (tariffavtale) with a transparent expectation of compensation to be received.",2024-05-06,norge,en,"[
+      {
+        ""entity"": ""living wage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""customer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""employers"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Norwegian"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""serviceworkers"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""unionized agreement"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""tariffavtale"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+pesstass,Case in point; pushing a low wage-challenge over to the consumer side instead of through a union towards the employer - where it belongs.,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""employer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Idlertwo,Friendly reminder that tips are counted as taxable income and has to be declared by your employer. Forskuddstrekk has to be paid on top of the tips as well as. If its not its counted as embezzling and certainly punishable with fines if any employee notifies the tax authority of bad pratice in the workplace,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Forskuddstrekk"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""embezzling"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""fines"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tax authority"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""workplace"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lorjebu,"""People dont like what I say, so I must be right"" Ok",2024-05-06,norge,en,"[
+      {
+        ""entity"": ""People"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""I"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Conscious-Ad-9358,"Your ignorance is somewhat excused, given you think the American model is the way to go. Why would you work in Norway, and expect the public to pay your salary, and not your employer? Reflect on this and give me an answer.",2024-05-06,norge,en,"[
+      {
+        ""entity"": ""Norway"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KenuR,How does it feel to be a beggar in a uniform? Might as well ask for pennies on the street,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""beggar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""uniform"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pennies"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""street"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TeaZestyclose8516,It’s fun to pretend through unverifiable posts on the intarwebs.,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""intarwebs"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Anxious_Equal_7740,Go back where you came from then!,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""you"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TechnicalProgress921,Nedover i Europa er det likt. I Schweiz og Belgia fikk jeg ikke lov å taste in en total.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Nedover"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Belgia"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+andbingowashishomo,"Nei, det går til en samlet pott som hotellet senere kan bruke på noe gøy.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""hotellet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+idontlikebeetroot,Veldig bra! Alle andre steder burde vi kollektivt spille dumme og spørre om hvorfor vi må taste beløp.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Veldig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Alle andre steder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+andbingowashishomo,"Jeg synes også det er helt snodig. Det er dog ikke noen tips i resepsjonskassa, kun i restaurant og bar.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""restaurant"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Patient-Impress-8936,Hverken hoteller eller restauranter bør forvente tips. Tips er noe man gir om servicen var overdådig og enestående.,2024-05-09,norge,no,"[
+      {
+        ""entity"": ""hoteller"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""restauranter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Valonia-Ventricosa,Pleide ofte å gjøre det når jeg kjørte drosje.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Pleide"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""drosje"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok_Energy8763,Eneste måten ut er vel hvis mange nok mennesker bare kutter ut tipsingen helt. Det har ihvertfall jeg gjort.,2024-05-07,norge,da,"[
+      {
+        ""entity"": ""Eneste"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mennesker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tipsingen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NotnoRabbit,Kan være på med det hvis man faktisk får noe service men ikke når jeg må gjøre all jobben sjøl…,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Kan være"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""service"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mcove97,"Wolt og foodora gjør også det. Skjønner ikke helt hvorfor man skal legge inn tips før man får det man har bestilt. Flere ganger jeg har bestilt å fått feil eller kald mat. Da hadde det jo vært helt dust å tipse. Eneste grunnen til at jeg kan se fordelene med å tippse på forskudd er at maten kommer fortere frem fordi budet gir ekstra innsats pga tipset, men man burde jo ikke få dårligere service uansett, så..",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Wolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+JohnObiMikel12,Ikke gi dem ideer!,2024-05-07,norge,lb,"[
+      {
+        ""entity"": ""Ikke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Frolkinator,"Om de bruker det billigste datasystemet, så ville jeg tro det kan fungere.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Om"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""billigste datasystemet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NotnoRabbit,Hahaaaa! Fuck the system!! :rolling_on_the_floor_laughing:,2024-05-06,norge,en,"[
+      {
+        ""entity"": ""system"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+hohygen,Det blir noe prinsipielt feil for meg at lønnen er basert på gjestenes giverglede. Restaurantens overlevelse er basert på stødig og god leveranse så det bør være motiverende nok.,2024-05-09,norge,no,"[
+      {
+        ""entity"": ""Restaurantens"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""gjestenes"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vedhavet,Tipset én gang på foodora. Heller ikke da gadd de å gå ut av bilen og ringe på døra. Aldri igjen.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+beedigitaldesign,"Tipser ikke for kald mat eller no show nei. Etter siste gang Foodora ikke ga noe beskjed etter 1,5t hvor det sto 10-15 min hele tiden har jeg boikotta de og bruker bare hjemmesidene til sjappene heller.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""1,5t"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+boringestnickname,"Akkurat budtjenester er litt kinkig, i og med at bransjen ikke er ordentlig organisert ennå. Enig i prinsippet, og at tips på sikt bør bort, men hvis du har valget mellom å gi en underbetalt syklist noen kroner ekstra i timen etter å ha overbetalt for mat eller ei, så er valget enkelt for min del. Hvis du vil at arbeidsgiver skal betale nok lønn, så er det nesten fagforeningsbarrikadene en må stå på.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Akkurat budtjenester"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bransjen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""underbetalt syklist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeidsgiver"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fagforeningsbarrikadene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StaringOwlNope,"Aldri vert noen som spør, men hos egno så kommer det opp som et alternativ når du betaler. Og nesten ALLTID på utesteder i baren. Utrolig irriterende å måtte taste inn prisen selv, og glipper du så kosta den øla 1099 i steden for 109. Yay.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Aldri"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""egno"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ALLTID"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1099"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""109"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jennydb,Mange steder nå kommer det en tipseskjerm du må trykke bort før du kommer til betalingsskjermen. Veldig irriterende. Om jeg vil tipse legger jeg heller litt på totalsummen,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""tipseskjerm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""betalingsskjermen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StaringOwlNope,"Haha, hos egon vil det uansett være uaktuelt å gi tips så lenge brusen koster like mye som øl",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""brusen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""øl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Mirrevirrez,"Jeg skal også begynne å si ""ja jeg syntes jeg gjorde en god jobb med å hente ting selv. Takk som spør"".",2024-05-07,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Arildm,"åh, elsket dette. #Jallaland ""Åja, denne buksa som sier 28$ er egentlig 36$ ja.. hvor står det? Åja, dette er bare noe man automatisk vet?? Ja men hva er moms\`en i denne staten da??""",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jallaland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""28$"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""36$"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""moms'en"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""staten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Slasken,"Fikk dette forklart som; det er nasjonale kjeder, da må prisene være de samme når de averterer produktene, men de forskjellige statene har forskjellige skatter og avgifter.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""nasjonale kjeder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""statene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Patient-Impress-8936,Det er jo også litt bra sånn at man forstår hvor hardt staten skrur en,2024-05-09,norge,da,"[
+      {
+        ""entity"": ""staten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MissionIgnorance,"Blir nok behandla omtrent like dårlig om du gir ""bare"" 10%. 15% er absolutt minimum, de aller fleste er over 20%.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""10%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""15%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Vrillim,"25% anses dessverre som et minimum i disse dager, ufattelig nok",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""25%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""anses"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dessverre"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""minimum"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dager"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Frexxia,"> Så ett tips, hold deg inne på de normale 10%\`ene når du er ute å spiser. 10% er absolutt ikke normalt på spisesteder i USA. 20% er standard, og alt under 15% blir sett på som en fornærmelse. Kilde: Har reist til USA 10+ ganger Realiteten er at krona er veldig svak nå, så det er dyrt å være nordmann i USA uansett hvordan man vrir og vender på det.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kilde"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""15%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""krona"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nordmann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+skruddpotet,Jeg har alltid sagt at tips er å sammenligne med korrupsjon. Man betaler for å oppnå fordeler og det du beskriver er akkurat det.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""korrupsjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Patient-Impress-8936,Hva med å bare hoppe rundt? For da lærer de kanskje,2024-05-09,norge,no,"[
+      {
+        ""entity"": ""Hva"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hoppe rundt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jennydb,"Vurderer å bli helt Karen om jeg er i USA, be om å få snakke med sjefen og så lekse opp for hen hvorfor de ikke bør drive business om de ikke har råd til å betale ansatte lønn men i stedet forventer at gjestene skal betale «mellomlegget». Vet at det har null effekt, men bedre effekt enn å være sure på ansatte i hvert fall",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Karen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjefen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""business"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""gjestene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+skruddpotet,Er en tur over i året. I fjor var det bare slutte å tenke på slikt mens man var der og blir ikke bedre i år. Heller verre :),2024-05-06,norge,no,"[
+      {
+        ""entity"": ""fjor"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Valonia-Ventricosa,Det er faktisk ikke noen ille lønn i dag. En trygdet mottar rett under 250-300k.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""trygdet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""250-300k"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AfricanNorwegian,"Tilsvarer ca. 25,000kr netto per måned. Er det en fantastisk lønn hvor man som singel har råd til bolig midt i Oslo sentrum? Nei selvfølgelig ikke. Men «elendig» er vell litt å ta i? Man sulter ikke akkurat med 25k i måneden.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""25,000kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MBT_Kaboom,"Føler egentlig ikke at det er så mye godt som fører med seg at vi stadig begynner å likne mer å mer på USA. Føler vi på en måte mister identiteten som nordmenn. Men det er også subjektivt syn. Noen syntes det er bra, andre syntes det er dårlig.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nordmenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StaringOwlNope,"Og det fører jo til helt sinnsyke situasjoner, inne på servers subredditen var det noen som hadde hatt et stort bord der et firma skulle imponere en kunde, og de hadde brukt hundretusenvis. Det førte til at tipsen til den ene servitøren ble på en halv årslønn. Det må føles ekstremt bittert for de som faktisk har lagd maten, og de andre servitørene som har jobbet nøyaktig like mye",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""servers"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""subredditen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""firma"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hundretusenvis"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitøren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""maten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""servitørene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+woahGOD,"Du har nok helt rett i det, men synes det ser ""penere"" ut med hele tall. Er det teit? Ja.",2024-05-06,norge,sv,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hele tall"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sveern,"Hvor går endelig penga når man gjør det? Da det var cash så antok jeg at servitøren tok de i lomma, eller delte alt i en pot med de andre når dagen var over. Men hva skjer med «digital» tips?",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""servitøren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""penga"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dagen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vandelay_development,"Med mindre arbeidsgiveren svindler de ansatte, så er det ikke mulig å få mindre enn vanlig føderal minstelønn i USA, som er $7.25 i timen. Selv om timelønnen er f. eks. $4 i timen, så må arbeidsgiveren sørge for at den blir minst $7.25 når tips er regnet inn. *""The United States federal government requires a wage of at least $2.13 per hour be paid to employees who receive at least $30 per month in tips.[4] If wages and tips do not equal the federal minimum wage of $7.25 per hour during any week, the employer is required to increase cash wages to compensate.[5]""* Kilde:",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""United States"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""føderal minstelønn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""$7.25"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""$2.13"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""$30"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Federal minimum wage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""$7.25"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+barsknos,"Alt er svinedyrt i California også, da, så selv om de får en vesentlig høyere timelønn kan det være de faktisk trenger tips likevel på grunn av levekostnadene. Spesielt om de er i byene.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""California"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""timelønn"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""byene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mcove97,"Høres ut som ett uforsvarlig langt skift. Srbeidstid i Norge skal normalt ikke vare mer en 9 timer maks. Er det mer, skal man få overtidsbetalt.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""9 timer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IAmAQuantumMechanic,"Ja, men i så fall gir jeg ham en femtilapp når han ringer på.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""ham"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""femtilapp"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aej6aeBa,"Regner du ut på krona når du deler en regning med venner også? Hva om den som betaler tipser, trekker du det fra?",2024-05-07,norge,da,"[
+      {
+        ""entity"": ""venner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""krona"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Disastrous_Leek8841,Nei tipser ikke ved forhåndsbetaling,2024-05-07,norge,da,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Panzerknaben,Det er ikke noe mer av det nå enn det var for 30 år siden.,2024-05-07,norge,no,"[
+      {
+        ""entity"": ""30 år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No_Responsibility384,"og derfor skal man ikke kunne tipse før etter man har fått tjenesten, er jo helt på tryne at man skal tipse før man har fått tjenesten. ""Her har du litt tips slik at du kan ta bedre vare på meg en han fyren der borte som betalte mindre tips"" Er jo helt på tryne!",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""han fyren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+_____michel_____,"Men i USA er det slik av en GOD GRUNN, i og med at det er ved tips at de tjener penger. Jeg tror ikke at man noen gang blir sett ned på så samme måte her i Norge i og med at de uansett vil kunne leve av lønnen sin. (Med mindre kostnadene på alt i samfunnet fortsetter å skyte til himmels da, men i så fall er vi mange som vil slite fremover.)",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_____michel_____,"Minstelønn med 10 års ansiennitet er ca 230 kr for servitører. Det var i alle fall det jeg klarte å google meg frem til. På utdanning,no står det at de har 240 kr timen. Der jeg hadde det tallet fra.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Minstelønn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10 års ansiennitet"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""230 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""utdanning.no"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""240 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nxak,"Er i min første bar jobb nå, starta på 250,- timen.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Er"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""første bar jobb"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""250,-"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nordkompp,"Nei det er ikke det, men kokk og servitør er dårlig lønnet fra før. Jeg får 195 før skatt som kokk og med fagbrev, jobber kommunalt. Så klart det er digg med tips på en drittjobb, jobbet på restaurant men klarte ikke lenger så får klare meg med bare lønn",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""kokk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""servitør"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""195"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fagbrev"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kommunalt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""restaurant"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+entotresepodet,"Jeg fant ingen minstelønner som var lavere med unntak av arbeid for mindreårige, i servicebransjen.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""minstelønner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servicebransjen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+entotresepodet,Er det vanlig å bli med i fagforeninger for deltidsjobber?,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""fagforeninger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deltidsjobber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vegtodestiny,"De blir vel neppe no dårligere betalt i norge med det første, selv om det typisk er dårlig betalt. bortsett fra tipsen de går glipp av.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tipsen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+gruelsandwich,"Det er vel noen land hvor det er vanlig å betale tipsen cash. Var i Polen i vinter, og ble forferdet da det ikke var mulig å betale tips på terminalen, og jeg bare hadde store sedler.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Polen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vinter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jaywalkerr,"Til info, de bryter trolig loven. Men det er mulig noen må ta det rettens vei for at man får en avgjørelse på det: Arbeidsgiverne ble fra 2019 pålagt å lønnsinnberette tips som arbeidstakerne mottar. Dette innebærer at arbeidsgiver må holde oversikt over hvor mye tips de ansatte mottar og behandle dette beløpet som lønn. Pliktene skal gjelde uavhengig av om den ansatte mottar tips direkte fra en kunde eller etter en form for fordeling.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Arbeidsgiverne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2019"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeidstakerne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Occi-,"Da slipper bedriften å bruke egne penger på noe gøy, så i praksis går det potensielt til de.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""bedriften"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""potensielt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AtreidesDiFool,Rett i lomma på arbeidsgiver med andre ord,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Rett"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeidsgiver"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SneakyTrampoline,"Takk for svar. Vet du om alt går til potten, finnes det en slags oversikt for dere ansatte?",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""alt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""potten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""oversikt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dere ansatte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dreadnought_69,"Nei, service skal være inkludert i prisen.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+banZiii,"Nei nei nei. De er ansatt av bedriften og mottar lønn av de for å yte service til kundene. I USA jobber de fleste så og si gratis trur jeg, men lever av tips. Helt bak mål, men det er slik de velger å gjøre det der borte.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+boringestnickname,"Jeg pleier å runde opp hvis jeg kjøper meg en pils. Det synes jeg er helt innafor. Nå er ikke jeg så verst på prosentregning, men generelt er jo dette bare en obfuskering av den relle prisen, samtidig som man føler seg presset til å tipse. Virker helt mot sin hensikt i mitt tilfelle i alle fall.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pils"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Patriark,"Foodora har allerede differensierte priser på prioritering av leveranse, så tips er helt meningsløst som virkemiddel for det også. Ettersom at vanlig prioritet som hovedregel fungerer mer enn greit nok, så er jeg ikke i harnisk over at det finnes dyrere alternativ for de som ønsker å garantere at maten kommer veldig raskt frem pga at de har dårlig tid eller whatever. Men hvis det blir sånn at basispris gir ræva service så blir det kroken på døra for meg.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""prioritering av leveranse"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Patient-Impress-8936,"japp. hva om man gjorde slik. kjøkken er separat fra servering. når man ankommer, legger man inn bud på servering. servitørene står klare frem til budene tikker inn. da bestemmer de seg om de gidder. cheapos står lenge i kø og de som hoster opp grynene får service fort og bra. deretter kan det tipses om det føles for det. man kan også by på den servitøren man vil. det trengs ikke øyekontakt mellom kundene og servitørene. man kan som kunde kikke på servitørene igjennom mørkt glass. servitørene er belyste. Dermed blir digge dina brukt mye mere og de andre tar hintet at servitøryrket ikke er for dem. no ugly people. så blir det ikke restauranten som betaler lønnen til servitørene uavhengig av hvor flinke de er, men kunden som velger den services den vil ha. Da kan de som vil slå på stortrommer i fulle lokaler gjøre det og få skikkelig service. Hva skulle man kalt et slikt konsept? kitchen+waiter? evt kunne man hatt to kjøkken og to serveringssteder side ved side også kan de to konkurrere med hverandre selv om det er sammme bedrift. ab testing . beste løsning vinner i lengden.",2024-05-10,norge,no,"[
+      {
+        ""entity"": ""cheapos"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitørene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dina"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""restauranten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""konsept"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjøkken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""serveringssteder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fluffymonsta,"Vet ikke med foodora, men i Wolt kan vi ikke se om kundene gir tips før senere på dagen",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+B0hemen,Budene ser det ikke før etter jobben er gjort at du har gitt tips. Helt håpløst system,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Budene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+mcove97,"Må nesten alltid gå ut av huset og til nærmeste parkeringsplass fordi de ikke gidder ta seg bryet med å parkere utenfor huset og gå opp til døra å ringe på, men heller ringer på parkeringsplassen og sier ""jeg vet ikke hvor du bor"". Bullshit. Jeg har lagt inn spesifikt på kart hvor jeg bor med enkel forklaring på hvilken dør og dørklokke skal ringes på. 1/10 typ klarer gjøre det, og jeg må gå ut av huset til parkeringsplassen å hente maten, gjerne i pysj og tøfler..",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""parkeringsplass"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""huset"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""døra"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dørklokke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kart"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""maten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pysj"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tøfler"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JestersHat,Jeg ble oppringt av budet fordi han ville jeg skulle komme ned og ut. Det er sp utrolig uaktuelt. Jeg bestiller jo NETTOPP for å slippe akkurat det.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""budet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""NETTOPP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+NokEnNyBruker1,Har hørt rykter om at de fucker med maten til folk som ikke tipser. Har ikke brukt foodora på grunn av dette på flere måneder nå.,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SKILLZMISSEBAR1,"På mange terminaler er det nok å trykke OK istedenfor beløp, da vil beløpet bli 109 i dette tilfellet. Så slipper du unna å betale 1099 for øla.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""terminaler"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""beløp"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""109"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1099"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""øla"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mcove97,"Må være slitsomt å være fattig der. Man må vel ha med seg kalkulator på butikken for å regne ut momsen på hver enkelt vare hvis man har lite penger, så man ikke står i kassen og plutselig ikke har råd fordi varene kostet mer enn antatt.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""fattig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kalkulator"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""butikken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""momsen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""varene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Issah_Wywin,"Dette burde de glatt ha mulighet til å ha som avregning i kassa. Helt på trynet at ""Verdens beste"" land liksom skal drive med fingermatte under handleturen fordi de er for cheap til å oppgradere sysmet sitt.",2024-05-07,norge,no,"[
+      {
+        ""entity"": ""Verdens beste"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Frexxia,Jeg er sikker på at det er nettopp du som klarer å egenhendig endre tipsekulturen i USA (/s),2024-05-07,norge,da,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fra_nord,"Jeg er nok stort sett enig med deg, og jeg var kanskje ikke helt klar i kommentaren min. Uten å gå i detalj er det veldig mye dårlig vi tar fra usa, men noe godt er det og.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""usa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+VanEmoji,"Var på intervju med en pizzasjappe som rimer med deppes pizza. ""Du velger selv om du vil tjene penger - tipsen går til den som tar betalingen. Om du synes du tjener nok uten å løpe, kan du stå på kjøkkenet. Om du vil tjene bra, må du løpe som faen."" Glemte visst å si til dem at jeg ikke ville komme på ""prøvevakten"", fikk kjeft i og med at de hsdde satt opp en servitør mindre siden jeg skulle være der ........ Tror det var færre røde flagg under oktoberrevolusjonen",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Var"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzasjappe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deppes pizza"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjøkkenet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""oktoberrevolusjonen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+I_call_Shennanigans_,Og gjennomsnitrservitøren tjener ikke spesielt godt der borte heller - me alle forsvarer praksisen sånn i tilfelle de skulle komme i en slik situasjon en gang...,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Og"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""gjennomsnitrservitøren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""me"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jennydb,Dette er jo hvorfor de presser på for tips. Slik at de kan betale mindre,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Valonia-Ventricosa,"Du går automatisk ut ifra at jeg har venner,skjønner jeg? Hva andre gjør,får være deres sak. Jeg betaler nøyaktig det jeg skal ikke en krone mer. End of story.",2024-05-07,norge,da,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""venner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""andre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nøyaktig"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KjellRS,"Akkurat den ligner nå litt på å be om VIP-billett av noe slag, problemet i USA er at det er snudd helt andre veien. Du må betale en bestikkelse for å få normal service, spesielt når det gjelder mat kan liten/ingen tips bety at maten blir køddet med. Det er ikke greit.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+fra_nord,"Jeg håper du har rett, men jeg tror det er en stor risiko for at du tar feil. Grunnen er at det utvikler seg i den retninga der vi må ta ett aktivt valg om å ikke tipse. Om den utviklingen fortsetter, og tipsing blir mer og mer normalt, vil det bli unormalt å ikke tipse. Det er en grunn for at flere og flere spisesteder begynner å aktivt spørre, og jeg tror det er fordi folk ikke tør å si nei. La det gå lang nok tid, så blir det fort normalt. Den eneste grunnen for at jeg tipser når jeg er i usa, er fordi alle andre gjør det. Jeg høres kanskje egoistisk ut men jeg tenker ikke på at de tjener lite, det er ikke mitt problem. Jeg tror også de fleste av de som tipser i usa, gjør det kun fordi det er forventet. Tviler på at de tenker særlig ofte på hvor mye servitøren tjener. Hvis å ta ett aktivt valg om å tipse, er for å belønne god service, kjennes fort ett aktivt valg om å ikke tipse som en straff for dårlig service.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""risiko"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""utvikler seg"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""retninga"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""aktivt valg"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tipsing"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""spisesteder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""usa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitøren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""god service"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""dårlig service"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+VanEmoji,Har sånn 2-3 prs ansiennitet fordi jeg har jobba en del useriøse steder som har betalt meg på vipps etc :loudly_crying_face: skattemeldingen er krise,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Har"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2-3 prs"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jobba"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""useriøse steder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""vipps"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""skattemeldingen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+VanEmoji,Jeg var sååå fornøyd i fjor da jeg fikk 200 i pubjobben min ....,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""fjor"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pubjobben min"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wheeljack7799,"Det blir ikke bedre lønna av at det forventes tips. Det er bare enda en grunn for arbeidsgiver å holde lønna latterlig lavt. Det er ingen som sier at du som kokk med fagbrev ikke fortjener godt betalt - men det er arbeidsgivers ansvar. Ikke meg som kunde. Jeg betaler gladelig litt mer for biffen min, om det betyr at den som lager den får en anstendig lønn.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""kokk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""fagbrev"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Jesus_Fuckn_Christ,Ja! Rekrutterte sommervikarene der jeg jobba til foreninga,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Rekrutterte"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sommervikarene"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreninga"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jennydb,Absolutt :OK_hand::OK_hand: Jeg ble med i Handel og kontor da jeg jobba på Meny ved siden av vgs for eksempel,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Handel og kontor"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meny"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bbrpst,Synes det er rart bedrifter har tips som preset på terminalene etter tipssaken. Restauranter går jo i minus på at det gis tips. Er det noe jeg har oversett?,2024-05-06,norge,da,"[
+      {
+        ""entity"": ""bedrifter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Restauranter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kato1985Swe,"Ulovlig ja, de pengene skal gå til dere direkte i form av lønn.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Ulovlig"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lønn"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+andbingowashishomo,"Såvidt jeg har forstått det så ja, alt går til potten. Men vi på gulvet har ingen oversikt.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""gulvet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mcove97,"Jeg synes allerede at alkohol på utesteder er overpriset, og da særlig øl, cider, rusbrus og den slags som ikke krever særlig av bartender annet enn å tappe ølen på ett glass eller sprette korken. En annen ting er spesial lagde drinker. Husker en bar jeg pleide gå på med en vennine som jobba der, og den ene bartenderen var ekstremt dyktig, fikk meg til å like drinker tross at det var gin og akevitt i.. og jeg hater gin! Han fortjente absolutt alle tipsene han fikk. Det var noen av de beste drinkene jeg noensinne hadde smakt. Han var også skaperen av flere av drinkene. Som regel når jeg går på generiske nattklubber, så får jeg generiske og lite kreative drinker som er så som så, og som jeg ser ikke krever særlig av bartender. Da tipser jeg aldri.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""alkohol"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""utesteder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""øl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""cider"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rusbrus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bartender"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""bar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vennine"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gin"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""akevitt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tipsene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""drinkene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""nattklubber"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""drinkene"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok_Energy8763,Hvorfor skal man tipse noen som heller en øl? Er ikke det bokstavelig talt jobben deres?,2024-05-07,norge,da,"[
+      {
+        ""entity"": ""ingen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""øl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThirdRevolt,"Sånn det skal være. Har sett av Dashere i USA at de ser på forhånd at det ikke er tips, og da er det rett og slett ingen som tar på seg den bestillingen.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Dashere"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Patient-Impress-8936,Det er skattegrunner til det,2024-05-09,norge,da,"[
+      {
+        ""entity"": ""skattegrunner"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gatesoffire1178,"Nei, det er usant. Jeg var syklist hos Foodora i ett år. Man ser ikke noe om man har fått tips før budet har gitt maten til kunde og trykket levert i appen. Dumt at kunne mye for å levere godt og gi ekstra innsats men kunden kunne ikke gi tips uansett. Dette var før streiken og syklistene var veldig dårlig betalt og måtte pugge ut selv for alt med sykkelen.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""syklist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""streiken"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+StaringOwlNope,Gå å si det til fulle folk du,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""fulle folk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MBT_Kaboom,"Ja jeg skal ikke si meg uenig at det er noe godt all driten fører med seg, men for det meste så som sagt syntes jeg det er negativt. Skal ikke så veldig mange år tilbake som norge var norge om du forstår?",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StaringOwlNope,"Å herregud... Hater arbeidsgivere som sier ""du velger lønna selv"" Betyr som regel at om du ikke ofrer liv og helse for arbeidsplassen så er ikke lønna levelig",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""arbeidsgivere"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""lønna"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Successful_Bit_1950,"Peppes har tariffavtale, og tips deles 50/50 mellom kjøkkenmedarbeidere og servitøren/sjåføren. Mange Peppes-steder er franchiseeid, så overnevnte gjelder kun Peppes sine interneide restauranter og takeaways.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Peppes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjøkkenmedarbeidere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitøren/sjåføren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Successful_Bit_1950,De tjener 209 kr timen m/tariffavtale på konserneide restauranter.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""tjener"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""209 kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tariffavtale"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""konserneide restauranter"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_____michel_____,"Jeg har prøvd å ta opp dette i amerikanske grupper noen ganger, og jo, de tenker definitivt på hva servitørene tjener. Jeg har ""fått passet mitt påskrevet"", for å si det forsiktig, for å bare være aldri så lite kritisk over denne kulturen. Det er forskjell på å bli litt uglesett som en normbryter, en som avviker litt her og der, og noen som bryter normer som samtidig skader andre. Hva folk ""forventer"" bryr jeg meg lite om. Det finnes plenty merkelige forventninger i samfunnet, men jeg føler at jeg stort sett har ryggrad nok til å stå for mine prinsipper og holdninger, og argumentere for meg hvis noen lurer. Jeg kjenner meg for øvrig ikke igjen i beskrivelsene dine av at dette blir mer og mer normalt. Jeg er 38 år gammel, og har alltid vært glad i å spise ute. Tips har alltid, så langt bak jeg kan huske, vært relativt normalt når man har vært fornøyd. Man har ofte rundet opp til nærmeste 50 eller 100. Men det har ikke vært noe krav. Man har tipset når det har ""føltes riktig"". Selv har jeg sjeldent gitt noe mer enn 30-40 kr, uansett hva anledningen har vært. Og det har aldri kostet oss noe å la være å tipse. Treg mat?: Ikke noe tips. Skulle biffen være medium, men var for mye stekt: Ikke noe tips. Var servitør dårlig på å følge opp bordet slik at det var vanskelig å be om mer drikke: Ikke noe tips. Hadde vi ingenting å klage på, men heller ikke noe å skryte spesielt mye av: Ikke noe tips. Jeg synes at dette har fungert helt utmerket.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""amerikanske"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""servitørene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""normbryter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""samfunnet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""38 år gammel"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nxak,"Jeg ser, takket være denne tråden, at jeg tydeligvis har vært heldig med min første jobb i bar med tanke på lønna. Blir vertfall motivert til å fortsette, gi 100% og trene hjemmefra på drinkmiksing. Det er svakheten min.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tråden"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nordkompp,"Forstår hva du mener, nå får jeg såklart ikke tips lenger. Men når sjefen min (kommunen) setter lønna mi etter tariff, hvem skal jeg gå til. Litt tips var så digg da jeg jobba på restaurant i 8 år, tror ikke folk forstår hvor hard den jobben er Edit: ser på dune så orker ikke mer reddit i dag",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""sjefen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kommunen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tariff"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""restaurant"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Edit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dune"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jaywalkerr,Det som er «verre» er at de ikke betaler arbeidsgiveravgift. Og med «verre» mener jeg med statens øyne. Det er alltid verre å stjele fra staten enn folk.,2024-05-06,norge,no,"[
+      {
+        ""entity"": ""staten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nordvestlandetstromp,"Har stusset litt på at det brukes dark patterns for å tvinge kunden til å gi tips. Tviler på at de ansatte har tvunget dette frem, så da er det bedriftene som har gjort det. Hvorfor? Ønsker de en mer tipsbasert kultur så de kan betale mindre lønn? Tar de pengene i egen lomme?",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""dark patterns"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""de ansatte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bedriftene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tipsbasert kultur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lønn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pengene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SneakyTrampoline,"Ok, takk igjen, bare nysgjerrig jeg. Liker også innstillingen din om å trykke vekk tipsinga, hadde jeg sett det ville jeg nesten tipsa pga det alene",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""nysgjerrig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""tipsinga"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Patriark,"Du har ""vanlig"" pris, hvor det forekommer at budet tar en leveranse før din og du får 5-15 min lenger ventetid, så har du prioritert pris, hvor Foodora garanterer at du er først i køen, mot ca 40,- ekstra betaling.",2024-05-12,norge,da,"[
+      {
+        ""entity"": ""Foodora"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""40,-"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Forkrul,"Det gir mening, der borte er de avhengige av tips. Så hvis de ser at det ikke er tips for en ordre hvorfor skal de gidde å ta den? De velger jo selv hvilke ordre de vil levere.",2024-05-06,norge,da,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""borte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ordre"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ill_Tell7040,"Problemet med tips er ikke at du ikke får levert maten fordi du ikke er villig til å betale mer, om den jobben skal være lønnsom så må nok samme pris eller mer betales uansett. Forskjellen er om det er kunden og ting utenfor arbeiderens kontroll som skal diktere hvor bra personen tjener eller om firmaene bare skal betale nok til å begynne med. Og om firmaene bare betaler bra nok til å begynne med så gir det arbeiderne mye mer økonomisk stabilitet.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""Problemet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""tips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""arbeiderens"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""firmaene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+I_call_Shennanigans_,"Tenkte mer på de mange mange små plassene med typ 3$ I minstelønn men som hardnakket påstår de kommer kan tjene tusenvis av dollar bare de får den rette jobben. Det er noen av dem, og det er alltid noen i tråden som tjener like mye som en doktor, så bare ikke prøv å endre tipskulturen... 200kroner timen + 30% I tvungne tips begynner å bli en ganske heftig lønn i en del populære resturanter egentlig. Kanskje det var det man skulle gjort et år eller to der borte :thinking_face:",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""dollar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200kroner"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bbrpst,"Såvidt jeg forsto kan ikke arbeidsgiver ta fra tipsen for å dekke arbeidsgiveravgiften som de må betale på tips som utbetales til ansatte. Så om en tipser kelneren 100 kroner er det 14,1% som da må dekkes av restauranten i arbeidsgiveravgift.",2024-05-06,norge,no,"[
+      {
+        ""entity"": ""arbeidsgiver"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tipsen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kelneren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100 kroner"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""restauranten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""14,1%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+k4p1sch,"Ingenting gjør meg tristere enn en liten pusekatt som må avlives. Jeg har 2 katter selv og jeg klarer ikke en gang å forestille meg hva du føler eller hva du går gjennom, men vit at katten din mest sannsynelig har det mye bedre der den er nå. Det var en veldig fin og skjønn katt du hadde, jeg er sikker på at den hadde det helt perfekt hos deg i tiden han var i live:red_heart: Jeg kjenner deg ikke, men hvis du har et behov for å lufte noe eller vil prate om noe, så kan du alltids sende meg en melding - jeg hører mer enn gjerne på det du føler på og tenker på.",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""pussekatt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2 katter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""katten din"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""veldig fin og skjønn katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""tiden han var i live"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

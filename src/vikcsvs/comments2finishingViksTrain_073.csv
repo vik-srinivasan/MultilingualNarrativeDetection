@@ -1,0 +1,5221 @@
+author,text,timestamp,subreddit,language,gpt_output
+Skodakenner,Könnte das Nachbarhaus sein sieht aus wie das erste Haus in der zweiten Reihe hier hatt schimmel ohne ende und muss eigentlich Kernsaniert werden oder weggerissen werden. Kosten soll der Spaß 300k weil das Grundstück immerhin 800 qm hatt,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nachbarhaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""erste Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""zweiten Reihe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schimmel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kernsaniert"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""800 qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OlegTheProphet,Bin voll bei dir!,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Bin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Viertelesschlotzer,"Natürlich. Was ich damit sagen wollte, das Bauen schon immer ein teuerer Spaß war. Allerdings hat man in den 70er noch relativ günstig ein Grundstück erwerben können, bzw. befand sich oft noch Grund und Boden in Familienbesitzt. Auch war es nicht ungewöhnlich das man sein Haus fast komplett in Eigenleistung gebaut hat. Mein Onkel hat z.b. fast zwei Jahre lang jede frei Minute in sei Eigenheim gesteckt, unterstützt von seinen Verwanden und Freunde. Um dann anschließend im Gegenzug diese beim Bau ihrer Häuser zu unterstützen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""70er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Onkel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Sarkaraq,"> Aber im Verhältnis zu heutigen Preisen ist es dennoch deutlich teurer geworden. Für einen reinen Bausatz und Lieferung? Teurer geworden sind Grundstück und Arbeit - das Baumaterial dürfte doch vergleichbar sein, obwohl es heute wesentlich hochwertiger sein sollte.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""heutigen Preisen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baumaterial"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ProfessorPlingus,"Für das was du damals bekommen hast, definitv nicht. Asbestverseuchte billig Bausätze. Fertighäuser sind was Preis-Leistung angeht heute viieeeel günstiger",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Asbestverseuchte billig Bausätze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fertighäuser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+nibbler666,Klar. Heutzutage ist der Baustandard ja auch höher. In nahezu allen Bereichen.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Klar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baustandard"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Madouc,"Nein, denn das sind Bausätze für Selbstbauer.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Bausätze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheDuffman_OhYeah,Zwei Jahresgehälter für einen Bausatz.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Jahresgehälter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bausatz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nibbler666,Heutzutage kannst du auch für 5 durcjschnittliche Jahresgehälter (275 000) ein Haus bauen. (Nicht nur Bausatz.),2024-05-12,de,de,"[
+      {
+        ""entity"": ""Heutzutage"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""275 000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schemen123,Das Material hab ich locker mit 2 Jahresgehälter gezahlt.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Das Material"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 Jahresgehälter"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+europeanguy99,"Na ja, kein Haus, sondern das Material zum Bauen. Das dürfte heute prozentual für dieselbe Materialqualität nicht allzu viel drüber liegen. Aber wer baut noch ein 80qm-Haus, und ohne Dämmung, mit Asbest etc. darfst du heute natürlich auch nicht mehr bauen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Asbest"",
+        ""entity_type"": ""MATERIAL"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""80qm-Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EggplantCapital9519,"Genau, das geht schon, aber verlangt eben auch einiges ab, was bei solchen Vergleichen immer gerne vergessen wird.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Genau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vergleichen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kaktussaft,"Kommt drauf an, wie streng die Baugesetze im jeweiligen Bundesland sind. Bei manchen brauchst du für alles ne Genehmigung, bei anderen sind gewisse Arbeiten nur anzeigepflichtig oder sogar genehmigungsfrei. Und did Vorgaben können auch aus dem Bebauungsplan der Gemeinde stammen. Bei uns ist z.B. die Dachziegelfarbe vorgeschrieben und gewisse Arten von Zäunen sind verboten. Manche Gemeinden sind da sehr penibel und streng, manche recht entspannt.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Baugesetze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Genehmigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bebauungsplan"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gemeinde"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dachziegelfarbe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zäunen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gemeinden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Krulle86,"Jedes Gewerke darfst du selbst machen. Außer die Genehmigung(en). Sobald der Baufreigabeschein da ist, kannst du Gas geben. Wasser und Strom müssen halt noch vom Versorger abgenommen werden, aber die Bausubstanz ist erstmal relativ egal. Das meiste ist eh malen nach Zahlen, weil der Statiker/Architekt/Planer schon alles durchgeplant und vorgegeben hat.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Statiker/Architekt/Planer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Life_Fun_1327,"Kommt auf die Region und das Grundstück an. Wir haben ein Grundstück in naher Umgebung einer regionalen, historischen Stätte besichtigt. Dort ist die Farbe der außenfassade und Fensterrahmen vorgeschrieben, damit die Optik der Stätte nicht von Häusern der direkten Umgebung beeinträchtigt wird.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Region"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""historischen Stätte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Farbe"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""außenfassade"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fensterrahmen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Optik der Stätte"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Häusern der direkten Umgebung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TimTimmaeh,"Das müsste passen… mein Dad war, würde ich Mal behaupten, Besserverdiener und hat mit 1200,- DM / Monat ein 220T DM Haus eine Dekade später finanziert.. zu Beginn mit 18% Zinsen. Keine Ahnung wie das ging… Das Haus hat heute Sanierungsstau und ist (vermutlich - identische Häuser stehen seit Monaten zum Verkauf) 400T € wert.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Dad"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1200,- DM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""220T DM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine Dekade später"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""18% Zinsen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sanierungsstau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""400T €"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Outrageous_Duty4608,Eine Küchenzeile oder ein paar Elektrokabel oder Wasserrohre in einer Wand sind doch nicht komplizierter als ein Auto zu bauen. Warum kann man die Dinger nicht individualisiert aber am Fließband produzieren und dann vor Ort einsetzen?,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Eine Küchenzeile"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elektrokabel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wasserrohre"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auto"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fließband"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RealBlackelf,"Wenn alle Materialien gelifert werden, errichte ich die Häusle für den Preis gerne selbst! Habe schon 3 Häusle im Ausland mit eigenen Händen gebaut, so schwer ist das wirklich nicht! Kostet einfach sehr viel Zeit, ist aber nun wirklich keine Raketenwissenschaft. ps: Die donwvotes sind schon interessant: Auch mal einen Kommentar abgeben und angeben, was sie doof finden?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Häusle"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobias_681,"Also ein Haus in München kriegst du sicher nicht, aber z.B. Häuser in der Gegend aus der ich komme (Ballungsgebiet um Flensburg) gibt's für ungefähr so viel und das ist nicht mitten im Nirgendwo. Neubau zu dem Preis aber eher unwahrscheinlich. Dann solltest du in eine Wohnung in einem MFH investieren was auch sowieso besser wäre.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""München"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ballungsgebiet um Flensburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Neubau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wohnung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MFH"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RealBlackelf,"16mbit sind super! :D Und klar, irgend eine Bruchbude irgendwo. Und doch ein gewaltiger Unteschied zwischen 8k und 200k. Letzte Wohnung, die wir gekauft hatten vor 6 Jahren waren tatsächlich 180.000 für 16 m². Wird für etwas über 1100/monat warm vermietet (möbliert, nicht das da viele Möbel reinpassen). Abgefuckter Schwachsinn, wenn es nach mir geht. Würde den Wohnungsmarkt komplett regulieren. Es geht nicht auf, das Familien sich das wohnen nichtmal leisten können! (Mieten hier, Maxvorsatadt München, liegen gut bei über 3000€ / monat für 3 Zimmer: Was soll der Dreck?)",2024-05-12,de,de,"[
+      {
+        ""entity"": ""16mbit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""8k"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""200k"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Letzte Wohnung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""180.000"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""16 m²"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1100/monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgefuckter Schwachsinn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Familien"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Mieten hier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Maxvorsatadt München"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3000€ / monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3 Zimmer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OkTechnology972,Ich habe offensichtlich nicht gerechnet sondern grob überschlagen,2024-05-14,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""nicht gerechnet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+suckmysprucelog,"Schon, für 80qm ist 80.000 reine Materialkosten trotzdem relativ realistisch, je nach Bauweise.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Schon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80.000"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Materialkosten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bauweise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Noodleholz,"Ja, mein Elternhaus Bj. 1962 hatte keinen gedämmten Dachstuhl, man hat die Ziegel gesehen. Mein Opa hat dann selbst Isowolle und Holzpaneele drüber. Da Heizenergie spottbillig war, hat der Verbrauch von 30.000 kwh/h im Jahr niemanden gejuckt. Das kann man mit den heutigen Anforderungen an Wärmedämmung nicht vergleichen, die Privatperson ist zu sowas nicht in der Lage.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Opa"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Isowolle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Holzpaneele"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30.000 kwh/h"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wärmedämmung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Privatperson"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Shiros_Tamagotchi,Die ersten richtigen Anforderungen kamen in den 70ern nach der Ölkrise,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Die ersten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""70ern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ölkrise"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kardish,Es gab damals keine Anforderungen an Dämmung. Die erste Wärmeschutzverordnung ist aus 1977. Da hat man dann ein paar Standards festgelegt. Vorher durfte man Wärmeschutztechnisch bauen was man wollte.,2024-05-13,de,de,"[
+      {
+        ""entity"": ""1977"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Xamalion,"Korrekt, so haben das meine Eltern auch gemacht. Mein Vater hat sogar am Wochenende die paar Hilfsarbeiter die sie sich geleistet haben selbst mit dem Auto abgeholt. Heute dürftest du das alles gar nicht mehr, erstens wegen Versicherung und Unfallgefahr, aber eben auch wegen Schwarzarbeit. Es ist mehrheitlich untersucht, die Baukosten sind in Deutschland in ganz Europa mit (wenn nicht gar die) am höchsten weil es tausend Auflagen gibt.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wochenende"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hilfsarbeiter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auto"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baukosten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EhliJoe,"Kein Grundstück, wo das Häuschen stehen könnte.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Kein Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Häuschen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TroyMcClure0815,Gib mir ma den 6er Imbo oder den Schraubenzieher… ich muss die Rehgips platten fest machen.,2024-05-14,de,de,"[
+      {
+        ""entity"": ""Imbo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schraubenzieher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rehgips"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Shiros_Tamagotchi,Das sehe ich anders,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kjhgfr,">Stimmt, aber braucht man den Architekten bei einem Fertighaus? Auch wenn die Zeichnung und die Berechnungen fertig sind, muss der Bauantrag noch unterschrieben werden und paar grundstücksbezogene Sachen gemacht werden (Zeichnung Lageplan + Berechnung GRZ/GFZ). >Aber wahrscheinlich muss dann immer noch die Statik geprüft werden, nach Bauort. Kommt etwas auf's Bundesland an, früher wurden in Niedersachsen auch bei EFH die Statiken geprüft. Heute reicht die Angabe eines Tragwerksplaners. Wobei evtl. mit Typenstatiken gearbeitet wird.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Architekten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fertighaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeichnung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bauantrag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lageplan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""GRZ/GFZ"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Statik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Niedersachsen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EFH"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tragwerksplaners"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Typenstatiken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobimai,Aufm Bauantrag braucht man nen Architekt,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Architekt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Professional-Tea-121,"ja vorallem, da damals eine person mit 2 bis 3 kindern allein arbeiten war und das haus trotz dessen drin war (mich einfachmal in meiner Familie umschau). also wiederhole ich deine Frage nochmal, ""was zum fick redest du da?""",2024-05-14,de,de,"[
+      {
+        ""entity"": ""eine person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 bis 3 kindern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aromatic_Anybody4215,Den gibt's dann für Sanierer zum Haus gratis dazu.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Sanierer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SyriseUnseen,Nen akuten Mangel an Kommata,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommata"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Xamalion,"Ja, schön ohne Isolierglas natürlich und mit billigem Metall/Kunststoff. Bei den Temperaturen kannste froh sein wenn Dir die Teile nicht überm Kopf zusammenschmelzen bei den Sommern die wir inzwischen haben und noch kriegen werden.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Isolierglas"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Metall/Kunststoff"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Temperaturen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sommern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kaktussaft,"400qm für 350T€ macht 875€/qm. Hab mal in der Bodenrichtwertkarte geschaut, in meiner Stadt (>500T Einwohner) ist das ungefähr der Richtwert für das Luxusviertel mit Gründerzeitvillen, aber nicht für die Stadtrand-EFH-Gebiete mit 70er-Bebauung.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""400qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""350T€"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""875€/qm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bodenrichtwertkarte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        "">500T Einwohner"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Luxusviertel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gründerzeitvillen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadtrand-EFH-Gebiete"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""70er-Bebauung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Leglipa,Der Traum meiner schlaflosen Nächte...,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Der Traum"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schlaflosen Nächte"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Skiingscientist,"Gerade die Grundstücke sind halt krass. In den 70ern sind ganze Stadtteile entstanden. Heute gibt es einfach keine Grundstücke mehr, keine Neubaugebiete.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""70ern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadtteile"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grundstücke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Neubaugebiete"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Viertelesschlotzer,"Nein, auch die Baumaterialen sind deutlich teuer geworden.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Baumaterialen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TxM_2404,"Wahr, aber selbst wenn nochmal so hohe Kosten für Grundstück und Arbeit aufkommen ist das immernoch günstig im Vergleich zu jetzt.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NoNameFredKlaus,"Ich glaube nicht, dass das durchschnittliche Nettoeinkommen 55k sind. Steuern/Abgaben, Miete (die 5 Jahre würde ich ungern Zelten) usw. kommt ja alles nochmal runter.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nettoeinkommen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Steuern/Abgaben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Miete"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""5 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zelten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NoNameFredKlaus,"Ich glaube nicht, dass das durchschnittliche Nettoeinkommen 55k sind. Steuern/Abgaben, Miete (die 5 Jahre würde ich ungern Zelten) usw. kommt ja alles nochmal runter.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nettoeinkommen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Steuern/Abgaben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Miete"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""5 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zelten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+likamuka,> mit Asbest etc. darfst du heute natürlich auch nicht mehr bauen Immer diese grüne Verbotsgesellschaft11222222111,2024-05-12,de,de,"[
+      {
+        ""entity"": ""mit Asbest"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""grüne Verbotsgesellschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Palamur,"Wenn die identischen Häuser seit Monaten zum Verkauf stehen, sind sie die aufgerufenen 400T€ anscheinend nicht wert. Entscheidend ist nicht, wie hoch die Preise in den Immobilienportalen sind, sondern zu welchem Preis sie dann am Ende wirklich verkauft werden.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Monaten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""400T€"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Quotemeknot,"Tja keine Ahnung, wirklich kompliziert ist da nix. Wenn ich raten müsste wären es drei-vier Sachen: 1. Häuser halten ""zu lange"", es gibt also zu wenig ""Wiederholung"" und dafür (und evtl. auch daher) sind sie dann auch zu teuer 2. Logistisch schwierig, schon Wandteile, Rahmen etc. brauchen spezielle Transporte, Kran etc. 3. Die Leute wollen es so, quasi die Einstellung ""Haus ist Ausdruck von Individualität, das kauft man nicht von der Stange"". 4. Eventuell auch ein Genehmigungsding, da überall andere Bauvorschriften und -ordnungen herrschen.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Häuser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wiederholung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Logistisch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wandteile"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rahmen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Individualität"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stange"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Genehmigungsding"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bauvorschriften"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bauordnungen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+asdf93,"Das sind nur Materialien für den Rohbau, nix weiter. Brauchst also noch n Grundstück, Kabel, Rohre, Fliesen,...",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Rohbau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kabel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rohre"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fliesen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobias_681,"Sollte auch inflationsbereinigt ein gutes Stück mehr sein als 20.000 DM 1970. Edit: Laut [diesem Rechner]( wären 20.000 DM aus 1970 nach Inflation heute 44.496,78 EUR",2024-05-12,de,de,"[
+      {
+        ""entity"": ""20.000 DM"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""44.496,78 EUR"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+t0my153,Was meinst du wozu eine Privatperson nicht in der Lage ist? Ein Dach ordnungsgemäß zu dämmen ist jedenfalls auch als Privatperson möglich,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Privatperson"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dach"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EyeDizzy8400,"Sicher, dass Du 30.000 meinst? Das sind doch nur 3000 Liter Öl....",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Öl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aanzeijar,"Hmm? Meine Eltern haben Mitte der 90er auch noch das Dachgeschoss selber ausgebaut, der Kosten halber. Das war jetzt kein Hexenwerk, auch wenn ich die scheiß Glaswolle nie wieder sehen will. Was ist da mittlerweile anders?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Meine Eltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mitte der 90er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dachgeschoss"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Glaswolle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+aksdb,"Gab's da damals eigentlich auch Aufschrei wegen ""Ökodiktatur"" oder sowas?",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Gab"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ökodiktatur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Harambe_Joe,"Stimmt so nicht. ""Wärmeschutz im Hochbau"" ist seit 1952 normiert. Das Staatsgebiet wurde dazu u.a. in Wärmedämmgebiete mit unterschiedlichen Anforderungen unterteilt. Aber: a) es wurde deutlich weniger intensiv verfolgt, auch ob überhaupt die notwendigen Maßnahmen umgesetzt wurden b) die Standards waren natürlich deutlich geringer",2024-05-15,de,de,"[
+      {
+        ""entity"": ""1952"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsgebiet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wärmedämmgebiete"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bluehelmet,Und früher waren die mit dem Auto abgeholten Hilfsarbeiter legal beschäftigt?,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Hilfsarbeiter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auto"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+-genericuser-,"Und die Finanzierung damals zu 8% oder so was in der Region. Ist jetzt auch nur die Hälfte und das obwohl sich die Zinssätze in den letzten Jahren verdreifacht haben. Die Situation heutzutage ist nicht toll, aber früher war nicht alles besser. Interessanterweise ja fast kein Slogan mehr den nur älter Leute verwenden.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Finanzierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Region"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zinssätze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Situation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Slogan"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""älter Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+-genericuser-,"Und die Finanzierung damals zu 8% oder so was in der Region. Ist jetzt auch nur die Hälfte und das obwohl sich die Zinssätze in den letzten Jahren verdreifacht haben. Die Situation heutzutage ist nicht toll, aber früher war nicht alles besser. Interessanterweise ja fast kein Slogan mehr den nur älter Leute verwenden.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Finanzierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Region"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zinssätze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Situation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""heutzutage"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""früher"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Slogan"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""älter Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OlegTheProphet,"Ich würde dir ja zustimmen, aber dann hätten wir beide Unrecht :) [Quelle - siehe Abschnitt Markenname Inbus](",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Markenname Inbus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schwubbertier,Lieber einen dreier Inbus oder einen Dreier im Bus?,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Lieber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dreier Inbus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dreier im Bus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_HermineStranger_,"> ja vorallem, da damals eine person mit 2 bis 3 kindern allein arbeiten war und das haus trotz dessen drin war (mich einfachmal in meiner Familie umschau). Wenn das Haus da so locker drin war, warum waren dann die Eigentumsquoten so niedrig?",2024-05-14,de,de,"[
+      {
+        ""entity"": ""damals"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 bis 3 kindern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eigentumsquoten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Gastaotor,"Hast du dabei schon die unterschiedlichen Laufzeiten berücksichtigt? Wenn du 7 % Zinsen hast, aber viel schneller abbezahlst, dann sind 2 % auch wieder shitty.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Zinsen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 %"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Clemon86,150.000€ mit 7% sind laut Kreditrechner nach 10 Jahren / 130 Monaten mit einer Rate von knapp 1600€ abbezahlt. 700.000€ mit 2% sind nach 25 Jahren / 304 Monaten mit einer Rate von ca 4250€ abbezahlt.,2024-05-14,de,de,"[
+      {
+        ""entity"": ""150.000€"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""7%"",
+        ""entity_type"": ""PERCENT"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""130 Monaten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1600€"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""700.000€"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2%"",
+        ""entity_type"": ""PERCENT"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""25 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""304 Monaten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4250€"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Skiingscientist,Anzeige ist aus Mainz. Bodenrichtwert 1000 bis 1500 €/qm. Für exakt diese Stadtrand Bebauung.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Anzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mainz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1000 bis 1500 €/qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadtrand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Viertelesschlotzer,Es ist natürlich recht praktisch wenn in der Verwandschaft und Freundeskreis so ziemlich jeder Handwerksberuf vertreten ist den man beim Hausbau benötigt. ;-),2024-05-13,de,de,"[
+      {
+        ""entity"": ""Verwandschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freundeskreis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Handwerksberuf"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hausbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sarkaraq,"Womit muss man für 80qm Wohnraum an reinen Materialkosten denn ungefähr rechnen? Kaufkraftbereinigt haben wir hier ja ca. 100k€ - das sollte doch reichen, oder nicht?",2024-05-12,de,de,"[
+      {
+        ""entity"": ""80qm Wohnraum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100k€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fzwo,"Klar, man kann sich einfach Zahlen ausdenken, mit denen vergleichen und dann zum gewünschten Ergebnis kommen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Klar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zahlen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pole_fan,Dann noch innenausstattung elektronik/Sanitär und 10% Jahreszins draufrechnen.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""innenausstattung elektronik/Sanitär"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,">Steuern/Abgaben, Miete Die gab's 1970 ja auch schon.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Steuern/Abgaben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Miete"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nibbler666,"Das hab ich jetzt von jemandem oben übernommen, aber einen Rohbau gibt's auch schon für 150000, und da sind schon Arbeitskosten mit drin. Miete kannst du hier nicht mitrechnen. Hier gings ja um den Vergleich mit Einkommen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""jemandem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rohbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""150000"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arbeitskosten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Miete"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vergleich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Einkommen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Viertelesschlotzer,"2023 lag der Durchschnittsbruttolohn bei 4300,- / Monat.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""2023"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Durchschnittsbruttolohn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4300,-"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TimTimmaeh,Jupp. Aktuell Eiszeit am Markt. 2018 wurde das Haus noch für 550T einbewertet.,2024-05-13,de,de,"[
+      {
+        ""entity"": ""2018"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Worth-Confusion7779,.... und das ganze Formaldehyd gabs gratis dazu!,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Formaldehyd"",
+        ""entity_type"": ""CHEMICAL"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+chloe_priceless,"Der rechnet aber nur die Inflation anhand des jeweils gängigen Warenkorbs an dem Inflation gemessen wird. Der wird immer wieder angepasst und einige Produkte sind gar nicht enthalten wie Energiekosten. Gerade erst in Amerika wurde Kaffee aus diesem Korb genommen und schwups bessere Inflation. Das geschieht ständig. Aber wenn man alle Assets zusammen nimmt dann gibt es eine weit höhere Inflation von ~7% (die letzten 4 Jahre seit Corona nicht mitgerechnet). Kein Wunder macht der S&P 500 auch (über die letzten Jahrzehnte gerechnet) ~ 10% Gewinn, 7% davon ist die Geldmengenausweitung unseres Fiat Systems und die anderen 2-3% sind das Reale Wachstum. Das mit einbezogen ist das ganze auch wieder in Relation gesehen „gleich“ Teuer wie damals, nur dass unsere Löhne in der Zeit nicht gleich viel Mitgewachsen sind wie zb bis 1971 … da sind die Löhne gleichbleibend gewachsen sowie die Geldmenge gewachsen ist. Nur in den 1970er hat sich das verlangsamt und dann 1980 hat das aufgehört [Löhne vs Produktivität](",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Amerika"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kaffee"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""S&P 500"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Corona"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fiat Systems"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1971"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1970er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1980"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+suckmysprucelog,"80qm Holzrahmenbau für 80.000€ Materialkosten ist überall in Europa umsetzbar, wäre sogar noch relativ teuer.",2024-05-14,de,de,"[
+      {
+        ""entity"": ""80qm Holzrahmenbau"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80.000€"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""relativ teuer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Noodleholz,"Klar, ich habe die Abrechnungen von den Stadtwerken gesehen. Das Haus hat 145qm Wohnfläche. Zwischenzeitlich wurde das Haus umgerüstet auf eine Elektronachtspeicherzentralheizung, weil Strom durch die Atomkraftwerke in der Nähe so günstig war. Das ist aber auch alles längst Geschichte. Das Haus wird abgerissen werden, da nur ein Neubau Sinn macht.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Stadtwerken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""145qm"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Elektronachtspeicherzentralheizung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Atomkraftwerke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Neubau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+spammeLoop,"""Nur"" da liegt man je nach Fläche bei 175 bis über 200 kWh/(m²*a).",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""175 bis über 200"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kardish,Ka. War vor meiner Zeit. Ich kann nur zu der Aktuellen Zeit sagen das viele Besitzer solcher Immos denke das diese noch etwas Wert sind und wollen dann je nach Region noch 300k+ dafür. Dabei ist dann eigentlich nur noch das Grundstück die 300k+ wert. Die Bude reißt man ab. Es gibt zwar auch Ausnahmen aber der Großteil bei EFHs aus der Zeit vor 1977 ist die Bausubstanz Fragwürdig.,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Ka"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aktuellen Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Besitzer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Immos"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Region"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grundstück"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bude"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EFHs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bausubstanz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kardish,Die 4108 ist ne Norm und damit erst einmal nicht verpflichtend! Sorry aber sowas sollten man wissen! Erst wenn Sie im Vetrag steht bzw. ein einem Gesetzestext darauf bezug genommen wird ist sie verpflichtend. Und das wurde Sie erst in Teilen mit der ersten Wärmeschutzverordnung. Edith: harmonisierte Normen sind natürlich auch verfplichtend aber 1952 gab es noch keine EU.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Die 4108"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vetrag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesetzestext"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wärmeschutzverordnung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Edith"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""harmonisierte Normen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Xamalion,"Ja, ich hab ihn gefragt. Die waren sogar versichert, über die Knappschaft damals.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Knappschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+echo_of_pompeii,"Die 8% konnten aber von der Steuer abgesetzt werden. Relativiert die hohen Zinssätze damals deutlich. Heute kannst du das auch noch, aber nur wenn du Miethäuser baust. Für den Eigenbedarf gibt es das leider nicht mehr.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Steuer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zinssätze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Miethäuser"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Eigenbedarf"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+user_of_the_week,"Schau doch mal auf dem Bild unten Rechts. Baugeld zu 4,5%.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Bild"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechts"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baugeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4,5%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ensoniq2k,"Wenn das wirklich stimmt ist das eine große Sauerei. Bin selbst Vermieter, kann daher in unserem Zweifamilienhaus den Kredit absetzen. Dass das früher jeder konnte ist mir neu, wäre allerdings nur gerecht.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Vermieter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zweifamilienhaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kredit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Professional-Tea-121,"Als baufinanzierer kann ich dir das sagen, weiö die meisten leute schiss haben und sich auf „wenn was kaputt geht muss der vermieter das regeln“ ausruhen.",2024-05-14,de,de,"[
+      {
+        ""entity"": ""baufinanzierer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vermieter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kaktussaft,"Was geht denn da unten ab? Also entweder ist es hier spottbillig (haha, nein) oder dort ziemlich teuer.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""haha"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""ziemlich teuer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Viertelesschlotzer,"Laut Tante Google kosten 1m³ umbauter Raum schlüsselfertig rund 400,-. Das wäre, bei 2,4m Zimmerhöhe also 76.800 €. Ob da schon der Baugrund mit drin ist weiß ich allerdings nicht. So aus dem Bauch heraus würde ich vermuten wohl eher nicht. Dazu käme aber noch der Keller, denn wenn man nicht gerade an der Fernwärme hängt braucht man ja noch Platz für die Heizung plus noch Lagerraum, weil 80m2 Wohnfläche ist nicht gerade üppig.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Tante Google"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1m³"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""76.800 €"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Baugrund"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Keller"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fernwärme"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80m2"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OlegTheProphet,Durchschnitt ist das eine. Median das andere.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Durchschnitt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Median"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobias_681,"Dass die Löhne nicht mit der Produktivität gewachsen ist, ist mir klar, sonnst wäre uns auch viel Exportweltmeister-Unsinn und tiefe im Grunde anhaltende Eurokrise erspart geblieben. Vermutlich wären sogar die Geburtenraten in Südeuropa höher, weil ihre Wirtschaft nicht in diesem Maße kollabiert wäre. Das es beim CPI selbst Probleme bei der Verlgeichbarkeit gibt stimmt. Hast du Quellen die da deine Zahlen belegen? Und sind die für Deutschland oder die USA? 7% z.B. scheint mit gemessen an anderen Indikatoren (wie Immobilienpreisen) sehr hoch.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Exportweltmeister-Unsinn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Eurokrise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geburtenraten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Südeuropa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CPI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Immobilienpreisen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+t0my153,"Ja Safe Von innen auf jeden Fall. Von außen wird es schon schwieriger, da ja noch ein Belag drauf kommt. Aber wenn es nur um Dämmung geht, los geht's. Selbstverständlich ist es nicht einfach oder trivial und man sollte sich auch im Vorhinein differenziert informieren aber meiner Meinung nach ist mit handwerklichem Geschick fast alles im, am oder ums Haus selbst zu schaffen.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Ja Safe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Von innen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Von außen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Belag"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dämmung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vorhinein"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""handwerklichem Geschick"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kjhgfr,"Wäre ""immerhin"" noch Effizienzklasse F, gibt zahlreiche alte Häuser (in der Regel alle vor der ersten WSchVO + energetisch fast unsaniert) im Bereich von 250-350kWh/(m²a) Für KFW-Mittel sind die allerdings besonders interessant.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Effizienzklasse F"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""WSchVO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""KFW-Mittel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kjhgfr,">Das gab es in den 90ern nicht, du konntest machen was du willst. Stimmt nicht, auch damals gab es Vorgaben (zweite bzw. dritte Wärmeschutzverordnung). Auch wenn diese Vorgaben heutzutage sehr veraltet sind. >Wenn du einfach so drauf los dämmst und den Wert verfehlst ist das eine Ordnungswidrigeit und kann ziemlich teuer werden. Ist allerdings ein ziemlicher Papiertiger. Das könnte höchstens beim Verkauf relevant werden (kurz vorher noch was gedämmt und dann die Werte verfehlt). Und wenn's um Steildächer geht, kannst du die Werte ebenfalls unterschreiten solange du die volle Sparrenhöhe ausnutzt.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""90ern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""zweite bzw. dritte Wärmeschutzverordnung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ordnungswidrigeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Papiertiger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verkauf"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Steildächer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sarkaraq,"> Wenn du einfach so drauf los dämmst und den Wert verfehlst ist das eine Ordnungswidrigeit und kann ziemlich teuer werden. Ordnungswidrig ist nicht das Verfehlen des Mindestwärmeschutzes (§11 GEG), sondern nur bei Verfehlen des Mindestwärmeschutzes, wenn man außerdem §47 nicht erfüllt. Dafür gibt's dann zwar eine quantitative Mindestanforderung in Abs. 1 (Wärmedurchgangskoeffizient der obersten Geschossdecke 0,24 Watt pro Quadratmeter und Kelvin) - aber Abs. 2 weicht das schon wieder auf - ""höchstmöglich"" reicht auch, auch wenn der Zielwert nicht erreicht wird.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Ordnungswidrigkeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Mindestwärmeschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""§11 GEG"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""§47"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abs. 1"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abs. 2"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Harambe_Joe,"Schön das du im Bauvertragsrecht Grundlagenseminar aufgepasst hast ;) Aber die 4108 wurde entsprechend bauaufsichtlich eingeführt und wurde damit rechtlich auch für die Durchführung (Übereinstimmungsnachweis im Rahmen des Baugenehmigungsprozesses) bindend. Sorry, aber das müsstest du doch wissen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""4108"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bluehelmet,Warum dürfte man das heute dann nicht mehr?,2024-05-14,de,de,"[
+      {
+        ""entity"": ""Warum"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+soviseau,"Hast du für die Absetzbarkeit von der Steuer eine Quelle? Habe ich schon mal gehört, konnte das aber nicht finden.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Steuer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+so_isses,"Du kannst die Zinsen anteilig absetzen, wenn du in einer Wohnung deines Zweifamilienhauses wohnst und die andere vermietest.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Zinsen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wohnung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zweifamilienhaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Clemon86,150.000 zahlt man ja auch nicht über 30 Jahre ab.,2024-05-14,de,de,"[
+      {
+        ""entity"": ""150.000"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Le_mehawk,"In BW eher ersteres, 1k/qm ist in jeder stadt mit guter bus/bahn anbindung bei uns die untergrenze. Weniger wirds nur wenn man sich in einem Dorf auserhalb was gönnt. Und selbst da steigen momentan die preise, weil die als idyllisch und attraktiv für junge pärchen gelten.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""BW"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1k/qm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""stadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bus/bahn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dorf"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""idyllisch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""attraktiv"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""junge pärchen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Gasparde,"> Selbstverständlich ist es nicht einfach oder trivial und man sollte sich auch im Vorhinein differenziert informieren aber meiner Meinung nach ist mit handwerklichem Geschick fast alles im, am oder ums Haus selbst zu schaffen. Als vollständiger Laie dann die Frage: Und was sagt da die Versicherung, wenns 5 Jahre später brennt oder schimmelt oder was auch immer, weil das handwerkliche Geschickt nur zu 99% ausreichend war? Meine Eltern und Großeltern haben auch immer alles selbst an ihren Häusern und Autos und *allem* gemacht - Gas, Wasser, Strom, Dachdecken, Maurern, Mechanikern, *alles*. Und das hat auch prinzipiell immer alles geklappt, bis dann irgendwann irgendwas mal nicht geklappt hat - und dann wurds halt spontan *richtig* teuer.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Meine Eltern und Großeltern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Gas, Wasser, Strom, Dachdecken, Maurern, Mechanikern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 Jahre später"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jewd_law,das machst du einmal für dein eigenes Haus evtl freiwillig. wenn du gut bist mit vernünftiger Dämmung aber die ist teurer. und am besten mit handwerklicher Unterstützung. hab den Scheiß in der Lehre 100 male gemacht. krieg ich ptsd wenn ich nur dran denke. am schlimmsten im sommer bei über 30 grad und null luftzug im dachstuhl. mit der ekligen gelben isover Dämmung. gehört einfach verboten. niemand sollte sowas machen müssen. da mach ich lieber mit bloßen händen n verstopftes klo wieder frei,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Lehre"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Sommer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""30 grad"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Dachstuhl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""isover Dämmung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Bakemono_Nana,Handwerkliches Geschick. Lol. Wer hat das noch heutzutage?,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Handwerkliches Geschick"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heutzutage"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Noodleholz,"Damals konntest du einfach irgendwie dämmen, egal wie gut oder schlecht das Ergebnis ist. Wenn du heute einfach drauf los dämmst und den vorgeschriebenen Wärmeleitwert nicht erreichst ist das von Gesetzes wegen so, als hättest du überhaupt nicht gedämmt. Das schafft der Laie doch niemals, weil das alles exakt berechnet werden muss.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Gesetzes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Laie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kardish,Nein war sie nicht. Einfach mal die Rechtlichen Grundlagen kennen! Bzw. um Fakten zu schaffen. Verlinken sie die Entsprechend Gesetzestexte bzw. Verordnungen.,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Rechtlichen Grundlagen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fakten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesetzestexte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verordnungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Xamalion,Weil...Vorschriften. Kannst ja mal googeln.,2024-05-14,de,de,"[
+      {
+        ""entity"": ""Vorschriften"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+echo_of_pompeii,"Mit dem Wohneigentumsförderungsgesetz aus dem Jahr 1986 wurde die steuerliche Absetzbarkeit der privaten Hypothekenzinsen abgeschafft. Für Steuerpflichtige, bei denen 1986 die Voraussetzungen für einen Schuldzinsenabzug vorlagen, gab es eine Übergangsregelung bis zum Jahr 1998. Seitdem sind private Hypothekenzinsen für niemanden von der Steuer absetzbar.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Wohneigentumsförderungsgesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1986"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hypothekenzinsen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Steuerpflichtige"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schuldzinsenabzug"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Übergangsregelung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1998"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Parcours97,">Und was sagt da die Versicherung, wenns 5 Jahre später brennt Denke nicht, dass eine Dämmung einen Brand auslösen kann.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Versicherung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 Jahre später"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dämmung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brand"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+IvanStroganov,Hier aufm (Ost)Dorf gefühlt alle.,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Ost"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jewd_law,"danke das wollte ich auch grad fragen. aber hey schön dass immer alle verwandten zu mir rennen. Dämmen, Dachfenster einbauen, tapezieren. am liebsten melden sich immer die Lehrer und Büro Leute. So toll n Handwerker in der Familie zu haben. frei nach Porsche Lindner und mittelstand Merz antworte ich den Leuten immer gern: „ Eure Gratis Mentalität kotzt mich an“",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Porsche Lindner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Merz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bergwookie,"Wenn du keine Förderung möchtest, was sich gerade im Altbaubereich nicht lohnt, weil man die KfW-Werte nur unverhältnismäßig aufwändig erreicht, juckt das ja auch nicht. Gibt halt ein paar Sachen, auf die man achten muss, keine dünnen Stellen oder gar Löcher, diffusionsoffen etc, aber machbar ist viel als Selbstbauer. Hab letztens erst gelernt, wie man Fenster setzt, ist auch kein Hexenwerk, mittlerweile trau ich's mir selbst zu. Kleiner Tipp: Hilf Freunden und Bekannten beim Hausbau/Renovierung, da lernst du viel dazu, ohne, dass du nachher mit dem Pfusch leben musst ;-)",2024-05-12,de,de,"[
+      {
+        ""entity"": ""KfW-Werte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fenster"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fundohun11,Alleine als Laie schon gemacht und geht auf jeden Fall. Das ist jetzt auch nicht so kompliziert.,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Laie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eipotttatsch,"Effektiv zu dämmen schafft der Laie absolut von innen. Das hab ich als Kind (so 12) schon mit meinem Vater im Haus der Großeltern gemacht. Erstmal hilft natürlich jedes bisschen Isolierung. Mit einer Wärmebildkamera oder sowas kann man auch easy gucken, ob irgendwo ein Leck ist. Man hat dann vielleicht keine besonders tolle Effizienzklasse, aber das braucht auch nicht. Die Kosten dafür kriegt man zu Lebzeiten eh nicht raus.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kind"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Großeltern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wärmebildkamera"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xrimane,"www.ubakus.de Eine Detailberechnung für alle Wärmebrücken macht man bei der Altbauertüchtigung auch nur, wenn es irgendein spezielles Problem gibt. Wichtig ist immer, dass kondensierende Feuchtigkeit sich nicht irgendwo sammelt. Außen muss immer diffusionsoffener sein als innen, damit Feuchtigkeit nach außen abtrocknen kann. Wenn du eine moderne diffusionsoffene Unterspannbahn hast, hast du bei der Dampfbremse innen ziemlich Fehlertoleranz. Wenn du außen eine dampfdichte alte Teerbahn hast, dann musst du gucken, dass die Hinterlüftung weiter offen bleibt und deine Dampfsperre innen dicht ist.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Altbauertüchtigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Feuchtigkeit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Außen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""innen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""moderne diffusionsoffene Unterspannbahn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Dampfbremse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Teerbahn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hinterlüftung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dampfsperre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Harambe_Joe,"Gerne, Einführung der DIN 4108 in Version 1952 etwa in NRW per MBL NW 1955 S. 145 in Korrektur mit SMBL NW lfd. Nr. 23237. Aber vielleicht bist du einfach nur an ""alternativen Fakten"" interessiert? Edit. Pardon",2024-05-15,de,de,"[
+      {
+        ""entity"": ""DIN 4108"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1952"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NRW"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MBL NW 1955 S. 145"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SMBL NW lfd. Nr. 23237"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Gasparde,"Qualitativ hochwertige, den Standards entsprechende und allem voran... teure Dämmstoffe? Unwahrscheinlich. Dämmschuam von Rokkwool für 5€? Fragwürdig. Hab naütrlich noch keinen Brand-durch-Dämmung-Fall erlebt, aber gerade beim Thema Auto hat man bei mir in der Familie immer *so hart* a la Hinterhofwerkstatt ""jaja, Isoband reicht da"" rumgepfuscht, wäre da *jemals* irgendwas passiert, hätte sich jede Versicherung totgelacht.",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Rokkwool"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auto"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Isoband"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Versicherung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lucimon97,Also nur Leuten helfen mit denen ich nicht zwingend länger befreundet sein wollte?,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Leuten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Noodleholz,"Solange man den Mindestwärmeschutz nach GEG schafft, kann man das machen. Wäre nur blöd, wenn man drauf los dämmt und später merkt, dass es nicht reicht. Solche Hindernisse gab es früher nicht, du konntest einfach machen was du willst. Man konnte sich eine Hütte in Minimalkonfiguration hinstellen lassen: Bodenplatte, vier Wände und ein Dach mit Ziegeln und den Rest selbst machen. Wenn du heute den Wärmeschutz nicht ordentlich machst ist das eine Owi und kann ziemlich teuer werden. Da traut sich kaum jemand beim Neubau ran.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Mindestwärmeschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""GEG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hindernisse"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Minimalkonfiguration"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bodenplatte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vier Wände"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dach"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ziegeln"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wärmeschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Owi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Neubau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kardish,Tatsache! Chapeau! Das gibt es dann für die restlichen alten Bundesländer und die haben die jeweiligen neu novelierungen in den 60er überlebt ? Dann ist es ja noch trauriger für den Bestand was davon wirklich umgesezt wurde.,2024-05-16,de,de,"[
+      {
+        ""entity"": ""Bundesländer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""60er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Bergwookie,"Wenn du so lumpig bist, dann ja ;-)",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Wenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lumpig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+significantGecko,Altes Sprichwort vom Bau: * Das erste Haus baust du für deinen Feind * Das zweite Haus baust du für einen Freund * Das dritte Haus baust du für dich,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Altes Sprichwort"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bau"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Harambe_Joe,"Das gibts für alle alten Bundesländer meiner Kenntnis nach. Manche (NRW) sind dahingehend aber deutlich barrierefreier aufgestellt als andere (Niedersachsen), bei den Ministerien in NRW findet man entsprechend fast alles an Dokumenten rückwirkend. Am Beispiel NRW wurde die 4108:1952 dann 1955 eingeführt und 1961 dann durch die 4108:1960 ausgetauscht. ""Durch die neue Ausgabe Mai 1960 des Normblatts DIN 4108 und diesen Runderlaß werden gegenstandslos \[...\] DIN 4018 (Ausgabe Juli 1952)"" Und ja, es ist traurig, dass wirklich wenig davon umgesetzt wurde. Meistens bei diesen seriellen Kisten oder Siedlungshäusern war es ""komplett"" egal. Gute individuelle EFH ab 1955 in schwerer Bauweise können aber durchaus bereits die ganze Gebäudehülle gedämmt haben. Klar spricht man da nur von 4-6cm Dämmstoffdicke, aber immerhin. Negativ wirkt sich das ganze jedoch bei der Sanierung aus, da viele jetzt als Schadstoff gekennzeichnete Stoffe verbaut wurden, Teerkork (PAK), Asbestfaserbewährte Stoffe und natürlich KMF / Engelshaar.",2024-05-16,de,de,"[
+      {
+        ""entity"": ""NRW"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Niedersachsen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ministerien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NRW"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4108:1952"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1955"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1961"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4108:1960"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mai 1960"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DIN 4108"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DIN 4018"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EFH"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""1955"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sanierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Teerkork (PAK)"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Asbestfaserbewährte Stoffe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""KMF / Engelshaar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+HQna,"Vielen Dank für das tolle AMA und deine Zeit, Nico! Vielen Dank r/de für die vielen Fragen :) Das AMA ist jetzt beendet aber wir werden es sicherlich noch ein bisschen hier angepinnt lassen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""r/de"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StrikingJuice2201,Wie sollten sich junge Menschen am besten politisch organisieren um etwas zu bewirken? Ist es besser zu demonstrieren oder in eine Partei einzutreten?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""junge Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""politisch organisieren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demonstrieren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FromTheAshlands,"Seit dem Korruptionsskandal um Eva Kaili Ende 2022 ist das Thema Korruption auch im EU-Parlament angekommen. Wie groß ist aus deiner Sicht das Problem und hattest du Einblicke in die Prozesse seither? Hast du selbst mitbekommen, dass beispielsweise die Golfstaaten versuchen, Einfluss auf EU-Parlamentariererinnen zu nehmen? An dieser Stelle einen herzlich Dank für deine Einblicke.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Eva Kaili"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ende 2022"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Parlamentarierinnen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Golfstaaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_umut3,Angenommen jeder darf einmal pro Wahlperiode einer anderen Person eine Torte ins Gesicht werfen im EU Parlament. Welche Person wählst du aus und wieso?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlperiode"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheDankmemerer,"Hallo! Vielen Dank erstmal für das AmA und deine Aufklärungsarbeit im Europaparlament. Die Europäische Union wird ja sehr gerne von allen Seiten kritisiert, wenn du also eine Sache an der Europäischen Union ändern könntest um sie besser zu machen, was würdest du aktuell an ihr verändern wollen? Ich fände es spannend das aus einer Perspektive von einem MdEP zu hören, vor allem gerade von dir dank deinen Erfahrungen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäische Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MdEP"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ddombrowski12,"Bist du stolz auf dich? Würdest du anderen depressiven Menschen empfehlen, in die Politik zu gehen? Warum (nicht)? Ich bin sehr traurig über dein Zerwürfnis mit Sonneborn. Wie blickst du heute darauf?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+lesh1845,Was hast du über dich selbst in der Zeit gelernt?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nirocalden,"Moin Nico! Eine Frage zum Arbeitsklima im Parlament: Gibt es MdEP, die dir persönlich sympathisch sind, mit denen du dich vielleicht sogar privat angefreundet hast, obwohl ihr euch politisch nicht besonders nah steht? Ist es allgemein üblich, sich nach der Arbeit auch mal über Fraktionsgrenzen hinweg zu treffen (so wie es in Deutschland z.B. den FC Bundestag gibt)? Oder gibt es eher eine starke Cliquenbildung, entweder was Fraktionen oder was Herkunftsländer angeht?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MdEP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FC Bundestag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Cliquenbildung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fraktionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Herkunftsländer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nicosemsrott,"Aus Jux stell ich mir schon mal eine Frage selbst: Ist die Europawahl wichtig? Jein. Eigentlich ist es keine ""Europawahl"", sondern nur die ""Wahl zum Europäischen Parlament"", weil mit der Stimme eben nicht die EU-Politik der nächsten fünf Jahre bestimmt wird, sondern die Wahl nur ein Mosaikstück zum Gesamtwerk EU beiträgt. Aus meiner Sicht finden die eigentlichen ""Europawahlen"" in Deutschland, Frankreich und Italien statt, die zusammen etwa die Hälfte der EU-Wirtschaftsleistung ausmachen und die großen Linien bestimmen. Hier werden die wichtigeren Weichen gestellt.Das EU-Parlament ist nicht der entscheidende Akteur in Europa, von dem die zentrale Macht ausgeht, aber es darf mitmachen und das kann in vielen Fragen entscheidend sein.Die Wahl zum EU-Parlament ist auch deshalb wichtig, weil sie symbolisch beeindruckend ist (dass in 27 Staaten gleichzeitig gewählt wird, ist weltweit einzigartig und geil!) und die Erzählung für die politische Entwicklung prägt. Wenn die Nationalisten und Rechtsextremen einen Wahlerfolg erzielen, entscheidet das über die Stimmung und Ausrichtung mit. Schneiden sie schlechter ab als erwartet, hat das ebenfalls Auswirkungen auf konkrete Vorhaben.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europawahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europäischen Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frankreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Italien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Wirtschaftsleistung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nationalisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rechtsextremen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+poolnudel2023,"Sehr geehrter Herr Semsrott, ich hätte gerne ihre Meinung als ungeschönte Wahrheit zu einem Dilemma in dem ich mich befinde. Ende der 80er bin ich in eine Welt und eine Gesellschaft geboren worden, in der es mir vorkam als gäbe es keine Probleme. Ich hatte immer genug zu essen auf dem Tisch, ein Dach über dem Kopf und (als ich mich nach der Schulzeit irgendwann dafür interessiert habe) es gab keine Probleme was Wohnraum und Arbeitsplätze anging. Mein Vater konnte mit einem Ingenieursgehalt die Familie ernähren, während wir den Luxus haben kein zweites Einkommen zu benötigen. Es gab keinen Grund auf die Straße zu gehen, weil es keinen Schrecken am Horizont gab gegen den man sich stellen muss. Ich hatte großen Respekt vor den ersten Schritten von Fridays vor Future und habe die Generation nach mir für Ihren Aktivismus gelobt. Auch ich hätte mir gewünscht, dass es etwas gibt für das es sich zu kämpfen lohnt. Mittlerweile habe ich immer mehr das Gefühl, dass man sich für die Demokratie, für die Menschen und gegen den Turbokapitalismus starkmachen muss – doch alle Mittel, welche von der Gesellschaft akzeptiert werden, erscheinen mir als wären Sie so effektiv wie ein zahnloser Tiger. Im engeren, persönlichen Umfeld gelingt mir ein Umschwung sehr wohl, da sind jedoch auch die Hindernisse kleiner und eine Integrität aller Akteure wird als gegeben angenommen. Ich habe ein reiches Energiepotential in mir, welches ich für etwas Produktives und Positives einsetzen will. Wie in Frankreich auf die Straße zu gehen, erscheint mir aber nicht als Option (außer man betreibt einen Bauernhof), da man in Deutschland als Staatskritiker gesehen wird, nur weil man mit der aktuellen Situation nicht zufrieden ist. Welche Möglichkeiten habe ich, neben Revolution und Depression, das Land nachhaltig und schnell positiv zu verändern? Man sollte meinen, durch das Wählen einer Partei, die diese Interessen ebenso vertritt. Wie finde ich eine Partei, welche zu Ihrem Wort steht und sich nicht korrumpieren lässt? Wie finde ich eine Partei, welche für Gleichheit aller Bürger steht, wenn sich selbst eine Chefermittlerin aus dem Cum-Ex Fall zurückzieht, weil die Justiz mit (mehr als) zweierlei Maß misst. Ich denke, was ich sagen will, ist Folgendes: Ich möchte gerne etwas Positives bewegen. Sagen Sie mir, wie, bevor ich verbittert werde, weil die Welt nichts Besseres zu tun hat als den Menschen Steine in den Weg zu legen. Hochachtungsvoll, Poolnudel",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Herr Semsrott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ende der 80er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Welt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesellschaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Ingenieursgehalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Fridays vor Future"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Turbokapitalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frankreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatskritiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Revolution"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Depression"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gleichheit aller Bürger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Chefermittlerin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cum-Ex Fall"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Justiz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wort"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gleichheit aller Bürger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Poolnudel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Relkny,"Hi Nico! Ich weiß, dass das ein wunder Punkt ist, aber weil das hier ja ein ask me anything ist, stelle ich einfach mal die Frage: Wie würdest du die Russlandnähe von *Die Partei* einschätzen? Ich habe den Eindruck, dass Russlandkritik eher unter den Teppich gekehrt wird, oder in Die Partei-Manier sich einfach über die Thematik lustig gemacht wird, anstatt sich tatsächlich mit den Inhalten auseinanderzusetzen. Auch Die Linke ist aufgrund dieser Thematik für mich persönlich aktuell leider nicht mehr wählbar, wodurch ich noch sehr unentschlossen bin wie ich in den kommenden Wahlen meine Stimmen verteilen möchte. Hat der Angriffskrieg Russlands auch deine Sicht auf Parteien verändert?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russlandkritik"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Die Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Angriffskrieg Russlands"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tetraphosphetan,Wie sehen deine Pläne für die Zukunft aus? Hast du vor dich nach dem Ende deiner Zeit in Brüssel weiterhin (evtl. partei-)politisch zu engagieren?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+evilevidenz,"Hi, erstmal danke für das AMA. 1. Wie ist der Anteil von ""Abgeordnete machen ehrliche und gute arbeit"" vs. ""Abgeordnete machen quatsch und nutzen ihre Machtposition aus""? 2. Wie viele Bemühungen gibt es von den ""ehrlichen"" Abgeordneten Schabernack zu unterbinden? 3. Glaubst du alle Machtstrukturen konvergieren immer in Richtung Korruption/Lobbyismus/Macht ausnutzen? 4. Könntest du dir ein besseres System vorstellen oder ist unseres schon gut, aber man müsste mal ordentlich draufhauen wenn Lausbuben in der Politik sich zu viel erlauben?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Abgeordnete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Machtstrukturen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lobbyismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Macht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""System"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lausbuben"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CoinsForBS,"Wirst du auch außerhalb des EU-Parlaments politisch aktiv bleiben und wenn ja, in welcher Weise? Was hättest du die letzten 5 Jahre gemacht, wenn du nicht gewählt worden wärst?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzten 5 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+W4ta5hi,"Wie viel Spaß hattest du beim Kaninchen Interview? Wie aufwändig war es das Ganze zu organisieren? Da ich davon ausgehe, dass es nicht deine Kaninchen waren - hast du sie gemietet? Gibt es sowas?:D",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kaninchen Interview"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ganze"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GnuRip,"Als du noch recht neu in dem Amt warst, hattest du mal in einem Video (oder Interview?) erwähnt, dass dir das da super gefällt und spaß macht, und du zum ersten mal Glücklich bist. (so in etwa habe ich es zumindest in Erinnerung) Jetzt findest du es dort aber alles ganz furchtbar. Gab es einen bestimmten Zeitpunkt an dem das gekippt ist? Wie empfindest du die Anfangszeit im Amt wenn du jetzt daran zurück denkst?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Video"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Interview"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ersten mal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Zeitpunkt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anfangszeit im Amt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+scootiewolff,Wen würdest du denn jetzt wählen zur EU Wahl?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU Wahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dont_drink_and_2FA,"Moinsen Großer! Sehr persönlich, bitte nur beantworten, wenn du das wirklich willst: Glaubste dir wirds wieder besser gehen, sobald du aufhörst? Oder war es so ne krass soulcrushing Erfahrung, dass du glaubst aus dem Loch nich mehr rauszukommen? Weniger persönlich, aber doch persönlich: Was jetzt/dann? Danke für das, was du getan hast. Da gab es doch den ein oder anderen tieferen Einblick in Manches :)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Moinsen Großer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erfahrung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Loch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Was jetzt/dann"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RevolutionaryRisk521,Ist Desinformation ein Problem das in der EU ernstgenommen / gegen das vorgegangen wird?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BaDTimeeee,"Hey Nico, erstmal fetten Dank, dass du sowas hier machst. Meine Frage an dich wäre: Wir sehen ja sehr sehr viel verschwendetes Potenzial und große Probleme in der Politik ABER gibt es denn auch etwas wo du ganz ehrlich auch sagen musst, entweder äußerlich an die Publik getragen oder Intern, dass die Politik was gutes/sehr gutes getan hat? Kurzum, kannst du uns auch ein paar Positive Dinge erzählen, die du selber wirklich gut fandest?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PRTG-Diana,Hallo! Hast du vor den Kapuzenpulli zusammen mit deinem Mandat niederzulegen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kapuzenpulli"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mandat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+s0nderv0gel,"Hallo Ü Als jemand, der mit dafür gesorgt hat, dass du dir das 5 Jahre lang antun musstest/durftest/konntest, bin ich ziemlich zufrieden mit dem Effekt meiner Stimme. Ich habe das sehr genossen, einen anderen Einblick als ""lololol, Gurkenkrümmungsverordnung"" zu bekommen. Wollte ich nur mal sagen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""5 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Print-Local,Wie viel Geld hast du in der gesamten Zeit insgesamt verdient / bekommen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Geld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gesamten Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Peraltinguer,"Hi Nico, Auf die gefahr hin dass du das schon längst irgendwo beantwortet hast, interessiert mich was du eigentlich mit dem ganzen Geld gemacht hast? Ursprünglich wolltet ihr ja monatlich zurücktreten und das üppige Abgeordnetengehalt wäre unter vielen Parteimitgliedern verteilt worden aber das ging ja dann nicht. Ich weiß nicht wie viel du vorher als demotivationstrainer, komiker, kunstschaffender, wie auch immer du dich selbst bezeichnen würdest verdient hast, aber plötzlich 10.000 euro im monat zu bekommen war sicher eine ganz schöne Umstellung. Hattest du überhaupt eine sinnvolle Verwendung für die ganze Kohle? Wenn nicht, schick mir ne PN und ich geb dir meine Bankverbindung.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordnetengehalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10.000 euro"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bankverbindung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Usual_Leadership_904,"Sind die rechten und rechtsradikalen Politiker wirklich von ihrer Sache überzeugt oder ist es für viele nicht ein einfacher Weg zur Macht und privat wird über den ""dummen Pöbel"" der ihrem Quatsch folgt gelacht?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Macht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""privat"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dummen Pöbel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Vivientogo,"Hast du in deiner Zeit in der EU etwas erfahren, dass du nicht offiziell teilen darfst - also etwas explosives, geheimes? Gibt es so Top Secret Alten wie man sich es immer vorstellt?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Top Secret"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DubioserKerl,Welche Partei ist die korrupteste?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""korrupteste"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Bannerlord151,"Etwas...andere Frage. Aber wie denkst du, wärst du jemandem, der nie den Namen Semsrott gehört hat, am Besten zu beschreiben?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Semsrott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EXOPLANETARIANSOUP,"Klimawandel, Israel-Palästina, Ukraine-Russland, ungewisse Renten, potentielle AI Wende und vor allem ein zerstörender Kapitalismus der das alles noch befeuert und die Schere zwischen haben und nicht haben jedes Jahr exponentiell weiter aufreißt. (E: plus systematische Desinformation bzw. culture war der von den großen gemeinsamen Problemen ablenkt) Ohne jetzt unbedingt die einzelnen Punkte zu beleuchten: Glaubst du wir schaffen das? Und wenn ja, glaubst du wir schaffen das, ohne unsere westliche Gesellschaft radikal zu verändern?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Klimawandel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Israel-Palästina"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ukraine-Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Renten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""potentielle AI Wende"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kapitalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schere zwischen haben und nicht haben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""systematische Desinformation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""culture war"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""westliche Gesellschaft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ItsTheFoodDude,"Trägst du immer den selben Kapuzenpulli? Falls ja, wann wirst/würdest du dir einen neuen anschaffen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kapuzenpulli"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einen neuen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+luistwentyfour,Welche Kollegen waschen sich nicht die Hände nach dem Gang aufs Klo?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kollegen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hände"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gang aufs Klo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Training-Accident-36,"Teil der EU Kritik von links ist ja, dass das EU Parlament eher wenig Einfluss nehmen kann; deine Kritik an der Funktionsweise des EU Parlaments (Lobbyismus, Korruption, Geldverschwendung...) macht da jetzt aber nicht wahnsinnig gute Werbung dafür, die europäische Einigung zu vertiefen? Wenn du z.b. das Bild erzeugst dass da nur Leute rumsitzen die sich legal die Taschen vollstopfen wollen, da bin ich doch froh, dass das Parlament keine vollen Rechte hat wie es ein nationales Parlament hätte? Ist die korrekte Antwort auf deine Videos, ich habe sie leider nicht alle gesehen, nicht, grössere EU Skepsis, Rückkehr zu Nationalstaaten, etc etc? Gerade wenn du so Dinge schreibst wie alle Länder ausser DE, F und IT haben eh nix zu melden, sollten sich also die anderen von der EU abwenden? Mir macht diese Entwicklung Sorgen. Sorry, dass das so unfokussiert ist, vielleicht magst du mir einfach deine Gedanken dazu schreiben. Grüsse aus der Schweiz!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lobbyismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geldverschwendung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nationalstaaten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DE"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""F"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""IT"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+deathoflice,"Wenn du nicht mehr im Parlament bist, welchen Abgeordneten sollen wir folgen, um weiter gut informiert zu bleiben, was da so abgeht?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Klopapiermillionaire,"Grüßt Martin freundlich, wenn ihr euch auf dem Flur über den Weg lauft?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Martin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Flur"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ger_crypto,Wie sehr haben sich die 5 Jahre für dich finanziell gelohnt? Gibts neben der Diät auch Pensionsansprüche oder Wiedereingliederungshilfen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""5 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Diät"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pensionsansprüche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wiedereingliederungshilfen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+420Moonrocks,"Hallo Nico, auch ein Nico hier. Wie sollte deiner Meinung nach das Wahlrecht in Deutschland und der EU geändert werden damit es endlich mehr Partizipation und direkt Mitbestimmung geben kann. Hast du konkrete Ideen oder was hältst du von dem Wahlrecht ab 16 so überhaupt?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlrecht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partizipation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Mitbestimmung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wahlrecht ab 16"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Chuuu-_-,Mit wem würdest du lieber 4 Wochen auf einer einsamen Insel verbringen: Angela Merkel oder Ursula von der Leyen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Angela Merkel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ursula von der Leyen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pseudynom,"Glaubst du wirklich, dass Satireparteien einen Mehrwert für unsere Gesellschaft schaffen? Mein Gefühl ist, dass Satireparteien voller ""Edgelords"" ist, die sich selbst feiern und trollen wollen. Ich glaube das Satireparteien dem politischen Diskurs schaden und Politikverdrossenheit fördern. Man bekommt ja oft das Gefühl von Satireparteien vermittelt zu bekommen, dass alle Parteien/Politiker gleich schlecht seien.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Satireparteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Edgelords"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""politischen Diskurs"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Politikverdrossenheit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parteien/Politiker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SrRaven,Woran hängts denn das endlich der Wechsel zwischen Sommer- und Winterzeit abgeschafft wird?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sommer- und Winterzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Damian2M,"Hast du die Serie ""Parlament"" gesehen und, wenn ja, wie viel davon ist plausibel?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nAmAri3,"Grüß dich. Ich war letzte Woche in Wiesbaden bei deinem Vortrag. Ist es für dich eine Überwindung auf die Bühne zu gehen? Und kannst du einschätzen, wie wenig brutto normal Bürger eigentlich über die Arbeitsweise der EU weiß?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wiesbaden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzte Woche"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Long-Hair-Man,Was ist dein Lieblingsdinosaurier?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Lieblingsdinosaurier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+YouWeatherwax,"Moin und vielen Dank für das AMA. Welches war das traurigste/frustrierendste und welches das schönste Erlebnis, das die Zeit in Brüssel gebracht hat? Haben sich Freundschaften entwickelt, die voraussichtlich das Ende der aktiven Politik in deinem Leben überdauern? Bei der von dir öffentlich gemachten Diebstahlserie im Parlament wurden die Ermittlungen leider erfolglos eingestellt. Hat sich im Nachhinein etwas am Sicherheitskonzept verbessert, gab es Konsequenzen? So ärgerlich ein Diebstahl an sich ist, im Parlament sollte die Sicherheit auch aus Geheimhaltungsgründen doch ernst genommen werden.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freundschaften"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Diebstahlserie"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sicherheitskonzept"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geheimhaltungsgründen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+r_booza,"Welche Partei würdest empfehlen zu wählen, wenn man speziell den Lobbyeinfluss und Korruption bekämpfen/transparenter machen möchte? Hast du schon Mal darüber nachgedacht gegen deine Depressionen eine Elektrokonvulsionstherapie zu machen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Lobbyeinfluss und Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Depressionen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Elektrokonvulsionstherapie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+keine-ahnung-was-los,"gäb es einen fall, in dem du dich irgendwann wieder im europaparlament sehen könntest, wenn ja, was müsste passieren?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""europaparlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pandora3107,"Hallo Nico, hast du das Gefühl, dass du etwas zum Besseren verändert hast? Wenn ja, worauf bist du besonders stolz?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Besseren"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+baeckerkroenung,"Am Anfang deiner Abgeordnetentätigkeit hattest du einen Einblick geben können was es so an ""Netten Gesten durch Verbände und Unternehmen"" doch gibt. Wie hat sich das im weiteren Verlauf entwickelt? Wurdest du eventuell weniger oft eingeladen weil irgendwann auch die letzten gemerkt haben das Kontakt mit dir gefährlich wird? Oder sogar öfter weil sich Verbände so direkt einen extra Vorteil erhofft haben? Wie viele NDAs sind in deinem Postfach gelandet über die letzten Jahre?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Abgeordnetentätigkeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verbände und Unternehmen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kontakt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verbände"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NDAs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kdidykwkdbybneksk,Star Wars oder Herr der Ringe?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Star Wars"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Herr der Ringe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Shiros_Tamagotchi,"Fühlst du dich manchmal schuldig, wenn du sozusagen deine Stelle, die eigentlich dafür da ist zu arbeiten, missbrauchst um Quatsch zu machen oder findest du, dass du mit dem Aufzeigen der Absurditäten der EU sozusagen auch deine Arbeit als Parlamenterier machst?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parlamenterier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Easteregg42,"Lieber Nico, du hast letztens in Zusammenarbeit mit *Die da Oben* über die unterschiedlichen Möglichkeiten als MdEP aufgeklärt, sich auf Kosten der EU zu bereichern. In [diesem Video hier]( sprichst du davon, dass du trotz der Tatsache, dass du über Bahncards 100 für Deutschland und Belgien verfügst, dir für eine Fahrt von Berlin nach Brüssel 539€ **Reisekosten** erstatten lassen kannst. In dem [dazugehörigen Video]( von *Die da Oben* wird allerdings klar, dass es sich eben nicht um eine Reisekostenerstattung (also eine Erstattung für eine Leistung, für die du ja aufgrund deiner Netztkarten gar nicht bezahlen musstest) handelt, sondern um eine Zeitaufwandsvergütung und eine Entfernungszulage (von denen man natürlich halten kann, was man möchte). War dir beim drehen des Videos klar, dass du etwas suggerierst, was so nicht stimmt oder war es dir egal? Was sagst du zu der Befürchtung, dass solch unpräzises und populistisches (meine persönliche Einschätzung) Berichten dazu beiträgt, dass Nachrichten und Quellen nur dann geglaubt und beachtet werden, wenn sie zu der eigenen Weltanschaaung passen, da ja sowieso jeder nur das und nur so berichtet, wie es ins gewünschte Narrativ passt.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die da Oben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""MdEP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Berlin"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Belgien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""539€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pengo2001,Wieviel Geld hast du in der Zeit gemacht? Und wurde dir mal extra was angeboten?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Geld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SnoopWoLFF,"Was ist das beste und das schlechteste Essen in der EU-Kantine? Will nämlich wissen, ob die mit unserer Kantine mithalten kann.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Kantine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""unsere Kantine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+123diesdas,"Hallo Nico, ich habe dein Interview mit der SZ gelesen und wollte Danke sagen. Dass du probiert hast etwas zu verändern und trotz Depression alles gegeben hast!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""SZ"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Depression"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Andazeus,"Eine zugegebenermaßen nicht ganz einfache Frage: Was denkst Du, können wir als Bevölkerung tun, um mehr Druck auf das EU-Parlament, aber vor allem die EU-Kommission auszuüben, um z.B. mehr Transparenz zu fordern aber auch die Gesetzgebung zu beeinflussen? Damals haben ja all die Proteste gegen die Uploadfilter nichts bewirkt und ich muss schon sagen, dass dieser Moment mein Vertrauen in die EU als demokratischer Pfeiler unserer Gesellschaft hart untergraben hat.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Kommission"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Transparenz"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesetzgebung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Proteste"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Uploadfilter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demokratischer Pfeiler unserer Gesellschaft"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BezugssystemCH1903,"Hoi Nico, danke für das AmA. Ich verfolge deine Laufbahn schon seit einiger Zeit, wie es so ist mit dem Internet und gleichaltrig aufzuwachsen und ich finde auch den Mut denn zu zeigst ziemlich gut, was fantastisch. Fragen von mir: - Wie war so die Zusammenarbeit mit den anderen Politikern? - Wie ist so die Einführung in das Ganze Prozedere hat man dir Unterlagen/schlechte schwarzweiss Kopien und einen Plan in die Hand gelegt und dann direkt schaffen/werken gelassen oder gab es so eine Eingewöhnungszeit? - Wie werden Arbeitsgruppen gebildet? Ist das so auf Frewilliger Basis oder wird man da zusammengewürfelt? - Wie oft wurdest du aufgeboten vor Ort zu sein? Hat man da auch so Jokertage? - Wie ist so der Lohn für die Arbeit die ihr da leistet? - Durftest du am Schweiz Dossier mitarbeiten? - Wie ist so die Stimmung im Bezug zu uns hier, der Zwergenrepublik? - Thema Direkte Demokratie: Wir stimmen ja hier über Kuhhörner, Thurnhallen, Basistunnel, 6 Wochen Ferien usw. ab ist das auch ein Thema bei euch? Falls du dazu kommst diese Fragen zu beantworten, dass wäre mega lieb. Jetzt kann ich allen sagen ich hätte dich mit Fragen zugeschüttet. :D Danke.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Internet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politikern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Prozedere"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arbeitsgruppen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frewilliger Basis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jokertage"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schweiz Dossier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zwergenrepublik"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Direkte Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kuhhörner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Thurnhallen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Basistunnel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6 Wochen Ferien"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Panderz_GG,"Hey Nico, Kannst du noch ein paar Dienstfahrten machen und mir bisschen was abgeben? PP link kommt dann per DM. Danke bro.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dienstfahrten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""PP link"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Own_Kaleidoscope1287,"Wie kam es zu dem ""Kapuzenpulli Look""?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kapuzenpulli Look"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+42robots42,Was findest du besser Volt oder Ampere?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ampere"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+fcavetroll,"Was ist der derzeitige Kurs für Anteile an der Seele eines Abgeordneten? Wie viel Geld müsste ich beispielsweise zahlen, wenn ich 10% kaufen möchte um 1 Abstimmung zu beeinflussen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Seele"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10%"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1 Abstimmung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NoobCanoeWork,"Kann man irgendwas machen, sodass du gezwungen wirst, noch länger da zu ""arbeiten""? Also quasi gegen deinen Willen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""irgendwas"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""gezwungen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""arbeiten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Willen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GrieferGamer,Wie findest du die Drei Fragezeichen? Irgendeine Lieblingsfolge?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Drei Fragezeichen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tetris-rulez,"Was machst du täglich (Routinen), was dir gut tut?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""täglich"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mujifuji,"Hallo Nico, Die Partei ist meiner Meinung nach genau das was unser Staat braucht, so lustig es auch klingt. Teilst du diese Ansicht?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Staat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Trampf,"Hallo Nico, schade, dass du aus der Partei ""Die Partei"" ausgetreten bist, aber ich kann das schon verstehen. Ich hätte sie sogar dieses Jahr gewählt, wenn du noch drin gewesen wärst, weil ich deine Arbeit so gut und wichtig fand. Danke dafür! Mich frustriert die Selbstbedienungs-Mentalität in der EU (und auch in anderen Bereichen), und ich glaube es müsste einen Radikaleren Wandel in der EU zu diesem Thema geben. Kennst du eine nicht-rechte Partei, welche Pro-EU und dennoch gegen die ganze Lobby-Scheisse ist? Was hälst du von Europa-Parteien, wie zB Volt?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dieses Jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Radikaleren Wandel"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lobby-Scheisse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Europa-Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GhostSierra117,"Was war dein erster, richtiger ""what the fuck, DAS GEHT???""-Moment als Mitglied des europäischen Parlaments?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""europäischen Parlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+M2cPanda,"Wie denkst du wird sich Europa zu China verhalten, zumal es so aussieht, als hätte es Ungarn und Serbien in den Händen? Glaubst du, wir werden eine Massenproduktion und Überschwemmung an Waren in Europa seitens China sehen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""China"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ungarn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Serbien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Massenproduktion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Überschwemmung an Waren"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Snoo_80014,Was hältst du von der der politischen Einstellung deines ehemaligen Parteikollegen Sonneborns gegenüber Russland und dem Angriffskrieg gegen die Ukraine? Hast du dich schonmal mit ihm darüber unterhalten?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ukraine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Konemu,Was war während der Sitzungswochen dein lieblings Mittagessen / Snack?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sitzungswochen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mittagessen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+42robots42,Was ist deine Meinung zu Sonneborn in Bezug auf sein Drängen auf Verhandlungen im Ukraine-Krieg?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ukraine-Krieg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JustTheOneGoose22,"Nico, it's your cousin Roman. Do you want to go bowling?",2024-05-15,de,en,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Roman"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheFaragan,MAaaaan warum finde ich sowas immer 24h später :(,2024-05-16,de,de,"[
+      {
+        ""entity"": ""MAaaaan"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""24h später"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+europeanguy99,"Wie würdest du die Atmosphäre im Arbeitsbetrieb des Parlaments beschreiben? Wie gehen Leute miteinander um, was machen Abgeordnete und Mitarbeiter gemeinsam, wie ist der Kontakt zur Parlamentsverwaltung?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Parlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordnete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mitarbeiter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlamentsverwaltung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+McDuschvorhang,"Wen müssen wir wählen, damit Deutschland bei der Wahl von Europa gewinnt, zumindest aber ins Endspiel kommt?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Plus_Seaworthiness96,"Hallo Nico, cool das du das machst. - ist das ama nur als Werbung für dein Buch gedacht? -hast du schon Pläne was du nach der Amtsperiode arbeitest? - hattest du jemals das Gefühl oder einen konkreten Verdacht, dass dich jemand bestechen möchte, oder glaubst du aufgrund deiner Bekannten Einstellung ist nie jemand auf dich zugegangen? - wie viel Urlaubstage hat man als Abgeordneter im EU Parlament und kann man die wann immer man möchte nehmen? Muss sowas mit irgendwem besprochen werden? Vielen Dank für das AMA",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Buch"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Amtsperiode"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gefühl"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verdacht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bestechen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bekannten Einstellung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Urlaubstage"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordneter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""besprochen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vielen Dank"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""AMA"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Difficult_Treat_5287,Was zockst du so?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""zockst"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ifcknkl,Was war nochmal mit Sonneborn?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TetraDax,Wie doll war dein Überlegenheitsgefühl als du einen Futur II in dem Post unterbrachtest?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Futur II"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+starboy1405,"Hallo Nico, mich würde interessieren inwieweit du Lobbyarbeit bzw. Lobbyisten wahrgenommen hast und wie würdest du deren Einfluß einstufen? Danke",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lobbyarbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lobbyisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Einfluss"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cassiopei,"Wie hoch sind die Versorgungsbezüge, die Du in Deiner 5 jährigen Mitgliedsperiode aufgebaut hast?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Versorgungsbezüge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 jährigen Mitgliedsperiode"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Somma97,Denkst du die EU ist in Ihrer derzeitigen Form ist zukunftsfähig? Wie siehst du die Zukunft Europas und der EU? Macht ein Europa voller Nationalstaaten noch Sinn oder sollte ein geeinter EU Staat mit einem starken Parlament das Ziel sein?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nationalstaaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU Staat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BiccepsBrachiali,Wie viele Lagen hat das Toilettenpapier im EU-Parlament?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Somma97,Wie schaffe ich es mit minimalen Aufwand die größt mögliche Chance zu haben Mitglied des Europäischen Parlaments zu werden?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europäischen Parlaments"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+breadicali,womit könnte man dich überreden einen tag im parlament zu schwänzen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ypso21,"ich bin noch ziemlich unsicher wen ich wählen soll. bei land- oder bundestagswahlen ist das einfacher, dank 5%-hürde und kenntnis über mehrheiten etc kann ich ganz gut taktisch wählen, aber das europaparlament ist für mich eine ziemliche black box. bringt es was, eine kleinpartei wie zb die linke zu wählen, die hier keine 5% hürde hat, oder ist es prinzipiell um gute politik wahrscheinlicher zu machen doch sinnvoller eine größere partei zu wählen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""land- oder bundestagswahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""europaparlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""die linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Total-Boat6380,"Wenn du eine Sache an der EU ändern könntest, was wäre das?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+euphor12,"Hey Nico, schön dich auf diesem Netzwerk zu sehen. Ich persönlich hätte dich auch gerne vor einigen Jahren auf der Fusion sehen wollen, leider war das Zelt voll und ich kam nichtmehr rein. Ich kann mich jedoch daran erinnern, dass deine härtesten Fans sich auch an den Zeltaussenwänden postiert und aufmerksam gelauscht hatten. Da dort aber jeder hingepinkelt hatte, wars mir etwas zuwider.. Deshalb freu ich mich auf die nächste reale Gelegenheit.. Vll dieses Jahr auf der Attention? ;-) Liebste Grüße zu dir!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Fusion"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zelt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zeltaussenwänden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Attention"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Realistic-Bank4708,Hallo Nico! Zu meinen Fragen: Welche Frage fehlt dir am meisten? Was wolltest du schon immer mal gefragt werden? Warum?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThePhenex,"Nach den geschwärzten Dokumenten der Corona Impfdeals und den gelöschten SMS, den ständigen Versuchen Privatsphäre im Netz zu untergraben und vielen Meldungen über Parlamentarier für welche die EU ein Selbstbedienungsladen ist, haben viele das Vertrauen in diese Institution verloren. Wie schätzt du den Trend ein, nimmt die Korruption immer weiter zu oder gibt es Zeichen, dass die EU sich bald mehr für das Wohl der Bürger engagiert? Man hat oft das Gefühl, dass diejenigen welche diese Skandale im Parlament kritisieren in der Unterzahl sind.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Corona Impfdeals"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""SMS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Privatsphäre im Netz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Parlamentarier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wohl der Bürger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Skandale im Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Pretty_Nose_3857,Heyy Nico wie schätzt du den Einfluss des WEFs auf unsere Politik in Deutschland ein?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""WEF"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElManuel93,Hi Nico (wenn ich so unformal sein darf) Ich habe irgendwo in einem Interview gesehen dass dich unter anderem sehr nervt wie einfach es ist das Amt für den eigenen Profit aus zu nutzen. Da kahm mir der Gedanke dass man das ja auch auf eine altruistische Weise machen könnte :grinsendes_gesicht_mit_lachenden_augen: man dokumentiert wie viel Geld man aus dem System pressen kann und spendet den Betrag dann zum Beispiel an die Seenotrettung im Mittelmeer :sich_die_lippen_leckendes_gesicht: Was hältst du davon? Ist dir der Gedanke auch schon gekommen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Interview"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Amt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""System"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Seenotrettung im Mittelmeer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Angel_tear0241,Erstmal danke für dein AMA. Feiere dich total. Was war das Interessanteste/ Kuriosiste was du im Parlament mitbekommen hast?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""AMA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aeruza,Moin Nico und danke für deine Arbeit! Frage: Wie korrupt bist du jetzt?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Moin Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""danke"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Frage"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""korrupt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Sheidougan,wurde dir koks auf der toilette angeboten?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""koks"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""toilette"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Taelion,Wie hältst du das alles aus?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""alles"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+J4m3s__W4tt,wie stehst du zu jetzt zu Die PARTEI?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ke-Win,Ab wie vielen Stimmen kommt eine Person in das Parlament?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""eine Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ChronicCoffee,"Hi Nico, was bewog dich, in depressiven Phasen weiterzumachen anstatt dein Mandat für einen Nachrücker abzugeben?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""depressiven Phasen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Light_Post,"Hey, Kannst du bei all diesen Fragen bitte diese Frage auch beantworten? Vielen Dank.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kannst du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vielen Dank"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+moppza,Hey! Konntest du etwas bewegen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Konntest"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MeinNamewarvergeben,"Hallo Nico, wie heißt dein Kaninchen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kaninchen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LinqLover,"Jo. Das ist die Art von Aktionen, die das Parlament nahbarer machen und für die ich es gut finde, dass du gewählt wurdest. Super! Leider war es ja zwischendurch doch meistens eher recht ruhig um dich - in den letzten zwei Jahren war zB auf deinem YouTube-Kanal fast nichts los (edit: ah, ich sehe, dass sich das vor einem Monat geändert hat, muss ich mir anschauen!). Nach dem, was ich aus Interviews gehört habe, warst du vor allem mit tatsächlicher Sacharbeit, deinem Buch und deinen Depressionen beschäftigt. Kann man das so zusammenfassen oder wäre das unfair? Ich glaube, dass dich viele in erster Linie für Satireaktionen gewählt haben und nicht für ernsthafte Ausschussarbeit und so weiter. Mein Eindruck ist, dass davon hätte mehr kommen können. Wie siehst du deine Aufgabe und bewertest deine Arbeit heute rückblickend? Nachdem, was ich gehört habe, warst du teilweise selbst nicht davon überzeugt, deine Ziele zu erreichen (für mich klang es teils fast so, als säßest du nur noch deine Zeit ab). Falls ich das so richtig verstanden habe, hast du jemals darüber nachgedacht, dein Mandat für jemanden anderes abzugeben?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Jo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""YouTube-Kanal"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Buch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Depressionen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Satireaktionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Ausschussarbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aufgabe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ziele"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mandat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+a_happy_player,"Hey Nico, Was ist denn dein lieblings hoodie?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hoodie"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+iamez221,Danke für das AMA!,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""AMA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AdAcceptable3052,"Was musstest du/die Partei tun, damit youtube mir deine Videos Vorschlägt?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""youtube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ArgSchlimm,"Hi Nico, wo siehst du aktuell die höchsten Prioritäten in der Europa-Politik für die kommenden 5 Jahre?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa-Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+thebesuto,"Danke für dein AMA! In einem Interview hast du erwähnt, dass du mit einigen Passagen deines Buches nicht einverstanden seist. Es sei von einem Ghostwriter verfasst worden, welcher stellenweise über die Stränge geschlagen sei. (1) Würdest du mir trotzdem **empfehlen, dein Buch zu kaufen?** (2) Zusatzfrage: **Welche Bücher sollte man gelesen haben?** Sowohl politisch als auch nicht.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Interview"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ghostwriter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Buch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bücher"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Professional_Mess866,"Ich habe den ""Skandal"" bzw deine Meinungsverschiedenheiten mit Martin Sonneborn nicht verstanden. Was hat dich da so getriggert, dass du für dich keine weitere Zukunft in DER PARTEI mehr gesehen hast?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Martin Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DER PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+trfybanan,"Gibt es irgendwelche extremst unangenehme Kollegen, über die du gern mal etwas sagen möchtest? :D Wenn nicht wer ist denn überaschend nett?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Kollegen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nett"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+fzwo,"Sollte man bei der Wahl eher auf die Positionen der konkret gewählten Partei achten oder auf die Positionen der Fraktion, der sie im Europaparlament angehören? Wo kann man sich deiner Meinung nach am besten über diese Fraktionen informieren? Vielleicht eine zu offene Frage, aber was ist eine Fraktion im Europaparlament eigentlich, wie unterscheidet sie sich von einer Fraktion im Bundestag/-rat oder ähnelt ihr?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Europaparlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fraktion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundestag"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+pacolingo,"Schon mal ne Bestechung aus Azerbaijan angeboten bekommen? Schon mal angenommen? Setzt sich auch die PARTEI für die Sicherheit Armeniens ein, oder macht das nur Sonneborn? Bin Single Issue Voter, also kannst du meine Stimme ziemlich einfach auffangen.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Azerbaijan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Armeniens"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonneborn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kaiser7310,Hi Nico! Planst du wieder mit Comedy (außerhalb der Politik) anzufangen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Comedy"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wonderful-Wind-5736,"Hey Nico, jetzt mal ehrlich: Wie hart hast du die Reiserichtline ausgenutzt?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reiserichtline"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FabjanK,"Wie viele Menschen aus ""bildungsfernen"" Schichten sind im EU-Parlament? Denkst du es gibt mehr Abgeordnete im Bundestag oder im EU-Parlament, bei denen kein Elternteil studiert hat und hast du eine These warum das so ist?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundestag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DividedState,Wann können wir mit deinem Demotivationstraining für Bullies LOL prime serie rechnen? Easy win oder nicht?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Demotivationstraining"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bullies"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""LOL prime serie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheBamPlayer,Hat die EU euch auch einen Dienstwagen bezahlt?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Luuigi,wenn du eine rundreise zu allen Menschen machen würdest die an diesem AMA teilnehmen - wieviel Reisegeld würdest du wohl von europäischen Parlament dafür bekommen?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""europäischen Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+russianguy,"Hallo Nico! Ich erinnere mich noch an dein fantastisches Sketch über die Einschränkung des Wahlrechts in den letzten 18 Lebensjahren, genau wie wir Menschen in den ersten 18 Jahren vom Wählen ausschließen. - Die alternde Bevölkerung Europas und damit auch Deutschlands bereitet mir große Sorgen. Ältere Menschen prägen unser Leben mit ihren überholten Moralvorstellungen und übermäßig konservativen Ansichten, während wir für ihre Rentenpakete bezahlen. Denkst du auch darüber nach, und hat die EU einen Plan, um in Zukunft nicht in einer Welle des ""Silbernen Tsunamis"" zu zerfallen? Was kann ein durchschnittlicher doomer Millennial tun, um diese Zeiten zu überstehen?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europas"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschlands"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Silbernen Tsunamis"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""durchschnittlicher doomer Millennial"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jonas_c,"Denkst du, AI wird die Menschheit ablösen als dominante Akteur auf diesem Planeten und wie können wir das beschleunigen? Ich jedenfalls begrüße unsere AI Overlords! :rotes_herz:",2024-05-15,de,de,"[
+      {
+        ""entity"": ""AI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Menschheit"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Planet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Totendax12K,Moin Nico. wichtigste Frage zuerst (bevor ich mich auch mal politisch angagiere). Wie ist die Kantine? Danke sehr,2024-05-15,de,de,"[
+      {
+        ""entity"": ""Moin Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kantine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jom_Bots,"Hi 1. Wie ""groß"" ist Lobbyismus und Korruption in Brüssel vertreten? 2. Würdest du dich nochmal wählen lassen? 3. Was ist deiner Meinung nach momentan das größte Problem der EU? Ansonsten wünsche ich noch einen schönen Tag!",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lord_Euni,"Hey Nico. Danke für das AmA und danke für deine Aufklärungsarbeit aus Brüssel. Was wäre deiner Meinung die beste Herangehensweise, die Korruption in der EU zu bekämpfen und/oder die Strukturen demokratischer zu machen. Und wie wahrscheinlich ist es, dass das passiert? Wie gefährlich ist für dich das Erstarken der Rechtsextremisten in Europa für die EU?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Brüssel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Strukturen demokratischer zu machen"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erstarken der Rechtsextremisten in Europa"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+LeckerSaeure,"Hi Nico. Vielen Dank für deinen Job. Es tut mir leid, dass du das erleiden musstet. Da du ja bald wieder etwas mehr Freizeit verfügst, kann man dich bald wieder auf den Slambühnen des Landes erwarten? Welchen deiner Kolleg*innen im EU-Parlament würdest du eine Slam-Karriere am ehesten zutrauen/nahelegen und wieso? Liebe Grüße, ein Branchenneuling.",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""EU-Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jonas_c,"Was wäre nötig um die EU demokratischer, effizienter und weniger korrupt zu machen? Und wer ist dein Favorit dafür wenn du dich nicht selbst wählen könntest?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demokratischer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""effizienter"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""weniger korrupt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Favorit"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Warmest_Farts,"Glaubst du an die Hufeisentheorie? Wenn ja, welches Beispiel findest du am witzigsten?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Hufeisentheorie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Whystherumalwaysgone,"Tach Schef! Ich kenne die Antwort darauf nur aus unseren nationalen Parlamenten, daher fände ich das aufs EP bezogen gar nicht unspannend: Wie sieht das, mit Hinblick auf den Rechtsruck in Europa, im Umgang unter den MdEPs und Fraktionen aus? Werden Mitglieder der ID-Fraktion geshunned, oder pflegen (beispielsweise) EVP-MdEPs einen guten Umgang mit den Rechtsaußen-Kollegen? Das war's schon, danke für deine Arbeit. :)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Tach Schef"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MdEPs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ID-Fraktion"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EVP-MdEPs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Rechtsaußen-Kollegen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IrbanMutarez,"Hi Nico, Neben all den bescheidenen Erfahrungen im EU Parlament: Gibt es etwas bzw hast du was erlebt, was dir zumindest etwas Hoffnung gemacht hat (und was optimalerweise auch uns Hoffnung machen könnte)?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kaeptn_Iglu,"Meinst du das eine Kehrtwende der EU möglich ist im Thema Korruption, selbstgefälligkeit der Abgeordneten, und vieles weiteres was schief geht? Oder muss man das ganze neu aufziehen und einmal rein Tisch machen? Mich würde es interessieren was du als Abgeordneter dazu sagst. PS mach weiter so ! macht spaß deinen content zu verfolgen",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Korruption"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Abgeordneten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tisch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IrbanMutarez,Hat sich nach deinem Austritt aus der PARTEI deine Meinung über sie noch weiter verändert (in die eine oder andere Richtung) bzw bestätigt?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Thaodan,"Grüße aus Finland, Bin Deutscher der in Finland wohnt. Hab es nicht geschafft die Papiere für das Wählen in Deutschland zu bekommen. Wen würdest du wählen wenn du nicht in Deutschland wärst?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Grüße"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Finland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutscher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TJ-White,"Hi Nico, Verfolge dich schon sehr lange! Deine Transparenz im Parlament und auch bei dem Thema Depressionen macht dich sowohl zu einem wichtigen Menschen in der Medienwelt, als auch für viele Privatleute. Deshalb mal eine (off topic?) Frage: Wie geht's dir? =)",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Nico"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Depressionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Medienwelt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Privatleute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+clacksy,Wie riecht es im EU-Parlament und aus welcher Fraktion kommt der oder die übelst riechende Abgeordnete?,2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlament"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordnete"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RisingRapture,"Sollte ich eine Kleinstpartei wählen, mit der ich laut Wahlomat mehr Übereinstimmung habe, oder lieber eine Bundespartei, der ich den Rücken stärken will?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""Wahlomat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kleinstpartei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundespartei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MagicianFinancial931,"Welche Privilegien oder euphemistisch ""Benefits"" haben EU-Parlamentarier?. Und gab es Bestechungsversuche oder schöner gesagt ""Anfragen zur Lobbyarbeit""?",2024-05-15,de,de,"[
+      {
+        ""entity"": ""EU-Parlamentarier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bestechungsversuche"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lobbyarbeit"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

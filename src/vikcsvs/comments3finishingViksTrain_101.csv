@@ -1,0 +1,5221 @@
+author,text,timestamp,subreddit,language,gpt_output
+35657280,反倒希望民進黨獨裁一把，這些人除了賣台還會什麼，都不用屠殺他們，送去金馬然後還給中國就行,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""金馬"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,那群人到時候就跪地感激政府給他們美好人生、讚美有如此美妙的黨來統治他們！,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""那群人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""美好人生"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+EggyComics,Heartbreaking,2024-02-28,Taiwanese,en,"[
+      {
+        ""entity"": ""Heartbreaking"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Nantianfeiyun,是啊，所以國民黨支持者說沒有小蔣就沒有現在的民主，有時真的很想上去呼一巴掌，我們的民主前輩曾經也如螻蟻般活著，被踐踏，但仍然亦步亦趨的爭取民主，反觀窪地人只會嘲諷為民主流過血與汗水淚水的人，吃過鐵拳才期待王師北上，真的很不爭氣，這樣的窪地人，值得擁有共產黨的厚愛,2024-02-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小蔣"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主前輩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""窪地人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2024-02-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iamabot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwanese"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2024-02-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iamabot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwanese"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,讓他們這種來鬧沒什麼問題反效果比較大,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Frozen_Loyce,“我要是在美國”，可惜，他在滯納,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""滯納"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dietrich_sa,一个中国四眼碳水猴子能端的动枪吗:笑得满地打滚:口气还挺大，一提到台湾国就像打了鸡血一样，现实中遇到真人是不是直接装死不认识了。在美国领土上还有如此强烈政治露阴癖，开战了这种货真以为自己能完整的溜回小中国？:笑得满地打滚:,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SquareSugar3110,"他是不是馬上把回覆刪了所以你只能透過信件收到？
+
+我之前也很常收到這種辱罵回覆，妳去設定裡面把電子郵件通知接收他人回覆的選項關掉",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""馬上"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""回覆"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""信件"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""設定"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""電子郵件"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No_Agent8795,這種人我看過就是那種沒朋友又沒魅力的人想吸引注意時會做到事情,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""這種人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""沒朋友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""沒魅力"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""事情"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VerboseLogger,他發這些回答會讓他拿到一百個社會信用分和兩片麵包,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一百個"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""社會信用分"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兩片麵包"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TaiwanGreatestNation,笑死小粉紅都來不了台灣。還硬拗不是一邊一國,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""笑死小粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一邊一國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Big-Blacksmith-5073,所以我日常生活见到中国人发疯我心里就总是会想：和你们这帮虫豸做一家人？我要是湾友我也誓死抵抗。。。,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""湾友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TAKANOGENJI,MostsaneChinesebelike:,2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""MostsaneChinese"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zaku41k,Keyboardwarriors.Bleh.,2023-06-15,Taiwanese,en,"[
+      {
+        ""entity"": ""Keyboardwarriors"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+wscriptshell,但凡长了脑子的都说不出这话，这种人在大陆也是loser,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""大陆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sosjehejej,到墙外了还把台独打成td，你可以见到希腊金被阉割的有多厉害。,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""希腊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""金"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Excellent_Victory180,"這是從哪家精神病院跑出來的:蜘蛛:
+病的不輕啊！",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""蜘蛛"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Li-Ing-Ju_El-Cid,牠應該不是第一次了，我以前也遇過，就是隻戰螂,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""牠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""戰螂"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CapybaraGlittering,來提供節目效果，妄圖笑死我們,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""妄圖"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RemoteHoney,"就是不滾，你怎麼樣？
+
+咬我啊？",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""不滾"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shou1006,Justaloser,2023-06-15,Taiwanese,fi,"[
+      {
+        ""entity"": ""Justaloser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+pathfinder-tryhard,希臘人能不能冷靜一點,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""希臘人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TreeSheep9066,技術上來說牠翻過來到Reddit也是反對中共(的網路政策)吧?,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Admirable-Magazine61,中共狗腿子又把中国抛弃了,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nuljeying,"燈～燈～燈燈
+
+:恶魔微笑:我們終於又見面了
+
+:怒火中烧:你要殺的是我，你為什麼要殺村民？",2023-06-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""恶魔微笑"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""村民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Actual-Jaguar5668,小丑跳梁耍把戲，有人吐口水也是獲關注，沒人理損失也不多，買空賣空的無本生意，當它打水漂、一會兒湖底，就得了。,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""小丑"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""無本生意"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+tastypizza22,誰又知道jctd是什麼意思了？太把自己那套莫名其妙當回事了,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""jctd"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Enough-Ad-6543,"沒事，等美國願意給參軍的人發綠卡
+走線的都拿槍打中國了",2023-06-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""參軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,味太冲了，只能说确实是共产党训出来的一条好狗，文字的自我审查深入脑髓，消灭汉语活力的人只有中国人自己,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""共产党"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""汉语"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Littertw,這粉紅是不是失業沒事幹，所以整天翻牆賺五毛?,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""失業"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""翻牆"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""五毛"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Street-Lobster-9092,跟我昨天遇到的差不多...,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""昨天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"如果是真心為整個中華民族的未來著想，我只能說這種魯蛇正在敗壞那些善良和在社會中拼搏的人努力積攢的名聲
+
+他正在擅自對外國人代表著他所隸屬的中國人，且把我們所有人污染成如他一般
+
+我很擔心在不遠不近的將來，全體中華民族要因為無力處理這種言論蔓延而遭外族更極端的仇恨",2023-06-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中華民族"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""魯蛇"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""外國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""全體中華民族"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""外族"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Li-Ing-Ju_El-Cid,"馬上一隻下賤戰螂，真的是不意外
+
+",2023-06-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""馬上"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""下賤戰螂"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Responsible-Term-767,"JC…?
+傑西⋯麥卡尼⋯？",2023-06-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""JC"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""傑西"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""麥卡尼"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"以前的我：中國人和共產黨不同，他們是受害者
+現在的我：早該圖圖了",2023-06-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,最早我討厭共產黨，現在我成了獻忠,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""獻忠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FUCK_CCPIG,這是真把美國當難民營了,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,口嗨罷了，鍵盤上打仗捐一條命，真打起來希望狗子們去作風優良打勝仗去,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""鍵盤"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""狗子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Much_Editor7898,＋１這種很多，很幼稚,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""＋１"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""這種"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""很多"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""很幼稚"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,"之前做的電影裡也收到一個類似的，但是沒顯示
+
+",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""之前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""電影"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FUCK_CCPIG,監獄裡要什麼信用分？:笑出眼泪的猫:,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""監獄"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""信用分"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""笑出眼泪的猫"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+FUCK_CCPIG,到自由世界還發暗號我是沒想到的,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""自由世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FUCK_CCPIG,說的沒錯，某些人天天喊一家人，一家人你回家去呀，某個回家去的得了子宮癌只能哭求別人幫她,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""某些人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""某個"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""子宮癌"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,可惜鍵盤不能當槍用:笑出眼泪的猫:,2023-06-15,Taiwanese,zh,"[
+      {
+        ""entity"": ""鍵盤"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猫"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+FUCK_CCPIG,看來是複製粘貼的，這不就是神經病？,2023-06-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""複製粘貼"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""神經病"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+dlfnSaikou,粉红翻墙还满多的，去油管上骂粉红看他们破防可有意思了,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""油管"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""粉红"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,警察台獨，中國人是這樣的，墻內自我閹割，墻外還改不了太監味,2023-06-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""警察"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""墻內"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""墻外"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,發這個能賺到錢？要不是郵箱通知，我都不知道,2023-06-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""郵箱"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Crafty-Quarter8697,"笑死，我也收到了，還秒刪
+信箱裡的訊息一清二楚",2023-06-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""笑死"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""信箱"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2023-06-15,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iamabot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwanese"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FUCK_CCPIG,你說刷了這麼多，別人又看不到，發癲嗎？,2023-06-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FUCK_CCPIG,"
+
+我現在可愛用這個圖了，真是好圖",2023-06-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""圖"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+DoubutsuMori04102022,"以前：「我們要理解大陸人，他們這樣是中共教育的問題，一定有他們的苦衷...」
+
+現在：「［removed］人死了，我開三天香檳！」",2023-06-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""大陸人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共教育"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""苦衷"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""［removed］"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CommanderSykes,一句话换取一次晚上不被狱警操皮炎的机会，还是值得的,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""狱警"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""晚上"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+livewithdopaminee,"自由世界:叉号:
+台支也是支只是支的程度罢了",2023-06-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""自由世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""台支"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FUCK_CCPIG,應該不是秒刪，就是發癲被紅迪製裁了,2023-06-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""紅迪"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,這不就對了，每次覺得心軟時，希臘金都用實際行動告訴我心要硬，手要狠,2023-06-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""希臘金"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+FUCK_CCPIG,就說這群又蠢又壞的牲口，能光是共產黨的問題？,2023-06-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DoubutsuMori04102022,"幾年前百度貼吧上有個默認頭像的匿名帳號評論（原文我忘了，這是按照記憶寫的：
+
+「每當我對中國人開始要產生憐憫之心的時候，都會拿出這個帖子的截圖，告訴我自己：中國人沒有一個是無辜的！」",2023-06-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""百度貼吧"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,一邊自己受災，一邊咒詛別人也像自己一樣，這種人剮之有餘,2023-06-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""一邊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""咒詛"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""剮之有餘"",
+        ""entity_type"": ""OGR"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Mynameshih,"迪卡被滲透很嚴重，
+真的不意外，
+他們覺得被共產黨統治也沒差",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""迪卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ArvinLai,所以我現在很悲觀的原因就是中共認知戰已經全面成功，所有立場不夠臺派的都對抗中保臺有了抵抗心理，偏偏臺灣的國族認同還在發育。,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""臺派"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中保臺"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Evil_Thresh,"人數比例有沒有那麽多可爭論，但是不可否認的是不願意抗爭的人會以一定比例存在。
+
+特別是那些民主體制内的少數。一般會覺得反正投票也投不過，民主對於我來説也沒有好處。那麽寧可你也沒有，我也不要。
+
+除了罵這些人外，更要重視的是如何讓全國人民有體制内的歸屬感，達成一致，而不是盲目的要求那些覺得被體制邊緣化的人要為體制鞠躬盡瘁。
+
+雖然我也沒有很好的辦法……哈",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""民主體制"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""全國人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歸屬感"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""辦法"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShiraHiMEOuO,"低能卡不足採信
+一堆農場文",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""低能卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農場"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hts115,這個投票選項有問題，應該是“1.抗中保臺，2誓死抵抗，3絕不投降”,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""1"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+s8018572,連採樣數都沒有==根本沒意義的投票，跟udn網路民調一樣爛,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""udn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Taiwanese-cang,"實際上根本沒有替誰打仗是替自己抵抗中國入侵，難道有人天真的以為投降他們就會放過自己？
+
+一堆好似認知作戰的奇妙理念喔，被強姦還要想著他姦完就會放過我了？什麼悲哀的思想？",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Repulsive-Jump-6620,投降之後就準備編入解放軍去對抗美軍了，可憐....,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Mysterious-Camel5205,低能卡不是80趴都是網軍嗎？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""低能卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80趴"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""網軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ninjatuna0205,就我身邊的人來看，舉手投降跟逃出國的人確實佔大多數。當兵時也不少人覺得沒啥好打。,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""舉手投降"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""逃出國"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""當兵"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zoroaster623,台灣年輕人因為柯文哲的關係，投降派確實佔多數,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣年輕人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cool_Fuzzy,一堆中供養的砸碎幾張毛賊東就手買這些雜種養的,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""毛賊東"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""雜種"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Spiritual_Bat6625,習近平和普亭理想中的國民,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""習近平"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""普亭理想"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Super-Comedian-7988,湾友们不要再麻痹自己抱有幻想了，300多年前都投降了，结果很惨，你们千万不要重蹈覆辙:失望但如释重负:,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""湾友们"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""300多年前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Loose_Bodybuilder_54,"記得好像puma的影片說過他去其他國家問這個問題
+大家都很驚訝台灣到現在居然還有這個問題
+以歷史的角度來看可能真的就是被侵略過這群人才會改觀
+當然我們還是得努力找其他不流血又能促成團結的手段
+
+之前蠻好奇低卡使用者到底是被洗腦還是那裡容易聚集立場偏統的人
+但看到小編不小心用中國用語之後開始懷疑那邊是不是網軍佔了一大部分",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""puma"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歷史"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RoughRead7973,還是幾句老話，一旦開打，老子我要把親共的通通吊死在樹頭，省得要防敵人還要防自己人,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""親共"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""敵人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自己人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SkywalkerTC,「舉手投降」這也太明顯了吧.....有人至今相信這在台灣會是多數決嗎？但應該不難看出，這跟中共所希望的是一致的。Dcard被滲透得很厲害了，目的是在年輕族群間帶風向。光是投降這選項與其他差不多票數我都覺得很怪了，何況是得票數是其他兩倍。中共不管宣傳什麼，都是利用某族群對事不瞭解的特性。如果這裡面有台灣人，那這些台灣人想必也是把民主自由當理所當然了，沒有人會跟民主自由過不去的，更不可能講出「民主不過如此」「民主自由有什麼用」這類話。這種，稍微思考一下都會看得出端倪的...,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""Dcard"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共 (Chinese Communist Party)"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣 (Taiwan)"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主自由 (democracy and freedom)"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+illusionmist,都以為投降就沒事了吧，軍公教先殺一波，剩下的平民送再教育營，洗到能把「正確的」共產黨史倒背如流才能出來,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""軍公教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""平民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""再教育營"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共產黨史"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PsychologicalArm9545,那些人適合搬去中國慢走不送,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""那些人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Logical-Concept5028,我會上場打仗一堆垃圾大學生,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""大學生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PikachuTaigi,"低能卡不愧是低能卡
+中興大學:笑哭了:果然是中興啊",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""低能卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中興大學"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中興"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lud_Reficur,把這些投降派都派去送死，或者內部槍斃，到時候少一批扯後腿的會更好,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""投降派"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""內部"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OkLunch8873,"1.抗中保台
+2.抗美援中
+3.新疆採棉花",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""新疆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""棉花"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Competitive-Cell5061,"戰國策的資源都在上面。
+中國花大價錢靠網軍網紅比方陳之漢那些人要得到台灣。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""戰國策"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""陳之漢"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BenLu0308,"［新聞］高三生氣哭：我寧願為柯文哲打仗，也不願替蔡英文打仗！
+
+小草不意外",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""蔡英文"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Prudent-Landscape-12,"真的以為主動做戰俘就沒事了，面對強盜只要屈服，要搶的還是會搶，全部都搶了還會笑著說笨蛋。
+今天面對侵略可以選擇投降，但明天上戰場做炮灰/彈藥包時可就沒得選了。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""強盜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""笨蛋"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""今天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""侵略"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""明天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gdtg10900,台灣人過太爽沒發現戰爭早就開始了，聽到南部小學生說中國好棒要投票給柯文哲,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""戰爭"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""南部"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Acadia8930,"討論假設性問題好玩是好玩，
+但是不嚴謹就算了，
+只有這種極端選項的討論來去揣測沒發生的事情真得發生了會如何有點無聊，
+因為實際的情況是你根本不會知道你到底會怎麼做。
+
+​就拿我來說，我標準台男自助餐，
+對象臉要漂亮、身材要好、出遊吃飯要AA、要喜歡色色，
+缺一不可否則PASS。
+等到真得遇到女生，馬上變成只有他不要沒有我不行。",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台男"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Informal-Cake3572,低卡早期只供大學生使用的，後來解禁當然就一堆妖魔鬼怪進去洗相對單純的大學生腦，轉變成低能卡,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""大學生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""低卡"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""妖魔鬼怪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""低能卡"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+selahed,"會爭論要不要投降的人，戰爭一來看起來全都會上戰場，要不要繼續打仗或投降也由不得草民們自己。
+
+真正能避戰逃跑的，已經將家人財產送出國了。多看點烏俄相關還是有些教育意義的。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""草民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""家人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""財產"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烏俄"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kaisear,Notsurprised.Housingpriceishighandyoungstersdon'twanttodietoprotectlandlordsandrichpeople.Thesameforeverycountry.YoucanaskChineseunder30iftheyarewillingtogetdraftedtoinvadeTaiwan.,2024-03-17,Taiwanese,en,"[
+      {
+        ""entity"": ""Housing price"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""youngsters"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""landlords"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rich people"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Chinese"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zoroaster623,"台灣人的歷史就是：有天險可據守、有糧有兵的時候一定會先投降不抵抗。
+等到人家上島來壓迫的時候開始暴動結果被屠殺。
+這就是台灣的歷史，228給台灣人的教訓就是，投降中共等著鐵絲穿手掌被推落淡水河。
+
+投降滿清被屠一次，(日本沒辦法，那時完全沒兵力，也是被屠，但是狀況不大相同)投降國民黨再屠一次。
+
+完全不懂有槍不反抗，沒槍上街抗議中共的這種邏輯。台灣不是香港，香港兵源不足也無險可據。但是這確實是台灣的主流民意。
+
+另外勸勸本sub，假設當時台灣年輕人選擇投降時，你們不堅決反抗，那等到解放軍駐台之後最好安份點，不要跟柯粉上街反共公平正義。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""228"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""淡水河"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""滿清"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""香港"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Naive_kid6363,看看就好，本島網路輿論被重度操作,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""本島"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zous520,面對戰爭哪能投票！假議題,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""面對戰爭"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lonely-Variation6940,當然不是常態，沒有一個正常的國家會像某些人這麼甘於被認知作戰，明目張膽到主張投降，毫無羞恥心的地步。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""某些人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DDfullpower,"剛好看到一個歐洲的，西歐也都是20%左右，真的沒有人沒事會想要戰爭。如果有選擇誰會想要戰爭
+
+",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""歐洲"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""西歐"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SignalPractical,"政府都沒打算抗中保台了你還希望台灣年輕人抗中保台是不是搞錯了甚麼??
+
+請問現在的民進黨政府真的有為了備戰在做準備嗎?
+
+在現代戰爭中打仗已經是高度專業化的事情了，已經不是跟以前一樣給你一套單兵武器稍微訓練幾個禮拜就上前線打仗的時代了，如果台灣真的有打算進行保衛戰爭，講句難聽點的只是把兵役延長根本是不夠的，除了兵役延長以外每個義務役人員也應該要每年固定回原單位進行訓練才對，不然真的上戰場也不知道要做啥只能當個砲灰而已，問題是民進黨政府敢得罪選票去做這件事情嗎?
+
+有很多事情做下去就是會得罪選票，民進黨政府現在喊喊口號就可以贏得選舉，那繼續喊口號就好啦\~繼續執政和賺錢才是重點，何況現在檯面上的政府高官哪個不是兒孫在歐美?與其在那邊擔心台灣年輕人會不會抗中保台，我比較擔心的是會不會一打仗政府官員就帶頭逃跑去歐美，到時候就真的變成世界笑話了。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣年輕人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現代戰爭"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兵役延長"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""義務役人員"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""選票"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""歐美"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Medium_Ad_4849,現在年輕人整天滑抖音小紅書都嚮往去祖國生活當然舉白旗投降,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""年輕人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""抖音"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小紅書"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""祖國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""白旗投降"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sunshen666,说真的，我观察国内舆论，不认为会直接进攻台湾，而是尽量创造和美军在近海单挑的机会。进攻台湾是攻城，是下下策，国际观瞻也太差，有点脑子就不会这么干,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""国内"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美军"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""国际观瞻"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Square_Pay_7869,可悲啊，應證了別人小孩死不完,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Honest_Water3408,>或是一個王出去和別的王打仗，豈不先坐下來酌量，他能不能用一萬兵去抵抗那領二萬兵來攻打他的嗎？若是不能，他就趁敵人還遠的時候，派使者去談和平的條件。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""王"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一萬兵"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""二萬兵"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""敵人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""使者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Most-Dimension-1698,"再次強調,我不認為兩岸會有大規模衝突的可能性,即使有衝突,我認為都會被克制在一定的小範圍,看中印邊界就知道,即使雙方再怎樣互相挑釁,但近年來衝突都被克制在一天就結束的範圍內",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""兩岸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中印邊界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""近年來"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ps110595,不意外，人性不就如此，人類早晚滅亡，這一世問心無愧就好。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""人性"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人類"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""這一世"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Otherwise-Bid2775,低能卡我倒是不意外，天曉得上面有幾個真的帳號。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""低能卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""天曉得"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Different_Ant_1116,當然不是常態，不過低卡上真的有腦袋正常的活人嗎，我以為通通都是網軍,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""低卡"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""網軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+haiman1008600988,"现实如此，俄乌战争开始的时候，乌克兰去往东欧的所有公路都大堵车，几百万人在短短几天之内逃离了乌克兰。
+
+>绝大多数难民最初进入乌克兰西部的邻国（波兰、斯洛伐克、匈牙利、罗马尼亚、和摩尔多瓦）。在德国逐渐成为最大定居国之前，波兰接收的乌克兰的难民比所有其他欧洲国家的总和还要多（截至2022年3月27日波兰已接收230万乌克兰难民）。
+
+>根据联合国说法，自今年2月俄罗斯入侵乌克兰以来，至少有1200万人逃离了家园。超过500万人逃往邻国，而700万人仍在乌克兰境内流离失所。
+
+>联合国称，截至今年7月4日，整个欧洲有超过520万乌克兰的难民；超过350万人已经在另一个国家申请了临时居留。
+
+俄罗斯：据统计有1,412,425名乌克兰难民
+波兰：1,194,642人
+摩尔多瓦：82,700人
+罗马尼亚：83,321人
+斯洛伐克：79,770人
+匈牙利：25,800人
+白俄罗斯：9,820人
+
+最让人惊讶的是有很多难民都逃往俄罗斯。
+
+如果中国和台湾开战，台湾的海关必然会被人群挤满，而中国的边境则会出现大量外逃的人群，两地的超市、货物仓库甚至是农田都会被洗劫一空，",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""乌克兰"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""东欧"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""几百万人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""波兰"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""斯洛伐克"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""匈牙利"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""罗马尼亚"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""摩尔多瓦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""德国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""俄罗斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""联合国"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""欧洲"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Scared-Elephant9996,建議參照40k的模式養兵，開打第一時間一定要先掃光國民黨的垃圾，國民黨不要說幫忙，不要偷開後門就要偷笑了，內憂不除怎麼抵外患,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""40k"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""內憂"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Significant_Push_700,這個樣本數母體不夠大，只是小部分參考而已,2024-03-19,Taiwanese,zh,"[
+      {
+        ""entity"": ""樣本數"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""母體"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,只要中共打過來殺幾個投降派，那投降派自己就會變成抗中保台派了,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""投降派"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""抗中保台派"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Ok-Cranberry-3912,这当然是是常态，古代战争还指望着运气好加官进爵一步登天。现代战争又没有荣耀只让人少点零件或多点弹片，保家卫国保卫的是前2％的富豪的利益，哪怕击退了侵略者，普通人也什么都得不到，就算那已经变成废墟曾经的家，大概率都在战争期间已经被当权者卖了买军火用掉了，普通人当然是能不打就不打,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""古代"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""现代"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""前2％的富豪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""侵略者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""普通人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""当权者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ShepherdJan,國家為我做了啥？要我上戰場打仗？不要總想著要人民犧牲奉獻,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""戰場"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Street-Lobster-9092,真的打起來，飛彈飛過來還會看你支持對抗還是投降？太天真了吧...,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""飛彈"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""支持對抗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""投降"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+punpun_onodera_0707,选保台的还大多是大陆网友投票信不信,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""大陆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SquareOk1756,"我很好奇欸民進黨這麼抗中保台
+為什麼兵役是改成一年而非兩年並且全民皆兵
+抱歉我是台獨派但是民進黨這樣做我是真的挺不下去",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兵役"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""一年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兩年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""全民皆兵"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台獨派"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Sad_Profession1006,"我感覺，戰爭最恐怖的是，不知道何時結束。有的戰爭十天半個月就結束，有的戰爭沒有三五年不會停，秩序混亂的地方，戰爭可能永不終結。
+
+投降只是儘早脫離戰爭的選項之一而已。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""戰爭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""十天半個月"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""三五年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+january9137,抗个鸡巴。几天就打下来了,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""抗"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""几天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WeiChi87,"「臺獨」的核心意涵在於對「非中」的認同，也就是台灣想像共同體的建構基礎是以解構、否定中國（中華、華夏、炎黃）這個數千年根深蒂固的想像共同體為前提。在兩岸歷史、血緣、宗法、文化、法理、產業等複雜糾結的現實下，台灣人從說話開始就受到全方位中華文明的潛意識影響。中國的崛起更讓這種影響更加顯著，使得「臺獨」的敘事邏輯最終落腳在利益的選擇上。
+
+以利益的選擇為前提，選擇「臺獨」意味著認為大船會沉、大洪水即將來臨。而美國對中國的角力更使得「臺獨」困境更加深重。美國若要對中國採取行動，台灣不站在美國一邊，就可能成為美國的牽制目標，這也成為了目前臺獨派主要的論證方向。
+
+因此，臺獨的困境和邏輯在於必須克服數千年中華文明以及中國崛起帶來的影響，而這種困境只能透過洗腦和恐嚇等手段來抵消。臺獨的真正價值取向在於對「非中」的認同，因為如果不反對中國，臺灣就不需要「臺獨」。當我們開始真正客觀地看待兩岸關係和自身處境，並根據真實情況進行思考時，許多依賴虛假敘事存在的觀點將變得不那麼牢固。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""臺獨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""非中"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""兩岸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""華夏"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""炎黃"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"打得過中國->不投降
+
+打不過中國->投降
+
+台灣打得過中國嗎？打不過，所以投降。就這麼簡單的道理而已有什麼好疑惑的。",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ProfessorMyers,"
+
+圖感覺不錯用我偷走了",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""圖"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Best_Butterscotch182,低卡那些廢物還渴望他們能保家衛國？,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""低卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""家衛國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShepherdJan,國族認同不是靠台灣價值就有用的，讓我先買得起房再說吧！台灣目前只剩低端跟既得利益者可以存活而已,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""低端"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""既得利益者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Intelligent_Agent515,只能說認同感實在太低了,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""認同感"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AKTEleven,"開戰後可以一台無人的「和平號」把投降派都送過去吧，反正都要投降了為何不投降到底？
+
+他們真的以為登陸後就可以過著幸福快樂的日子，不會被編入「解放台灣自願軍」的前線部隊來對抗美帝跟日寇嗎？
+
+這樣是winwin：戰時少一批扯後腿的，戰後剛好這些人都可以當戰前逃亡的，好好享受祖國的「和平」不用回台灣了。",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""和平號"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""解放台灣自願軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美帝"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""日寇"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,但這是軍旅版的所以還是有點無奈,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""軍旅版"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Honest_Water3408,什麼沒有、沒有、通過,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""什麼"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""沒有"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""通過"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Super-Comedian-7988,1.赞成2.同意3.我愿意,2024-03-17,Taiwanese,ja,"[
+      {
+        ""entity"": ""1"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""2"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""3"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Inso81,1.沒有2.沒有3.沒有 ,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""沒有"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""沒有"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""沒有"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShepherdJan,為什麼投降等於被放過，現在移民那麼方便，你就好好待在你的台灣島看我在美國爽,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣島"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AKTEleven,"「咦？但是我愛好和平啊！我很反戰啊！我投降，你們不是要給我一棟新房嗎？等等...你在幹嘛？」
+
+穿上解放軍制服後，編入「抗美帝日寇台獨自願軍」運往前線",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""抗美帝日寇台獨自願軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""前線"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+flykakaya,"自信點,把80趴拿掉",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""自信點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80趴"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AKTEleven,"其實投降派就給他們投降吧，開戰後可以先送過去對岸，看會不會立刻被編入「台胞自願軍」到前線面對台獨份子跟美帝日寇。
+
+人權？抱歉，祖國沒有那種東西！",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台胞自願軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台獨份子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美帝日寇"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""祖國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tmp2021,公司的Ukraine同仁剛開戰就逃到Georgia,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""Ukraine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Georgia"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cool_Fuzzy,一群窩囔廢全部送去對岸在教育營,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""一群窩囔廢"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""對岸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""教育營"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Medium_Ad_4849,我先吊抖音小紅書重度使用患者,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""抖音"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小紅書"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BackgroundIce874,"何必這麼麻煩,又沒效率,拿槍處決,一次可處決一卡車,另外可以把中配集中管理…………",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""一卡車"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中配"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+freedom2023,+1戰爭一開打，先要清內部。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""戰爭"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""內部"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+totochen1977,你的忠貞讓我想到電影吐槽男孩,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""電影吐槽男孩"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,"台灣2300萬人、中國超過10億
+
+隨便派個3000萬人來「替換」台灣人口真的不是那麼難唷...
+
+韭菜真的以為中共缺韭菜？你投降人家就給房給車？傻了，人家最不缺的就是欠你這自以為是的韭菜人情",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3000萬人"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韭菜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+spiderdie,先说结论：有这种可能。小粉红留岛不留人的言论甚嚣尘上，劝心存侥幸的台湾人看清中共以及大部分被洗脑的大陆韭菜。,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""小粉红"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""大陆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+spiderdie,中华民国大陆沦陷地区与台湾自由地区似乎进入了一场零和博弈，只有将对方的制度统一了，才有独立且和平的可能性，而这意味着沦陷区民主化或者台湾极权化:呵呵:,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""中华民国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大陆沦陷地区"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自由地区"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""零和博弈"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""制度统一"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""独立且和平的可能性"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""沦陷区民主化"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""台湾极权化"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Taiwanese-cang,"為了自己的生活抵抗而不是為了誰打仗好嗎？
+有時候這種腦袋真讓人想拍下去",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""為了自己的生活"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""誰"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,這個已經不是政府問題了，你民眾素質就是這樣。今天民進黨可不是綠共法西斯欸！黃埔問題那麼多，敢問仁兄有加入國軍矯正陋習嗎？還是加入了然後一起貪？打仗的時候政府官員會不會帶頭逃跑變成國際笑話我不知道，但能讓柯文哲拿到5億，選出韓國瑜當立法院長的中華民國的國民素質已經是國際笑話了。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黃埔"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓國瑜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,為什麼呼籲保衛國家會變成軍國主義＝＝總之你就是否定這國家的一切以陸軍來看海陸空三軍沒什麼好說,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""陸軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""海陸空三軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+QINTG,"在人家变成抗中保台派之前，更有可能先变成抗绿保命派
+
+",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""人家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""绿"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,國家讓你還能在這邊唉，失業能領社會補助，家裡有老人能申請長照，生病有健保，國小一學期學費只要2000。不要整天想著吃免費的人民公社，想想自己能為這個社會秩序做點什麼吧。B.T.W如果不知道自己能做什麼的話，請把你或你父母名下的房地產用市價的1／4售出，替居住正義錦上添花一下。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""社會補助"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""長照"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""健保"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""國小"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""人民公社"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""社會秩序"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""房地產"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""居住正義"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Deleted,不要問國家能為你做什麼，因為他真的什麼都沒做,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""國家"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,我可沒認為戰爭很美好那是要死人的誰在死前不會害怕現在就是對面想打投降能換什麼？10年後和美國對戰的入場票？或許對你來說加入中國只不過是失去一點自由但被統一後台灣人會被欺負的很慘為什麼我網路上認識的中國人跟我聊天三句離不開武統都在想怎麼欺負我們,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""戰爭"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""死人"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""死前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""對面"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10年後"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""網路上"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""武統"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Intelligent_Agent515,“好讓我們殺的無負擔”我已經聽過很多次了謝謝,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""無負擔"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mundane_Lab3181,"投降後也是另一種形式的戰爭，要可以善終的太少了。
+
+別的國家不好說，但以中共的尿性，投降後第一步就是先思想改造，一樣是腥風血雨。甚至你思想再純也沒用，畢竟人家根本不缺人口，直接全部洗掉，然後遷內陸人口來，方便又省事。
+
+就算沒這麼過激好了，投降後的地區也往往都是次等公民，以後也不會給你什麼好臉色看。打仗後佔領的地區也是一種出氣包的概念，就像古代攻城成功後往往會開放燒殺擄掠一樣。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""投降後"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""內陸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+freedom2023,你是歷史盲？二戰多少多少國家直接對納粹投降，帶來的是大屠殺，烏克蘭因為蘇聯政府的政策大饑荒死了240萬到750萬人，導致二戰烏克蘭是歡迎納粹的到來，甚至幫助納粹打蘇聯，結果到頭來也是被德國當次等公民殺，投降絕對不是脫離戰爭的選項，是給敵人殺的選項。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""二戰"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""納粹"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""烏克蘭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""蘇聯政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""240萬到750萬人"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""納粹"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""蘇聯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""德國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,中国養不了那麼多習慣在網路上罵政府的韭菜，到時候會先把你家地產田產與各種動產收歸國有，再讓你去藏南或南海爭取領土主權。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韭菜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""地產田產"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""動產"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藏南"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""南海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Witty_Suggestion_417,"那還不快打？等你哦:笑哭了:
+
+佩洛西來的時候不是也喊得很起勁嗎？",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""佩洛西"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,你文中的恐嚇不就是對岸所造成的嘛但你說的利益確實沒錯對台灣人來說最大的利益就是保持現在的生活及政治型態如果中國一直保持習上臺前的友台態度那說不定我們的反應還不會那麼大而洗腦是不存在的臺灣並沒有網路長城也沒有全部的媒體被一黨把控為什麼要非中因為他們要破壞我們的生活姿態,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""習上臺"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""洗腦"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""網路長城"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""媒體"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+D9599,"當然是打個過啊
+俄羅斯打烏克蘭整條公路直通基輔都只敢玩偷襲還被打回去
+台灣沒幾個登陸點
+中國跟台灣又隔著沒幾天風浪平的台灣海峽
+現代戰爭武器的防衛能力又比進攻強太多了
+中國現在沒機會
+喪失各國支持,經濟持續下行
+未來更不可能
+
+換武力角度
+既然你認同中國武力犯台
+你不打中國當俗辣派,中國武力逼迫犯台你時你不抵抗,成為中國人後
+美國攻擊台灣時,你能打贏美國嗎?
+
+當你還能糾結在
+是極權國家難以逃出國門的小砲灰好還是能自由出國的台灣人好時
+記得當中國督戰隊拿著槍,頂你腦門逼你上戰場時
+你不能選",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""俄羅斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烏克蘭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""基輔"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣海峽"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現代戰爭"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""各國支持"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""經濟"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""未來"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""武力"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ballball32123,ROC當年二戰單挑也打不贏日本應該早早投降吧？汪精衛是民族英雄怎麼變漢奸呢？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""ROC"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""二戰"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""汪精衛"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,小朋友，你移得了民嗎？不能的話還是趕快練習怎麼人肉排雷吧。解放軍台寇志願兵的工作大概就是排雷跟擋子彈。畢竟叫你抵抗難度好像比當敵人的人肉排雷器還要難。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台寇志願兵"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NiceDEEEER,你以為被中國統治你就買得起房啊？現在全世界的年輕人都沒有能夠輕鬆買房的，富二代除外啦。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""全世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""年輕人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""富二代"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Own_Avocado_7498,中國目前的房價一直在狂跌，可以回去那邊買啊,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""房價"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,能喊移民美國的人跟我講買不起房實在有點奇怪了。我身邊能移民歐美的人要嘛很拼要嘛很有錢，但共同點都是家裡有一定的資金能做到移民或把小孩的工作學識拉到一定程度。所以要嘛你就是個從沒認真看過要怎麼移民以為移民很簡單的幻想仔，要嘛就是其實家裡有點錢但腦子裡想的只有逃離台灣的人。前者是絕對買不起房子的蠢人，後者是買得起房子的膽小人，敢問您是哪一種？不過你也可以承認自己只是想打打嘴砲，根本沒想過這麼多。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""移民美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歐美"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Over-Math-9839,每個人都想著買房房價是能跌多少啦？人生重點放在買房也太畸形了吧，日本人大多都覺得用租的也沒差啊,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""日本人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,在這裡只要反對民進黨沒有台灣價值就會被downvote。他們才不管什麼高房價低薪，房價所得比名列前茅。,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""高房價"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""低薪"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""房價所得比"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+D9599,"​認知作戰還真成功
+8+9站在你家門口
+你連警察都不會報
+開門把銀行帳號密碼跪著給他
+是不是因為8+9會開怪手有能力把你家拆了,再把你的屁眼捅了,再拿著A突擊步槍射滿你臉?
+都不是
+是因為8+9知道你是一個臭俗仔寧死不抵抗",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""8+9"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""警察"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""銀行帳號密碼"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""A突擊步槍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Inevitable_Buyer6540,沒問題啊，我現在都說投降派直接吊,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,"
+
+龍應台：不管你說什麼，我反戰
+
+「龍博士...我們也反對被關進集中營啊...」",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""龍應台"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""反戰"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""集中營"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,投降你大概就要陪解放軍去爭取南海九段線了,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""南海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""九段線"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tireless_AlphaFox,撇去中共真打起来基本上不可能吞掉我们之外，我觉得这真的就是价值的问题啦。我们宁愿鱼死网破也不愿意屈服因为我们有尊严和对自由民主的信仰，你觉得能活就行都没差是你自己的决定。我只是觉得你这样过人生很没有意义而已，大家最后都会死，明明可以贯彻自己的人生光明磊落的死，你却要用最可悲的方式苟活到最后。你这和种植园里不敢反抗只能看着别人争取自由的奴隶有什么区别？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""我们"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自由民主"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""人生"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""种植园"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+baruhara13,看到你这样的我都想马上回洼地当丘八以后踩你头了,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""洼地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""丘八"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Evil_Thresh,"我覺得就得不償失耶。畢竟不想對抗的人們對於日常經濟還是有產出的。除了不願意賣命外，還是有工作意願的。這批人的生產力會是戰時的必需品。
+
+頂多怕死而已，還是有利用價值我覺得。",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""人們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日常經濟"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生產力"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""戰時"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+susesuse,黑熊學院議題被懂軍事的黑成這樣，說沒內賊才怪。,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""黑熊學院"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黑成"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WoodSkrub,軍旅版都說潛艦是空殼就真的看看就好,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""軍旅版"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""潛艦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mundane_Lab3181,"低卡的軍旅板放國外會被人家笑死，人家都是有軍旅背景的人在發言，再不濟也是軍事發燒友。素質也都維持得很好，就算賭爛軍中生態，甚至是立場相左(例如任職於俄羅斯軍隊之類的)，也不會說出乾脆投降的屁話。
+
+但低卡就是一群不爽要當義務役所以莫名亂黑的，平常賭爛維尼，但是自己要當兵時，馬上變成最好趕快投降，這樣我就不用當兵了。這些人甚至比老藍男還要可悲，人家還能說我就想統一、兩岸一家親，所以不想打仗。我不認同，但還能理解。但軍旅版平常賭爛中國的要命，結果就只是因為要當四個月的兵(或一年)，就想說乾脆統一好了，這「討厭」真的有夠廉價。
+
+然後很悲哀的，這不是農場文或幻想文，而是台灣大部分國民的寫照。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""低卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""軍旅板"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國外"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""軍旅"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""軍旅背景"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""軍事發燒友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""俄羅斯軍隊"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""老藍男"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShiraHiMEOuO,"軍旅版搞不好一堆沒當過兵的軍武模型迷大學生
+別太認真。
+
+以前聽過人家分享什麼一個月沒洗澡放棄人生的肥宅男或是啃老啃到四十幾歲的公主病怪老女，我就想啊:极度痛苦:搞不好網路另一端就是這類人，我幹嘛跟他們吵架？",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""軍旅版"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大學生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""肥宅男"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""公主病怪老女"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""網路"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+highlowflyer,不是，台湾人民要独立肯定要付出代价啊。老共又不会放你们走,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""老共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+hts115,中共不但讓你沒得選，而且讓你沒法選又不能不選,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Over-Math-9839,都在美國爽了，那台灣投不投降干您屁事啊,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,"你雅思多少？你多益多少？你有非你不可的專業技術？你有80～105萬鎂讓你在美國投資創業？還是你打算用“其他”方法移民，像是幫大叔毒龍鑽。務實一點，現在開始練習吧，無論是英文，還是“其他”技能。
+
+",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""雅思"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""多益"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""專業技術"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""80～105萬鎂"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""投資創業"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""其他"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大叔毒龍鑽"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""務實"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""英文"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""其他"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ShepherdJan,啊投降為什麼等於要回中國，我去美國過爽爽就好啦,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+D9599,"很奇怪啊,美軍模擬就算是日本韓國不來,地獄模式也能贏
+台灣就有群人還沒打就準備跪
+不然就幻想了2300萬玉碎
+這群人被搶劫時,手會放在內褲上準備吧",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""美軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2300萬"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Inevitable_Buyer6540,"投完以後共產黨壓著你上去跟美軍打，一樣照打，只是從打中國換成打美國
+
+最近俄羅斯烏佔區就這樣搞，逼併吞的烏克蘭人上戰場打烏克蘭人
+
+你就看是打中國人贏面大，還是打美國人贏面大",2024-03-16,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""俄羅斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烏克蘭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ninjatuna0205,我哪句話這麼說了，只是分享我觀察到的現象，兄弟冷靜點,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兄弟"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NiceDEEEER,那不是還要浪費子彈？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""子彈"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RoughRead7973,自己的家自己守護，想做中國人？慢走不送，省繩子跟路燈,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BackgroundIce874,"最害怕打仗的是你祖國大小黨政高官,還沒打仗就爭相把老小和資產轉移到美麗國,只剩下你這低級韭菜還在替他們賣命…………",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""祖國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大小黨政高官"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美麗國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""低級韭菜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,相信你是個從小讀私立，沒生過病，沒用過電，沒開過車，沒搭過捷運，沒用過水的仙人。想必是如此的仙才能把自己說的如此與世隔絕吧。,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""私立"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""仙人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SquareOk1756,"所以為什麼不改兩年兵役呢
+我好奇怎麼不按照以色列辦理",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sad_Profession1006,…如果打仗後佔領的區域會變出氣包，那在戰爭發生之前就投降，是不是就可以不變成出氣包？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""戰爭"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""區域"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""出氣包"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""投降"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sad_Profession1006,我甚至不知道，怎樣才能贏得一場戰爭。不投降的人多就能贏嗎？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""戰爭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sad_Profession1006,我確實是歷史盲。歷史這麼長，很容易找到支持某個論點的案例，我不知道那代表什麼。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歷史"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,確實啊，早點投降變日本領土，現在就不需要花機票錢才能去日本玩了。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+D9599,"對對對
+你家被搶時也是你家你爸你媽被搶
+你沒被搶
+ㄏㄏ
+你是不是喪失了點人的資格",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""你爸"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""你媽"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,集中營還有照片，那些打仗死在路邊的、被砲彈炸死的絕大部分人會有照片嗎？幸存者偏差罷了。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""集中營"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""照片"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""打仗"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""死"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""路邊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""砲彈"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""幸存者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Over-Math-9839,會投降的人到時候對抗美日時也是直接倒過去，中國想法肯定會覺得與其到時候國內放著這些不安定份子，那還不如當炮灰用,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美日"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+i_have_no_pussy,不如省掉流程直接通过,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""省"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Strict-Homework-4819,想獨立的根本就是少數,2024-03-16,Taiwanese,zh,"[
+      {
+        ""entity"": ""想獨立"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""根本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ayanami_Lei,反对中共-理解中共-成为中共,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Actual-Jaguar5668,有本事用腳投票/移民，就別飛回來占健保的便宜,2024-03-20,Taiwanese,zh,"[
+      {
+        ""entity"": ""腳投票/移民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""健保"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Overall_Yak1202,"你當美國人是做資源回收的？
+
+
+都幾歲的人了還不懂得衡量一下自己有多少價值嗎？",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""美國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""都幾歲"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,不知道這些人投降後，穿上解放軍軍服面對美軍會不會變成狂戰士？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,這句話同樣講給台灣人聽啊，看看那些立委的小孩，要馬有綠卡不是替代役就是免役。所以我說不要幫那些權貴打仗有什麼錯？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣人"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""立委"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""小孩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""綠卡"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代役"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""免役"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""權貴"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Intelligent_Agent515,戰鬥機船艦的數量要是是決定性因素的話俄羅斯早已稱霸黑海和烏克蘭的天空現代海空依然是情報第一烏克蘭只依靠歐美的情報打下許多戰機甚至俄羅斯引以為傲的導彈也被擊落臺灣本島上有很多防空陣地中國想稱霸台灣的天空絕對不是一兩個禮拜的事情你能想像沒有空優的羅曼底登陸嗎你說陸軍的狀況還不是因黃埔那僵化的腦袋而造成所以這幾年一直在改革美國歸來學成的士兵終於可以當上將軍職位對抗演練重啟國造潛艦改革很慢但國軍不是一成不變,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""俄羅斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黑海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烏克蘭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""現代海空"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""烏克蘭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歐美"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""戰機"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""俄羅斯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""防空陣地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""羅曼底"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""陸軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黃埔"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國造潛艦"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,只說一句你願意嗎還是政見通過後你會移民？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""政見"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""移民"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mundane_Lab3181,"那就是直接當出氣包，打仗往往是國家內部壓力的轉移，反正你只要被併吞了，就是要負責當被發洩的那個。
+
+就像打你一頓後再強姦，或是你直接給人強姦一樣，都是被強姦。",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""內部"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""壓力"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""強姦"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ballball32123,那你先游過去當我們學長,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""那"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""游過去"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我們學長"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Khaki_Yeti9527,戰爭沒有贏家，不投降增加開戰成本才是正解,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""戰爭"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""贏家"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""不投降"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""開戰成本"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""正解"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,我也不知道要怎麼贏，但我知道輸了就是全部都沒有了。你會變成軍伕、台寇志願軍、排雷沙包。你的媽媽妹妹女友女兒會變成人家的戰利品，你動產不動產會變成中国的國家資源。贏了會有什麼獎賞我不知道，但輸了的懲罰實在是大到無法想像。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""軍伕"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台寇志願軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""排雷沙包"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""媽媽"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""妹妹"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""女友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""女兒"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國家資源"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AKTEleven,"不用這麼長，看看上世紀的就夠了
+
+[南京大屠殺死了多少人？無數婦女遭姦殺、孕婦被開膛剖腹…揭日本不敢承認的殘忍暴行](",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""南京大屠殺"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,我可沒找到支持主動向中原系列政權投降換來好下場的案例。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中原系列政權"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+D9599,"台灣有能力對抗大型國家入侵,和平時期的消耗行政是為了來消耗你這種會添亂的人的精力,沒有國家的國軍是完美的,你以為中國軍能打嗎?中國人當兵是為了吃香喝辣當軍爺作威作福,傻子才給你保衛中國,中國人的本性就是裝強碰瓷欺軟怕惡,中國人都懂,怎麼你信啦?傻子ㄏㄏ
+軍機來台挑釁的是中國,鼓吹人民上戰場的是中國,想把台灣當廢墟的是中國
+你偷換概念是沒有意義的喔
+當中國入侵時,你說那群經歷過228因為美麗島入獄的人,會不會留在台灣或許是個問題，那群反共抗俄的權貴倒是一定跑",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大型國家"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""228"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美麗島"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""反共抗俄"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,去忠烈祠舉牌譴責蔣介石沒有投降吧,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""忠烈祠"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""蔣介石"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WaiLiThePooh,"日語成為母語,不用學殘體字,不用破壞文物,保存中華文化。",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""日語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華文化"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+D9599,"舉例都聽不懂哪裡來的白痴阿,8+9就是中國,公安就是美國,美國全世界跑來跑去當世界警察,你是忘了還是害怕想起來?日本韓國對中國的不爽可不是假的,真以為它們不敢打?臭俗仔的只有你啦,每個人都當過兵你,我義務兵當精實兵,你他馬只能當個廢物一個業務都接不了,當然給你掃把消耗體力讓你別添亂的天經地義,這都不懂?垃圾思考就別出來給人笑啦,真是毫無價值",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""韓國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""俗仔"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""每個人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""義務兵"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""精實兵"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""廢物"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""業務"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""掃把"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""體力"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""思考"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Inevitable_Buyer6540,我一定幫你喬一個舒服一點的姿勢,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""一個舒服一點的姿勢"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AKTEleven,好喔，所以你甘願進集中營,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""集中營"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,知道冰雕連嗎？知道冰雕連這種自殺連幾乎都是投降的國民黨軍隊嗎？你確定投降後還有機會讓你繼續工作繳房租不是把你當人肉沙包送去前線人肉排雷對抗美軍嗎？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""冰雕連"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國民黨軍隊"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""投降"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""工作"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""繳房租"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人肉沙包"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""前線"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人肉排雷"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+D9599,"原來你家是這種環境,真噁心",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""環境"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+D9599,"喔對\~你就活在沒有美國的幻想世界
+可是這是現實
+現代社會的戰爭都是國際事務
+而且你的認知不行
+烏克蘭基輔防衛戰時,可沒有收到任何外國物資
+這世界總有你這種認不清現狀,被搶劫還露屁眼的傻子在鼓吹被搶",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""烏克蘭基輔"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Inevitable_Buyer6540,"美國不來打台灣你能保證中國自己不會擴張？
+
+沒什麼好說的，要投降是你的自由，能跑你快點跑，你要開城門，我們就不要遇到",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,能移民的不會是現在還在這邊唉的你。投降一樣要去南海爭取九段線，去藏南跟印度作戰。即便是二戰時最不堪的國民黨在逃難來台的時候還是有美軍給的吉普車跟軍械，在朝鮮作戰的廣東人民解放軍跟國民黨降兵有的只有秋夏的軍裝而已。您是覺得當49難民活下來的機會大，還是當冰雕連活下來的機會大？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""南海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""九段線"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藏南"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""印度"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""二戰"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""朝鮮"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""廣東"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人民解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""49難民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""冰雕連"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,既然不是權貴了，你能保衛自己的方式就是戰鬥。人家祖先有積德，有資本，有能力。很不幸的你沒有，投降的話你就是台灣的土豪、反派、階級敵人或是當台寇志願軍替你生在台灣的事實贖罪，中国能弄死你的名堂可多的是，讓你只穿短袖不穿防彈衣在藏南跟印度人肉排雷，讓你整個排只拿一把槍跟越南爭取南海九段線，我都想得到了他們一定還有更多玩法。你不願意替權貴打仗，但你願意被迫替中国打仗嗎？還是你比較享受這種“我也是不得已”的感覺？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""印度"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""越南"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RoughRead7973,我不是權貴不是戰爭狂更不是反社會，台灣是我的家我熱愛的土地更有我愛的人，即使現在執政黨是白或藍都無所謂，戰爭一旦開打，我就會把守護這個土地當成決心，如果台灣人都像你一樣沒有毅力跟決心，那你還是去中國生活吧，那邊至少趴著也能活下去,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""執政黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SquareOk1756,"我支持兩年啊房價交通問題不解決我會移民不衝突
+保衛國家應該要保衛的是自己所認同的國家",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兩年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""房價"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""交通問題"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""移民"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sad_Profession1006,日本可能會成為中華。因為中國人學不太好日語中的和語詞彙，通用語言變為為中華日語，以漢字詞彙為主，並且通行文言文。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""和語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""漢字"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""文言文"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+D9599,"對
+我抵抗就算只帶了杯熱水,最後誰贏誰死不一定
+你只會怕
+怕到只敢假設搶匪有槍,我沒槍
+這麼說吧就算你有槍,搶匪沒槍
+你有槍卻懦弱到有槍不敢開,槍一樣會被搶匪搶走反殺",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""搶匪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AKTEleven,因為投降人家就給他錢給他房,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""投降"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""錢"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""房"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+wthnsfw,既然这样为什么还要等到打仗，现在不打直接投降不是更好么？,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""打仗"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""投降"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,投降一樣也是在南海當解放軍的絞肉而已。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""南海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+D9599,"白癡真的快笑死,中國要搶灘才有必要建灘頭堡變絞肉機,絞死的全都是中國人,何況中國連上岸絞的機會都沒有,風浪過大船根本快不了比靶艦還好打,雄三誤射時連漁船都打的到,你以為登陸艇多難打,看你甚至不知道世界第二大的飛彈陣地就在台灣,數量還在增加,怎麼打?美國打日本時都不敢在台灣打登陸戰,中時的認知作戰真的很有效,騙騙懦夫,連藉口都沒變過,看來中國真的沒經費想題材了",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中時"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,所以你要去藏南跟印度人打仗，還是去南海九段線人肉排雷？你有灘頭堡可以躲你不躲，你選擇把自己當解放軍的沙包推到前線也是一種選擇。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""印度人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""南海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""九段線"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,好吧看來你是認真的因為民主國家要是想要持續往同一方向施政的話那意味著政黨必須當選當選需要選票而台灣人民不如以色列來的有向心力甚至是破碎的然而票票平等要是改成兩年你我願意但大部分人可不這麼想,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""民主國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,若民進黨執意改成兩年便會失去更改訓練方式推進國防建造跟盟友一起簽下條約的機會屬於因小失大,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""兩年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國防建造"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""盟友"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WaiLiThePooh,"日皇成為中国人祖宗,說成被漢化。國號日本。",2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""日皇"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""祖宗"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""漢化"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國號日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+D9599,只是個臭俗辣就別假鬼假怪了，搶匪都拍成這樣，遇到殺人犯你怎麼辦,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""搶匪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""殺人犯"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FreeHK_Now_Ray,白痴，現在不是台灣人想打杖，是別人打過來你要直接當他奴隸還是反抗的問題。如果多數人都表現會反抗對面才不敢打，但你們這些白痴在打前就直接說投降，這不是叫別人來打你嗎？,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""多數人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""你們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NiceDEEEER,以為投降人家就會給他錢給他房的不知道是蠢還是天真，參考一下中共怎麼對待國民黨降兵的好不好XDDD,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,你不是nobody，你來自一個會把自己領袖罵到臭頭的島嶼。沒人敢保證給你中国準國民待遇你會不會一樣不知感恩在網路上說三道四，投降的那一刻就注定了你的災難，如果你是個逃兵仔那就是剝奪你的動產不動產，把你當成其他軍人的器官袋子養著，如果你是個有服役過的男性，那就是剝奪你的動產與不動產強制加入台寇志願兵，去藏南與南海用性命證明自己的忠誠。不過此刻你選擇不要浪費力氣抗爭，大概也是在替未來要去為祖國實現霸業自己儲備體力吧。可如果你是幻想自己會獲得像澳門一樣的待遇，就只是無法認清現實而已。,2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台寇"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""南海"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""澳門"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SquareOk1756,"所以我對台灣人越來越不抱希望了
+想要移民有什麼問題嗎
+交通問題開倒車
+房價從央行開始就完全沒有想要打擊的想法
+沒有保障租戶的法案
+台灣這個人口結構我看不到希望
+我當然希望台灣越來越好
+但我嚮往的生活是
+Worklifebalance
+台灣的工作型態不太能做到呢",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""央行"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""租戶"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Worklifebalance"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SquareOk1756,"改一年就一堆反彈了不如直接改兩年全民皆兵
+也能讓台灣人開始有點警覺
+不然台灣人大部分都還是認為中國不會打過來",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SquareOk1756,"我自己一直有預備物資跟體能訓練
+實在無法想像敵國敵意這麼重
+台灣人還能過的這麼開心
+一點防患意識都沒有",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""預備物資"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""體能訓練"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""敵國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""防患意識"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,"中共可是連自己的電影樣板人物都批鬥的政體，你連拿槍捍衛自己的自由都不願意的人，我是無法想像你能像真正的共產黨戰士一樣對自己的砲兵喊“向我開炮！”
+B.T.W那個向自己砲兵喊“向我開炮”的人叫蔣慶泉，他沒有被炸死，只是被俘虜。後來回國後被打成“反派”三不五時被拉出來批鬥。",2024-03-17,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""電影樣板人物"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共產黨戰士"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""蔣慶泉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,"很明顯的是個不懂歷史，不懂解放軍也不懂中國只會看抖音tiktok的小朋友。首先，在中国只有兩種人會當兵，社會底層跟裙帶關係人士，底層通常是來自那種你看不到的中国，連公廁都沒有的那種破地方，而裙帶關係是家家世世都是解放軍將領。第二，這種把降軍拿去當沙包的事情韓戰就用冰雕連演給你看一遍了，從公開資料來看1950年的解放軍裡面有高達60～80%解放軍是被俘與變節的國民黨軍人，而韓戰當時被俘的22,000名解放軍裡面就有9,549人來自投降的國民黨軍隊。至於防彈背心被軍刀刺穿的問題，就明顯是軍盲才會提出來的問題了，防彈背心的結構設計本來就是設計來“防彈”不是“防穿刺”的，弓箭也是可以擊穿防彈背心的。選擇不投降，是因為知道投降的結果遠比戰死還要糟糕。其實有的時候滿羨慕你們這群無法認清現實的小朋友，以為移民很簡單，以為投降沒後果，然後快快樂樂在網路上宣傳葬送自己的未來與自己所有未來子孫的意識形態，還能開開心心的向別人炫耀自己的懦弱與愚蠢。志願役不是唯一能防衛國家的方式，做好自己工作，接受軍隊的教召，平常做好民防準備，了解自己身為公民應負的戰爭義務，監督自己選出來的政治人物加速軍事改革，都是防衛這個島嶼的方式。不過跟你講這麼多，大概也沒什麼用吧！畢竟沒有膝蓋的人是沒辦法站起來的。",2024-03-18,Taiwanese,zh,"[
+      {
+        ""entity"": ""解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""抖音tiktok"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""韓戰"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""防彈背心"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""移民"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""志願役"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民防"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政治人物"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intelligent_Agent515,我了解每個人都有追求更好生活的權利臺灣的兩大缺點正是非常難解決的問題無論是那一個黨要嘛打的毫無痛點要嘛無視這些令人失望,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""兩大缺點"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Intelligent_Agent515,因為有些人不是不知道只是裝沒看到,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""因為"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""有些人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""裝沒看到"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,因為我們沒有居於高位，沒有勇於鬥爭，沒有讓大家覺得支持中國與其裙帶關係之政黨就是蠢的感覺瀰漫整個社會。或許有點晚了，但還是要向清教徒學習，努力賺錢，堅守價值，榮耀台灣。,2024-03-17,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+BeIndependent72,"立委小孩逃兵，請問你逃的掉嗎？罵了之後轉身投降會讓你的生活更美好一點嗎？他們都是注定能逃得過這場災難的人，你還在幻想自己跟他有一樣的待遇嗎？我身邊也有很多像你一樣無法分辨無法理解也無法判斷自己處境的小清新，我知道你們都覺得大難臨頭假裝自己沒有身在其中，就能躲過這場災難。事實上你我不行。立委的小孩或許可以，但你我就是不行。
+你對台灣有沒有認同感那個其實也與你的處境無關，因為你媽已經把你生下來了，她當初沒有先飛到美國再把你生下來就已經注定是這個下場了。你不投降，處境很糟，可能會戰死。你投降，處境更糟，可能會被批鬥然後餓死冷死戰死。
+而且你答對了，中国是不會給你國民待遇的，待宰的牲口只會有牲口的待遇。你若不是死，就是面臨比死還糟的下場，然後死去。國軍多糟，我們都知道，政府有沒有試圖改變，事實上我們也沒辦法透徹的了解。但即便如此，這就是你當前最好的一副牌了，請聰明的運用他。你想活下去很好，去深蹲去健身強健自己的體魄，去上課了解民防知曉平民在戰爭下該做些什麼，去學習急救知識大難臨頭的時候能多救一個台灣人。因為那一天的倒數計時已經開始了，可能不是每個人都能活下去，但投降的話每個人都會死，戰死餓死批鬥到死。屆時，也沒有什麼我們都是台灣人這種鬼話了，因為你已經做出中国的選擇。最後，如果你這麼害怕解放軍的話，希望你能稍微放鬆一點。因為無論是中華民國國軍，抑或是人民解放軍本質上都是中國軍，你在認真學習折被子同時，解放軍也在認真疊被子。我們的抗彈版充滿疑慮的同時，他們也有火箭軍使用台美製芯片的疑雲。希望這能夠增加一點點你對抗的意志。",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""立委"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小孩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人民解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台美"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BeIndependent72,"不投降的戰死沙場，投降先被羞辱批鬥一番再送上沙場，一樣都是上戰場一樣都是去死。但像你這種咖總會覺得自願冒險跟被迫去死，被迫去死好比較對得起自己一樣。
+至於你在抗彈版論述，又再次凸顯了自己是個軍盲，刀尖的密度和子彈是不一樣的，影片中的人用多少力氣你似乎又能通靈了。而當初提出抗彈板問題的就是民進黨立委林秉宥，如果國軍糟糕就選個能修正國軍的政府，你連這樣的努力都做不到還想移民會不會太高估自己了？
+確實日子也是照過，你以為能好好活下去。但歷史的巨輪早已開始轉動，不論你是nobody還是權貴，你的生活注定受到衝擊，你如果不是冒險在沙場上替自己的親人同胞爭取存活的機率，就是在親手把親人同胞送去另一個戰場的路上。沒人想成為傷亡紀錄上的數字，但我更不想看到親人朋友和我的財產變成中国的囊中物，畢竟像你我這種nobody，睡一覺醒來器官不見一半在中国這種地方可不是什麼大事。小朋友，世界是很殘酷的，多數時候你無法拿到你想要的，即便只是繼續工作繳房貸這種爛到不行的生活，你只能全力阻止不想要的，像是被加入台寇志願軍幫解放軍人肉排雷。投降中国，下場不會比戰死還要好，當然如果你覺得活著當解放軍的沙包或被關進集中營餓死也比替自己的生活戰死好的話，那我也不方便再勸下去了。畢竟你對好好活著的要求就是那麼低，不對你前面明明也覺得工作繳房貸是爛生活，怎麼突然又能接受自己被關進集中營餓死？",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""林秉宥"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台寇志願軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+QINTG,"睡一覺醒來器官不見一半在中国這種地方可不是什麼大事............
+
+我所有的亲戚和朋友还没听说过谁一觉醒来就器官不见一半的......台湾妖魔化老共也太夸张了点",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中国 (China)"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾 (Taiwan)"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BeIndependent72,"台灣對官兵其實很好餒。軍營有冷氣吹，手機隨時掛身上，能外膳宿還有宵夜可以吃，軍營裡還有社團活動。至於本質上就是叫他們送死這件事情，請問你的職業如果是軍人的話，是要怎麼樣才會完全不用面對死亡？美軍每年新訓都會死100多人了，你什麼時候產生軍人這個職業不用面對死亡的幻想？我會不會需要上戰場，那會是國軍的決定，但如果只有我上的話你的家人跟房子大概是守不住了。每多一個人上，就多一分機率守住你我的家人與財產，但目前看來你似乎認為少你一分的機率讓你的家人被殺害強姦，財產被剝奪也沒差。那希望當你的老婆跟女兒被強姦的時候，你還能笑著說“好險當年沒有上戰場，才能繼續活著。”啊！忘了提醒你，你也有機率被強姦。
+
+",2024-03-18,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""軍營"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""美軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100多人"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

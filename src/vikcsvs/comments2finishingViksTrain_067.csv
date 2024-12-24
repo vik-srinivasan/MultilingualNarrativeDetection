@@ -1,0 +1,4121 @@
+author,text,timestamp,subreddit,language,gpt_output
+MilchreisMann412,"Hört auf mit der Scheiße. Sagt nicht ""Leute geht wählen!"". Leute sollen sich informieren, eine Entscheidung treffen und aufgrund dieser Entscheidung zur Wahl gehen. ""Geht wählen"" führt nur dazu, dass Leute sich genötigt fühlen wählen zu gehen und dann die Partei mit den meisten Plakaten oder dem besten Wahlspruch oder die Kandidat:innen mit den lustigsten Namen zu wählen. Das ist alles für ne Demokratie nicht förderlich.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Entscheidung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Plakaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wahlspruch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kandidat:innen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GrantelbarT420,Geht wählen aber nicht die scheiß AfD. Nur Nachkommen von Kurtisanen wählen AfD,2024-05-09,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kurtisanen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bedbooster,Besser noch: Meldet euch als Wahlhelfer bei eurer Kommune - unterstützt unsere Demokratie.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlhelfer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommune"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Goondo,"Ich wähle diesmal die letzte Generation, überraschenderweise hatte die beim Wahl-o-Mat für mich die höchste Prozentzahl und ich will einfach nur den Anblick genießen, wie sie sich am Rednerpult festkleben und die Ursula mit Fingerfarbe anmalen. Ich finde, man muss den gewaltfreien Widerstand von der Straße in die Parlamente tragen. Ich mag Underdogs und Leute, die nicht nur labern. Hab lang genug CDU gewählt und Menschen, die schlecht für unser Land sind in Machtpositionen verholfen, werde ich aber dieses Jahr weder für die Europawahl, noch für BTW nächstes Jahr machen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzte Generation"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl-o-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ursula"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straße"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlamente"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Underdogs"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Europawahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BTW"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schmidisl_,"Bei uns stehen wieder Gemeindewahlen an. Hab den Brief geöffnet und kann ganz ehrlich verehren, wieso so viele Leute nicht wählen gehen. # wählen ist zu kompliziert! [4!]( verschiedenfarbige Wahlzettel hab ich bekommen. Auf einem muss man 32 stimmen vergeben. Ich hab volles Verständnis für jeden der sagt ""hey hörmal, ich versteh das ganze einfach nicht, so viele Zettel, zu viele Stimmen, ich kenn die Leute eh nicht"". Ich bin großer Verfechter von Wahlen und versuche jeden zum wählen zu bewegen. Aber auch ich stehe jedes Mal wie vor einer Wand. Das ist doch crazy",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Gemeindewahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brief"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlzettel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verständnis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wahlen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MacCatti,"Ich mache seit Jahren Briefwahl, weil ich einfach keine Zeit habe zum Wählen gehen! Ich sitze nämlich seit etlichen Jahren jedes Mal als Schriftführer im Lokal oder im Briefwahlzentrum! Mein kleiner persönlicher Beitrag zur Demokratie! Ich kann es jedem nur empfehlen, einfach mal Beisitzer zu machen! Die Demokratie erschließt sich einem dann so wunderbar!",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schriftführer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lokal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahlzentrum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Beisitzer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Childhood_Wise,Für mich ist keine der gängigen Parteien wählbar… wird wohl wieder auf eine Satire-Partei hinauslaufen :schulterzuckender_mann:,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Satire-Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RyanBelieves,"Auf jeden Fall, <3 AFD <3",2024-05-10,de,de,"[
+      {
+        ""entity"": ""AFD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Serakani,Nee… das is mir viel zu anstrengend. Hab einfach per QR Code Briefwahlunterlagen beantragt und lasse mir die Wahl kostenlos nach Hause liefern. Wer geht denn heute noch wählen… Anfänger!,2024-05-09,de,de,"[
+      {
+        ""entity"": ""QR Code Briefwahlunterlagen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Own-Good-800,"Jemand, der nicht wählt, verliert automatisch das Recht, sich über Politik(er) und/oder Parteien zu beschweren.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Jemand"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik(er)"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeaCompetitive6806,"Das schöne ist doch, dass wir in diesem Land auch die Freiheit haben, nicht zur Wahl zu gehen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zealousideal-Count45,"Montag Briefwahl beantragt. Gestern(!) Unterlagen gekriegt. Heute gewählt. Morgen kriegen sie den Brief zurück ;) Warum wählen gehen, wenn man auch Briefwahl beantragen kann.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Montag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Morgen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tommy24027,"Darf leider dieses Mal nicht, weil Umzug und noch nicht angemeldet :(",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Umzug"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Sassi7997,Die kommen im Briefumschlag?!,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Briefumschlag"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Stunning_Ride_220,"Wo muss ich das Kreuz machen, damit ich das in Zukunft nicht mehr bekomme? /s",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kreuz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zukunft"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ignamv,"Tipp: schau mal auf Wahlomat, welche Themen es gibt, die ihr nicht kennt. Es ist ein guter Anfangspunkt, um sich weiter zu informieren. Und man kann im selben Wahlomat die Argumentationen von den unterschiedlichen Parteien lesen. Sonst ist meine Erfahrung, dass ich zu viele Fragen ""neutral"" antworte (weil ich keine Ahnung habe) und dann sind die Ergebnisse für viele Parteien sehr ähnlich.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlomat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+agni123,Wann ist das denn gekommen? hab noch nichts erhalten,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wann"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hab noch nichts erhalten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Unserioscoleroyale,Das ist für die Europawahl oder? Nehme dieses Jahr zum ersten Mal teil deshalb hab ich so einen Brief vorher noch nicht gesehen,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Europawahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ersten Mal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Shivalah,"Nein, ich gehe nicht wählen, bin viel zu faul dafür. Ich mach wie immer Briefwahl.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nein"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FussseI,"Meiner ist noch nicht da, bei uns gibt es noch zeitgleich nen schönen Bürgerentscheid dazu (ein Ortsteil ist dagegen, dass wir endlich nach knapp 100 Jahren mal nen vernünftiges Rathaus bekommen)",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Meiner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ortsteil"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bürgerentscheid"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rathaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""100 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TroubledEmo,"Wenn der auch mal kommen würde, wäre das sehr praktisch…",2024-05-10,de,de,"[
+      {
+        ""entity"": ""kommen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+salatsol3e,"Diese Jahr isses soweit. 12 h Schicht, also erste Mal Briefwahl, wie so kosmopolite Besserverdiener, die sich aus Angst beim Kontakt mit Pöbel an der Wahlurne häuten.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""12 h Schicht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kosmopolite Besserverdiener"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pöbel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wahlurne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+schnippy1337,Ich gehe vielleicht nicht.. ka,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Agreeable_Drama_2545,Ich habe meine Freunde davon überzeugen können das erste mal in Ihrem Leben zu wählen :gesicht_das_tränen_zurückhält:,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freunde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""erste mal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zealousideal_Coach69,Oh die Scheinwahl… äh ich meinte der Wahlschein ist angekommen! :lächelndes_gesicht_mit_lachenden_augen:,2024-05-13,de,de,"[
+      {
+        ""entity"": ""Wahlschein"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LegitimateBridge9377,Sehr richtig und wichtig immer wieder zu wiederholen,2024-05-16,de,de,"[
+      {
+        ""entity"": ""Sehr"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""wichtig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+hanswurst12345678910,Wahl zwischen Pest und Cholera,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahl"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pest"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cholera"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Meli0das_69,"Bedeutet das, dass wenn es mehr länder mit Wahlpflicht gibt als länder ohne wahlen, dass du dazu aufrufst nicht zu wählen?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlpflicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""länder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+3l3ctriccurrywur5t,Also das Kreuz für die AfD habe ich das richtig verstanden?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+knoetzgroef,"Hier in Hamburg ist neben Europa- auch Bezirksversammlungswahl. Um sich vorab entscheiden zu können, gab es Musterwahlhefte mit. 25 Seiten Wahlzettel für sieben Parteien im Bezirk und sechs im Stadtteil. Zum Glück konnte ich nach dem Ausschlussprinzip schon fünf davon ausschließen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bezirksversammlungswahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Musterwahlhefte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlzettel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausschlussprinzip"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Plane-Slide5811,Meine Mitbewohnerin hat den gestern zerrissen Bin schier ausgerastet …. Vielleicht bissle stark reagiert aber…. Es ist ein Privileg und unsere Zukunft,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Meine Mitbewohnerin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gestern"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Privileg"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""unsere Zukunft"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+redditor-Germany,"Ich frage mich, ob die Palifans wissen, wann die Palästinenser zum letzten Mal wählen durften.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Palifans"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Palästinenser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzten Mal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+w2g,"Ich gehe (leider) nicht wählen. Aber ich beschwere mich auch nicht. Ich bin zu 100% uninformiert, weil ich mit allem anderen nicht klar komme.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"eun Privileg dafuer, dass es spaeter heisst ....jo Rente reicht nicht, jo Haus muss weg wegen Pflegeheim, jo Politiker nach vier Jahren im Bundestag haben Anspruch auf 1000 Euro Rente! Aber hey ihr habt das Privileg waehlen zu duerfen! Absolut geil !!!!",2024-05-11,de,de,"[
+      {
+        ""entity"": ""Bundestag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1000 Euro"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+headachehank,Ui ui ui... Ich lass amtliche Wahlbenachteiligung. Naja Prost!,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ui"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlbenachteiligung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+yingyongyang,Aber bitte nicht afd wählen,2024-05-09,de,de,"[
+      {
+        ""entity"": ""afd"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+XeLLaR_AC,"Kann's kaum abwarten mich zwischen einer toten taube, Haufen kacke und stinkendem Müll zu entscheiden. Wen man auch wählt am Ende sind wir mittelschichtler eh die dummen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tote taube"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Haufen kacke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""stinkender Müll"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mittelschichtler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GreenStorm_01,Und das was drin steht ist ne Farce. Geht lieber revolutionieren.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Farce"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Graf_lcky,"Ich bekam sogar 2 zusätzliche Wahlbenachrichtigungen, eine war für mich und die anderen 2 waren für Personen welche ich nicht kenne und nach Facebook Recherche wohl in Frankreich und Spanien leben. Ich kenne diese Personen nicht und weiß nicht wieso sie angeblich bei mir gemeldet sind, zudem sind beide Personen wohl nicht mal EU Bürger wenn man den Facebook Profilen vertrauen kann. Es gibt auch keine einzige Person in der Stadt welche einen dieser Nachnamen trägt da die Nachnamen sehr speziell sind (ähnlich: Jangpixiao und Drachnavilli)",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Frankreich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spanien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jangpixiao"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drachnavilli"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+charliewaffles2412,"ich gehe nicht wählen. es ist mein recht. und ich gehe anderen nicht damit auf die nerven was sie tun sollen, denn sie sind erwachsen und sollen das selbst entscheiden.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""mein recht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""anderen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""erwachsen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheFumingatzor,"Ne, also der Wahl-o-Mat und Sozial-o-Mat spucken mir da Ergenisse raus, die sind jenseits der Realtität. Einmal die MLPD, einmal die Heimat stattdessen und gut is.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahl-o-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sozial-o-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ergenisse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MLPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Heimat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+trextos,Das Problem der Wahlen in der EU ist schlicht die Repräsentanz. Die deutschen Stimmen sind natürlich aufgrund der Größe Deutschlands einfach per se niedriger gewichtet. Ergo darf man da die Frage nach einer demokratischen Wahl stellen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThaOppanHaimar,"Was fürn Privileg? ""Weiter so"" Kapitalismus? Ich wähle bestenfalls wieder ungültig nachdem ich ein Spaziergang in der frischen Sonne verrichtet habe, dass war es aber schon",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kapitalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spaziergang"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kebabjongleur,Nun die Auswahl ist jetzt nicht besonders prickelnd,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nun"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auswahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+onuldo,"Demokratie gilt für alle, außer für AfD-Wähler.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AfD-Wähler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Serafimi,"Jaja, du mich auch!",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Jaja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Low-Possession1175,Als ausländer darf man nicht wählen,2024-05-09,de,de,"[
+      {
+        ""entity"": ""ausländer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cheruck22,Viel wichtiger ist es sich als wahlhelfer zu melden .,2024-05-09,de,de,"[
+      {
+        ""entity"": ""wahlhelfer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+onuldo,"Ja, ich wähle AfD.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+joschi0209,"Ist bei mir in die Ablage P gewandert, ich will da nicht mehr mit spielen. Ich habe das Gefühl das ich immer verliere und das mag ich nicht….. :schnaubendes_gesicht:",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ablage P"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Embarrassed-Air-4917,Nö ich gehe nicht wählen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nö"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Anxious-Rip-6275,Wählt keine AfD und NaziLightCDU/CSU,2024-05-09,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""NaziLightCDU/CSU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GregoriousT-GTNH,"Ich wollte Wählen gehen, aber jetzt wo mir irgend nen Random auf Reddit das befehlen will habe ich mir das anders überlegt",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählen"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+r0bc94,Ist cool aber bitte nur das Kreuz bei grün machen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kreuz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""grün"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schnorch,"Ich weiß ich mache mich jetzt unbeliebt hier konträr zu der Stimmung in dem Thread zu argumentieren. Aber hier kommt es: Ich war bis jetzt auch bei jeder EU-Wahl wählen, werde dieses mal nicht gehen. Ich kam mir bei den letzten Wahlen schon immer leicht verarscht vor, weil meine Stimme als Deutscher praktisch kaum was Wert ist. Und gleichzeitig gibt es einfach keine Partei, die das in der EU vertritt, was ich mir für die EU vorstelle. Ich will eine runtergedampfte EU, die sich wieder auf das wesentliche konzentriert und sich vor allem wieder an das von ihr bis heute propagierte (aber nicht mehr beachtete) Subsidiaritätsprinzip hält. Für diese ""Kern-EU"" braucht es meiner Meinung nach auch kein Parlament, weil es einfach ein Staatenbund ist, die sich bei einigen Themen absprechen und die EU selber viele der heute immer weiter ausufernden Kompetenzen nicht mehr hat. Die einzigen Parteien die in diese Richtung gehen sind irgendwelche Rechtsextremisten, die aber entweder die EU gleich ganz abschaffen wollen, oder noch ganz andere Sachen vor haben. Und da diese Arschlöcher für mich unwählbar sind und es scheinbar keine demokratische Alternative dazu gibt, gehe ich nicht zur Wahl.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU-Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutscher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Subsidiaritätsprinzip"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatenbund"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Arschlöcher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Hot_Ice_6242,"Kann ich nicht relaten, bin bei der post hatte 5 Kurzbriefkisten voll damit. Anscheinend hat jeder das Privileg :verkleidet:",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kurzbriefkisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DenisSchulz,"Kann empfehlen, sich mal mit MERA25 auseinanderzusetzen. Ziemlich gutes Programm, ziemlich gute Leute.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""MERA25"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+PasswordIsDongers,Es findet gerade keine Wahl statt.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Es"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PossessionLow9491,Ist eh überflüssig. Wie bei den letzten Wahlen zeigen sich dann freiwillige Wahlhelfer auf Instagram und Twitter wie sie Stimmzetteln die ihnen nicht passen einfach „ungültig“ machen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Twitter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stimmzetteln"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ManonMelmarc111,"Nein zur Europawahl gehe ich grundsätzlich nicht. Ich bin Bürger der Bundesrepublik Deutschland und nicht von den Vereinigten Staaten von Europa. Wähle nur für Dinge innerhalb Deutschlands, dafür gehe ich zur jeder Wahl.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Europawahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bundesrepublik Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vereinigten Staaten von Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschlands"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Chickenkarim2009,Die Wahl zwichen Idiot und Idiot bringt mir nichts,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Idiot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Idiot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Zyanid-Liebhaber,Ich habe den Brief direkt in den Müll geworfen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brief"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Müll"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PrimaryJump7745,Aber wählt die Richtigen nicht daß vorhandene.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Aber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Richtigen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TroiSpokes,"Ja, in deinem Wahlamt! Unregelmäßigkeiten/ Probleme/Rechtsverletzungen/etc. (Nicht nur hierbei) tauchen nur in Statisken/ Berichten auf, wenn sie auch gemeldet werden.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nicht nur hierbei"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+elitenoel,"Bei mir hat es auch ein paar Tage länger gedauert, als es bei der Briefankündigung bei anderen Briefen der Fall ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Bei mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefankündigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sassi7997,"Bei mir wurde die Karte auch fast eine Woche vorher in der App angezeigt. Ich hab mich schon gefragt, ob die verloren gegangen ist, aber Dienstag lag sie dann doch im Briefkasten.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Bei mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine Woche vorher"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dienstag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefkasten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wyall,"Meine ist auch seit Montag Nacht angekündigt, aber in letzter Zeit kommen die Briefe sowieso alle mit Tagen Verspätung erst :-\",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Montag Nacht"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+agni123,"Hab gerade im Netz gelesen, dass die Briefe zwischen dem 4.5. und 18.5. zugestellt werden",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Briefe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4.5."",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""18.5."",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VijoPlays,"Boah fuck, danke Digga! Hatte bisher nur Paketankündigung in der App, wusste gar nicht, dass mans bei Briefen auch machen kann",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Digga"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Paketankündigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CSTRSK,Bei mir genau so... Aber ich bekomme eh Briefe nur noch 1 mal im Monat in einer Großstadt...,2024-05-11,de,de,"[
+      {
+        ""entity"": ""Briefe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1 mal im Monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Großstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ExplanationAny2087,"Beantrage doch Briefwahl - das sollte auch nur mit deinen Daten ohne die Bescheinigung gehen. Theoretisch kannst du auch wählen gehen ohne die Bescheinigung nur mit Ausweis. Ist bisschen komplizierter für die Ehrenamtlichen vor Ort, aber möglich und du musst vielleicht 5 Minuten länger warten.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""Briefwahl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausweis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kiebonk,In der DPRK gibt es Wahlen: [ Es steht halt nur vorher fest wer gewinnt ;),2024-05-09,de,de,"[
+      {
+        ""entity"": ""DPRK"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sotherewehavethat,Klingt nach einem subreddit für /r/LeopardsAteMyFace/ Kandidaten.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""/r/LeopardsAteMyFace/"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+One-Nothing8556,als ob jemand in Nord Korea wohnen will,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Nord Korea"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Simbertold,"Ich gehe normalerweise in Person wählen, denn ich glaube, es ist für die Demokratie hilfreich, wenn man wirklich auch aktiv Leute wählen sieht, und nicht nur alles über irgendwelche ""unsichtbaren"" Briefe läuft. Es ist aber auch extrem einfach, weil es bei uns so gut organisiert ist. Maximal ein paar Minuten warten und sofort fertig. Aber dieses Jahr bin ich an dem Tag verplant, also mache ich auch Briefwahl.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Maximal"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Upstairs-Extension-9,Wann ist die Wahl ich habe noch keine Post bekommen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kalesaji,"Ich muss mir noch nen Monat lang die Wahlplakate mit diesen höchst tiefgründigen Sprüchen drauf angucken bevor ich weiß was ich wählen soll, also kommt Briefwahl für mich nicht in Frage. /s",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Monat"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlplakate"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sprüchen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Stirnlappenbasilisk,Du hattest mich da in der ersten Hälfte.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ersten Hälfte"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+the_harakiwi,"ich auch. Komm mir immer total schlecht vor weil ich das Rathaus fast sehen kann (ausm Wohnzimmer). Aber ich hab hier Omas Erbe. Einen Tisch für 8 Leute. Da kann man die Unterlagen komplett ausbreiten, ganz in Ruhe ausfüllen und dann persönlich in den Briefkasten werfen (war sogar näher als die Hauptpost, die wurde uns aber abgerissen... :schulterzuckender_mann_helle_hautfarbe:)",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Rathaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Omas Erbe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tisch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefkasten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hauptpost"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kashik,"Das mache ich, wer will denn nicht 800 Jahre leben?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""800 Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hobbit-,"Haben kleine Parteien im EU Parlament mehr Macht, im Vergleich zum Bundestag?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Haben"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kleine Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundestag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yosh0r,"Drum wähle ich die Partei Die Partei. Denn Dr Mark Benecke ist dafür, den halt ich für den schlausten Kerl unter der Sonne. :grinsendes_gesicht_mit_schweißtropfen:",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dr Mark Benecke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EnricoGanja,"Dann sag mir mal, welche Partei für extremen Klimaschutz, europeweite Cannabislegalisierung, Korruptionsbekämpfung UND Ausweisung aller illegalen und Islamisten, Begrenzung der Seenothilfe UND Waffenlieferungen für die Ukraine, sowie Israel ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klimaschutz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Cannabislegalisierung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Korruptionsbekämpfung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Seenothilfe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Waffenlieferungen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ukraine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Israel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TestTx,"Als Info, ab 2029 gibt’s eine 2%-Sperrklausel bei der Europawahl.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""2029"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europawahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KesterAssel,Außerdem: Die großen Parteien haben einen Rechtsruck nicht verhindert und werden es mit dem Status quo auch in Zukunft nicht tun.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""großen Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsruck"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zukunft"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CuntonEffect,ich wähle diesmal FDP,2024-05-09,de,de,"[
+      {
+        ""entity"": ""FDP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NotAnAlien5,"DU weißt nicht zufällig, ob man seinen Briefwahlumschlag im Ausland auch bei der deutschen Botschaft abgeben kann? Der Zettel für die Briefwahl wird bei mir in Italien sicher ankommen, aber die italienische Post ist extrem unzuverlässig und ich mache mir Sorgen, dass der Brief verloren geht.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""DU"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahlumschlag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deutschen Botschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zettel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Italien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""italienische Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Brief"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Alexander_Selkirk,"Darf man dem Wahlvorstand Schokolade mitbringen und ein paar Blumen fürs Wahllokal? Ich bin wirklich dankbar für jeden, der sich lokal engagiert angesichts der antidemokratischen Übergriffe.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlvorstand"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schokolade"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Blumen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wahllokal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lokale"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""antidemokratischen Übergriffe"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Neither_Ad5683,"Ich wähle jetzt seit gut 25 Jahren und es kam nie ein Ergebnis raus, bei dem ich mich wiedergefunden habe. Aber danke für das Gelaber",2024-05-09,de,de,"[
+      {
+        ""entity"": ""25 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Weirdyxxy,"Allerdings immer nur als Ansatz, danach muss man die Positionen der Parteien immer noch tatsächlich vergleichen",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alexander_Selkirk,Gibt es eigentlich eine Kombi aus Wahlomat (angekündigtes Programm) und Abgeordnetenwatch (tatsächliches Abstimmverhalten) ?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlomat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abgeordnetenwatch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ReasonablyBadass,Gitb es irgendwo eine liste was die parteien genau geantwortet haben?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Gitb"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wedox199,Bei mir sind alle Parteien Grau ausgelegt? Was soll ich jetzt wählen?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Bei mir"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Struggle-1930,"Beim Wahl-O-Mat finde ich die Fragen leider nicht differenziert genug. Viele Fragen würde ich unter bestimmten Bedingungen mit ja und unter anderen Bedingungen mit nein beantworten. Ich weiß, dass das auch nur schwer möglich ist, aber so ist er halt wenig brauchbar.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Wahl-O-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Libropolis,"Schau am besten mal auf der Website deines Wohnorts, da könnte was stehen. Bei uns soll er bis zum 19.05. kommen, ich hab auch noch nichts. Weiß aber nicht, ob das je nach Stadt/Gemeinde unterschiedlich ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""19.05."",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+moemoemoe999,"Der QR Code hat überraschend gut und schnell funktioniert! Geburtsdatum händisch dazu schreiben, klick, fertig. Endlich ist Deutschland im 20. Jahrhundert angekommen!",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""20. Jahrhundert"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Pfeffersack,"Hier in einer norddeutschen Großstadt wird per Post verschickt. Kein Wappen auf dem Briefumschlag. Nur rechts neben dem Fenster ""Wahlbenachrichtigung zur Europawahl"". Der Rest steht ja auch im Brief (welche Behörde es ist usw.).",2024-05-09,de,de,"[
+      {
+        ""entity"": ""norddeutschen Großstadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europawahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Stohpsel,"Da gibt es so einen wahl-o-maten, der vereinfacht die Entscheidung.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""wahl-o-maten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KesterAssel,Wahl-O-Mat hat bei mir Mera25 ausgespuckt. Da werde ich mich wohl etwas mit beschäftigen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahl-O-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mera25"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tempeljaeger,"Solange du nicht AFD, die Partei für Verjüngungsforschung, oder Volt wählst, kannst du nicht viel falsch machen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Solange"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""AFD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Partei für Verjüngungsforschung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,"Manche Fragen sind so irreführend formuliert, dass man fast wütend werden kann.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Manche Fragen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Plurple_Cupcake,Kommt ehh immer nur volt raus aber da kann ich auch einfach fdp wählen. Beides der gleiche gelbe dreck,2024-05-09,de,de,"[
+      {
+        ""entity"": ""fdp"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GuerrillaRodeo,"Den kannte ich noch nicht, wird sofort geklaut.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Den"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sofort"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuerrillaRodeo,"Im Wahl-O-Mat gibts die Frage ""Sollte der EU-Kommissionspräsident direkt gewählt werden?"". Einfach sämtliche Parteien ausschließen, die diese Frage mit ""nein"" oder ""neutral"" beantwortet haben. Flinten-Uschi wurde nie demokratisch gewählt. Kann mich noch daran erinnern, dass von den Wahlplakaten Manfred Weber grinste, aber *nach der Wahl* durch irgendwelche Taschenspielertricks und Hinterzimmerküngeleien doch Zensursula zur Präsidentin wurde. Das ist noch undemokratischer als die USA mit ihren Wahlmännern.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahl-O-Mat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Kommissionspräsident"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Flinten-Uschi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Manfred Weber"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zensursula"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+crazyluk2,Jeder soll wählen was er will,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Jeder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""wählen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MeinNamewarvergeben,Das EU Parlament wird am 09. Juni gewählt. Heute ist ein schöner Tag ein Spaziergang zum Wahllokal lohnt sich trotzdem um schonmal den Ernstfall zu proben. Wahlen immer Sonntags,2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""09. Juni"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""heute"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wahllokal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ernstfall"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonntags"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+delcaek,"Digger, kein Bier vor Vier.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Digger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ItsMatoskah,War getriggert von deinem Kommentar...,2024-05-09,de,de,"[
+      {
+        ""entity"": ""War"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deinem Kommentar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sauerlaender,"Woah hab nur die ersten beiden Zeilen gelesen und gedacht ""waaaaas? Wieso hab ich keine Benachrichtigung bekommen? Warum?"" dann weitergelesen... Puuuuuuuh. Mach sowas nicht nochmal, ja?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Woah"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Benachrichtigung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Qiadalga,"Einfach Briefwahl beantragen, bequem daheim ausfüllen und einwerfen, wann man will.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""daheim"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nacaclanga,"Naja das sehe ich anders. Sicherlich informieren sich nicht alle Leute gleich gut, aber zumindest die Wahlplakate sieht jeder. Und wenn die schlecht gemacht sind, sagt das auch etwas über eine Partei aus. Leuten zu sagen, ""Gehe nur wählen, wenn du dich informiert glaubst"", funktioniert vor allem schon deshalb nicht weil die Leute die eine extreme Meinung haben mit ziemlicher Sicherheit wählen gehen. Das jemand völlig uninformiertes aber so eine Extrem-Meinung mitträgt ist unwahrscheinlich. Genauso unwahrscheinlich ist es aber so eine Partei ""versehentlich"" zu wählen. Und allein dadurch gibt so ein Wähler schon eine Stimme zu seinen Gunsten ab. Dazu kommt auch: Jeder der Wählen geht um den buhlen die Parteien und suchen Wege ihn anzusprechen. Jeder der nicht Wählen geht, der wird einfach ignoriert.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlplakate"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""extreme Meinung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Wähler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wähler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Neither_Ad5683,"Den Leuten zu sagen, wie sie zu wählen haben und dass sie sich informieren sollen ist auch halt auch nicht förderlich. Wenn jemand aufgrund von Aussehen der Wahlplakate oder Schönheit der Kandidaten wählt ist das genauso legitim.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Den Leuten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Aussehen der Wahlplakate"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schönheit der Kandidaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Smogshaik,Relatiere kein bisschen. Kumulieren und Panaschieren go brrrrrrr,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kumulieren"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Panaschieren"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alexander_Selkirk,"Selbst wenn man sich nicht so für Politik interessiert, sollte es doch schon machbar sein mal 2 Stunden zu googeln was die in Frage kommenden Kandidaten konkret vertreten? Ich glaube manche Leute unterschätzen wirklich, wie weitreichende Folgen ihre Entscheidung - oder auch Desinteresse - haben kann. Wie es in Deutschland 1945 aussah und dass viele Menschen Familienmitglieder verloren haben, war letztlich auch nur möglich als Resultat demokratischer Abstimmungen. Und ich halte es für sehr gut möglich, dass die Klimakrise ähnlich heftige Folgen haben wird - vielleicht erst in einer Generation, aber dafür dann unumkehrbar. In Deutschland ging es 15 Jahre nach Kriegsende den Überlebenden zumeist wirtschaftlich einigermassen gut, die Trümmer waren weggeräumt und fast jeder hatte ein Dach über dem Kopf. Klimawandel ist ein bisschen wie einen Krieg anfangen, der nie enden wird.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1945"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klimakrise"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Generation"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kriegsende"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Überlebenden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Trümmer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klimawandel"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ThaOppanHaimar,Wie ist denn die Bezahlung so? so ein 10er pro Stunde? Wie hat es sich angefühlt während der Höchstzeit der Coronapandemie? Man setzt sich ja eine gewisse Gefahr aus bei den engen Räumen wenn man da länger sitzt und sehr viele Menschen trifft.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Coronapandemie"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+raeui,"Wirf deine Stimme nicht weg, indem du eine Satirepartei wie z.B. die FDP wählst! Dann lieber was seriöses wie Die Partei. Sie ist sehr gut.",2024-05-12,de,de,"[
+      {
+        ""entity"": ""FDP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Wassertopf,"Nun, du „gehst“ auch wählen - du gehst halt zum Briefkasten statt zum Wahlbüro. ;)",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nun"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefkasten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlbüro"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Domascot,Ziemlich falsch. Aber vermutlich ist dir das auch klar.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ziemlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""falsch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""vermutlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DreizehnZwoelf12,">Warum wählen gehen, wenn man auch Briefwahl beantragen kann. Weil Briefwahl - und das kann ich auch aus der Perspektive eines Wahlhelfers sagen - anfälliger ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlhelfers"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mottentier,Und was ist mit deiner alten Adresse?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""deiner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""alte Adresse"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hobbitfrau,"Kommt drauf an. Wahlbenachrichtigung geht an deine alte Adresse, kannst aber auch ohne Wahlbenachrichtigung Briefwahl beantragen und an deine neue Adresse senden lassen. Wenn du dich vor der Wahl nicht ummeldest, kannst du so wählen. Oder du versuchst, dich noch schnell umzumelden und beantragst, am neuen Wohnort in das Wählerverzeichnis eingetragen zu werden. Kannst du ja gleich bei der Anmeldung mit erledigen. Hast für die Europawahl noch knapp eine Woche Zeit. >Bei der Aufstellung des Wählerverzeichnisses werden von Amts wegen nur wahlberechtigte Personen mit deutscher Staatsangehörigkeit berücksichtigt, die am 42. Tag vor der Wahl bei der Meldebehörde gemeldet sind. >Wahlberechtigte, die nach dem 42. und vor dem 21. Tag vor der Wahl eine neue Wohnung im Wahlgebiet begründen oder ihre Wohnung verlegen und sich bei der Meldebehörde anmelden, werden in das Wählerverzeichnis des neuen Wohnortes nur auf Antrag eingetragen. Quelle:",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlbenachrichtigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Europawahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählerverzeichnis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Amts"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meldebehörde"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,"Wenn die AfD deine Werte vertritt dann setz da dein Kreuz. Dann wer nichr wählen geht darf sich meiner Meinung nach halt auch nicht über das Ergebnis beschweren. Meine Wahl wäre die AfD jetzt nicht, weil antidemokratische Russland- und China- Arschkriecher für mich dieses schöne Land kaputt machen aber die AfD ist ja zumindest nicht die einzige Partei die Dreck am stecken hat.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""China"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ThaOppanHaimar,"Vielleicht kannst du ja ihre Sichtweise versuchen zu verstehen. Wenn sie das Gefühl hat, dass Wahlen nichts positives ändern, dann ist das ihre Entscheidung. Kannst du ja anders sehen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pfeffersack,Einfach zum Wahlamt gehen und denen das erklären. Und natürlich gut hüten. :zwinkerndes_gesicht:,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlamt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+furzknappe,Du hast Rieseneinlauf und Kotstulle vergessen. Die Entscheider in der EU sind dann eh nicht demokratisch legitimiert.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ze_insane_Medic,"Wtf, wie hast du das denn geschafft...? xD",2024-05-09,de,de,"[
+      {
+        ""entity"": ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ZeroX812,Das ist wahrscheinlich etwas mit dem wir als Deutschland halt einfach als Kompromiss leben müssen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,Naja unter 34 Parteien sollte aber zumindest eine dabei sein did nicht kompletter Mist ist oder? Einfach mal Programme durchlesen und schauen welche Punkte dir wichtig sind,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Naja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""34 Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Programme"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alexander_Selkirk,"Ich weiß nicht, wie es in D ist. In Großbritannien bzw Schottland vor Brexit war es so, dass man entweder lokal vor Ort wählen durfte oder per Brief im letzten Wohnort im Heimatland. Aber man musste sich drum kümmern.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Großbritannien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schottland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brexit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+wung,"> ""Die machen nicht was ich will."" > Wählt nicht für was er will. Merkste selbst, oder?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""er"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,Dann darfst du dich aber auch nicht über das Ergebnis beschweren,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ergebnis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Alexander_Selkirk,"> heruntergedampfte EU Sehr ähnlich haben die Brexiter auch argumentiert, sie haben mit mehr nationaler Souveränität argumentiert und dass es für den Einzelnen besser sei. Was ist dabei heraus gekommen? * Fischer können kaum noch in nichtbritischen Gewässern fischen. Sie können auch die ""britischen"" Fische nicht mehr exportierrn, und das ist blöd, weil so Sachen wie Hering auf den britischeln Inseln kaum gegessen werden. * Ebenso Landwirte. Dazu fehlen Arbeitskräfte, denn von denen kamen viele aus Osteuropa. * Ebenso fehlen Handwerker wie zB Klempner.. von denen kamen etliche aus Polen. * Massive Preisanstiege bei Lebensmitteln. * Verbraucherrechte werden abgebaut. * Umweltschutz wird geschleift - Abwässer kommen jetzt ungeklärt in Flüsse und Strände, man kann in der Gülle schwimmen. Guten Appetit. * Rückschritte beim Klimaschutz, denn beim Brexit war das Tufton Street Network aktiv - siehe desmog.org. Die Hintermänner stehen Klimaschutz etwa so freundlich gegenüber wie Donald Trump. * Währenddessen stehen, wegen der Klimaveränderung, weithin Felder unter Wasser und es wird erhebliche Ernteausfälle geben. Weiter steigende Preise bei Lebensmitteln sind absehbar. * Dienstleister wie Freiberufler oder Musiker können nicht mehr mal eben über den Kanal tuckern, um zB einen Auftritt zu machen - der Papierkram für den Transport des Musikequipments, der während EU Zeiten Null war, ist zu hoch. Massive Einkommensverluste auch hier, dazu ein Verlust an kulturellem Reichtum. Das betrifft zB auch Kleingewerbler, die zB über Etsy verkauften. Und zahllose größere Unternehmen. Letztlich war das ganze Brexit Projekt ein abgekarteter Plot zum Abbau von Grundrechten, die viele einfach für selbstverständlich gehalten haben. Fast so wie wenn Fische das Wasser abwählen. Die EU hat sicher ihre Fehler, aber sie verleiht uns massiv Rechte und uns Europäern eine Stimme in der Welt - und das ist wichtig, denn Menschenrechte und Freiheitsrechte sind nicht selbstverständlich. Und, wegen des Klimawandels: Ohne weltweite Kooperation gibt es keine Zukunft für eine menschliche Zivilisation, wie wir sie kennen. Auch dafür wird die EU gebraucht, denn die USA stehen vor einem Ausfall.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Brexiter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fischer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Landwirte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Handwerker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Arbeitskräfte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hering"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lebensmitteln"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verbraucherrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Umweltschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Abwässer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Klimaschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Tufton Street Network"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Felder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Flüsse"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Strände"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kanal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Europa"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Grundrechten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Menschenrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Freiheitsrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Klimawandels"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kidsrannoying,in anderen ländern haben viele leute nicht das privileg zu wählen,2024-05-09,de,de,"[
+      {
+        ""entity"": ""anderen ländern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MajorGef,"Hierzulande schon. Anders als z.B. in den USA, wo man in den knast wandert weil man gewählt hat aber man vor der Wahl still und leise von den Wählerlisten gestrichen wurde.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""knast"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Libropolis,"Dann geh doch als Beobachter zur Auszählung! Ich kann dir versichern, dass bei den meisten alles korrekt abläuft.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auszählung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hobbitfrau,"Werd selber Wahlhelfer? Alle Kommunen suchen noch verzweifelt. Wenn du darauf keine Lust hast, kannst du bei der Auszählung zugucken. Die ist öffentlich. Aber hör auf, Wahlhelfer zu beleidigen, bloß weil du lieber irgendwelchen Insta-Spacken glaubst, anstatt es dir selber anzugucken!",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlhelfer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommunen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Auszählung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Insta-Spacken"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Keberro,"Tut mir leid dich enttäuschen zu müssen, aber auf deinem Pass steht Europäische Union drauf.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Europäische Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+3384619716,Stimmst du dort dann auch für eine Rückkehr zum losen Staatenbund deutscher Fürstentümer von 1815?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""deutscher Fürstentümer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1815"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Treff,"Für Deutschland brauchste eigentlich auch nicht wählen gehen. Alles gut, leg dich wieder hin.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Madermaker,"Auch wenn ich nicht deine Ansicht vertrete, sind die Reaktionen zu deinem Kommentar so typisch ""Toleranz für alles und jeden... Außer für Menschen, mit einer anderen Meinung. Wie kannst du nur eine andere Meinung haben?"" :schulterzuckender_mann:",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Auch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ansicht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reaktionen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommentar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Toleranz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,Dann darfst du dich aber auch nicht über das Ergebnis beschweren,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ergebnis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GhostSierra117,Bei uns hat man sich nicht dafür interessiert. War denen komplett egal. Meine Straße hatte vor 6-7 Jahren keine Wahlunterlagen erhalten.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""uns"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straße"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6-7 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aswertz,Bis wann sollte die Benachrichtigung denn da sein?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Bis wann"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Benachrichtigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Andreeeeeeeeeeewwwww,Woher weiß ich welches Wahlamt dabei mein Ansprechpartner ist? Hab bisher auch keine bekommen. In meiner alten Heimat sind alle bereits erinnert worden. Bin seit kurzem Umgezogen und weiß nicht wie das in der neuen Stadt gehandhabt wird. Kann ich prinzipiell nicht auch so wählen mit Perso? Erinnert wurde ich ja prinzipiell,2024-05-10,de,de,"[
+      {
+        ""entity"": ""mein Ansprechpartner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""meiner alten Heimat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""neuen Stadt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Perso"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+the_harakiwi,Ihr bekommt bei einem Brief eine Nachricht in der App? Ist das ein neues Feature? Ich bekomm nur Pakete - manchmal Päckchen die ohne Tracking per Briefpost kommen - angezeigt.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Brief"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pakete"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Päckchen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefpost"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+seanidasheep,"Die Post steuert das um dann gesammelt an einem Tag die Wahlunterlagen zuzustellen in den Bezirken. Meistens werden die gesondert aussortiert und extra angeliefert, damit da möglichst wenig schief geht.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einem Tag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bezirken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheSpiritOfFunk,Ist halt nur die Frage ob da alle Schichten wählen können.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""alle Schichten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rybathegreat,"Soweit ich weiß war das mal nen Satire Sub. Hach, wie sich die Zeiten ändern :D",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Soweit ich weiß"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Satire Sub"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeiten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mellowlex,Hab ich mir auch gedacht.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Hab"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rybathegreat,"Soweit ich weiß war das mal nen Satire Sub. Hach, wie sich die Zeiten ändern :D",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Soweit ich weiß"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Satire Sub"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zeiten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SheepyTrevor2,"Ich würde dieses Jahr eigentlich auch in Person wählen gehen (so wie ich das schon immer gemacht habe) aber am Tag der Wahl bin ich im Urlaub und deswegen wird's Briefwahl. Ich warte noch auf meine Wahlbenachrichtigung, da sollte ja das Verfahren drin stehen wie ich mich dafür melden kann...",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dieses Jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Urlaub"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlbenachrichtigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Blup16571,"Darüber hinaus suchen viele Orte Wahlhelfer! Das ist nicht nötig, um die Wahl am Laufen zu halten, denn es können immer Angestellte aus dem Öffentlichen Dienst dafür herangezogen werden, aber es ist wichtig, dass die Wahlhelfer aus der Breite der Bevölkerung kommen",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlhelfer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Öffentlichen Dienst"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Breite der Bevölkerung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DreizehnZwoelf12,"> Ich gehe normalerweise in Person wählen, denn ich glaube, es ist für die Demokratie hilfreich, wenn man wirklich auch aktiv Leute wählen sieht, und nicht nur alles über irgendwelche ""unsichtbaren"" Briefe läuft Ist auch einfach die sichere Form der Wahl. Die Briefwahl hat viel mehr Stellen, an denen die Stimmzettel verloren gehen können.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+spamzauberer,"Dann sieht man auch mal jeden dritten und wie der aussieht, der, der Faschismus gerne wieder hätte.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jeden dritten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Faschismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Wassertopf,"Läuft in der Schweiz nicht alles standardmäßig per Briefwahl? Die haben deshalb jetzt kein Zweifel daran, dass alles in Ordnung läuft.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Schweiz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Pfeffersack,"Die Europawahl ist am So., 9. Juni 2024. Deine Wahlunterlagen sollten die nächsten Tage kommen. Wenn die nicht spätestens Mitte Mai (ca. Mitte nächster Woche) da sind, würde ich aber an deiner Stelle dem Wahlamt Druck machen. Soll nicht vorkommen, aber kann mal sein.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Europawahl"",
+        ""entity_type"": ""EVENT"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""So., 9. Juni 2024"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlunterlagen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mitte Mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mitte nächster Woche"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlamt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+doomeddeath,Noch nie smalltalk dort erlebt,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Noch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""smalltalk"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dort"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Meretan94,Bei uns hab’s noch nie smalltalk. „Hallo“ „Ausweis?“ „Da ham wer sie. Da hinten is die Kabine“ „Tschüss“,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Bei uns"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""smalltalk"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hallo"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausweis"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kabine"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tschüss"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+forsti5000,"Und ist so wunderschön leicht bei uns. Einfach QR Code von der Wahlbenachrichtigung einscannen, kurt Tel. Nummer und Mail eingeben und ich bekomm alles zugeschickt. Hoffe das des wo anders auch so geil leicht ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""QR Code"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlbenachrichtigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tel. Nummer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mail"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rotsono,"Da hab ich ja wohl immer extrem Glück denke ich? Bei mir ist das immer ein ""Guten Morgen.."", Wahlbenachrichtigung und Ausweis wird kontrolliert, Wahlzettel überreicht, ich füll aus, steck in die Urne und sage ""Schönen Tag noch.."" und gehe, fertig.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Guten Morgen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Wahlbenachrichtigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ausweis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlzettel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Urne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schönen Tag noch"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+forsti5000,War eventuell beabsichtigt ;),2024-05-09,de,de,"[
+      {
+        ""entity"": ""War"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+forsti5000,Jup bei der letzten kommunalwahl hab ich wirklich den kompletten esszimmer tisch gebraucht,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Jup"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kommunalwahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""esszimmer tisch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+johannes1234,"Wie schmierte hier jemand auf eines der Plakate: ""Nur wenn die Rente sicher ist!""",2024-05-09,de,de,"[
+      {
+        ""entity"": ""jemand"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Plakate"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rente"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MITTW0CHSFR0SCH,"An sich nicht, aber: Es gibt für die Wahl ins EU Parlament keine Sperrklausel, sprich keine fünf Prozent Hürde wie im Bundestag, weshalb kleinere Parteien es leichter haben, ins Parlament einzuziehen (rechnerisch reichen schon ca. 0,5% für einen Sitz). Wenn du eine kleinere Partei wählst, ist es also wahrscheinlicher, dass die von dir gewählten Positionen auch wirklich vertreten sind. Ab 2029 wird es aber wahrscheinlich wieder eine Sperrklausel geben :/",2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fünf Prozent Hürde"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kleinere Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""0,5%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ab 2029"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sperrklausel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Bobgle,"Es gibt deutlich mehr Möglichkeiten, sich als Parlamentarier\*in direkt einzubringen. Ich würde also hier schon ja sagen. In den Abstimmungen ist natürlich trotzdem weiterhin alles proportional.",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Parlamentarier"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+furzknappe,"Wer ihn mal persönlich traf, weiß wie selbstverliebt dieser Mensch ist.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dieser Mensch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+inkihh,Sie ist sehr gut.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Sie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+GuerrillaRodeo,"Ja, der ist schon ein Unikat, ich mag ihn auch recht gern. Die PARTEI wird mir auch regelmäßig vorgeschlagen, habe ich auch letztes Mal gewählt. Allerdings ist Volt auch nicht schlecht, die liegen bei mir im Wahlomat sogar noch vor der PARTEI. Eine von beiden wirds wohl, muss mir nur noch überlegen welche.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""PARTEI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+East_Tomatillo3528,"Lieber die Linke, seit die Putinknechte endlich weg sind, ist die Partei wählbar.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""die Linke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Putinknechte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+GuerrillaRodeo,"Die gibt es (leider) nicht und wird es auch nie geben. Außer du gründest selbst eine, wird es nie eine Partei geben, die zu 100% mit deinen Positionen übereinstimmt. Daher nur Parteien wählen, die für mehr direkte Demokratie sind.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""direkte Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+OGMayo46,Am ehesten Volt würde ich sagen hab mich aber noch nicht mit dem neuen Wahlprogramm auseinandergesetzt,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""neuen Wahlprogramm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+inventiveEngineering,wahrscheinlich keine. Gründe doch selbst eine Partei. Dieses Recht steht dir auch zu.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""keine"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Special-3491,Die Partei der Humanisten: [ . Highlights stehen weiter unten auf der Startseite. Ich glaube nur zu Waffenlieferungen haben sie bisher noch keine Position.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Partei der Humanisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Waffenlieferungen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CrazyPoiPoi,> Begrenzung der Seenothilfe Warum?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Seenothilfe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Notradell,"PDF? Erscheint mir eine recht progressive Partei zu sein, die sich aber auch für Grenzschutz einsetzt.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""PDF"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine recht progressive Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Grenzschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kottochka,Würde mich auch interessieren:))),2024-05-09,de,de,"[
+      {
+        ""entity"": ""Würde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+harakirimurakami,"Häh, damit bist du doch bei den Grünen ganz gut aufgehoben?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Minute-Bet791,"Nur wenn die Wahlreform durch den Rat geht, was nicht zu erwarten ist",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlreform"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tempeljaeger,Bis dahin haben wir die Kleinparteien salonfähig gemacht.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kleinparteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+trextos,"Die Argumentation ist wirklich merkwürdig, das gleiche könnte man auch über die kleinen Parteien behaupten. Am Ende sollte das wirklich nicht der entscheidende Grund sein.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Argumentation"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kleinen Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Neither_Ad5683,Spoiler: die kleinen Parteien auch nicht,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Spoiler"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""die kleinen Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CPT-Lotus,Die großen Parteien sind der Grund für den Rechtsruck. Man kann meiner Meinung nur kleine Parteien wählen um so gesehen mal was neues aus zu probieren.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Rechtsruck"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Meinung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JaZoray,die großen parteien sind der rechtsruck,2024-05-09,de,de,"[
+      {
+        ""entity"": ""die großen parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rechtsruck"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+M0pter,"Also ich find's ehrlich gesagt etwas zu bequem, das nur von den Parteien zu verlangen (siehe CDU und ihr Europawahlprogramm, die sind ja sogar selbst nach rechts gerückt und mit dem ICE in die Vergangenheit unterwegs). Ich meine, da müssen wir als Bürgerinnen und Bürger selbst aktiv sein, wenn wir unsere freiheitliche Demokratie behalten wollen und bei jeder Gelegenheit das Gespräch suchen und Überzeugungsarbeit leisten. Verein, Nachbarschaft, Freundeskreis, wohlwollend aber nachdrücklich diskutieren und dabei standhaft sein.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Europawahlprogramm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheRealCuran,"Allgemein gilt, was auf der Webseite der Bundeswahlleiterin zum Wählen im Ausland und der Nutzung des Kurierweges steht: Italien ist da als EU-Mitglied nicht dabei. D.h. du musst bei der Briefwahl „normal“ senden. Ich würde empfehlen: im Zweifelsfall per Express an den zuständigen Wahlleiter senden. Ggf. reicht auch schon ein Einschreiben zur Beschleunigung, da kenne ich mich aber nicht mit der italienischen Post aus.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Bundeswahlleiterin"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Italien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU-Mitglied"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Express"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlleiter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Einschreiben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""italienischen Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheRealCuran,"Das ist nicht ganz einfach. Wir müssen absolut unparteiisch sein und auch für alle offensichtlich so handeln. D.h. Annahme von Geschenken ist nicht machbar. Aber: wenn du Mitglieder des Wahlvorstands persönlich kennst und dem ein belegtes Brötchen mitbringst, dann ist das wahrscheinlich eher kein Problem. Gerade in ländlicheren Gegenden ist das sowieso laxer gehandhabt, weil da jeder jeden kennt. In Städten normalerweise dagegen strikter. Aber: am Meisten hilfst du, wenn auch du ein Mitglied des Wahlvorstands wirst! Melde dich einfach bei deiner Stadt. Alle paar Jahre ist man dann Sonntags mal ein paar Stunden gebucht, aber das war es dann auch schon (Wahlvorsteher und Schriftführer müssen noch etwas mehr tun, aber auch das ist nicht wild).",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlvorstands"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geschenken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ländlicheren Gegenden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Städten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonntags"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Blup16571,"Ich glaube schon, solange du nicht sowas wie ""und schön oft für Partei XY zählen, zwinker"" hinterherschiebst",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Partei XY"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheRealCuran,"Umso weiter man vom Konsens der Gesellschaft weg ist, umso schwerer ist Repräsentation natürlich. Aber das ist aus Sicht der Meisten wahrscheinlich eher ein Feature. Das dann als „Gelaber“ abzutun ist natürlich das Sahnehäubchen. Egal: in Deutschland sind Wahlen zum Glück frei, d.h. du hast natürlich auch die Wahl, nicht zu wählen. Halte ich zwar für schlecht, aber da muss man mir nicht zustimmen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CrazyPoiPoi,"Also weder SPD, CDU noch Grüne passen dir? Was hast du dann gewählt?",2024-05-09,de,de,"[
+      {
+        ""entity"": ""SPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CDU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grüne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FreeWildbahn,Das wäre in der Tat ziemlich toll. Über das Wahlprogramm kann sich jeder in realistischer Zeit informieren. Aber das Abstimmverhalten zu verfolgen erfordert einen riesen Aufwand.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlprogramm"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Abstimmverhalten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+johannes1234,"Das ist aber genauso verschoben. Das andere Abstimmungsverhalten kommt ja zu großem Teil davon, dass die Partei zu wenig Stimmen hat und deswegen Kompromisse eingehen muss. Sie wirbt aber für Ihre Position, um möglichst viel davon umzusetzen. (Wobei Wahlversprechen immer problematisch sind: Die akuten Themen lassen sich nicht vorher sagen. Flüchtlingswelle, Corona, Ukrainekrieg waren jeweils in der Form im Wahlkampf zu vor nicht vorhersagbar haben aber dann jeweils die Legislatur geprägt)",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahlversprechen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Flüchtlingswelle"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Corona"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ukrainekrieg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kin-Luu,"Bei der Europawahl ist der wenig hilfreich, finde ich. Wahrscheinlich weil die Themen so breit gefächert sind. Bei mir spuckt der BSW auf Platz 1 und Union auf Platz 2 aus. Die Parteien sind aber eigentlich völlig unterschiedlich.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Europawahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BSW"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Effective-Touch-832,Das ist die Partei von Yannis Varoufakis. Ich steh auch in Versuchung die zu wählen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Yannis Varoufakis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuerrillaRodeo,Was ist an den letzten beiden so schlecht? Ernst gemeinte Frage.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""letzten beiden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Wassertopf,"So ein Bullshit. Volt hat in der letzten Legislatur komplett anders abgestimmt als die FDP. Wenn, dann hat Volt extrem oft so abgestimmt wie die Grünen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Volt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+derfeuerbringer,"You're not just a clown, you're the entire circus!",2024-05-09,de,en,"[
+      {
+        ""entity"": ""You"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""clown"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entire circus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+475ER,"ist ein fließender Übergang, wie bei so einer Banane. Deshalb wird auch gerne von der AfDP gesprochen",2024-05-09,de,de,"[
+      {
+        ""entity"": ""AfDP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+trextos,"Der bekannteste, und leider auch unkreativste Spruch überhaupt.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Der"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""unkreativste"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+trextos,Macron und Co. sei Dank.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Macron"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kleinbonum,Direktwahl und demokratische Wahl sind aber auch nicht das gleiche.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Direktwahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demokratische Wahl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xrimane,"War auch eine dieser Fragen mit Fußangel. Die Grünen sind z.B. dagegen mit dem Argument, dass man besser die Kommissionspräsidentin und die Kommission vom Parlament wählen sollte und eben auch wieder abwählen können sollte, wie es eben in Deutschland ganz gut funktioniert - um eben den Machtanspruch eines direkt gewählten Präsidenten nicht aufkommen zu lassen. Ich sehe den theoretischen Sinn. Andererseits braucht die EU m. E. im Monent dringender mehr Demokratie und weniger Hinterzimmerkungeleien mit Staatenproporz.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommissionspräsidentin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommission"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Parlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Hinterzimmerkungeleien"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Staatenproporz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KirikoKiama,Aber es ist doch schon deutlich nach vier...,2024-05-09,de,de,"[
+      {
+        ""entity"": ""vier"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schville,"Vier Uhr morgens, passt doch",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Vier Uhr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""morgens"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Namaker,Brokkoli ist aber ok,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Brokkoli"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LvS,"Dann darf man sich halt nur nicht wundern, wenn soviele Leute die Partien wählen, die die lustigste Werbung machen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schmidisl_,"Ich verstehe was du meinst. Ich bin jung und interessiert, nehme mir dafür auch Zeit. Kann aber genauso Verständnis aufbringen, für all die, die dafür keine Lust haben. Beispiel: meine Mutter. Nie viel mit Politik am Hut gehabt. Vollzeitjob der geistig zermürbend ist, zwei sehr anspruchsvolle Hunde. Da ist man abends einfach mal froh wenn nichts mehr ansteht. Sich dann in 4 Listen einlesen ist dann einfach nicht mehr. Wählen ist wichtig, sollte aber, vor allem für die Bildungsfernere Schicht, viel unkomplizierter gestaltet werden.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""interessiert"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Verständnis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Mutter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vollzeitjob"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hunde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Listen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bildungsfernere Schicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jays_Dream,"Also ich krieg immer 60€ für den Wahltag. Ist ja ein Ehrenamt also ist die ""Bezahlung"" auch dementsprechend. Während Covid war tatsächlich nicht viel anders als vorher auch. Außer dem ein oder anderen Maskenverweigerer die einen halt angeschrien haben. Aber angeschrien wurde ich auch so schon also nix neues.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Covid"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Maskenverweigerer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Childhood_Wise,Alles für die Bierpreis Bremse:grinsendes_gesicht_mit_schweißtropfen::erhobene_faust:,2024-05-12,de,de,"[
+      {
+        ""entity"": ""Bierpreis Bremse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LvS,Besser AfD als Nichtwähler?,2024-05-09,de,de,"[
+      {
+        ""entity"": ""AfD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zealousideal-Count45,"Okay, ich hab mich da jetzt etwas eingelesen. Das war mir so nicht bewußt. Danke für den Hinweis!",2024-05-09,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Danke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Tommy24027,Berlin sagt da leider nein :grinsendes_gesicht_mit_schweißtropfen: Termin für die Anmeldung ist im Juli,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Berlin"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Juli"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sassi7997,"Nö, meine Wahlbenachrichtigung kam als [Postkarte ]( ohne Umschlag.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Nö"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Postkarte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Neither_Ad5683,Dafür kann ja die EU nichts.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheFumingatzor,"Ne, du missversteht, die Ergebnisse von beiden Wahl-O-Schwachmatten sind so abwegig, dass ich einmal MLPD und einmal Heimat wählen werde. Kommt aufs gleiche hinaus. Vielleicht auch SGP oder DKP und dieBasis statt Heimat. Muss ich noch gucken.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""MLPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Heimat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SGP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DKP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dieBasis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Low-Possession1175,In de darf ich nicht wählen weil ich kein deytscher bin das sollte man ändern weil ich jeden monat 2800€ steuern + sozialabgaben trage,2024-05-09,de,de,"[
+      {
+        ""entity"": ""de"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deytscher"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2800€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheGermanPanzerClock,">Wählt für was er will Die Machen trotzdem nicht, was er will Ist meine Erfahrung mit dem Ganzen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Machen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Embarrassed-Air-4917,"Tu ich doch gar nicht? Mir ist es egal. Mir geht höchstens das dumme gesülze auf den Sack „jEdE sTiMmE ZÄhLt“. Nein, deine Stimme ist nichts wert.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Tu"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dumme gesülze"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""jEdE sTiMmE ZÄhLt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deine Stimme"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Schnorch,"Das ist sehr viel Text, der aber komplett an dem vorbei geht was ich geschrieben. Nirgendwo hab ich geschrieben dass die EU im ganzen abgeschafft werden sollte, noch das Deutschland aus der EU austreten sollte. Insofern weiß ich nicht was die Aufzählung von vermeintlichen Auswirkungen des Austritts Großbritanniens mit meinem Text zu tun hat. Es gibt einige Bereiche wo eine Zusammenarbeit in dem Gebilde EU sehr sinnvoll ist (Wirtschaft, militärisch Zusammenarbeit, Klima), aber es gibt meiner Meinung nach eben auch viele Bereiche wo die EU kein Mitspracherecht haben sollte, wo sie es aber heute immer öfter hat. Und eigentlich hat sich die EU ja auch mal genau dieses ""Heraushalten"" aus vielen Dingen selbst groß auf die Fahne geschrieben, eben das von mir erwähnte Subsidiaritätsprinzip. Nur gibt sie heute halt einen Scheiß auf dieses Prinzip und will bei allem mitreden sei es nun bei der Forderung nach einer Massenüberwachung, wie Mitgliedsländer ihr Strafrecht gestalten oder ob ich mir (Schockschwerenot!) in einem Geschäft Cannabis kaufen darf, um nur paar Beispiele zu nennen. Die EU bekommt immer mehr Kompetenzen die ein Staat normalerweise hätte, ohne aber den Demokratischen Unterbau dafür. Aber unser Steuergeld wird natürlich weiterhin mit vollen Händen an Autokraten wie Orban und Konsorten gegeben. Da will man sich dann plötzlich doch nicht mehr ganz so doll einmischen. Hauptsache das deutsche Geld fließt weiter.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Großbritannien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wirtschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""militärisch Zusammenarbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Klima"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Subsidiaritätsprinzip"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Massenüberwachung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Strafrecht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cannabis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Orban"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+trextos,"Das kannst du doch gar nicht behaupten, wenn du nicht dabei warst. Selbst wenn ich es auch so sehe.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Das"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gar nicht"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""behaupten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dabei"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""warst"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Selbst"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""auch"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""so"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sehe"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ManonMelmarc111,Nee da steht Bundesrepublik Deutschland auf dem Führerschein da hast du recht,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Bundesrepublik Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ManonMelmarc111,Doch natürlich gehe ich da hin wenn gewählt wird.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Doch"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""da"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gewählt wird"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ManonMelmarc111,Ist ja alles im Rahmen geblieben finde ich. Und schlimm es absolut nicht wenn jemand eine andere Meinung hat finde ich sogar gut. Und eine schöne Diskussion hat doch auch was feines :zwinkerndes_gesicht:,2024-05-09,de,de,"[
+      {
+        ""entity"": ""keine spezifische Entität"",
+        ""entity_type"": ""N/A"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Neither_Ad5683,"Wo steht das? Natürlich darf man sich beschweren. Gibt halt Sachen die stehen gar nicht erst zur Wahl, warum sollte man dann teilnehmen?",2024-05-10,de,de,"[
+      {
+        ""entity"": ""Wo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Natürlich"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Sachen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TroiSpokes,Dann an die Landes- bzw. Bundeswahlleitung melden. Kommunalaufsicht und Presse kann man auch immer mit ins cc nehmen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Landes- bzw. Bundeswahlleitung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommunalaufsicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Presse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Low-Championship9360,Dann hättet ihr denen mehr aufs Dach steigen sollen. Geht gar nicht.,2024-05-10,de,de,"[
+      {
+        ""entity"": ""Dann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dach"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CalligrapherCool2968,19. Mai ist letzter Tag,2024-05-10,de,de,"[
+      {
+        ""entity"": ""19. Mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""letzter Tag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Daranad,"Wahlämter sind bei uns in Deutschland sehr kleinteilig organisiert, die sind in den Kommunen verortet, die Webseite der Kommune wo Du gemeldet bist (Achtung, wichtig, nur wenn Du umgemeldet bist, wirste auch im hiesigen Wählerverzeichnis geführt) sollte darüber Aufschluss geben, wer Ansprechpartner ist. Man wird Dir auch sagen können, ob Du im Wählerverzeichnis bist und was Dein Wahllokal ist. Da kann man auch mit Perso aufschlagen, die Listen sind meist nach Straßen sortiert. Es kann natürlich sein, dass Du genau nach dem Datenziehen für die Briefe umgemeldet wurdest. Aber wie gesagt, meld dich beim lokalen Wahlamt Deiner neuen Kommune wo Du gemeldet bist",2024-05-13,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommunen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Webseite der Kommune"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wählerverzeichnis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Perso"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straßen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Datenziehen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sassi7997,Die Briefankündigung macht die Post seit Januar 2022.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Briefankündigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Post"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Januar 2022"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+donald_314,Warum sollte nicht? In der DDR und jetzt Russland durfte/darf ja auch jeder wählen ;),2024-05-09,de,de,"[
+      {
+        ""entity"": ""DDR"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zodiarche1111,Ist eher die Frage ob du mehr Entscheidungspielraum hast als Kreuzchen bei Partei 1 setzen oder nicht.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Kreuzchen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Partei 1"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Gockel,War The_Donald auch mal,2024-05-09,de,de,"[
+      {
+        ""entity"": ""The_Donald"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Great_White_Sharky,"Ist er eigentlich auch immer noch, bzw. ein Teil der user nimmt ihn ernst und ein Teil nicht",2024-05-09,de,de,"[
+      {
+        ""entity"": ""user"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+iamagermanpotato,Für diesen Zweck kann man in einem Satire-Sub gerne auch mal die Satire weg lassen!! GEHT WÄHLEN!!!!! Dankeschön! :),2024-05-09,de,de,"[
+      {
+        ""entity"": ""Satire-Sub"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""GEHT WÄHLEN"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Bioxio,"Nichtsdestotrotz, früher ist besser und du bist ja schon im Internet! Wer weiß, was im Leben alles passieren kann... Auf meinem Zettel steht ein Link zu der Website von der Stadt.de/briefwahl, da kann man sich die Briefwahl bequem nach Hause bestellen. Vermute, dass sollte woanders genauso funktionieren.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Internet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stadt.de/briefwahl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+johannes1234,"Wobei da die Wahrscheinlichkeit ziemlich gering ist. Deutschland ist durchaus zuverlässig. (Und man könnte auch vorab im Rathaus wählen, persönlich einwerfen, ...) (Präsenzwahl ist besser, aber Grund für Sorge ist nicht)",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Rathaus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nacaclanga,"Das Risiko verloren zu gehen gibt es ehr nicht, wohl aber das Risiko das der Brief zu spät ankommt.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Brief"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Risiko"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BigBidoof,"Den hast du bei uns auf dem Dorf immer. Ist jetzt aber auch kein großes Drama, imho.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dorf"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+forsti5000,Dito. War aber bisher nur einmal im Wahllokal mit 18 und seit dem Briefwahl. Konnte es auch immer Online beantragen.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Dito"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wahllokal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""18"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Briefwahl"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Online"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+elitenoel,Ich konnte es auf einer Webseite beantragen. QR-Code gab es natürlich auch.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""webseite"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""QR-Code"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Effective-Touch-832,"Ist doch egal, der ist ein prominenter Wissenschaftler/Wissenschafts-Komunikator nicht dein persönlicher Kumpel. Der könnte Privat das grösste Ekel aller Zeiten sein, aber für die Time is up Vortragsreihe hat er einfach Respekt verdient.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wissenschaftler/Wissenschafts-Komunikator"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Time is up Vortragsreihe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+spamzauberer,Selbstverliebt oder von sich selbst überzeugt? Ist n unterschied.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Selbstverliebt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""n"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yosh0r,Was ist dir passiert,2024-05-09,de,de,"[
+      {
+        ""entity"": ""dir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yosh0r,"Ein Slogan so vielsagend und bedeutsam wie jeder andere Slogan, allein damit haben sie mich schon immer gekriegt.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Ein Slogan"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yosh0r,"Oh ja hab dieses Jahr noch kein Wahlomat gemacht :grinsendes_gesicht_mit_schweißtropfen: Allerdings wird Hartz eh net abgeschafft und weed ist bereits geregelt, also bin ich bereits wunschlos glücklich und wähle wohl einfach aus Trotz Die Partei",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Hartz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""weed"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Die Partei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+EnricoGanja,"Sagt mir auch der Wahlomat. Die scheinen mir in der Tat noch am erträglichsten zu sein, was das Programm angeht. Icvh werde mich mal etwas intensiver mit deren Personalie beschäftigen. Danke für den Kommentar.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wahlomat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Personalie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lipziger,"Ich denke mal der Gedanke ist so wie dieser: > Wenn die Leute (Flüchtlinge, illegale Einwanderer etc.) ersaufen muss man sie nicht erst abschieben. Und die Begründung ist dann meist: > Wenn erst genügend ersoffen sind, werden es sich manche danach 2 mal überlegen, bevor sie es versuchen.",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Flüchtlinge"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""illegale Einwanderer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sfan5,Die Grünen sind im Leben nicht für Begrenzung der Seenothilfe oder konsequente Abschiebung,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Die Grünen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Seenothilfe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuerrillaRodeo,Soll das ein Witz sein? Kann ich ja gleich Putin die Schlüssel fürs Europaparlament geben.,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Putin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Europaparlament"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+EnricoGanja,"Sicher, diese Russlandhörige Wagenknecht kann mich mal",2024-05-09,de,de,"[
+      {
+        ""entity"": ""Wagenknecht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Great_White_Sharky,>Waffenlieferungen für die Ukraine,2024-05-09,de,de,"[
+      {
+        ""entity"": ""Waffenlieferungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ukraine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

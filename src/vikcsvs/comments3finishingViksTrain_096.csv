@@ -1,0 +1,4555 @@
+author,text,timestamp,subreddit,language,gpt_output
+pokemontw,哈哈哈哈哈哈哈哈還有人說，一張照片不代表什麼,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""一張照片"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tough_Temperature_52,蔥粉能說服自己就好哈哈哈,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""蔥粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Ballball32123,"柯韓館昌cheap錫bump炭葉莎賀
+這個加起來幾千萬訂閱？",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯韓館昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""cheap"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""錫bump炭葉莎賀"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""幾千萬"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""訂閱"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BoogieMan80s,"這就是胯下昌的昨非今是，太精彩了。
+
+當你把一個人的斤兩看透透時，這個人也就沒有什麼好期待或好怕的了",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""胯下昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""昨非今是"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+murneko,綠藍白共畜能不能一起跳海還我一個安那其世界:放声大哭:,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""綠藍白"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""安那其世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+umihime0406,"有點看不懂
+一群民進黨的指責民眾黨的去親和國民黨的
+是在幹嘛
+卻又一直噴藍白一家
+呃你都覺得藍白一家了
+他們合在一起很意外嗎？
+繼續堅挺民進黨不就好了傻眼
+管其他垃圾幹嘛",2024-01-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Luciferrisen,"我不太懂拍照握手能代表什麼？國民黨拜訪民眾黨難道不應該友善對待嗎？他說不是來立法院交朋友，但你不跟藍綠交朋友要如何讓他們支持民眾黨的提案？
+
+等最後選舉結果再來幹譙黃國昌會比較實際
+我並不認為他會讓韓國瑜當主席",2024-01-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""立法院"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""選舉結果"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""韓國瑜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ImTooWoke,你們都是群弱智嗎？不投藍難道繼續讓錄貪污下去？,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""你們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Individual-Papaya182,"還好吧！藍白合作如果可以讓台灣更好有什麼不好？重點是他們都還沒有開始做，你就下定論了，要跟人家機會。
+綠白合也沒有不好，重點是人民要走出站兩邊，看到人看到事而不是固定印象。",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""藍白合作"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""綠白合"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Practical_Thanks8635,總比綠綠不想司法改革，綠綠現在就是走共產黨在走的路，法西斯主義之路作為台灣人最不喜歡的就是共產黨風格，國民黨親中，或是說以和為貴之路，但民進黨走的就是有一黨獨大的風格，看桃園機場就知道，桃園機場別人疫情之下是把跑道、滑行道、機場都更新，相對航班較國際其他大國家還少的情況下，卻老是補東補西，機場滑行道常常爛掉，圖利特定廠商，連國門都無法維護好，大家來過機場或是在機場上班就能知道，桃園中正機場的狀況是如何，航廈也蓋超久,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""總比綠綠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""綠綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""桃園機場"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國門"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中正機場"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aredditaa,我覺得，當初不支持他打綠的弊案的人，也不應該責怪他跟藍的合好，畢竟他當初打藍大家叫好，打綠就搞到千夫所指，既然大當初家都逼他對現實妥協，現在妥協又被罵，到底是要人家怎樣:小丑脸:,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""綠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""千夫所指"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""現實"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小丑脸"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ornery_Blacksmith341,為了讓黨可以擋疫苗賺綠能買巴西蛋工程包到爛,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""疫苗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""綠能"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴西"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""爛"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+rebroda,拯救台灣，台灣發大財！,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+changtammy,昨天看他們記者會真是要吐了,2024-01-31,Taiwanese,zh,"[
+      {
+        ""entity"": ""昨天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""記者會"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TWN113,立法院長並不是一個很重要的位置,2024-02-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""立法院長"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,"韓跟黃有一個共通點
+
+大家猜猜是什麼？
+
+",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""韓"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黃"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yechnwywy,":黄色圆:國昌：:叉号:
+
+:白色圆:國昌：:叉号:
+
+:彩虹:國昌：:勾选框:",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KneeSmall89,不虧是黃「道德的長城、政治的完人、立院的戰神、法條的聖人、連連看的國師、竊占國土的違建、睡學生的導師」國昌,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""黃"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""道德的長城"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""政治的完人"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""立院的戰神"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""法條的聖人"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""連連看的國師"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""竊占國土的違建"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""睡學生的導師"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,"離家走路不到幾分鐘的地變身停車場那麼多年，他跟他媽都不知道
+
+[黃國昌昨天在直播中解釋，土地由母親租給鄰居使用，月租3萬元，他有誠實報稅，他和母親都不知道鄰居在這塊地做什麼。](
+
+",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""母親"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""鄰居"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""直播中"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""月租3萬元"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,昌粉會尷尬？是國昌老師在下大棋好嗎！,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""昌粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國昌老師"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+AKTEleven,現在還是昌粉的會care這些？,2024-01-28,Taiwanese,ja,"[
+      {
+        ""entity"": ""昌粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KneeSmall89,"這其實是杜瓦傑法則的運作，在總統、地方首長、大多數立委都以簡單多數決定的前提下，第三黨除非直接打趴兩大黨取代其中之一，不然不可能真的成氣候，因為大多數人不會願意一直浪費自己的選票。
+
+而且台灣內有泛藍既得利益體制，外有共匪大外宣洗腦，民進黨其實根基上依然是少數黨。只是泛藍勢力沒有真正的中心思想，所以很容易為了爭權奪利分裂。尤其是當今台灣主流民意反共，但後李登輝時代的國民黨卻舔共舔的越來越無恥，堅守抗中保台路線的民進黨才能進出中央。若從地方基層看，國民黨很明顯依然根深蒂固。
+
+從泛藍分裂出來的政黨，因為(還)沒有國民黨舔共賣台的前科，總會利用這點去騙淺綠的選票。但他們核心思想本來就跟國民黨沒有不同，所以玩到最後總會回歸票還是比較多的泛藍大餅。
+
+當然綠營也有自己的分裂，例如基進時力或被這次民眾黨吸去的淺綠。其中雖然也有能堅守初衷的人在，但泛綠票本來比較少，且民進黨基本盤又因其核心思想相對有凝聚力，所以功名心切、比較雙標無恥的人在淺綠票吸到瓶頸後，就會開始撇清不想當小綠，改成專挑民進黨罵，越來越露骨的蹭泛藍的票。
+
+事實上，支持抗中保台又對民進黨施政不滿，真的有心要發展不賣台的第三勢力的話，還不如直接加入民進黨然後另組派系。",2024-01-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""杜瓦傑法"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""總統"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""地方首長"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""立委"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""第三黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""泛藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共匪"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""李登輝"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中央"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""泛藍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""基進時力"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Individual-Papaya182,我實在是沒辦法認同這種連事情都還沒發生就下定論的言論。,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""事情"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,離黃國昌家走路幾分鐘、進城必經之路旁的畸零地變身停車場多年，他都說他完全不知情了；昌粉看到這張照片說什麼都沒看到也不會很奇怪吧？,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""城"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""畸零地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""停車場"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""昌粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""照片"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KneeSmall89,這其實不是出賣，他的理念就是不擇手段求官做,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+InternationalGrand83,韓國瑜不是民眾黨的，所以國昌老師沒有資格評論。,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""韓國瑜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民眾黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國昌老師"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AloneSurprise6387,"應該還是老話一句吧?""窩沒有立場""w(・´ｰ・｀)",2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""窩"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+millionbonus,"有沒有一種可能
+他其實活成了自己喜歡的人",2024-01-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+illusionmist,跟共產黨一樣拿「人民」招搖撞騙啊，到頭來所謂「人民」指的就是他們自己，人民共和國是黨的國、人民解放軍是黨的軍、人民專政就是黨執政，剩下的叫做賤民,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人民共和國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人民解放軍"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人民專政"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""賤民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+zoohoods,我只有一句，其實都是紅的。,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""紅"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Formosa_Shield,註冊了三年多，突然心血來潮?,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""註冊了三年多"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tough_Temperature_52,"少在那邊偷換概念，要不要先去看看他打藍打綠的手法有沒有一樣？有理有據當然支持，沒有證據只會連連看也活該被罵，整天說自己D槽很滿，所以我說那個料呢？
+
+評價黃還是周偉航說得最好「能毀滅黃國昌的只有黃國昌他自己」",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""黃"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""周偉航"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,[反批韓國瑜「權力中毒」　黃國昌：怎麼臉皮這麼厚？](,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""黃國昌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""韓國瑜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+zoohoods,好了啦！中國人，買中國疫苗就不是擋了，用核能先埋個坑埋來中國世界唯一聲明可收核廢料等著坑台灣人，買中國蛋一切都沒有問題。,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國疫苗"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""核能"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國蛋"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+flykakaya,"後面板子上寫答案了,這算洩題嗎?",2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""後面板子"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""答案"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ROC_TW_WinterWatcher,色違版邱毅New!!!,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""邱毅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Used_Cardiologist159,嗯，也許他本來就是噁心的人,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Snoo-23495,之後應該只有更噁心吧XD原來胯下之辱只是開始...,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""XD"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ornery_Blacksmith341,怎麼了罵黨就是中國人喔小粉綠的世界觀哈哈只要罵了黨就趕緊抓中國當救命草哈哈哈可笑,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AKTEleven,諷刺的是，他那天搞不好晚上回去睡蓋在國有地上的房子…,2024-01-29,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""國有地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zoohoods,"你邏輯有很嚴重的問題，我在回覆裏沒有提到黨的用詞。反倒是你心中有黨自我審查所以以己度人。
+
+說實在的你資料的這些貼文和回覆在我眼裡只是個呵呵呵
+但我感覺你自以為很厲害的樣子？",2024-01-28,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""心中"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Super-Medium-8231,"盜草人您好:)
+
+您的卡瑪怎麼是負的
+
+484一直在這裡當個反智者
+
+我看了你的言論
+
+塔綠斑塔綠斑叫的
+
+難怪卡瑪-100可憐
+
+不會論述又愛硬凹
+
+還真像柯CF",2024-01-29,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""盜草人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""卡瑪"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""484"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""塔綠斑"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""硬凹"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯CF"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ornery_Blacksmith341,你的邏輯才有問題我說台灣執政黨的問題你提什麼中國？所以我才硬把我在罵執政黨跟你說中國人做連結我是在幫你耶在你眼裡當然是呵呵呵啊你看不懂啊看得懂還會當塔綠班？,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣執政黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+zoohoods,因為世界上沒有塔綠班這種紅藍白刻意創造性名詞，只有中國人在講對我而言你在那邊塔綠班只會讓我覺得很幼稚。,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""塔綠班"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ornery_Blacksmith341,全台灣一堆人在叫塔綠班你可以多出去跟人說說話還是不支持民進黨的就不是台灣人？,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""塔綠班"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民進黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tough_Temperature_52,沒錯，不是只有中共國人會講塔綠班，台灣也有白痴會用這個詞，你說得太對了:拇指向上:,2024-01-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""塔綠班"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""白痴"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Lazy_Revenue516,现在知道谁是台湾的大英雄了吧:大笑:,2024-01-13,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Beehometown,請崩潰中的柯粉去找一下真正害了阿伯的人（馬英九）好嗎？不要再吵什麼作票陰謀論了。（我真壞心）,2024-01-13,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""馬英九"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+meowshan,馬英九我的台獨超人:致敬:,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""馬英九"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""台獨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+frankchen1111,拜託死亡之握對習近平發功,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""習近平"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SloaneSuch,"哈，暗黑台獨教父
+
+我想到他要跟小鳥握手那張梗圖",2024-01-14,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""暗黑台獨教父"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""小鳥"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hoshino_sora,"不愧是台灣的國父馬英九，讚讚。
+
+每次都可以讓有腦的台灣人意識到危機。
+
+是說，侯友宜的手壓在朱立倫上面所以才傷得比較輕是嗎。",2024-01-14,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""馬英九"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""侯友宜"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""朱立倫"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AnyBreakfast1942,拜託馬大神也去握握我們家選區的中指薇:忍住泪水::忍住泪水::忍住泪水::忍住泪水:,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""馬大神"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我們家選區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SkywalkerTC,就一直說馬英九統派，沒人信啊...現在呢...？,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""馬英九"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,那隻小手手圈過習那根，你不會想握它,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""那隻小手手"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""習那根"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+highlowflyer,万岁就万岁呗，我希望中华民国能回来，回得来吗,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""中华民国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+UpstairsAd5526,原來是我們不懂臥底的心酸啊！,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""我們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臥底"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Middle_Interview3250,"有啊習總加速師就是因為握過馬，才會提拔誰誰倒，出政策沒一個成功，拼經濟拼到跟國際脫鉤。
+
+我們都錯怪馬了，他才是台灣人的希望啊",2024-01-14,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""習總加速師"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""馬"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""誰誰"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政策"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""經濟"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國際"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Imaginary_Ad_8422,他們不是早在新加坡就握手了嗎,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""新加坡"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Borobo0729,中國多少人呀，中華民國臺灣多少人？一直以來這片土地上有多少驚濤駭浪，有空可以去看看。中國人呢？實際上掌握中國的有多少人，只能說中國覺醒還是得靠自己。臺灣可以讓你們看很多次，做很多次，至於要複製貼上，還是怎樣。得靠自己努力。,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臺灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hoshino_sora,中華民國當年就是爛才被踢出中國，最好別撿回去，要馬直接再立一個新的。,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+highlowflyer,我作为在大陆出生的人说一句实在的，台湾人真的先管好自己吧。中共打下之后你们就等着被社会主义改造100年吧。,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""社会主义"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Peter-Tao,這樣還不夠啊，都加速這麼多年了哈哈,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""這樣"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""加速"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Borobo0729,哈！誰在管誰？講了多少年了？我爺爺奶奶都走了？他們都是很和藹可親，在台灣這塊土地上最後也在這裡離開的人。只有像你這樣的人天天喊打喊殺。快來吧，希望你爺爺奶奶還在，叫他們快打過來。看要滅中華民國還是怎樣？真不知道腦長在哪裡？還要等100年嗎？就外面國際看來，只是一個一直想要吞一個小島的泱泱大國。喊不累嗎？還出生大陸，思想只是想殺人，請問台灣人殺了你家人嗎？,2024-01-26,Taiwanese,zh,"[
+      {
+        ""entity"": ""爺爺奶奶"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大陸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Imaginary_Ad_8422,加速害死的是中國人，不是中國主席,2024-01-14,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國主席"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+highlowflyer,我有不是台湾人…你们自己过好就行…我并不热衷于统一。你们别叫大陆给统了就行了。,2024-01-27,Taiwanese,zh,"[
+      {
+        ""entity"": ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大陆"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Borobo0729,可以的話，抽空親自到台灣了解一下，哪一個台灣人天天要殺去中國的？哪一個台灣人沒有替中國人著想過的。我們不喜歡的是共產黨與國民黨的洗腦，將人民改成他們要的思想。因此身在臺灣的多數人民投下那票來決定自己的想法。中華民國臺灣年紀雖不大，僅僅114年，前2-3代都歷經那專制與戰爭時期。既然都出牆了，相信也能看了不少。我只知道愛在這片土地上的人，肯定有會站在這裡守護的。過去就是如此，未來亦是如此。除非地球先收了我們。回覆一開始的主題，我們台灣只能做給中國人看，中國人覺醒不覺醒還是得靠自己，共產黨能有多少人？我也有不少中國網友也曾共事過，說白了，誰不為自己與家人打拼的。共產主義與自由民主思想只能擇一，我自己認為是很難和平合作。畢竟身處在共產主義的人們也會看到民主社會的處置。這樣身為共產主義的領導人，更難去治理，越開放越合作，僅不過將自己陷入危機？因此再製造對立與衝突的是誰？,2024-01-27,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中華民國臺灣"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""114年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產主義"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自由民主思想"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+NiceDEEEER,小粉紅為什麼要跑去日本，忘記南京大屠殺了嗎？,2024-02-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""小粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""南京大屠殺"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sirrion31,"這愛國超不值錢的XD
+
+過去愛國都背炸藥去炸什麼東西或者當街行刺
+
+現在塗OX就可以了，還有臉拍照記錄XDD",2024-02-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""過去"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""愛國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""炸藥"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""街行刺"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""現在"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""塗OX"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臉拍照"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Spiritual_Bat6625,精神年齡大概是6到7歲。,2024-02-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""精神年齡"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6到7歲"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Natural_Emotion_2648,小粉紅到處丟臉，然後轉頭問同胞，「為什麼別國都歧視我們！！！」,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""小粉紅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""同胞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Overflow_is_the_best,"這挺好啊可以請求賠償
+
+",2024-02-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""這"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""可以請求賠償"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,這種行為反效果比較大,2024-02-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""這種行為"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FUCK_CCPIG,吃辣人沒有一個是無辜的,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""吃辣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+reactortw,中國人真是人類的癌細胞,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tall-Caregiver-4175,"這種行爲若是出自中国人之手就合理多了，我倒想不到有哪些文明國家的人會這樣～沒關係，就讓他們在日本撒野，持續展現舉世早已皆知的本性。
+
+說自己是戰狼、狼性…我怎麼看都像猴子、鬧事的猴孫輩。",2024-02-25,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""文明國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Spare_Lavishness_862,"無敵幼稚的行為
+沒一個是有腦的",2024-02-25,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""無敵"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""行為"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ran_suki,可是台灣有32.9%+2.4%的人自我認知是C國人,2024-02-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""32.9%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""+2.4%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""C國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Log-8636,真可憐就是因為中國人幸福度不足才會做出這種缺愛的行為你看北歐國家誰跟中國人一樣在那邊搞仇恨,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""北歐國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cool_Fuzzy,是時候保守皇派要屠屠共產砸碎了,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""皇派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Beginning_Storage683,向井敏明，野田毅，你们热血的组合技快回来吧:放声大哭:,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""向井敏明"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""野田毅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fancy_Event_3711,你也跟著干啊，不能吃這種虧啊,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""這種虧"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WaiLiThePooh,這就是中共人的愛国。,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+james426600,在人家的看板上亂塗鴉真有你的厲害了,2024-02-27,Taiwanese,zh,"[
+      {
+        ""entity"": ""人家"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""看板"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+NiceDEEEER,然後回到牆內發表外國人特別歧視中國人的言論XD,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""牆內"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Eric_Smirnov,強國人很多都不賠，拒絕賠償的吧？,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""強國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Western-Designer-397,你要笑死我？你不就是中国人，你本质根源上不是？真是笑死我,2024-02-26,Taiwanese,zh,"[
+      {
+        ""entity"": ""中国人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Illustrious-Fee-3559,那32.9%裡面很大一部分還是認中華民國啦，就算你覺得他們是在做夢,2024-02-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""中華民國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Log-8636,其實只有2.4%是真正的「中國」其他9成多的中國/台灣都不是那個中國我的解讀是這樣,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+oppenheimer_man,然后唤醒了奥本海默，李梅烧烤双子星:斜眼笑:,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""奥本海默"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""李梅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""双子星"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+peterchen3301,不要這樣。這只是白癡小粉紅的所為，只能說人多必有敗類，但是你拿南京大屠殺這種中國人民的傷痛來反擊，這樣是不道德的。,2024-02-28,Taiwanese,zh,"[
+      {
+        ""entity"": ""南京大屠殺"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國人民"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AltruisticLeek728,至少不要32.9%也變敵人就好,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""32.9%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Formosa_Shield,中華民國不是中國嗎？,2024-02-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""中華民國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Beginning_Storage683,你是说李梅汉口烧鸡么，那确实需要多唤醒:眨眼:,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""李梅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""汉口"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ballball32123,ROC中國沒錯啊。32.9%某種程度比2.4%還好笑，雙重思想。,2024-02-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""ROC"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""32.9%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2.4%"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Illustrious-Fee-3559,很明顯除了那30幾趴的台灣人以外，世界上幾乎沒有人認為它是,2024-03-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CSI_Taipei,61.7%如果覺得不好笑，就去廢除中華民國憲法好了，笑你不敢\^\^,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""中華民國憲法"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ballball32123,那你不要出國好惹，免簽是給台灣護照，不是中華民國，乖喔。,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中華民國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ballball32123,小草知道61.7%不能修憲嗎？公民課要上課不要滑抖音喔，乖。,2024-02-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""小草"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""61.7%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""公民課"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""抖音"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CSI_Taipei,是中華民國台灣護照，乖喔。,2024-03-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""中華民國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CSI_Taipei,小綠知道不能修憲，還可以革命嗎？喊革命不要只會反服貿的時候喊喔，乖，喔不，是革命壞壞。,2024-03-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""小綠"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""修憲"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""革命"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""反服貿"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ballball32123,還在騙自己，看不懂英文代號。,2024-03-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""還在騙自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""英文代號"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cool_Fuzzy,"建議調查局對該車車主做調查
+
+是否有受中共統戰組織資助
+
+在台做統戰活動",2023-12-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""建議調查局"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中共統戰組織"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+whatis90s,車主不意外，邱毅到賴老家鬧場時就有該組織的影子，詳細請看片頭左邊的黑衣男：,2023-12-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""邱毅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""賴老家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""該組織"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""片頭左邊"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黑衣男"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BravoBlackBanana,"統派跟投降派更支持柯文哲阿
+
+邱毅蔡正元侯漢廷這種紅到KMT被打壓的都跑去支持柯",2023-12-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""邱毅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""蔡正元"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""侯漢廷"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""KMT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+cozibelieve,柯p真的走投無路⋯投機原則怎麼帶領國家？尤其要對付沒底線的中共,2023-12-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯p"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Pinkscrewer,一开战这些人先抓国安部肯定有名单,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""国安部"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AloneSurprise6387,"之前在fb看到有人貼這張，結果卡恆春的也是同一台嗎？www(´-﹏-\`；)
+
+",2023-12-25,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""卡恆春"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fb"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Independent_Bid6568,還真以為當過台北市長什麼阿貓阿狗都能選總統呢,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""台北市"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""總統"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,我就想說這台車很眼熟，解果還真是哪天洋大人po的那台,2023-12-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""哪天洋大人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lonely-Variation6940,紅統宣傳車來支持柯文哲，很正常啦。,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""紅統宣傳車"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+wkliang,"HatePolitics\[討論\]卡城門的柯文哲宣傳車是全民拔菜總部的
+[",2023-12-25,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""卡城門"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""全民拔菜總部"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Extra_Specific_3943,我现在越看他越像高木正雄朴正熙卡卡,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""高木正雄"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""朴正熙"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""卡卡"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Unfair_Sundae_882,这很明显就是租车行的车，谁都可以用，台湾人太搞笑了。,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""租车行"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Peter-Tao,這對聯對得還可以啊，挺順口的。有笑果哈哈哈哈,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""這對聯"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""笑果"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Cream_panzer,投降，义勇军。汉语在台湾演化出这样的组合我还是有点点震惊的。勇敢投降，又让我想到了汪精卫……,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""义勇军"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""汉语"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台湾"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""汪精卫"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WaiLiThePooh,"柯文哲投降国民党,国民党投降共產党,共產党侵略台灣。",2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""国民党"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共產党"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+whatis90s,不用抹紅，車主自己招了,2023-12-24,Taiwanese,zh,"[
+      {
+        ""entity"": ""車主"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+No-Inside-4705,">統派跟投降派更支持柯文哲阿
+
+大約半年前還有柯粉在本sub說投柯是為了強化台灣實力。不知道這些人醒了沒有？",2023-12-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+montagewu,他真的沒有要帶領國家，一來沒能力，主要早已跪。,2023-12-25,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Witty_Suggestion_417,"
+
+去照鏡子看臉腫不腫？:得意:",2023-12-25,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""照鏡子"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臉腫"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""得意"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+YaFa0608,"不會醒的啦~~~
+現在剩餘的柯粉，基本已經是萃取到結晶化了。",2023-12-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯粉"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BravoBlackBanana,"會幫柯文哲護航的本來就是一群沒良心的狗畜牲了
+
+這些人前一秒在跟你吵柯文哲注重國防再強化台灣實力
+
+後一秒就轉頭過去跟統派說支持柯文哲才能和平統一不會有戰爭
+
+像昨天那個吳大公主說辦桌都喝johnniewalker被取笑
+
+這群狗畜牲柯粉就說吳大公主意思是walker走路要向前行目的在團結台灣並不是指喝單一品牌威士忌
+
+連被吳大公主打臉堅持說他從小就喝約翰走路這品牌這群畜生柯粉還是在護航公主沒失言",2023-12-24,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""昨天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""吳大公主"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""johnniewalker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""約翰走路"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Witty_Suggestion_417,"台灣人的痛風—柯文哲。
+
+尿酸結晶柯粉。",2023-12-25,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""柯文哲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OkMeat9008,有什么好奇怪的，费拉左派本质反美,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""费拉左派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""美"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PruneFun1920,同志在巴勒斯坦是要被打壓的，能舉這種牌子代表他在一個文明安全的國度，可以盡情展露他的無知愚蠢又不用負任何責任,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""文明安全的國度"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Diskence209,問題是同志們在巴好像都是違法吧？啥情況？熱臉貼冷屁股？,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Typical_Toe_1705,人生太順遂了，找點挑戰增加困難度,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""人生"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""黃振隆"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SkywalkerTC,就原本就挺巴勒斯坦那派的同志站出來，消費同志的名義去挺吧。感覺只是對同志滿滿的不尊重。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Mysterious_Silver_27,"
+
+來看更勁爆的「猶太人挺巴勒斯坦」",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hogu134,大概就像公雞挺KFC、和牛挺王品牛排那樣,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""KFC"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""王品牛排"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Navy_HongyiJ,这和支持共产主义的LGBTQWERXYZ一样,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""LGBTQWERXYZ"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共产主义"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+nona_ssv,"看一下巴勒斯坦政客和他們在巴勒斯坦的subreddit上對台灣的評論。他們都討厭台灣，也討厭台灣的LGBT社群。
+
+如果你想支持巴勒斯坦人，你應該呼籲哈馬斯歸還所有200名以色列人質並向以色列投降。記住，哈馬斯是巴勒斯坦的一個實際政府，他們有責任代表加沙地帶的人民。",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""巴勒斯坦政客"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""LGBT社群"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""哈馬斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""加沙地帶"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+weirdfox_au,"GaysforGaza,QueersforPalestine,ChickensforKFC
+
+",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""GaysforGaza"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""QueersforPalestine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ChickensforKFC"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tsj_taiwan,真的有必要把那些小彩虹送去巴勒斯坦一下欸,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AloneSurprise6387,偶覺得本來就沒有的東西，自然沒辦法了解ww(´∀｀),2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""偶"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""本來"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Due_Land_588,就生物多樣性啊。有些個體有傾向毀滅自己。這在“性玩法”裡特別明顯。但只有傻子才會把他帶到生活中。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""個體"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""性玩法"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""傻子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nonsensiblejerking,跟大陸的粉紅lgbtq+一樣，是腦袋空空的蠢材。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""大陸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lgbtq+"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+freedom2023,不知道有沒有圈內人可以協助理解其邏輯？,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""圈內人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"超好笑
+
+上一任伊朗的總理還說過他們國家絕對不可能有同志的存在",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""伊朗"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""總理"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VeterinarianLow5202,"巴勒斯坦反對同性戀，好比說如果你討厭的人聲援你。我個人認為有諷刺的意味
+
+不過在台灣上街頭大概就是政治目的吧?",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""同性戀"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xiaoyangzhouyd,遇到这种我就建议把他们送到巴勒斯坦体验一下生活。既然支持，那就要有实际行动。他们走了以后，可以把这些名额留给巴勒斯坦向往自由的lgbt,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lgbt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dragonsakura94,"我是同志，反正我理解不了
+
+",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BoogieMan80s,"她憑什麼代表所有同志?
+更何況她還是queer,notgayorlesbian
+未免太膨脹自己了吧?",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""她"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""queer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gay"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lesbian"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Reborn99013,台灣也有啊，KMT底下的護家盟跟支持KMT的同性戀者，我真的蠻好奇他們不會感覺衝突嗎:想一想:,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""KMT"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""護家盟"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""支持KMT的同性戀者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+vergil0506,為了挺而挺到底為什麼要支持恐怖份子,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""為了挺而挺"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""恐怖份子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Any_Strike7777,我覺得很像館長說他是台灣英雄很像，以個人行為綁架群體。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""館長"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+greatgordon,跟藍甲存在的邏輯一樣ㄅ,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""藍甲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jcam853,最愚蠢的就是這種人，挺巴勒斯坦就挺巴勒斯坦，偏偏要“代表”同志來挺，真的不是要那麼自以為是欸,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kylat930326,這次真的能看到一堆精神錯亂的左派,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""左派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Aj_of_the_east,類似「我不同意你的觀點，但我誓死捍衛你表達的權利」或「被壓迫者為另一種被壓迫者發聲（殊不知農夫與蛇的故事）」的邏輯,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""觀點"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""被壓迫者"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""農夫"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""蛇"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Faliyoskapalin,我作為友彩虹右翼可以說以色列是中東最同志友善和性開放和女性地位最高的國家了⋯⋯我很清楚我的利益何在,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""友彩虹右翼"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""中東"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志友善"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""性開放"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""女性地位"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+mitdaz,怕支持哈瑪斯行徑被轟，所以拉“同志”擋砲火,2023-11-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Big-Video-9503,可能是覺得支持阿拉伯地區，他們就會支持同性戀。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""阿拉伯地區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同性戀"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+General_Interview988,大概就類似中國在吵虐貓,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""虐貓"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dense_Suspect864,因为在美国，没脑子的才会去游街举牌子。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""美国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cool_Fuzzy,這些人智商真的很難解釋,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""這些人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sun9happyhappy,"我覺得那些挺\[巴勒斯坦\]的人很奇怪,就是明明是\[巴勒斯坦\]先攻擊\[以色列\]然後那些人就好像\[巴勒斯坦\]就是被欺負的人,我覺得他們要搞清楚到底哪一個才是真正被欺負的人。",2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Belphegor-7727,他們的邏輯是主流支持什麼就反對,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""主流"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+chenchen1984,以彩虹的名义支持哈马斯.....,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""彩虹"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""哈马斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sharp_Television_697,哈哈也许是不懂乱站队的吧,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈哈"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mysterious-Camel5205,這群人是聖母病發作是嗎？非要被神學士愛的鞭撻才高興？,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""這群人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""聖母"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""神學士"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Miserable-Tax8582,"這些人到回教國家會被砍頭
+要左可以但別只出張嘴",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""這些人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""回教國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Voriox000,就跟台灣人支持共產黨差不多，不理解，但存在,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DegenGF,"1.無腦
+2.無知
+3.both",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""1"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""無腦"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""2"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""無知"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""3"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Actual-Jaguar5668,白天不懂夜的黑，夏蟲不可語冰，自由左膠不見保守右勾拳。在堵死自身活路、咒罵他人心中沒有公平正義之後，在其安息當下，既成紛亂亦將塵歸塵、土歸土，自此無憂無慮、世界和平。,2023-11-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""白天"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""夜"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""夏蟲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""冰"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自由左膠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""保守右勾拳"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""堵死自身活路"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""咒罵他人心中沒有公平正義"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""安息"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""紛亂"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""塵歸塵"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""土歸土"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""無憂無慮"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""世界和平"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Imaginary_Ad_8422,因為左派不講道理，不講正義，只信奉「我弱我有理，你強你該死」,2023-11-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""左派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AdvertisingAntique31,巴勒斯坦沒問題，但是他們不想跟這些極端集團分割，造就就是現在的情況。,2023-11-04,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""極端集團"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""現在"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Equivalent-Recover88,不是不能高舉那牌子，但請去巴勒斯坦舉，看看人們會怎麼對待自己,2023-11-04,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Acceptable_Dig_1824,巴勒斯坦不等於哈馬斯啊。猶太人反對以色列或者說反對猶太復國主義由來已久，當然這也並不是說反對以色列政府就是支持哈馬斯的恐怖襲擊。嘲諷二極管之前，自己也多做點功課吧。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈馬斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太復國主義"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列政府"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈馬斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+iknet,说实话我觉得被主流打压得更多的人可能会成长得更看不得苦痛的（也可能不，我不确定），所以会更容易无差别发善心，觉得这是自己存在的意义。这个世界没有这种声音不行，全是这种声音也一定会出大事。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""主流"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""苦痛"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+viperabyss,"巴勒斯坦的居民有被以色列打壓，就像同志在歷史上被打壓可能有類似處。
+
+但巴勒斯坦和以色列的情況比同志被打壓還要複雜太多了。",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Muel_Muel2518,類似有色人種支持川普,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""川普"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tall-Caregiver-4175,首先我不知道性向跟這有什麼關係⋯⋯很多事情我們都習慣依自己的刻版印象左右化、二元化、黑白化，思考越來越單一。這跟同志都不親中一樣毫無邏輯。,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""首先"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""性向"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""很多事情"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""刻版印象"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""二元化"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""黑白化"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""思考"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""親中"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""邏輯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+-Constantinet-,要求平等啊，巴勒斯坦没有得到平等。建国不被以色列:以色列:承认，建房屋需要以色列批准，生活基础设施水，电，网络被以色列控制。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Helpful-Gur9834,挺巴很正常，但挺哈不正常，哈瑪斯是恐怖組織，巴勒斯坦是一個被迫害的非正常國家,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+YourDaddie,以色列搞“留岛不留人”，被谴责正常，无论被谁。,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""留岛不留人"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+skywriter_123,我參加同遊的時候也覺得問號，不過各位也別上綱說台灣所有同志和性少數都支持哈瑪斯,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Helpful-Gur9834,不要把哈瑪斯跟巴勒斯坦人同等化，對穆斯林的偏見會讓你的視野被蒙蔽,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""穆斯林"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SnooPineapples7263,全世界的正常人都支持巴勒斯坦，台支收收味,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""台支"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Navy_HongyiJ,Doublementalillness,2023-11-01,Taiwanese,en,"[
+      {
+        ""entity"": ""Doublementalillness"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KuzuDud,有時候我真的覺得舉牌的人要把上面的任何\[種族\]、\[地區\]、\[自我認同\]之類的通通改成\[我\]，沒事幹嘛代表整個族群的意見,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""舉牌的人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""種族"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""地區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""自我認同"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""族群"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sigtw,邏輯類似於孔子後代力挺毛澤東砸孔廟，同志力挺穆斯林殺光同性戀,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""孔子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""毛澤東"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""孔廟"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""穆斯林"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同性戀"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+tacchang,沒有的東西就別花力氣去尋找,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""沒有的東西"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+T41W4N_N1BB4,CowsforWedy’s,2023-11-02,Taiwanese,de,"[
+      {
+        ""entity"": ""CowsforWedy's"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Everythinggotaprice,"就好似支持中國人推翻共產黨咁
+眾所周知
+中國人民大多只係在野既共產黨員
+你唔係覺得共產黨倒臺
+中國就會民主自由吧？",2023-11-03,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""中國人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""共產黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主自由"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+NightWarJET,真的假的，這次的遊行也有喔:翻白眼:,2023-11-04,Taiwanese,zh,"[
+      {
+        ""entity"": ""遊行"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Beginning-Sea484,可能覺得挺哈瑪斯很潮，所以跟風？,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Roommate__Killer,这个可以理解，美国犹太人反Zionist不要太多，反正就是和以色列对着干，类似于离岸反贼,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""美国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""犹太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zionist"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""离岸反贼"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,哈佛大學猶太人解放陣線了解一下,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈佛大學"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人解放陣線"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MistyNebulae,这个完全不意外，因为从复国运动开始就有反锡安主义犹太人，这些人是非常坚实反以色列的群体。参考哈西迪犹太教。,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""复国运动"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""反锡安主义犹太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""哈西迪犹太教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+freedom2023,哈雷迪猶太教是一群不繳稅、不當兵的一群寄生蟲，我認真不認為他們的聲音有任何意義。,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈雷迪猶太教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+garychen2048,">猶太人挺巴勒斯坦
+
+在戰前猶太人挺巴勒斯坦還是有點道理的
+
+他們的主張是兩方和談、巴勒斯坦獨立建國，這樣就消除以巴長期衝突的主因
+
+另外長期武裝衝突還會助長以色列極右派和巴勒斯坦恐怖份子的勢力
+
+就有點像中共動不動就拿日本和台灣來激起粉紅的民族主義情緒一樣
+
+不過哈瑪斯開始屠殺平民後講這個就太遲了",2023-11-03,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""戰前"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以巴"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""極右派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦恐怖份子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""中共"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""日本"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+freedom2023,哈哈，是母雞拉，公雞除了種雞，其他一出生就被幹掉了。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""母雞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""公雞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+freedom2023,"這邏輯思維很難嗎？以色列是中東世界唯一同志合法的國家，然後「同志」支持哈瑪斯？
+歐美的白左就算了，台灣同志不懂這個因果關係嗎？",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""中東"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""歐美"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Peter-Tao,"在我看來就是藉機宣傳自己而已。這本來也不是不好，就像美國印度亞裔雖然文化搭不上邊，但很多利益都綁在一起所以願意互相支持也不是壞事，但像這樣兩個這麼不同的東西，綁在一起就只是證明自己完全連動腦的嘗試都沒有過，人家自由派送什麼ㄆㄨㄣˉ給你就吸哩呼嚕的跟他吞下去，我看他們自由派媒體就是propagandamachine一波主題推完接另一波主題的推，大概洗成這種組合連他們自己都沒想到。就像我一前照顧失智老人家被行銷員一口氣推了七八隻手機，行銷員是要賺業績，你就是可憐被當盤子端了都還不自覺。
+
+這種人我反而不覺得可惡，就是可憐。像我有家人一去紐約生活幾年，回來整個政治思想都白左化，證明他們這些左媒就是在這種很有良心但是涉世未深的年輕人上做發財生意。很悲哀也很糟糕。
+
+其實最近幾年美國自由派很明顯就是屢屢有被自己propaganda玩到旗鼓難下的時刻，像川普16年上去，就是左派自己造出來的怪獸（當然共和黨也真夠廢，給他們四年時間準備最後還是要回去跪川爹），或是這次事件左派媒體之前洗得太好，所以搞得自己主子都看不下去還是停不下來，因為變調了他們的小綿羊就會恐慌，一恐慌就可能沒生意做，要知道小綿羊的特性是這樣的，好騙，但一醒後反彈也會更大，因為自己一片赤誠熱心發現被利用了，自然不爽。這在宗教組織信仰上也很常見，所以為什麼說左膠是個宗教真的不為過。只可惜這宗教還都只學壞的，好的倒是都不怎麼學。
+
+所以你看下面人民搞什麼看不懂時，只要找出錢的脈絡基本上就找得出荒唐的原因所在。因為其實不是荒唐，就是被人當忠實顧客重複消費賣了一堆用不到的產品還互相打架（就好比遠視眼鏡前面再掛一副近視眼鏡）都沒自覺。供給大於需求時就得先創造問題，再解決問題。但以我來看，當果奴還比當左奴或川奴甚至柯奴都還好一些。人家至少還真的跟你賣產品，不是賣你的意識形態賣到你還要自己另外去找產品買來穿戴，戴了出去看起來像個AIgenerated創作一樣，牛頭不對馬嘴。以為自己很忠誠，實則不是被當笑話就是被當盤子，其實真的是蠻可憐的我覺得。",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""印度"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""美國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""川普"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""左派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""共和黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""左派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""左派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""左派"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""左膠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""左膠"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""果奴"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""左奴"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""川奴"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""柯奴"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Capable_Coconut_6226,我能理解支持被壓迫的巴勒斯坦人，我亦認為支持巴勒斯坦不等於支持哈瑪斯。他們可能只是認為同樣都被壓迫，所以要支持吧,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Lovecountrypp,怎么可能有政治讽刺的意味啊:哭:,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""政治"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Intrepid-Pop4495,你說白甲我沒話說，但藍甲…有點難以想像啊,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""白甲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍甲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+shilloya,可是巴勒斯坦人才是真的殖民者阿,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""殖民者"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+fight123,但這次約旦河西岸的法塔赫還活得好好的啊，所以只是跟流行出來抗議嗎,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""約旦河西岸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""法塔赫"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""抗議"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,以色列只是要把他們趕到他們歷史上的祖國，就像台灣人想把外省人趕回大陸去一樣,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""外省人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大陸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,川普好像沒怎麼歧視吧？,2023-11-02,Taiwanese,ja,"[
+      {
+        ""entity"": ""川普"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+s1refugee,"""鷄支持肯德基""不覺得諷刺嗎?",2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""鷄"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""肯德基"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JACK_2040,其實以色列承認但他們說要國要建在以色列,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Deleted,"非屬事實，原本說要各建兩國，以色列同意，但隔天另一方就開始殺Jews了。生活基礎水有的沒的，老實說,長久下來一直攻擊以色列，以色列還給電給水這我覺得已經很不可思議了",2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jews"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RecommendationOk5288,"總覺得你的認知跟我所理解的歷史有很大差異。
+
+首先以色列並沒有阻止過巴勒斯坦建國，並且在2012年巴勒斯坦就已加入聯合國的觀察國了。
+
+至於加沙地區這塊土地是1967年埃及出兵以色列反被打爆，作為戰敗國割讓給以色列的土地，一直到了1994年以色列又決定將加沙地區贈與給巴勒斯坦。
+
+畢竟這片土地有30年左右的時間都是屬於以色列的領土，上面的基礎設施自然也都是以色列建的。水、電、網路在贈與給巴勒斯坦後甚至還是由以色列免費提供給巴勒斯坦人使用的。
+
+所以我不太明白以色列到底哪裡對不起巴勒斯坦了，所謂的巴被以侵占土地完全就是顛倒黑白的說法。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2012年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1967年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""埃及"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1994年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,把食物拿去釀造成炸藥、把燃料拿去製造火箭彈的弱勢群體,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""食物"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""炸藥"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""燃料"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""火箭彈"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""弱勢群體"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+freedom2023,哈馬斯是2006年加薩自己選出來的政府，10/7號你有看到任何巴勒斯坦人出來譴責說哈馬斯是恐怖份子嗎？,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""哈馬斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2006年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""加薩"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10/7"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈馬斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""恐怖份子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Typical_Toe_1705,正常人都支持幹翻哈瑪斯，願巴勒斯坦早日脫離苦海,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""幹翻哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+freedom2023,覺得自己是正常人的最不正常，正統支人可以移民加薩喔。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""加薩"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Beginning-Sea484,他可以代表他自己，但他不能代表所有的同志，我支持他表達言論的自由，但我不認同他的主張，如果我周遭出現這類人，我會盡可能遠離他。,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""我"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""言論的自由"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""主張"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""周遭"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Peter-Tao,你們反賊是拿自己的生命去換，他們反賊是拿別人的生命去換。可以理解，不能同情。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""你們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""反賊"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""自己"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生命"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""別人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dietrich_sa,躲在美国反以色列，反正以色列没了也不干他美国的家啥事，典中典了,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""美国"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+yechnwywy,這代表他們不認同以色列嗎？他們有被以色列迫害過嗎？,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Imaginary_Ad_8422,反正假如以色列亡國了，看巴勒斯坦會不會繼續給他們發生活費。反正他們除了研究經文，什麼養活自己的能力都沒有。,2023-11-03,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BALKINCHEN,因為他們人數眾多，這就是民主製度的另一面,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""他們"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""民主製度"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AloneSurprise6387,"所以偶才會認為會去支持的這些咖,已經沒有""邏輯,因果概念""可言....(´・ω・\`)",2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""偶"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""邏輯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Peter-Tao,白左就是潮，你追的是邏輯，他追的是流行,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""白左"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""邏輯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""流行"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MagnesiumStearate,"哈瑪斯!=巴勒斯坦人
+
+同樣邏輯，你挺以色列就代表你挺種族屠殺、挺集中營？",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""種族屠殺"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""集中營"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,請問白甲藍甲什麼意思,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""白甲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""藍甲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Aj_of_the_east,這個論點半個認同，就是「thislandismine」的邏輯,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""thislandismine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+viperabyss,巴勒斯坦人的祖國就是巴勒斯坦(MandatoryPalestine)啊。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""MandatoryPalestine"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+viperabyss,"問題是大多外省人1949才來到台灣，距今也才74年（大約兩代）。
+
+巴勒斯坦人大概公元6世紀就移到了今天的以色列/巴勒斯坦地區。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""外省人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1949"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""台灣"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""74年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""公元6世紀"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列/巴勒斯坦地區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Downtown-Catch2120,你sub真的完蛋了，以色列對他們成千上萬的massacre相比之下巴勒斯坦完全算是弱勢群體吧？正如同父權之下所有的queer處境一樣。,2023-11-10,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Helpful-Gur9834,巴勒斯坦的合法代表是巴勒斯坦解放組織，簡稱法塔赫，不是哈瑪斯，哈瑪斯掌控加薩是2014巴勒斯坦內戰，而且巴勒斯坦不是只有一個加薩，還有一個約旦河西岸請你先了解什麼是巴勒斯坦，而不是把一個加薩當作整個巴勒斯坦，況且，就算哈瑪斯佔領著加薩，其中仍有9成的加薩人，跟哈瑪斯無關，以巴的混亂，沒有很明確的對錯，兩邊都在對平民下手，要有一個統一的標準，那就是但凡迫害平民，皆不容接受，而不是去針對平民,2023-11-04,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦解放組織"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""法塔赫"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""加薩"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2014"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""約旦河西岸"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Beginning-Sea484,"他看板如果寫的是：我支持同性、巴勒斯坦。
+
+我還不會笑他，但他ㄧ個板子就把同志都列進去了，如果他不是反串去鬧場的，就是腦子沒搞清楚。",2023-11-03,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""他"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同性"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""同志"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Roommate__Killer,迫害谈不上，不过以色列的摩萨德是一直挺活跃的，你要是老公开反对以色列就会被找喝茶，尤其是公众人物,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""摩萨德"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""公众人物"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Double-Equivalent379,"雖然哈瑪斯!=巴勒斯坦人
+但是反同立場其實是一致的",2023-11-01,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""反同"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+freedom2023,你沒有邏輯，隨便打幾個字不要說你有邏輯。,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""你"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""幾個字"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Witty_Suggestion_417,"ㄜ⋯純粹覺得你少打個字：「不」挺以色列就代表挺種族屠殺、挺集中營。
+
+應該這才是你想表達的意思。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""種族屠殺"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""集中營"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ashamed-Lengthiness4,"【藍】【甲】意指支持【國民黨】的【gay】。百靈果訪賈培德那期談到了其中的歷史脈絡。
+出身草根的民進黨過去帶有較多傳統父權色彩，對性少數觀感負面。例如王世堅以前曾發表反同言論，在媒體上中傷性少數，後來才又態度大轉彎。相較之下彼時國民黨還帶有一些士大夫讀書人的架子，儒雅、追求進步，反而對性少數更親善。第一屆臺灣同志大遊行是在馬英九任臺北市長時用公務預算資助主辦的。
+刻板印象上，由於特定的時空背景和相關政策，較為年長、出身外省家庭的男同志可能更傾向於支持國民黨。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""國民黨"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""gay"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""百靈果"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""賈培德"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""王世堅"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""馬英九"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""臺北市"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""第一屆臺灣同志大遊行"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,我覺得巴勒斯坦人是侵略失敗又不死心常常搞事的魯蛇侵略者,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""魯蛇侵略者"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+shilloya,巴勒斯坦是羅馬人給以色列取得名字，巴勒斯坦人是羅馬人給猶太人取得名字，而現在自稱巴勒斯坦人的傢伙都是從阿拉伯來的遊牧民族，現在的巴勒斯坦人之於以色列就如同外省人之於本省人一樣,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""羅馬人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""阿拉伯"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,順便說一下，巴勒斯坦人拒絕建國他們唯一的目的就是殺光猶太人這個可是寫在各個巴勒斯坦組織的黨綱上的,2023-11-01,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+freedom2023,"讀書啊。
+
+公元135年，羅馬帝國在鎮壓猶太人起義後，將猶太省的名字改為「巴勒斯坦」，來消除對猶太人的記憶。當時耶路撒冷也被改名為「愛利亞加比多連」，猶太人禁止進入這座城市，並自此流散於世界各地。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""羅馬帝國"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太省"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""耶路撒冷"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""愛利亞加比多連"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""世界各地"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,按照鄂圖曼土耳其的人口統計數據當地並沒有巴勒斯坦人，你的自古以來最好要有個出處，古巴勒斯坦人就是猶太人是有羅馬官方記載的，而現在我們所稱的巴勒斯坦人則是1948年才出現的,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""鄂圖曼土耳其"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""古巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""羅馬"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1948年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,可以停止你的歷史虛無主義妄想了嗎？,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""歷史虛無主義"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AutoModerator,"嗶嗶，由於超管G點太敏感，你的留言被移除啦，請改用替代詞語。編輯留言並不會自動approve請修改後整個重發
+
+*Iamabot,andthisactionwasperformedautomatically.Please[contactthemoderatorsofthissubreddit](/message/compose/?to=/r/Taiwanese)ifyouhaveanyquestionsorconcerns.*",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""G點"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""替代詞語"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""編輯留言"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""重發"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Iamabot"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""subreddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taiwanese"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+yechnwywy,所以是以色列本身過於強烈的愛國主義引起海外人士的反感嘍？,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MagnesiumStearate,"以色列官員宣聲要把Gaza消滅掉不算種族屠殺？
+
+
+
+以色列封鎖Gaza支援進出不算集中營？
+
+",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gaza"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Deleted,感謝指教。請問白甲指的是？,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""白甲"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+viperabyss,"應該是說，哈瑪斯的唯一目的是殺光猶太人。
+
+巴勒斯坦人跟哈瑪斯不能完全劃上等號。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+viperabyss,但是從公元6世紀跟1948年之間，巴勒斯坦是阿拉伯人居住的地方。要過幾年，才能說巴勒斯坦是巴勒斯坦人的祖國呢？,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""公元6世紀"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1948年"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""阿拉伯人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""祖國"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+viperabyss,"這個非常複雜，因為巴勒斯坦人是穆斯林教，且大多是從鄰近的阿拉伯國家移民的。要硬性講說猶太人就是巴勒斯坦人根本太強求。
+
+從2世紀開始，那個區域早就叫做敘利亞巴勒斯坦了
+
+
+今日巴勒斯坦人的名稱其實是從20世紀初就出現了。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""穆斯林教"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""阿拉伯國家"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2世紀"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""敘利亞巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20世紀初"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+viperabyss,"請解釋哪裡是虛無主義了？難道我講的不是事實嗎？
+
+自己對歷史不懂的人請不要把自己的幻想抹成史實。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""虛無主義"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歷史"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aiglas0209,"那是明面上的理由，真正的理由是以色列還是太世俗了
+
+按照原教旨派的思路應該是在世界大亂的時候真正的救世主彌賽亞(不是耶穌)從天而降，機械降神式的以上帝的名義鎮壓世界，直接原地原址重建以色列再立聖殿，除了那以外的什麼都不認，現今透過政治協商與世俗手段立國的以色列自然不被承認是真正的復國的以色列了
+
+所謂的原教旨派就是那些活躍在歐美以小社區的形式存在，與當地文化格格不入，穿戴西裝禮帽還留大鬍子，生育率很高，非常符合刻板印象裡的那一派猶太人",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""彌賽亞"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""耶穌"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""世界"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""聖殿"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""政治協商"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""世俗手段"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""歐美"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""社區"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""文化"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""西裝"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""禮帽"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""大鬍子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""生育率"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Witty_Suggestion_417,"加薩的巴勒斯坦人是ㄧ個「種族」？
+
+封鎖區域=集中營？
+
+你確定你名詞解釋是對的？還是明擺著要置換概念？
+
+我原意是指你寫的不夠清楚（我以爲你指的是二戰猶太人被種族屠殺和集中營，因為那確實是針對種族），也謝謝你提供回應和新聞澄清。
+
+當然正常人不會支持衝進加薩見人就殺，但實際上哈瑪斯「先」發動恐怖行動且屠殺平民在先，這是無可否認的事實。
+
+我不會支持以色列無差別報復，但哈瑪斯的恐怖份子該為他們的惡行付出代價。",2023-11-02,Taiwanese,unknown - fasttext error,"[
+      {
+        ""entity"": ""加薩"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""封鎖區域"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""集中營"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""二戰"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""猶太人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""哈瑪斯"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shilloya,你應該要看一下各個巴勒斯坦組織的黨綱，巴勒斯坦人跟恐怖分子正在結合為一體,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""巴勒斯坦人"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""恐怖分子"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+shilloya,你應該知道當初就是巴勒斯坦不承認那個把沙漠給以色列大城市給巴勒斯坦的垃圾181號決議並且多次發動戰爭把自己輸的一無所有吧？,2023-11-02,Taiwanese,zh,"[
+      {
+        ""entity"": ""巴勒斯坦"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""以色列"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""181號決議"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""戰爭"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"

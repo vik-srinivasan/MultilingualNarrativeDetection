@@ -1,0 +1,4409 @@
+author,text,timestamp,subreddit,language,gpt_output
+squirrel_exceptions,"Vanlige drosjeselskaper er dyrere i Oslo enn Bergen, app’ene er sikkert like. Uber og Yango er ekstremt kjipe selskaper, veit ikke hvor snille Bolt er, men det er i alle fall estisk (i motsetning til russiske Yango), og har ikke vært innblandet i en rekke skandaler ifm arbeidsrettigheter og generelt veldig kjip oppførsel (som Uber).",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Vanlige drosjeselskaper"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bergen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Yango"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""estisk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""russiske Yango"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+squirrel_exceptions,"Nei, men selskapet er eid av Yandex, Russlands største tech-selskap, som ofte samarbeider tett med den Russiske staten, blant annet deler de data med dem.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Yandex"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russlands"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russiske staten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RutMariaB,Ser da det men tenkte liksom som i retorisk..:grimacing_face:,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Ser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""retorisk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IAmAQuantumMechanic,Å gå hjem når du har fått for mye innabords er undervurdert. Mye bedre enn å kaste bort mange penger for å komme hjem mer beruset.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""ingest"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""penger"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Odd_Hunt9789,"Dette unlocka et minne fra min ungdom! Husker jeg gikk 32km hjem på en kald vinters natt fordi både jeg og kompis hadde null strøm på mobil og ingen penger i lommeboka. Vi prøvde å haike hele veien, 1 bil stoppa og ville ha betaling, tilbydde en ganske kostbar vinterjakke i bytte mot skyss, men han foretrakk penger. Husker ikke hvor lang tid jeg brukte men la oss bare si at det kommer forhåpentligvis aldri til å skje igjen. Vet ikke hvor jeg vil med dette men tror ikke taxi var i mitt vokabulær heller.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Dette"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""min ungdom"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""32km"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kald vinters natt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mobil"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""penger"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lommeboka"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""haike"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bil"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vinterjakke"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skyss"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""penger"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lang tid"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""forhåpentligvis aldri"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vokabulær"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Carninator,"For noen år siden gikk jeg 11km hjem fra et nach for å unngå å bruke penger på taxi. Tok meg 4 timer (tom for strøm og dårlig retningssans), men fin tur.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""noen år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""11km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nach"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""4 timer"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+El3m3nTor7,"Du er kjip as, bruker tonnevis av penger på dritdyr øl, men du støtter ikke engang en næring som ikke har noen annen inntekt enn når noen setter seg inn i bilen",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dritdyr øl"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""næring"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bilen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kebman,"Offentlig makspris = sjåføren avbestiller turen og du må betale en mye høyere svart pris. Dette har skjedd meg i sene nattetimer når sjåføren syntes at prisen fra Bolt eller Uber var for lav. Taxien kom, og så ble turen avbestilt. Så rulla fyren ned ruta og sa, ""Om du betaler kontakt, så kan jeg kjøre deg."" Prisen var da dobbelt så høy som i appen. Jeg hadde lyst å anmelde fyren, men da måtte jeg vel heller sove på gata.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""sjåføren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taxien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fyren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kebman,Du mener at det er for mye konkurranse som gjør at privatprisene er høye? Det må du nesten kvalifisere. Prisene fra Bolt og Uber er høyst konkurransedyktige. Det er *ingen* som har lys tå betale 1000 kroner for en taxitur i 10 minutter. Men de må nesten skylde på seg selv når det finnes apper som gjør det fem til ti ganger billigere.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""1000 kroner"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kverrulant,"Med Bolt o.l. har konkurransen bedret seg betydelig. Men fri konkurranse krever også noe av forbruker, en viktig barriere for et ""fritt marked"" er imperfekt informasjon. Dette er tilfellet for mange forbrukere natt til søndag.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Med Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fri konkurranse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""forbruker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""imperfekt informasjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""søndag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElToro_74,"Joda, Uber/ Bolt finnes, og om man sjekker hvem man kjører med, eller bruker TaxiFix eller Bolt-appen eller lignende er det billigere å kjøre taxi enn før. Men om man setter seg inn i random svindel-taxi så blir man svindlet. Eller i ""Premium Taxi"" som i dette tilfellet.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Joda"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber/ Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""TaxiFix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bolt-appen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""svindel-taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Premium Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+kebman,"Så lenge prisen er under 300 SEK en vei, så er det like greit å ta taxi fra Arlanda flyplass og inn til Stockholm sentrum. Slike priser får du fra Bolt eller Uber, som funker like bra i Sverige som i Norge. Det er ikke verdt det ekstra stresset med kjøpe riktig lokale billetter, finne perronger og bussholdeplasser, og håpe at den kommer i tide, når taxien kjører deg rett til døra. Spesielt ikke om du har med masse bagasje i tillegg.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Arlanda flyplass"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stockholm sentrum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sverige"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+danielv123,Men de masekoppene som står utenfor Oslo S og absolutt vil ha deg inn i deres taxi er direkte ubehagelige.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo S"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+eremal,"Komplett bs. TØI advarte om akkurat dette ifbm deregulering. Det folk assosierer med taxi er praie- og holdeplassmarkedet. Der har pris, kvalitet, komfort ++ ingenting å si ift hva kundene velger. Alt handler om tilgjengelighet. Det du beskriver er bestillingsmarkedet. Det sammen med kontraktsmarkedet fungerer reglene helt ok på. Der vil kunder sammenlige pris, og andre faktorer. Men man snakker fort om noe annet enn taxi. Den dag i dag er det fortsatt de største tradisjonelle sentralene som leverer det beste tilbudet. Uber er en vits, og ikke bærekraftig. Forretningsmodellen deres er å drive på kreditors regning fram til konkurrentene er konkurs, for så å øke prisene over nivået de lå på opprinnelig.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""TØI"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Accurate_Ad2817,Det var i alle fall noen som tjente godt da det var regulert:),2024-05-20,norge,no,"[
+      {
+        ""entity"": ""ingen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""regulert"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BilSuger,"Uenig. Der jeg er oppvokst kunne foreldrene mine tidligere ta taxi til legen osv. Det finnes ikke taxi på dagtid lengre. Hvorfor? Fordi Uber osv gjorde at mange begynte å konkurrere om de populære tidene fredag/lørdag, som var det som stod for halvparten av inntjeningen til de som kjørte taxi fulltid. Når de ikke tjener nok på å være taxisjåfør finner de annet arbeid. Så nå er det ingen som kjører taxi på fulltid lengre, kun et par stykker som kjører kveldstid i helgene.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""foreldrene mine"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""fredag/lørdag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""halvparten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxisjåfør"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""annet arbeid"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kveldstid i helgene"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kebman,"Dessverre er det ingen garanti for at ikke ""vanlige"" taxisjåfører også sjekker deg opp.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Dessverre"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""taxisjåfører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VeryLargeTardigrade,Det gjør du med Oslo taxi's app taxifix også,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BilSuger,"Det har man gjort med taxifix, vy appen osv i sikkert 10 år også",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vy appen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+chillebekk,"Du kan bli etterfakturert for tid. Jeg har selv ved to anledninger opplevd en Bolt-sjåfør som kjører feil vei, og etterpå fått 65 og 75 kr lagt til regningen på grunn av ""tid"".",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt-sjåfør"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""65"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""75"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+husmoren,Det gjør du med Bergen Taxi sin app og.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bergen Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""app"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Laffenor,"Det gjer du hos alle om du spør før du køyrer. Sjåføren pliktar å gje deg eit prisoverslag, og når turen er over, har du rett på å betale anten prisoverslaget eller prisen som står på taksameteret, den som er lågast. [Forskrift om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn § 3](",2024-05-20,norge,nn,"[
+      {
+        ""entity"": ""Sjåføren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Forskrift om takstberegning og maksimalpriser for løyvepliktig drosjetransport med motorvogn § 3"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Plenty-Effect6207,"Stemmer, til 1920kr/timen lar Premium Taxi AS deg sove ut rusen i baksetet, parkert rett ved Oslo S.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Stemmer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1920kr/timen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Premium Taxi AS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo S"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TeleFiks,"Problemet i USA var at Uber tok over hele markedet med billige priser, og kunder så ikke på andre alternativer fordi de var utkonkurrert. «Alle» konkurrentene døde. Deretter økte Uber prisene jevnt siden de allerede hadde spist hele markedet.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alle konkurrentene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Macknu,"Ahh det er mulig. Ikke ofte jeg tar vanlig taxi, oslo taxi tar vel 700 Oslo-Gardermoen og runt 300-400kr for en 10-15min tur i Oslo. De er vel litt som foodore og wolt, ikke de beste men billige.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""oslo taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo-Gardermoen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foodore"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""wolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Randalf_the_Black,Beklager. Hjernen sto stilt inn på seriøst.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Beklager"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BodybuilderSolid5,For ikke å snakke om en glimrende investering i påfølgende dags fysiske og mentale helse!,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""ikke"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""glimrende investering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""påfølgende dags fysiske og mentale helse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+gigachadpolyglot,Det ville vært en tabbe å la være å ta seg nytte av den uendelige staminaen man får som ungdom med 6-7 pils i blodet. Jeg pleier ofte å jogge hjem fra byen fordi det er så dårlig med buss der jeg bor.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""ungdom"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""6-7 pils"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""byen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JabbaCat,"Vil bare advare mot at man kan få et plutselig rush der man blir eskalerende mer full underveis i treningsøkta, har skjedd meg i alle fall. Har lurt på om det har noe med fysisk innsats å gjøre, men ikke konkludert. Føltes sånn.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Vil"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eskalerende"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""treningsøkta"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norweirdian,Enig med deg så lenge det er en trygg vei å gå hjem. En venn av meg ble ranet på Grønland da han gikk hjem fra ett utested i nærheten av Karl Johan. Han gikk den samme turen annenhver helg uten noe problemer tidligere. Selvom det er en stund siden det skjedde nå er han ennå redd for å gå den strekningen og gjør det ikke alene mer.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Grønland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Karl Johan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Friend-6653,Spørsmålet er jo om du kommer deg hjem eller ender opp i en grøft f.eks.,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Spørsmålet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hjem"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""grøft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Mummiskogen,Er det vanlig å kreve penger for haik midt på vinteren? Synst det hørtes litt skandaløst,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""haik"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""vinteren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+redinina,"Det er omtrent 16 km fra meg til kjæresten min sitt hus og jeg kunne aldri forestilt meg å gått den avstanden. 32 km er meget imponerende, særlig på en kald vinternatt.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""kjæresten min"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""16 km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""32 km"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kald vinternatt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Sug_Lut,1100 kroner for 11 minutters kjøring. Den næringa har selv sørget for å bli stadig mindre brukt av alle med vett.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""1100 kroner"",
+        ""entity_type"": ""MONEY"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""11 minutters"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FindsNames,"Fordi jeg liker at uteliv finnes i bygda. Igler som utnytter eldre og fulle folk liker jeg ikke, og det gjør meg ingenting hvis de går konkurs.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Fordi"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""uteliv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""bygda"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Igler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+chillebekk,Meld fra til Bolt i appen. Dette skjer så ofte at det er et eget valg i klageskjemaet deres.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""klageskjemaet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+According_Rhubarb_27,"Prisene fra Bolt og Uber og til og med Oslo Taxi er konkurransedyktige ja, men sjåførene som kjører for Bolt/Uber er i realiteten sitt eget taxiselskap, Bolt/Uber er bare et mellomledd som setter deg i kontakt med sjåføren. Den samme sjåføren som kjører for Bolt/Uber kan stille seg opp på en holdeplass og sette sin egen pris. Det er ikke den økte konkurransen som har økt prisene, men mangelen på reguleringer gjør at mange aktører går inn for å loppe kundene.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjåførene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjåføren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""holdeplass"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sashagaborekte,"Uber er helt greit, sjåfører med dårligere rating enn 3 stjerner får ikke kjøre for uber. Har bare hatt dårlige opplevelser med tradisjonell taxi mens med uber er det alltid hyggelige sjåfører og ordnede priser uten svindling av kunden. Hvis Uber driver med for lav pris så er det mange andre apper som står klare til å ta over. I tillegg er uber profitabelt noe som ikke ville vært tilfellet hvis de driver på kreditors regning",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""sjåfører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""3 stjerner"",
+        ""entity_type"": ""OTHER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""apper"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""profitabelt"",
+        ""entity_type"": ""OTHER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kreditors"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+aaOzymandias,Da ringer du jo bare heller en uber på de tidene?,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tidene"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+danny_the_dog1337,"Nei men Oslo taxi er litt mer seriøse, på bolt kan hvem som helst være sjåfør",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+El3m3nTor7,Taxi fix er landbasert,2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""landbasert"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zhni,"Men Taxifix er fortsatt sinnsykt mye dyrere, og gir deg ikke rabatter som Bolt gjør.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Men Taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bolt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+eremal,"07000 bruker i praksis sin egen versjon av taxilink, som brukes av sentraler over hele landet.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""07000"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""taxilink"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+idontlikebeetroot,"Det beste er kanskje å gå til Quality over gata fra Telenor Arena. Det koster 1748 for hele natta nå ser jeg. Så kan man ta bussen mens man er våken. 1790,- totalt. Jeg gjetter på at det er inkludert frokost.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Quality"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Telenor Arena"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1748"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bussen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1790"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""frokost"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+idontlikebeetroot,"Jeg ser forresten at ikke bare er det 1920 i timen, men det er 60 per kilometer. Det er en sinnsyk pris.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""1920"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""60"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""per kilometer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BilSuger,"Hvordan kaster man de ut? Jo, via *regulering*...",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Hvordan"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""man"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""regulering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ChelseaHotelTwo,"Det er haugevis av disse i Oslo nå. De er ikke utliggere. Det er heller normen. De store seriøse selskapene er heller utliggerne slik ting er nå. Det er enkeltpersonsforetak med løyver som kjører rundt i sin egen bil tar blodpriser. Du vil mao regulere bort de useriøse aktørene lol, som er akkurat det alle sier bør skje og som regjeringen jobber med. Hva er det du egentlig argumenterer mot tror du?",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""seriøse selskapene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""enkeltpersonsforetak"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""løyver"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""regjeringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+gentlewaterboarding,Hender imidlertid at jeg våkner opp dagen derpå og oppdager at jeg har strukket en muskel de rareste steder. Fra mitt eget perspektiv sent på natta fremstår jeg som en mester i kappgang med en motorikk som ville gjort selv romerske gladiatorer misunnelig. Men i virkeligheten krever det nok total konsentrasjon å sortere beina i riktig rekkefølge gjentatte ganger med fotsålen vendt nedover frem til jeg til slutt når inngangsdøra.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Hender"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dagen derpå"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mitt eget perspektiv"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""romerske gladiatorer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""total konsentrasjon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""inngangsdøra"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lots_of_punctures,"Hahahaha føler meg akkurat mye mindre schizo som jogger hjem med spurte intervaler på veg hjem når jeg har drikki ""Vi mennesker brukte å jogge ihjel megafaunan irundt oss. Hvor lenge kunne jeg løpt etter en mammuth? Fuck it er bare 5km hjem. Vi må prøve.""",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""meg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""spurte intervaler"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mennesker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""megafaunan"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mammuth"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5km"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WildBarbecue124,Pleie jogga heimatt fordi eg bli so utålmodig og vil fra A-B raskast mulig,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Pleie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""A-B"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+anders_ar,"Jeg pleide å gjøre dette da jeg var ung, en gang ble jeg stoppa av sivilbil som lurte veeeldig på hva som foregikk.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sivilbil"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Odd_Hunt9789,"Ja helt sykt å tenke på i ettertid, men måtte hjem til hund og katt for å mate de.. vi tok en del pauser da, drakk vann fra istapper og greier lol.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""hjem"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hund og katt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vann"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""istapper"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aynrandomness,Kan jeg ta 400 kroner per kilometer liksom? Kjøre en lørdags kveld i måneden og ha Lamborgini som taxi.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""400 kroner"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lamborgini"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""lørdags kveld"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+eremal,"Hvor mye tjener sjåførene sammenlignet med en seriøs sentral? Og selv om sjåførene i praksis går med tap, så har uber tapt flere hundre milliarder kroner så langt. Jeg vet ikke jeg.",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""sjåførene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""en seriøs sentral"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""flere hundre milliarder kroner"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BilSuger,Det er ingen som kjører på de tidene.,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""ingen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tidene"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VeryLargeTardigrade,"Ingen sjøtaxier, eller hva mener du egentlig nå?",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Ingen sjøtaxier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+JabbaCat,"Men i Oslo er det bare ett selskap, Oslo Taxi (som startet bruken av appen - den fikk senere navnet Taxifix) som dukker opp. Jeg bruker bare den. Det er hakket mer forutsigbart på pris, sporbart/vanskelig for sjåføren å finne på noe kødd, man kan legge inn adresse og det finnes i verste fall digitale spor av ting om noe skulle skje, som jeg tror er avskrekkende. Etter frislippet i Taxinæringa har jeg bare helt sluttet å praie, det er så urkjipt og jeg hater svindelmentaliteten hos enkelte. Kanskje hvis jeg ser en fra et selskap jeg gidder forholde meg til på en gunstig plass, men ikke på steder fylt opp med random biler.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo Taxi"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gigachadpolyglot,"Jeg kan vente på buss i 20 min, ta bussen i 10 min, og havne på et stopp som gjør jeg må gå i 10 min uansett. Eller så kan jeg springe på samme tiden og våkne opp uten hangover!",2024-05-20,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""buss"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20 min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""10 min"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""stopp"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""springe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""hangover"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+sashagaborekte,Tja de tjener hvertfall penger nå. Hvis sjåførene tjener så dårlig hvorfor har Uber masse sjåfører verden over som står klare til å frakte passasjerer,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjåfører"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+JegErIkkeAnonym,"H*n mente vell å få frem at taxifix ikke bare fungerer i Oslo, men mange andre plasser og som foreksempel Stjørdal og Ålesund",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""taxifix"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Oslo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Stjørdal"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ålesund"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Any-Diet,"Taxinæringen er eksempel på at den ideen om at fri konkurranse gir lavere priser, ikke stemmer.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Taxinæringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+eremal,"Altså du trenger ikke lete lenge før du finner analytikere som viser hvor latterlig lite folk tjener på uber, og hvordan man i enkelte tilfeller går med tap. Utfordringen er at folk ikke tilstrekkelig tar høyde for utgiftene knyttet til kjøretøy/forsikring m.m. Jeg ser Uber i Norge gikk ut og sa hvordan sjåførene sitter igjen med ca 326kr/t etter at uber har tatt sitt. Det blir ikke sagt noe om hvor mye bilen er i drift for det, men for å si det sånn, sammenligner med taxi så vil 80-90% av det gå til drift av bil. Det folk synder mest på er avskrivning. Man går til innkjøp av bil til 7-800k og tar ikke høyde for at når den selges 3 år senere så koster den halvparten.",2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Uber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""326kr/t"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Any-Diet,> Enig at det funker dårlig nå,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Enig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""funker"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+1-800-Henchman,Det er jo åpenbart at det har vært en voldshendelse her. Blodet renner jo nedover hele kartongen. Sjokokua har jo blod på hornet. Litablod?,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""voldshendelse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Blodet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kartongen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sjokokua"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""blod"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""hornet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Litablod"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cesnos,Det er svært merkelig. Synes jordbærkua var den søteste av de alle. Er banankua fortsatt å finne på kartongene?,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""jordbærkua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""banankua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VLTIMA,Språkpolitiet må også på banen.,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Språkpolitiet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fenrisulfr1984,Det er snik-sjokoladefisering av landet.,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""snik-sjokoladefisering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""landet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+darkerface,"Dette er ikke engang den faktiske sjokoladekua, som har sjokoladeruter på kroppen. Den runde jordbærkua med grønne prikker som skal forestille frø, har også vært borte lenge, først erstattet med en mer generisk ku, fortsatt med prikker, så en rød variant av den kua der, helt uten prikker. Søk gjerne opp Litago på [digitaltmuseum.no]( for å se hva de har tatt fra oss.",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Litago"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Common_Consideration,"Seriøst sprøsmål, har det alltid het L\\TAGO?",2024-04-26,norge,sv,"[
+      {
+        ""entity"": ""Seriøst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""L\\TAGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mensen-Ernst,Hør hørt ryktet om at det er opprettet sak. Hvetemelet er siktet.,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Hør"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ryktet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sak"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hvetemelet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Equivalent_Bite_6078,ALTSÅ!? få tilbake jordbær kua!,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""jordbær kua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+boringestnickname,"Snuten? Dette kan de ingenting om. Her må vi til selve navet i Litago-kunnskapen, nemlig Jarle.",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Snuten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Litago"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Jarle"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NootNoot298,"Big Woke slår til igjen med det såkalte mangfoldet sitt. Lyse kuer er imot deres agenda, og snart vil alle lyse kuer bli byttet ut med mørke. /s i tilfelle",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Big Woke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lyse kuer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mørke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Spookymushroomz_new,Kjøpt en sånn hær om dagen. Trudde det va nåkka nytt som sjokolade og jordbærsmak (va jævelig trøtt) men neida dær ble e faen me lurt. Men men satsa på at jordbær kua får se jobb igjen snart. E ikke lett å vær arbeidsledig i denne økonomien,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Kjøpt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjokolade"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jordbærsmak"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jævelig trøtt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""jordbær kua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""økonomien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Amiccuz,[Denne litagokuen du savner?](,2024-04-26,norge,hu,"[
+      {
+        ""entity"": ""Denne litagokuen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ghazzz,"Savner banan. Testa nylig ""bursdagskake"", og tror det er noe av den samme aromaen der, pluss andre ting. (bringebær?)",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Savner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bursdagskake"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""aromaen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bringebær"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hottentott14,"Oj, savnede personer er jo ofte på melkekartonger (på film fra USA i alle fall), kanskje vi burde ha bilde av den savnede kua på en melkekartong òg .. Nei vent...",2024-04-26,norge,sv,"[
+      {
+        ""entity"": ""Oj"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""melkekartonger"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""den savnede kua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mr_greenmash,Får vel prøve å tagge u/politikripos1 (og vær så snill og ikke arrester meg for tagging),2024-04-26,norge,da,"[
+      {
+        ""entity"": ""u/politikripos1"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CleverDad,På tide at regjeringen kommer på banen!,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""regjeringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wheeljack7799,"Det er så synd at påska er over, ellers hadde jo dette vært det virkelige påskemysteriet.",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""påska"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dette"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""påskemysteriet"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Issah_Wywin,"Jeg tok meg en sånn en her om dagen, og forventet nesten smaken av smeltet tress is. Sjokolade ku, jordbær drypp.",2024-04-26,norge,sv,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""smeltet tress"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sjokolade ku"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jordbær"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nordic_Krune,Jordbærkua er på ferie,2024-04-27,norge,da,"[
+      {
+        ""entity"": ""Jordbærkua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ferie"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TheBigSock,De har også tatt fra oss de lange kuene som dekka tre sider av kartongen slik at man kunne lage en kjempelang ku i kjøleskap når man satt de ved siden av hverandre!!!!!,2024-04-27,norge,no,"[
+      {
+        ""entity"": ""De"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kuene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kartongen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjempelang ku"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kjøleskap"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WonderfulViking,"Spør narkisene med en Litago og en pose boller, de vet :)",2024-04-26,norge,da,"[
+      {
+        ""entity"": ""narkisene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Litago"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""boller"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ashtar-the-Squid,Vi må ta det viktigste først. Er det karragenan i den? Og er det fortsatt ei bittelitta ku opp ned på baksida?,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Vi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""karragenan"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bittelitta ku"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+moresnus,pga nedskjæringer ble dem desverre nødt til å avslutte samarbeidet med Jordbærkua. Til gjengjeld har de økt profittmarginen med 15 millioner kroner årlig,2024-04-27,norge,no,"[
+      {
+        ""entity"": ""pga nedskjæringer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Jordbærkua"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""profittmarginen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""15 millioner kroner"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+antikris-senlar,For å øke salget av jordbærmelken av de som tar feil.,2024-04-27,norge,no,"[
+      {
+        ""entity"": ""jordbærmelken"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dzyu,Hvorfor mener du at sjokolade er kuet?,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""sjokolade"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lil_Bjxrk666,"Kan ikke tro at cancel culture og woke tok jorbærkua :,(",2024-04-27,norge,no,"[
+      {
+        ""entity"": ""cancel culture"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""woke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""jorbærkua"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+IGenuinelyHaveNoClue,"Dette er et eksempel på designvalg som folk kommer til å se tilbake på senere, så lure på hva i alle dager de tenkte. Så endre det tilbake til sånn det var før.",2024-04-27,norge,no,"[
+      {
+        ""entity"": ""Dette"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""designvalg"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""senere"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""de tenkte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Loud-Text-1235,Et forslag er klipp deg og få deg en jobb?,2024-04-27,norge,da,"[
+      {
+        ""entity"": ""klipp deg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jobb"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+noimnotgeorge,"Kuer kan være brune og sorte og hvite, men ikke rosa.",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Kuer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""brune"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sorte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hvite"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Amiska5v5,Det er ikke lengre passende å drikke morsmelk når man er eldre enn spedbarnsalder. Det er mange andre sunne drikkealternativer tilgjengelig.,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""morsmelk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""spedbarnsalder"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mr_greenmash,Litago-kua er den nye James Bond. Dette er pistolløp-sekvensen.,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Litago-kua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""James Bond"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""pistolløp"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nikegamerjjjj,Er det noen fingeravtrykk som er igjen?,2024-04-27,norge,no,"[
+      {
+        ""entity"": ""Er"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fingeravtrykk"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+oldoperatorr,Dere er veldig naive hvis dere ikke skjønner hva emballasjen betyr,2024-04-27,norge,no,"[
+      {
+        ""entity"": ""Dere"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""emballasjen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TimecopVsPredator,Banankua forsvant for lenge siden. Regner med politiet bare henla den saken som vanlig.,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Banankua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""politiet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MarlinMr,"Neida, det har med wokeness å gjøre. Alt skal byttes ut med etniske kuer nå til dags.",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Neida"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""etniske kuer"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TimecopVsPredator,De tar meg aldri!,2024-04-26,norge,hu,"[
+      {
+        ""entity"": ""De"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IAmAQuantumMechanic,Jeg skal gi deg sjokolade-fisering,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjokolade-fisering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bunnytimestwo,"hadde helt glemt jordbærkua som så ut som et jordbær, core memory!",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""jordbærkua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jordbær"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+glitterlys,"Eh ja, lette etter denne kommentaren",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Eh ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""denne kommentaren"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tordeque,Den skråstilte i'en var vanskeligere å legge merke til når L'en og T'en var helt på skakke.,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Den skråstilte i'en"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""L'en"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""T'en"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kittelsen,Synes jeg måtte lete for lenge etter en Jarlereferanse i kommentarfeltet her. Har jeg blitt for gammel for nettet? :grinning_face_with_sweat:,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Jarlereferanse"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CeeJaycs,"Det hadde kostet deg ca 0kr å poste det der, men allikevel så gjorde du det. y",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""0kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Fenrisulfr1984,"Aldri fått narkose før en operasjon, skjønner jeg.",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Aldri"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""narkose"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""operasjon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+gnomeannisanisland,"Å nei, tenk om vi gjør noe upassende",2024-04-27,norge,no,"[
+      {
+        ""entity"": ""Å"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""tenk"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""upassende"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Severin_Suveren,"Slappa, det er bare sjorbærmelk!",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Slappa"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjorbærmelk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+1-800-Henchman,"Nei, dessverre. Det ville for så vidt vært noe urovekkende om kua hadde fingre. Men om gjerningskua er den som er avbildet er vel forklaringen på manglende klovavtrykk at den har kledd på seg tøfler. Noen av dem er jo også tilgriset av blod.",2024-04-27,norge,no,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gjerningskua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kittelsen,"Banankua hadde noe insidergreier hos Bama, blei spooka og hoppa på første konteiner til utlandet. E-tjenesten er på sporet av den takket være e-stoffene han inneholdt.",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Banankua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bama"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""E-tjenesten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""utlandet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hamringspiker,Vent finnes ikke banan litago lengre? Det var jo den beste smaken.,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Vent"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""banan litago"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""beste smaken"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+i_removed_my_traces,"Høres mer ut som politet faktisk gjorde noe i den saken, død over kunstig banansmak! (vanlig banan er godt.)",2024-04-26,norge,no,"[
+      {
+        ""entity"": ""politiet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kunstig banansmak"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""vanlig banan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+kongenavingenting,Ufattelig typisk at den gule kua blir kastet ut mens den brune blir inkludert overalt!,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""den gule kua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""den brune"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Ketcunt,Hater når det er sjokolade i fiseringen,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Hater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sjokolade"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fiseringen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+boringestnickname,Fikk aldeles bakoversveis selv av at ingen andre hadde kommet rekende med Jarle før meg.,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Jarle"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RedditOakley,Minecraft har røde kuer med sopp på seg. Coincidence? I think not!,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Minecraft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""røde kuer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sopp"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+noimnotgeorge,"Jo, men de kuene er jo ikke ekte.",2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Jo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Nikegamerjjjj,Hm. Det var trist…er det ingen klovspor av gjerningskuen på bakken eller graset?,2024-04-27,norge,no,"[
+      {
+        ""entity"": ""Det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""klovspor"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gjerningskuen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bakken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""graset"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+NoAcanthocephala7034,Det mest mistenkelege med innsidegreiene var utvilsomt at banankua var ein han. Det kan forklare mykje om den mjølka.,2024-04-27,norge,nn,"[
+      {
+        ""entity"": ""banankua"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mjølka"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dewnar,Tydeligvis var den ikke så god siden den forsvant ut av markedet for mange år siden uten at du la merke til det!,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Tydeligvis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mange år siden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CeeJaycs,Det problemet har jeg vanligvis 2-3 ganger daglig.,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""2-3 ganger"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+danielv123,Er litt annerledes ute på slike svenske øyer,2024-04-26,norge,no,"[
+      {
+        ""entity"": ""Sverige"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hansemannn,Sier du at julenissen ikke fins heller?,2024-04-26,norge,da,"[
+      {
+        ""entity"": ""julenissen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_thundercracker_,"Hah, amatør. Få deg Crohns så når du *lett* det 5-dobbelte.",2024-04-26,norge,da,"[
+      {
+        ""entity"": ""Crohns"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tom-o-matic,Det er ingenting som er mer helnorsk enn å kjøpe en pizzaovn til flere tusen for å steke grandis.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""pizzaovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""grandis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ravnsulter,Post denne i gruppen Pizzabakerne på Facebook. Den er drevet av en pretensiøs snobb. Går nok rett hjem der.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Pizzabakerne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SpaceTimeChallenger,Dette er litt absurd. Jeg søkte nettopp på diameter til grandis. Første treff var en redditpost hvor noen hadde kjøpt pizzaovn og spurte om diameter på en grandis. Jeg trykket på tilbakeknappen og kom til hovedfeeden på reddit og det første jeg møter er denne,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""grandis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""redditpost"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dzyu,"Nei. Du kan ikke bare legge pizzaen på utsiden av pappesken. Brett den så innsiden kommer ut, først, din neandertaler.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pizzaen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pappesken"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""neandertaler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Lockmart-Heeding,Dette er nasjonalromantikk for det enogtjuende århundre. Hurra for syttende mai!,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Dette"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""nasjonalromantikk"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""enogtjuende århundre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hurra"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""syttende mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Niccolado,Ja. Det står i Landsloven sirlig ført av Magnus Lagabøte.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Magnus Lagabøte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Landsloven"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+danielgoodstone,"Ser optimalt stekt ut også, litt crispy bunn og litt medium rare på toppen <3",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Ser"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""crispy bunn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""medium rare"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+konsollfreak,Gud signe vårt dyre fedreland :saluting_face::Norway:,2024-05-16,norge,sv,"[
+      {
+        ""entity"": ""Gud"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mallaso02,Skulle vært stekt litt lengre,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Skulle"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""litt lengre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bjplague,"bruke Grandis esken som tallerken? = bra for naturen og veldig praktisk. Grandis i merkelig ovn? = kjør på, experimenter, Grandiosa er norges mest spiste pizza og spist på flest måter vil jeg anta. Musikk choice? = god smak. ser ingen feil her, party on guys",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Grandiosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""norges"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Musikk"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Lanky_Score7414,Jeg ser ikke noe annet en pengene verdt.,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pengene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Malawi_no,Nei. Esken skal sprettes og brettes så trykket kommer på innsiden.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TJ-the_man,"Nasty med pizzaen rett på pappens utside, der alle har sikla og fikla.",2024-05-16,norge,da,"[
+      {
+        ""entity"": ""pizzaen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pappens"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+alehel,Om det er :red_heart:,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Om"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""red_heart"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mean-Lake-3995,Ville latt den stå et minutt til,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Ville"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""et minutt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+3DprintRC,Kun på 17. mai.,2024-05-16,norge,sv,"[
+      {
+        ""entity"": ""Kun"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""17. mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+CleverDad,Å servere Grandiosa på kartongen? Javisst faen.,2024-05-16,norge,sv,"[
+      {
+        ""entity"": ""Grandiosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dewnar,Upvote for Kavinsky - Nightdrive,2024-05-16,norge,en,"[
+      {
+        ""entity"": ""Kavinsky"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nightdrive"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Fragmenta1,Nydelig :pinched_fingers: ekte Nordmann :Norway:,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Nydelig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Nordmann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Norway"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Schous,"Nei, i henhold til norsk lovgivning er det faktisk ikke lov. Straffbart inntil 2 års fengsel eller 14 700kr i bot /s Men burde ikke legge en varm pizza rett på pappeske, hvis ikke du har lyst på kreft da eller andre hormonskader :)",2024-05-16,norge,da,"[
+      {
+        ""entity"": ""norsk lovgivning"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 års fengsel"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""14 700kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pizza"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kreft"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""hormonskader"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Lost-in-Norway,Dette er ekte norsk kultur! Gratulerer med 17mai alle sammen!,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""norsk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""17mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MainUnion7725,"Men, smakte den bedre?",2024-05-16,norge,de,"[
+      {
+        ""entity"": ""Men"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cptsmooth,"Faen så porno dette var, får lyst til å skippe 17.mai og kjøpe meg grandis",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""17.mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+postsexhighfives,det her? det er *ekte* klasse,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""det"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ekte"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""klasse"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jazzlike_Account_491,"Jeg liker Grandiosa, og jeg skjemmes ikke av å si det.",2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Grandiosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MABfan11,Italia har anmeldt deg for terrorisme,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Italia"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""terrorisme"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Waaswaa,"Åpn opp pakken heilt og bruk innsida som pizzafat. Ein veit aldri kven som har teke på pakken, og kva dei har teke på før det.",2024-05-16,norge,nn,"[
+      {
+        ""entity"": ""Åpn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzafat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Late_Stage-Redditism,harru kjøpt en sånn dritdyr custom pizza ovn kan du vel faen gjøre akkurat hva du vil med den,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""harru"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""custom pizza ovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Astorabro,"Sikkert greit, men folk burde i det minste slutte å bruke pappesken som fat. Det er ikke særlig reint.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Sikkert"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pappesken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FreedomCondition,Grandis e så jævlig dårlig.,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Grandis"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+andreasbaader6,Ser ganske Nice ut da,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Nice"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+CoffeeAndCigars,"Nei, det er feil Grandis. Pepperoni'n er den som skal i pizza ovn.",2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Pepperoni'n"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BestRHinNA,Den derreder er bløt i midten!,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Den derreder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Myrdrahl,"Altså, skal du først spise Grandis, så må da dette være den absolutt beste måten å tilberede den på? Nå har ikke jeg spist Grandis selv på over 20 år, men det selger jo som faen, så den har jo sin plass i hjertet til veldig mange.",2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""20 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lurulf601,Ganske sikker på at det står noe i Genevekonvensjonen om akkurat dette! :D,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Genevekonvensjonen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+redinina,Bare jeg som aldri har likt smaken av Grandis og frossenpizza generelt?,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""frossenpizza"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Drops-of-Q,Nei vet du hva! Du kan faktisk ikke spise julemat i dag,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""julemat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""dag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Loud-Text-1235,Hva skal lissom være ulovlig her? Styreformann i selskap jeg jobbet i hadde fryser med Grandiosa og steinovn,2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Styreformann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""selskap"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grandiosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norwegian_way,Det digge med grandis er at den kommer med tallerken.,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Professional_Ad253,Så faktisk ganske nice ut da,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Så"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""nice"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Single_Pick1468,"ja, dessverre er det fortsatt lov med dyreplageri for smakssanen. Animal liberation!",2024-05-17,norge,da,"[
+      {
+        ""entity"": ""dyreplageri"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Animal liberation"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+MoreSmokeLessPain,"Har du råd, har du lov.",2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Har"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""råd"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""lov"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SleepWalkersDream,Hvis du steker den til den faktisk er ferdig og sender meg et stykke.,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Hvis du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""et stykke"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jeppep,"Absolutt, men litt risky. Du bør nok tine pizzaen bittelitt. Frossen bunn har en tendens til å svi seg fast til den glovarme steinen i pizzaovn.",2024-05-17,norge,no,"[
+      {
+        ""entity"": ""pizzaen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bunn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""steinen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Off2w0rk,Blasfemi! Grandis skal alltid i en vanlig ovn,2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Blasfemi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vanlig ovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bjorn1978_2,Nei. Du må vrenge eska så den er ren!,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+hansnicolaim,Snu pappen på eska sjef.,2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Snu"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pappen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eska"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""sjef"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lord-Romi,"Bruk innsiden av pappesken neste gang, mindre nasty:thumbs_up:",2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Bruk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pappesken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ApprehensiveToe6050,Du må vrenge pappen. Den har ingen rørt,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pappen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IrregularGeneral,"Nei, det blir 21 års forvaring",2024-05-18,norge,no,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""21"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+XerxOriginal,Ikke bare lov. Du går rett inn i legendeboka,2024-05-20,norge,no,"[
+      {
+        ""entity"": ""Ikke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""legendeboka"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+nord93,Jeg ser bare noen som steker pizza i en pizzaovn. Ikke noe galt med det.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizza"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dirac_comb,Norge fortsetter ennå med terrorisme mot verdens matkultur,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Norge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""terrorisme"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""verdens matkultur"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+64-17-5,I Finnmark så slenger vi på noe flesk på Grandisen før den puttes på bålet. Når den er stekt så drikker vi buljong til den og tar en joik.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Finnmark"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grandisen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bålet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""buljong"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mflage,... på 17. mai,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""17. mai"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+olanordmannofficial,"Altså, en stekeovn koster jo også flere tusen",2024-05-16,norge,da,"[
+      {
+        ""entity"": ""stekeovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""flere tusen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+spooooork,Han kommer til å prøve å sende Delta-gruppen på døren.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Delta-gruppen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PartyMcDie,"Oh yes! Haha! Altså jeg liker en god autentisk pizza, men jeg liker også en Grandiosa i ny og ne. Den gir meg nostalgiske varme følelser, og er ganske digg rett og slett. Blir så sliten av purister som skryter av all innsatsen og matematikken de legger i bunnen og «har du ikke spist pizza stekt i en napolitansk stenovn, så har du ikke spist pizza!!!» Jeg kan bli litt flau av mine med-menn rett og slett. Lag mat, det er fint, men ikke skryt og SoMe så mye om det. Bestemor gikk ikke ut og kringkastet til hele bygda når hun bakte brød fra grunnen og fermenterte kål. Hun bare lagde mat og holdt familien min i live. Himmel og hav altså.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Grandiosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""nostalgiske varme følelser"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""purister"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""napolitansk stenovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bestemor"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""familien min"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Ravuno,"Ble med i den gruppa når jeg handla meg ovn, meldte meg egentlig bare rett ut igjen.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Ble"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gruppa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+hennomg,Men hvor stor var diameteren?,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Men"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""diameteren"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IAmAQuantumMechanic,"Pizzaen er varm nok til å drepe det meste av bakterier. Men jeg reagerer på å legge den på en tett pappeske. Da blir bunnen myk. Den må på rist, for faen.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Pizzaen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bakterier"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pappeske"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bunnen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rist"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ydieb,"Pøh, 5 sekunders regelen er en ting. Du venter *minst* 5 sekunder får du plukker ting opp, så du er helt sikker på at du får trent immunforsvaret. Dette bare garanterer at det som forhåpentligvis er på toppen av esken overlever varmen.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Pøh"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 sekunders regelen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 sekunder"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""immunforsvaret"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Foleylantz,"Spist sikkert 1000 pizzaer rett fra boksen, føler meg dritbra",2024-05-17,norge,no,"[
+      {
+        ""entity"": ""1000 pizzaer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Santawanker,"Ja, for gjennvunnet papp er perfekt for å legge varm mat på... Da er utsiden bedre selv om den overflaten der har vært eksponert for en del personer og hender.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""papp"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""varm mat"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""utsiden"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""overflaten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""personer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hender"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Past_Echidna_9097,Skal vi gi han juling? Jeg er for.,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""han"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Blakk-Debbath,Å nei du. Landslova blei ført av han Jørn Øyrehagen Sunde /s,2024-05-16,norge,nn,"[
+      {
+        ""entity"": ""Jørn Øyrehagen Sunde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MovingObjective,Pføy. Mister all aromaen da.,2024-05-16,norge,eu,"[
+      {
+        ""entity"": ""Pføy"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hansemannn,Det er en gassovn. Jeg har den samme. 500 grader inni. Pizza ferdig på 3 minutter. Må snus manuelt 2-3 ganger da. Laget for italiensk pizza så ikke helt grændisvennlig tror jeg. Aldri prøvd grandis men fikk jo sabla lyst nå da. OP: åssen ble resultatet egentlig? Videoen er avsluttet alt for tidlig!,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""OP"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""italiensk pizza"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+drSvensen,Ikke bra for naturen. Norsk gjenvinning fraråder å bruke pizzaesken som tallerken på grunn av fett og matrester som ødelegger når det skal gjenvinnes. Om du absolutt må bruke pizzaesken så skal den kastes i restavfall etterpå.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Norsk gjenvinning"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pizzaesken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bxt5,Gir bare mer smak og styrker immunforsvaret,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Gir"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bare"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mer"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""smak"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""og"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""styrker"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""immunforsvaret"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+fyrstikka,Nightcall heter den vel?,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Nightcall"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IAmAQuantumMechanic,Koker dere den ikke?,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Koker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norseman84,"Derfor de spesifiserte ""pizzaovn"".",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Derfor"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AfricanNorwegian,"Nå har nok 99% av folk et stekeovn fra før da. Så det er faktumet at man kjøper en pizzaovn til 4,500kr for å steke grandis når man kunne bare slengt den i stekeovnen.",2024-05-17,norge,no,"[
+      {
+        ""entity"": ""99%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""stekeovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""4,500kr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mr_greenmash,"Handler ikke om hvor stor den er, men hvordan du bruker den.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Handler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bruker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+StringTheory,Personlig tenker jeg på ar varmen og fukten medfører at du får spist litt blekk.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Personlig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""varmen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fukten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""blekk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dzyu,"Hele pappen blir nok ikke varmet opp nok av å ha en varm pizza på seg. Dessuten kan være mye mer enn bakterier og virus på emballasje som ikke er bra. F. eks. Forurensninger fra fabrikk og transport, og ikke minst trykket selv.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""pizza"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""emballasje"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Forurensninger"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""fabrikk"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""transport"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""trykket"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+per167,Legger pizzaen på trebrett av noe slag kan kuttes rett opp og serveres rykende varm. Holder seg sprø til siste bit.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Legger pizzaen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""trebrett"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rykende varm"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+That_Ad_5651,"Handler vel mer om at utsiden har ymse kjemikalier, hvertfall mer enn innsiden",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Handler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""utsiden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""innsiden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dzyu,"Jada, det går bra helt til det ikke gjør det. Jeg har veldig tidlig benmargskreft. Det er en sånn greie man gjerne kan få grunnet kontakt med kjemikalier. Lurer veldig på hvorfor jeg fikk det. Kan fint ha vært noe sånt småtteri som vi har en tendens til å bagatellisere fordi vi tror vi er udødelige. Ikke vær dum. Bry deg litt om de bagatellene. Det koster så lite og kan fort bety alt.",2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Jada"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""benmargskreft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kontakt med kjemikalier"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""småtteri"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dzyu,"Tungmetaller i blekket, så nei. Grunnen til at resirkulert papp ikke er matsikkert er pga blekket, men det er fremdeles mye mer blekk på utsiden. Uansett, forurensning fra fabrikk og transport havner på utsiden - og da snakker vi ikke om bare personer og hender. Det er nok best å ikke bruke emballasjen til å spise på i det hele tatt, men hvis du først skal gjøre det, bruk innsiden - helt klart.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Tungmetaller"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""blekket"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""resirkulert papp"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""blekket"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fabrikk"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""transport"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""personer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hender"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""emballasjen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""innsiden"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Niccolado,"Åh nei du! I landsloven av 1274 kan du lese følgende: Grandiosa verður alltaf að baka í þar til gerðum pizzaofni. Ég boða það, Magnús Lagabøte. :) Åkay. Det er det jeg vet Magnus ville ha skrevet hvis han fikk anledning til det!",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Magnús Lagabøte"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1274"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IAmAQuantumMechanic,>Må snus manuelt 2-3 ganger da. Hva i alle dager? Faller ikke fyllet av når du legger pizzaen opp-ned?,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Må"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2-3 ganger"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Laffenor,>Må snus manuelt 2-3 ganger da. Kan jo like gjerne bruke steikepanne om det er sånn det skal vere!,2024-05-16,norge,sv,"[
+      {
+        ""entity"": ""Må"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""snus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""steikepanne"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kind_of_random,"Har aldri vore fan av grandis, men hadde ein pizzaovn for lenge sida og kan sei at kjøpepizzaen vart 100% bedre i den. Den tok 4-5 minutt å steike og vart mykje saftigare.",2024-05-16,norge,nn,"[
+      {
+        ""entity"": ""grandis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""4-5 minutt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+64-17-5,Vi koker bare folk fra Buskerud. Må bare trimme busken litt.,2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Buskerud"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hottentott14,Det er dét jeg kaller vanlig stekeovn; Grandiosaovn.,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""Grandiosaovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Stiddit,"Bruker du ""vanlig ovn"" til noe annet?",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Bruker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vanlig ovn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+xddddlol,Denne pizzaovnen koster rundt 2000.,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Denne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaovnen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2000"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+TooBrutalyHonest,100% av folk med pizzaovn har en pizzaovn fra før.,2024-05-17,norge,no,"[
+      {
+        ""entity"": ""100%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+noimnotgeorge,"Du har mest sannsynlig rett. Stabburet anbefaler ikke å legge den på pappen, siden det er en returfiberbasert råvare som inneholder trykksverte. Rist er best under avkjølingen, men du kan med fordel bruke bakepapir under stekingen, på brett eller rist.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Stabburet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bakepapir"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Foleylantz,"I all ærlighet, til tross for litt sannhet, mente jeg det mer som spøk med tanke på ""meh det går greit"" mentaliteten. Takk, skal absolutt ta det til hjertet. Det sagt håper jeg problemene dine blir en bagatell, gratulerer med dagen.",2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bagatell"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Blakk-Debbath,Det stemmer ikke med episode 78,2024-05-16,norge,da,"[
+      {
+        ""entity"": ""episode 78"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Hansemannn,"Haha. Du tuller med min upresishet, men jo. Det hsr skjedd titt og ofte.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""min"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""hsr"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norseman84,"Bruker den kun til lasagne, har en pizzaovn til grandiosa.",2024-05-16,norge,da,"[
+      {
+        ""entity"": ""lasagne"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizzaovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""grandiosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kinkypinkyinyostinky,Avkjøling? Pizzaen skal spises med en gang slik at tomatsausen brenner løs hud øverst i munnen. Så kan du kose deg med å rive løs hvit avflasset hud med tunga i flere dager.,2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Pizzaen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tomatsausen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Dzyu,Skjønner. Takk! Gratulerer med dagen!,2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Skjønner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Takk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Gratulerer med dagen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+IAmAQuantumMechanic,"Aaaaaaah, det gir jo mye mer mening.",2024-05-16,norge,en,"[
+      {
+        ""entity"": ""Aaaaaaah"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+harribel,"Stakkars pleb, har ikke fått deg en spesial lasagneovn enda og må bruke den vanlige, grøss!",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""pleb"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""spesial lasagneovn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vanlige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Spektronautilus,Er ikke Grandiosa uten Grandiosa-sår i ganen,2024-05-17,norge,da,"[
+      {
+        ""entity"": ""Grandiosa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Grandiosa-sår"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aLmAnZio,"Ovnene er varmere innerst enn ytterst, så derfor må de snus litt på for å unngå at de blir brent noen steder. Samme greia når du steker pizza på stål i ovnen også, du må inn med spaden en gang i blant for å snu litt.",2024-05-16,norge,no,"[
+      {
+        ""entity"": ""Ovnene"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""pizza"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Norseman84,"Ikke alle kan stå på balkongen å vinke idag, noen må gå i toget.",2024-05-17,norge,no,"[
+      {
+        ""entity"": ""Ikke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""balkongen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""toget"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+McCool71,De som jobber i barnehage er hverdagshelter. Må være en utrolig slitsom og stressende jobb som attpåtil ikke er godt lønnet.,2024-05-11,norge,da,"[
+      {
+        ""entity"": ""barnehage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""hverdagshelter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""slitsom"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""stressende"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""godt lønnet"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ankii93,"Mamma har jobbet i barnehage i godt over 10 år nå, etter ~15 år i skolen/sfo. Jeg var så heldig at hun lot meg jobbe der som vikar i en uke. På den uka fikk jeg snakket japansk med en liten gutt som hatet de voksne på avdelingen (dette likte jeg veldig godt - det er gøy å bruke kunnskapen!), byttet bukse på en som hadde et uhell, hjulpen en gutt bli klar til skolestart…og vært i samme rom med to små gutter som slo hverandre med byggeklosser til de blødde - de var gjemt bak noen bokser så jeg så det ikke før det var for sent. Dette var i en avdeling med store barn (3+). Mamma jobber med de aller minste, de som er på tilvenning. Hver gang jeg ringer henne hører jeg høylytt gråting. Jeg fikk nok av den ene uka jeg hadde, så jeg skjønner ikke hvordan hun klarer å gå på jobb hver dag. Men, jeg har lyst til å lage en kappe til mamma. En superheltkappe.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Mamma"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""barnehage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skolen/sfo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""japansk"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""uke"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gutt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""avdelingen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bukse"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""uhell"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""skolestart"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rom"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gutter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""byggeklosser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bokser"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""avdeling"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""store barn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""tilvenning"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gråting"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kappe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""superheltkappe"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+tasthei,Rart det der med hvordan man må ha emosjonell selvregulering for å lære små mennesker det.,2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Rart"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""emosjonell selvregulering"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""små mennesker"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Noor-Way,Man kan faktisk få redusert hørsel av å jobbe i barnehage. Sammenligner det med å jobbe operativt i forsvaret hele livet. Heldigvis for de militært ansatte sitter de ofte på kontor etter flytte 30-40,2024-05-12,norge,no,"[
+      {
+        ""entity"": ""barnehage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""forsvaret"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""militært ansatte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kontor"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""30-40"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jan_Joh,"Å jobbe i barnehage er en av de jobbene som skaper mest verdi for samfunnet - hver barnehageansatt tilrettelegger slik 6 foreldrepar kan da selv gå på jobb og skape verdi for samfunnet. I tillegg er personalet med på å forme neste generasjons mennesker. Mye som ikke er på plass innen fylte 6 år kommer aldri på plass. Dette er også en suverent dårlig betalt jobb, hvor man også sliter ut kroppen fullstendig. I tillegg må de oppdra andres drittunger der foreldrene har feilet totalt. At folk gidder, det skjønner jeg ikke. Glad jeg sitter på kontor og håver inn millionlønn på å drikke kaffe og sitte i møter hele dagen. Da snakker vi verdi for samfunnet!",2024-05-12,norge,no,"[
+      {
+        ""entity"": ""barnehage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldrepar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""personalet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""neste generasjons mennesker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""6 år"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kroppen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""drittunger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""foreldrene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kontor"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""millionlønn"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""kaffe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""møter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+UwUxyzh,Å jobbe i barnehage er slitsomt men givende,2024-05-13,norge,no,"[
+      {
+        ""entity"": ""barnehage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Abbababba2,"Smutthull: Det er lov til å skrike tilbake, så lenge det ikke er for høyt og barna skjønner at det er på tull. Det kan faktisk være en grei måte å deeskalere på, treffer du rett synes de reaksjonen er morsom fordi det er uventet.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Smutthull"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""barna"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+the-midnight-train,Stakkars Hanna på 18 som har mistet putene under armene.,2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Hanna"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""18"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bobs_hotdog87,Du må være eier for å tjene bra penger i bhg,2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Du"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bhg"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+VikingBorealis,Småbarnsavdeling er kremjobben i barnehage da.,2024-05-12,norge,fi,"[
+      {
+        ""entity"": ""Småbarnsavdeling"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""barnehage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AngryORannoyed,"Og det er dessverre mange unge voksne som har vokst opp uten å høre ordet «nei», dermed er det mangelvare.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""mange unge voksne"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""mangelvare"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Midi58076,Jeg som er midt i småbarnsbobla har en annen erfaring enn deg. Jeg erfarer å snakke med foreldre som er fortvilte fordi de vokste opp med foreldre som skrek til dem og nå som de er foreldre selv vet de ikke hvordan man er en trygg rollemodell som ikke skriker til barna sine men likevel oppnår de tingene man som foreldre må tvinge igjennom.,2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Jeg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""småbarnsbobla"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""foreldre"",
+        ""entity_type"": ""PER"",
+       "
+tasthei,"Det er null kobling mellom å få høre «nei» og selvregulering. Det kan nesten virke som om du ikke har noen reell erfaring med småbarn. Summetoneinnlegget sa forøvrig ingenting om «nei» eller ikke, men at 18-åringen ikke fikk skrike tilbake til 1-5-åringer.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Summetoneinnlegget"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""18-åringen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1-5-åringer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Contundo,Ikke rart de har vokst opp uten å høre det når ansatte på barnehage ikke får si det.,2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Ikke"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""barnehage"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AngryORannoyed,Dessverre tyder nivåene på vold og utagering i skolen på at foreldre som gir fri oppdragelse gjør like stor skade som den autoritære du beskriver. Både autoritær foreldrestil og fri oppdragelse er former for omsorgssvikt. Circle of security kurs burde være obligatorisk for alle kommende foreldre.,2024-05-11,norge,no,"[
+      {
+        ""entity"": ""foreldre"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""skolen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Circle of security kurs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+klakkstaget,"Å rive kjeft er det eneste som funker, ellers blir det bortskjemte drittunger ut av dem. Synd man ikke kan gi ørtæver lengre.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""ikke"",
+        ""entity_type"": ""NEGATION"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""bortskjemte drittunger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Apple-hair,"Det er en populær myte at ""dagens ungdom"" aldri får grenser. Og de som tror på den myten, har aldri hatt kontakt med barn selv.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""dagens ungdom"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AngryORannoyed,"Når hennes første impuls er å skrike viser det at hun har manglende selvregulering. Heldigvis klarte hun å utsette akkurat den, selv om det var ubehag hun ikke kan se bort i fra i lengden. Mulig du ikke har noen erfaring med barn, bortsett fra å være resultat av fri oppdragelse. Håper ikke du var en av de som ødela undervisning og skolehverdag for dine medelever.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""hennes"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""selvregulering"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ubehag"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""erfaring"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""barn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""oppdragelse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""undervisning"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""skolehverdag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kimbo_94,"Hei, jobber i barnehage, kan fortelle deg at vi har lov til å si nei til barna. Vet egentlig ikke helt hvor du har fått høre at vi ikke kan si nei, men kan bekrefte at det er feilinformasjon.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""barnehage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""barna"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tasthei,Summetoneinnlegget sa vel at 18-åringen ikke fikk skrike tilbake. Barnehageansatte gjør mye bra arbeid. Innlegget ditt gir bestemt inntrykk av at du ikke har kontakt med småbarn.,2024-05-11,norge,no,"[
+      {
+        ""entity"": ""Summetoneinnlegget"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""18-åringen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Barnehageansatte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""småbarn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AngryORannoyed,"Her bommer du fullstendig. Alle som jobber i barnehage kan sette grenser, men det hjelper ikke på sikt når foreldrene driver fri oppdragelse hjemme. Dette fører igjen til utagering både i barnehage, barneskole og videre.",2024-05-11,norge,no,"[
+      {
+        ""entity"": ""foreldrene"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""barnehage"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""barneskole"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Equivalent_Bite_6078,"Bøyer meg i støvet for Cos kurset! Siste barnet vårt er oppdratt med det som grunnmur, og hun er så emosjonelt stabil at det er skremmende. Om venner av henne blir ilende sint, så serverer hun fraser som at ""jeg tror du må puste litt"" og ""trenger du en klem?"" :face_with_tears_of_joy::heart_hands: Hun har ingen problemer med å fortelle hva hun føler, uten at det lager en mega situasjon med hyling i en times tid. Følelser har hun, store og små, men hun lar seg veilede igjennom dem uten å eskalere. Hun faktisk LYTTER. Så ja, enig med deg! Alle førstegangs foreldre BØR ha det kurset før barnet kommer. Det er GULL",2024-05-14,norge,no,"[
+      {
+        ""entity"": ""Cos kurset"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Siste barnet"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""venner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""en time"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""GULL"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Mummiskogen,"Nei det er berre bra, vold avler vold",2024-05-11,norge,da,"[
+      {
+        ""entity"": ""Nei"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vold"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AngryORannoyed,Ser ikke ut til at det hadde særlig god effekt på deg.,2024-05-12,norge,no,"[
+      {
+        ""entity"": ""deg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"

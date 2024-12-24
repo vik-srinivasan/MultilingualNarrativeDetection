@@ -1,0 +1,4932 @@
+author,text,timestamp,subreddit,language,gpt_output
+Kleinbonum,"Kontext ist halt wichtig. Und im ganzen Artikel wurde ja niemals die These aufgestellt, dass irgendwelche Menschen gefährliche Extremisten wären, nur weil sie ""Allahu Akbar"" rufen. Vielmehr sollte es doch vollkommen klar sein, dass diese Menschen Extremisten sind, weil sie eine absolute theokratische Diktatur errichten wollen, weil sie die freiheitlich-demokratische Grundordnung Deutschlands ablehnen, und weil sie radikales und verleumderisches Gedankengut verbreiten.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kontext"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Artikel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""theokratische Diktatur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""freiheitlich-demokratische Grundordnung Deutschlands"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""radikales und verleumderisches Gedankengut"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+nerdquadrat,"> Denkt nicht, ich sei gekommen, um Frieden auf die Erde zu bringen! Nein, ich bin nicht gekommen, um Frieden zu bringen, sondern das Schwert.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Erde"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DrHeywoodRFloyd,Hat hier einer Jehova gesagt???,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Jehova"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ThoDanII,"doch, da damit diesen Inhalten zugestimmt wird",2024-04-28,de,de,"[
+      {
+        ""entity"": ""doch"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""da"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""diesen Inhalten"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"> Trotzdem sollte nicht das ""Allahu Akbar"" an sich kritisiert werden, sondern eben diese Inhalte, wozu sie das gesagt haben. Naja, dann solltest du ja mit der Berichterstattung zufrieden sein: das ""Allahu Akbar"" wurde nicht kritisiert. Der einzige Satz, in dem es überhaupt erwähnt wird, ist dieser hier: >Immer wieder riefen die Demonstranten auch „Allahu Akbar“ („Gott ist groß“) im Chor als Antwort auf Redner auf einer Bühne.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Demonstranten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gott ist groß"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lol_alex,An Nazis ja auch nicht ;),2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Designer-Muffin-5653,Und was glaubst du wie viele von denen sich als deutsch bezeichnen?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Insane_Unicorn,Bin auch absolut dafür Deutsche raus zu schmeißen die sich nicht an westliche Werte wie Demokratie und Gleichberechtigung halten wollen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutsche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""westliche Werte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Gleichberechtigung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Designer-Muffin-5653,Und was glaubst du wie viele von denen sich als deutsch bezeichnen?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Designer-Muffin-5653,Und was glaubst du wie viele von denen sich als deutsch bezeichnen?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Katepuzzilein,Nur weil jemand in Deutschland geboren ist macht es ihn nicht zum Deutschen,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nur"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+redd1ch,"Du füllst einen Fragebogen aus, und betest einen Satz herunter. Zumindest wenn man in Bayern in den ÖD eintritt. Private Social Media Konten checken könnte Probleme beim Datenschutz auslösen, das wird Kopfschmerzen beim Justiziariat auslösen.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Bayern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ÖD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Justiziariat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GirasoleDE,"Das ist halt Extremisten-Whac-A-Mole. Wie es hier in einem anderen Thread geschildert wird: >Gesichert extremistischen Gruppen wird regelmäßig das Demonstrieren verboten. Ich kenne mich jetzt in dem Fall nicht aus und da ist das Landesrecht auch unterschiedlich, aber aus meinen Demozeiten in Thüringen (da ging’s um Neonazis) kenne ich das so, dass die Demos dann unter einem Vorwand von ständig wechselnden Leuten, die keine bekannten extremistischen Verbindungen haben, angemeldet werden. > >Defacto organisiert wurde es meist von hochrangigen bekannten Neonazis, aber angemeldet von Horst-Dieter, den niemand kennt und der erst seit neustem aktiv bei den Neonazi ist. > >Kann mir also gut vorstellen, dass das bei solchen Sachen ähnlich gemacht wird. Es gilt halt in der Regel, dass man nur unter ausreichender Begründung (Demos von der Person eskalieren regelmäßig, bekannter Extremist usw.) Demos verbieten darf und ein (vorerst) unbeschriebenes Blatt erstmal alle Demos anmelden darf.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Extremisten-Whac-A-Mole"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Thread"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Thüringen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Neonazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Horst-Dieter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demos"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Feuerraeder,"Ich glaube nicht, dass dies ausreichend ist, um Islamismus eindeutig als rechtsextrem zu bezeichnen - insbesondere weil das Völkische das Hauptmerkmal Rechtsextremer ist. Wenn du eine Definition des Islamismus findest, wirst du eher selten lesen, dass dieser eindeutig dem Rechtsextremismus zuzuordnen ist. >Tankies und Anarchos sind ja auch gegenseitig durchaus feindlich gesinnt und trotzdem beides linksradikal bis -extrem. Ich stimme dir zu, dass dies zu unpräzise ist. Dies ist wohl der dem Fakt geschuldet, dass man politische Positionen eindimensional auf ein links-rechts-Spektrum einordnet. Ich der Vergangenheit würde dieses Spektrum auch noch halbwegs Sinn ergeben, aber den Islamismus als in Deutschland recht neue politische Strömung einfach dem rechten Spektrum zuzuordnen, macht m.E. wenig Sinn, insbesondere wenn es darum geht die Strömungen zu verstehen und zu bekämpfen. Siehe auch meinen anderen Kommentar.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Völkische"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Tankies"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anarchos"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Feuerraeder,"Ich stimme dir zu, da gibt es sicherlich einige Überschneidungen. Allerdings gibt es auch konservative Feministen oder Antisemiten wie Marx und Stalin. Und Demokratiefeinde findet man generell nicht nur auf dem rechten politischen Spektrum. Deswegen finde ich die Differenzierung hier sinnvoll, da insbesondere Islamismus bereits ein etablierter Begriff ist. Aber ich stimme zu, auch hier gibt es Überschneidungen zu rechtsextremen, völkischen Gruppen wie den grauen Wölfen. Dennoch ist im Kontext, dass es hier um eine Demo in Deutschland geht die Differenzierung wichtig - die Ausbreitung der grauen Wölfe und die deutscher Rechtsextremisten muss man auf unterschiedliche Weise verstehen und bekämpfen, und die von Islamisten ebenso.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Marx"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Stalin"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratiefeinde"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""grauen Wölfe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Yayuuu231,Ab wann sind es genug Frauen? Frage für einen Freund.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lenni-Da-Vinci,"Nicht whataboutismus, es scheint einfach als seie die Einstufung als exremistisch keine Grundlage um das Organisieren von Veranstaltungen zu verbieten. Finde ich auch gut so, denn sonst würden sich diese Leute wahrscheinlich einfach bei anderen Demos unterjubeln.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nicht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""whataboutismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""exremistisch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Organisieren von Veranstaltungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Leute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demos"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+aswertz,"Finde ich nicht einleuchtend. Es gab ja auch ""die"" Bürgerrechtsbewegung und ""die"" Atomkraftgegner und ""die"" natives Nur weil etwas nicht zentral organisiert ist, heißt es nicht dass man es nicht unter einem Oberbegriff zusammenfassen kann. Antifa ist eben eine Selbst- und Fremdzuordnung für Gruppierungen mit bestimmten Ansichten. (Stark links, teilweise militant etc.) Übrigens ist nicht jede Aktion gegen Faschisten automatisch Antifa. Wenn die örtliche Kirche einen Kuchenbasar gegen Rechts veranstaltet, wird das niemand intern oder extern als Teil der Antifa sehen",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Antifa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bürgerrechtsbewegung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Atomkraftgegner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""natives"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kirche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Lenni-Da-Vinci,Ja gut das hab ich jetzt scheiße ausgedrückt. Es wurden in manchen Städten durch extremistische Randgruppen der Antifa organisiert.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Antifa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Städten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Eine Demonstration ist keine extremistische Aktivität. Sie kann ein Skandal sein, wie auch diverse der Palästina Demos. Es können illegale / extremistische Handlungen durchgeführt werden. Die dann entsprechend verfolgt und bestraft werden müssen. Aber mit dem Recht auf Demonstrationen darf man nicht leichtfertig umgehen. Auch wenn der Zweck dumm / scheiße ist. Ein freiheitlicher Rechtsstaat braucht andere Mittel um Wehrhaft zu sein als das Demonstrationsrecht auszuhebeln.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Palästina Demos"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+FunEnd,Mit breite Bevölkerung meine ich natürlich Leuten mit muslimischem Glauben. Nicht die gesamtdeutsche Bevölkerung. >Wo siehst du denn bitte Zustimmung für islamistischen Extremismus in der breiten Bevölkerung?? Auf TikTok,2024-04-28,de,de,"[
+      {
+        ""entity"": ""TikTok"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bdsmlover666,">Grundsätzlich die Idee eines Kalifats zu unterstützen sollte noch kein Angriff auf die demokratische Grundordnung sein. Die Idee eines Kalifates ist es Nationalstaaten abzuschaffen und durch eine Art islamische Weltregierung abzulösen, die alleine auf Basis des Koran entscheidet. Die Abschaffung der freiheitlich demokratischen Grundordnung ist ein Wesensmerkmal eines Kalifates. Dazu gehört genauso die Vernichtung aller Länder in der Arabischen Welt. Wer sowas fordert ist definitiv ein wahnhafter und größenwahnsinniger Islamist. Selbst die Taliban fordern das nicht, weil eben damit ein expansionistisches Streben einhergeht. Die sind damit zufrieden Afghanistan zu kontrollieren. Genau deswegen haben die Taliban ja auch so ein Problem mit dem IS und anders herum. Ein Kalifat hat den Anspruch über alle Muslime zu herschen. Die letzten und auch die einzigen die real in der Neuzeit ein Kalifat versucht haben zu etablieren war der Islamische Staat. Alle Kalifen, also quasi die Vertreter Gottes auf Erden, haben früher oder später Bekanntschaft mit einer amerikanischen Rakete oder Sondereinheit gemacht. Der letzte Kalif war aber im Prinzip Abu al Baghadi, alle Nachfolger haben diesen Anspruch nie glaubhaft bekräftigt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Nationalstaaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""islamische Weltregierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Koran"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Arabische Welt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Taliban"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Afghanistan"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""IS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamische Staat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Abu al Baghadi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DrHeywoodRFloyd,"Wie ließe sich denn ein solches „Kalifat“ mit der freiheitlich-demokratischen Grundordnung verbinden? Ist das denn von der Meinungsfreiheit gedeckt und damit legal, wenn man hierzulande die Einführung der Dikatatur fordert, solange man dabei friedlich bleibt?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""freiheitlich-demokratischen Grundordnung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinungsfreiheit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dikatatur"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+WikipediaKnows,"Diesen Zahlen ist nicht zu trauen. Es ist ein altbekanntes und leider unter-reportetes Problem, dass viele antisemitische Straftaten erstmal grundsätzlich dem rechtsextremen Spektrum zugeordnet worden. Und die Zahlen antisemitischer Straftaten explodieren. > Auch Luthe erklärte: ""Nur durch objektive - und nicht ideologisch vorsortierte - Zahlen können wir antisemitische Täter benennen."" Es sei nur eine ""kühne Behauptung, dass ein Großteil antisemitischer Taten von Rechtsextremen begangen werde"". Bei 60 Prozent aller Taten ließen sich keine rechtsextremen Hintergründe feststellen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Luthe"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""60 Prozent"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+bdsmlover666,">Die Zahlen bei PKM - religiös gehen, abgesehen vom Anstieg über alle Gruppen 2023, in Tendenz zurück. Das reine Volumen sagt nichts über das Gefahrenpotential aus. >Anders als bei Rechtsextremismus wo der Trend klar nach oben geht und das schon seit Jahrzehnten haben wir bei Islamismus seit 2016 einen Rückgang. Naja, das kannst du nicht direkt vergleichen. Erst recht nicht dadurch, dass antisemitische Straftaten, die nicht aufgeklärt wurden, oft automatisch dem Rechtsextremismus zugeordnet werden. Wenn morgen 5 Islamisten Hakenkreuze an eine Synagoge schmieren zählt das als Rechtsextremismus.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""PKM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2023"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""2016"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""antisemitische Straftaten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hakenkreuze"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Synagoge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+HappyExplanation1300,"> Anders als bei Rechtsextremismus wo der Trend klar nach oben geht Hier auf Reddit wird ja regelmäßig gesagt, dass Islamisten nicht religiös motiviert, sondern rechtsextrem sind. Passt also?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Anders"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SiofraRiver,"""Schöner Ablenkungsversuch."" Nö, die Behauptung ist offensichtlich unwahr.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Schöner Ablenkungsversuch"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SiofraRiver,"Wo liegt dein Problem, bei der formalen Logik oder weißt du einfach nicht, was dieses Whataboutism eigentlich ist?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Wo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""formalen Logik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Whataboutism"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Krambambulist,"ich würde einfach die nicht sehr gewagte These aufstellen, dass es nicht sinnvoll ist, religiöse Extremisten und politische rechte Extremisten in einen Sack zu stecken. sie teilen Aspekte ihrer Ideologie, aber wirken auf unterschiedliche Personen, haben unterschiedliche Ursachen und müssen unterschiedlich bekämpft werden.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""religiöse Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""politische rechte Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BalkanbaroqueBBQ,Habe einige ex moslems im Umfeld die Geschichten erzählen dass einem die Spucke wegbleibt.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""ex moslems"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Umfeld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+houseofechoes,"Der Unterschied ist in einem mehr oder wenigem christlichen Land wie Deutschland oder jedem anderen westlichen Land wirst du politisch und juristisch nicht verfolgt weil du aus der Kirche ausgetreten bist, wenn du in einem muslimischen Land kritisch gegenüber dem Islam bist, wirst du strafrechtlich und auch politisch verfolgt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""westlichen Land"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RoyBeer,"> Exkommunikation Fax an den Papst ist raus, jetzt heißt es abwarten",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Exkommunikation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Papst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SiofraRiver,Stimmt halt nicht. Die Faschisten sind ein viel größeres Problem.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Faschisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+immxz,"Die Schlüsse definitiv, aber die Ansichten was „konservatives“ Familien und Weltbild angeht, da reicht es schon in die Richtung der Union zu gucken.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Akrybion,"Die Wahl is auch scheiße, wenn du dich zwischen ""Erzkonservativen"" und ""Erzkonservativen aber aus ner anderen Kultur, weil damit sind wir liberal"" entscheiden musst.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Die Wahl"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Erzkonservativen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Erzkonservativen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""andere Kultur"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""liberal"",
+        ""entity_type"": ""SENTIMENT"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+WriterwithoutIdeas,"Jo, mit erwartbaren Resultaten. Es sind halt nicht nur die Republikaner die Mist für eine liberale Demokratie sind, sondern auch konservative Muslime.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Jo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Republikaner"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""liberale Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""konservative Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"Nicht so sehr. Meine Frau sieht es aber auf jeden Fall als ihre Pflicht an, Mutter zu _sein_. Ich bin eher der, der fuehlt, dass wir der Zukunft Kinder schulden.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Meine Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Zukunft"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Omoplataci,"Es gibt zuuuuu viele falsche Punkte in dem Bericht, um alles aufzuzählen. Das tue ich mir nicht an. Aber einen Punkt nehme ich auf. Die Grauen Wölfe waren eine reaktionäre Gruppierung. Sie wurden von dem türkischen Leutnant Alparslan Türkes gegründet, der enge Verbindungen zur NATO und den USA hatte. Ganz in diesem Sinne agierten sie gegen linksextreme Terrorgruppen (typisch Kalter Krieg, gab es auch in Deutschland). Ihre Feindbilder sind aber nicht Juden, Armenier usw., sondern die linksextreme Terrororganisation ASALA sowie die marxistisch-linksextreme Terrororganisation PKK. Aber das war nicht einmal mein Punkt. Du hast im Zusammenhang mit dem obigen Bericht erwähnt, dass deine ehemalige türkische Kollegin konservative Züge hatte, und warum? Weil ihr Ehemann bei den Grauen Wölfen war. Das hängt davon ab, wie du „Konservativismus“ definierst, aber in diesem Kontext macht es einfach keinen Sinn. Weil die Grauen Wölfe laizistisch sind. Die wirklich Konservativen in der Türkei mögen die Grauen Wölfe nicht; eben genau deswegen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Grauen Wölfe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alparslan Türkes"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NATO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""USA"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ASALA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""PKK"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalter Krieg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Türkei"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dragnod,Wegen einer Gesinnung in den knast? Geile Idee. Ist aber auch nicht neu.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""knast"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Rikki-Tikki-Tavi-12,"Wenn ich mich an meine Schulzeit erinnere, würde ich mir nicht so viele Sorgen über die Effektivität von dem machen, was er da lernt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Schulzeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+somanom,Ich glaube du weißt nicht was man in den Pädagogik Vorlesungen so lernt :gesicht_mit_freudentränen: Absolut gar nichts,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Pädagogik Vorlesungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ArdiMaster,"Was ist denn die Alternative? Vor der Immatrikulation erstmal eine Sicherheitsüberprüfung, oder wie?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Immatrikulation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Abject-Investment-42,Die haben es auch nicht erfunden,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Die"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+joergboehme,"Da musst du mir aber mal ganz klar erklären, was das Reichskonkordat von 1933 so besonders macht, dass es Deutschland zu einem klerikalem Staate machen lässt? Das Reichskonkordat ist nicht das einzige bestehende Konkordat in Deutschland und seinen Ländern. Auch hat die katholische Kirche dahingehend nicht ein Monopol. Ein Konkordat ist ein Staatsvertrag zwischen einer Kirche und eben den Staat der das Verhältniss untereinander regelt. Die evangelische Kirche, die jüdische Gemeinde in Deutschland und zumindest geringfügig auf Landesebene die muslimische Gemeinde in Deutschland haben ebenfalls Staatsverträge. Säkular heißt, dass Staat und Kirche voneinander getrennt sind. Nicht das beide nicht miteinander interagieren. Auch Kooperation zwischen Kirchen und Staaten fällt unter Säkularismus.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Reichskonkordat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1933"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""katholische Kirche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""evangelische Kirche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""jüdische Gemeinde"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""muslimische Gemeinde"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsverträge"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Säkularismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+round_reindeer,"Wo sind unersätzliche Kulturgüter zerstört worden? Und natürlich gibt es einen Unterscheid zwischen (meinetwegen extremem) Klimaschutz und einem Kalifat, es gibt auch einen Unterschied zwischen Donald Trump und Hitler, nur weil sich zwei Dinge ähneln sind sie noch nicht gleich. Sonst kann man ja alles mit allem gleichsetzen, die Schuldenbremse ist auch eine staatliche Ausnahmesituation um neoliberale Ideologie durchzusetzen. Man kann alles so sehr simplifizieren bis alles gleich aussieht, dass macht es aber noch nicht wahr.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Donald Trump"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hitler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+vonWitzleben,"> Tue ich nicht, weil diese Punkte idr weniger mit Religion und mehr mit Wohlstand und Bildung zu tun haben. Das ist natürlich ein cleverer Trick, weil man durch die Korrelation zwischen armen und mehrheitlich muslimischen Ländern die Verantwortung recht einfach auf die Armut abwälzen kann. Komisch, dass die Einstellungen bezüglich Frauen und LGBTQ sich dann im Ausland eher behutsam ändern, oder? [Hier]( eine Studie aus Großbritannien und [hier]( eine weltweite Umfrage des Pew Research Centers. Ebenso ist es dann merkwürdig, dass als Begründung für die Repression in diesen Ländern immer die Religion herhalten muss. Was fällt dir beim Blick auf [diese Karte]( denn auf? > Länder in denen der Islam vorherrscht sind und wurden in der Vergangenheit durch die geopolitischen Vorzüge und damit Prädominanz westlicher Nationen strukturell benachteiligt. Das Gleiche trifft genau so auch auf andere Länder zu, trotzdem sieht man dort nicht das eklatante Maß an religiös motivierter Repression. > Wie gesagt, das gilt auch für christliche Staaten, siehe Ungarn und Russland. Selbst wenn man dir zugesteht, dass diese Beispiele überhaupt zulässig sind (sind sie nicht, diese Länder sind keine Theokratien, siehe [hier]( hat es sich damit dann aber auch ziemlich schnell. Wieso willst du nicht anerkennen, dass die überwiegende Mehrheit der christlichen Staaten liberale Demokratien sind, während dasselbe für keinen einzigen mehrheitlich muslimischen Staat gilt? > Nein kannst du nicht, da die Gruppe als solches nicht verantwortlich ist für die extreme. Die sind bei den Nazis auf breiter Bevölkerungsebene mehr vertreten als die islamistischen Randgruppen in muslimischen Ländern, die maßgeblich für die rezipierts Radikalität des Landes und Bevölkerung als ganzes verantwortlich ist. 1. Du hast gesagt, dass ""die mit Ausnahme bestimmter Einstellungen alle ganz nett sind"". Das habe ich kritisiert, weil du die diskriminierenden Einstellungen damit komplett herunterspielst. 2. Ich würde niemals behaupten, dass alle Muslime problematische Einstellungen haben oder wegen ihrer Religion von vorneherein verdächtig sind. Das wäre religiöse Diskriminierung und von daher mit meinen liberalen Ansichten nicht vereinbar, ABER die gleichen Ansichten nötigen mich dazu, die Ideologie als solche zu verurteilen, denn sie zeitigt in der Breite eine enorme Spannweite an negativen Resultaten sowohl für die Menschen in den muslimischen Ländern als auch in anderen. Rate einfach mal aufs Blaue hinein, wie viele der 50+ von den Vereinten Nationen anerkannten internationalen Terrororganisationen radikalislamistisch sind. Fertig? Alle. Es müssen nicht sämtliche Anhänger einer bestimmten Ideologie radikal sein, um die Aussage zu rechtfertigen, dass bestimmte Ideologien dazu neigen, überdurchschnittlich viele Radikale hervorzubringen. Religionen stechen darunter routinemäßig hervor und unter den (größeren) Religionen der Islam eben nochmal besonders.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Donald Trump"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Barack Obama"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Großbritannien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pew Research Centers"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ungarn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Russland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nazis"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Vereinten Nationen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Coreshine,Das ist deine Meinung,2024-04-29,de,de,"[
+      {
+        ""entity"": ""Meinung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wurzelrenner,"Volksverhetzung, Mitglied einer terroristischen Vereinigung wenn man will geht das schon irgendwie, bei den Klimaklebern hat das ja auch geklappt",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Volksverhetzung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""terroristischen Vereinigung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Klimaklebern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wassertopf,Hmm. Stimmt. Die sehen sich aber auch sehr ähnlich!,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Die"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+FifaFrancesco,"Cooles fast 7 Monate altes Pamphlet hast du da, überzeugt mich aber null. Hast du da auch was aktuelleres?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Monate"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pamphlet"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WikipediaKnows,"Die besetzen Unis, begehen mindestens Hausfriedensbruch, es gibt zahlreiche Fälle von offenem Antisemitismus und Terror-Unterstützung. Was erwarten die bitte?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Unis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hausfriedensbruch"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Antisemitismus"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Terror-Unterstützung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+KeinTollerNick,">Those who refused to leave after warnings were arrested and charged with criminal trespass, said university spokesperson Benjamin Johnson, citing rules barring overnight events. He said a preliminary report indicated there were 36 arrests, including 16 students and 20 people unaffiliated with the university. >[Quelle]( Da finde ich es okay, wenn die Polizei die Leute ""forcefully"" entfernt.",2024-04-28,de,en,"[
+      {
+        ""entity"": ""Benjamin Johnson"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""36"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""16"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""20"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""university"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+darkslide3000,"> Mich würde tatsächlich mal interessieren ob nicht Muslime aus muslimisch geprägten Ländern Allahu Akbar im Alltag nutzen. Soweit ich weiß wird dass da auch häufig so benutzt wie wir ""oh mein Gott"" sagen, also auch einfach als Ausdruck des Erstaunens oder Erschreckens. Also ist der Ausspruch nicht grundsätzlich problematisch und wahrscheinlich nichtmal grundsätzlich ein Zeichen dass jemand sehr religiös ist. Aber wenn man das bei so einer Demo skandiert wird es etwas völlig anderes.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""muslimisch geprägten Ländern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PizzaScout,"Tut mir leid, ich wollte dir das auch nicht unterstellen. Es stimmt auch, dass es nicht wirklich um den Alltagsgebrauch geht, aber solche Überschriften implizieren es eben schon. Es wird sicherlich einige geben, die das in den falschen Hals bekommen, daher finde ich es richtig, das zu Kritisieren.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Tut mir leid"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Alltagsgebrauch"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kritisieren"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PizzaScout,"Ich finde schon, dass die Überschrift die Aussage mindestens mal in ein extremistisches Licht rückt, weil es direkt neben der Aussage mit dem Kalifat steht. Und wir wissen, wie viele Leute nur die Überschrift lesen, deswegen finde ich es wichtig diese zu kritisieren.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Überschrift"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Skafdir,"Eben weil Kontext wichtig ist, sollte Allahu Akbar nicht in der Überschrift erwähnt werden. Weil das die Assoziation ""Allahu Akbar = Extremist"" erzeugt. Die Erwähnung im Artikel ist ok; die in der Überschrift nicht",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Freder145,"Er hat auch eine Peitsche genommen und denen in die Fresse gehauen. Man beachte das Wort meistens. Und der Kontext hilft, das Schwert ist hier wie eine Schere gemeint. Im nächsten Satz sagt Jesus nämlich, er will Menschen entzweien, Vater von Sohn etc. Den sie sollen ihn mehr lieben als ihre eigenen Familienmitglieder, um seiner würdig zu sein. Auch Schmarn, aber hat nix mit Krieg zu tun.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Jesus"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vater"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sohn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+DanielClaton,Ist hier etwa Weibsvolk anwesend?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Weibsvolk"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PizzaScout,"Der Begriff kann aber auch genutzt werden, um anderen Sachen zuzustimmen. Wenn jemand sich über was aufregt und sagt ""Mein Gott, was soll das schon wieder?"", ist diese Person dadurch christlich-extremistisch? Nein, das ist sie nur, wenn sie ihren Gott nutzt um mittelalterliche Werte zu vermitteln.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gott"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PizzaScout,"Ich finde vor allem schwierig, wie es in der Überschrift steht. Dort hätte das mit dem Kalifat völlig gereicht, aber dadurch dass Allahu Akbar daneben steht, wird es auch in dieses extremistische Licht gerückt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PsychologyMiserable4,und wohin willst du die loswerden? das ist doch genau das Problem mit Deutschen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+ganbaro,"Soweit sie nur den deutschen Pass haben, ist das schlicht völkerrechtswidrig",2024-04-28,de,de,"[
+      {
+        ""entity"": ""deutschen Pass"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+kompergator,"In Hamburg ebenso. Wer aber wirklich die FDGO nicht in seinem Lehrerleben vertritt, würde das schon auffallen, zumindest an meiner Schule (Brennpunkt, jeden Tag werden hier die Werte und Normen ausgetestet), und würde dann Schwierigkeiten bekommen. Da kommt man glaube ich nicht durch die Probezeit mit.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Lehrerleben"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Brennpunkt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Werte und Normen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Probezeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Philmriss,"Jo ist dann evtl der Influencerheini in dem Fall. Ist aber auch echt zum Augen-aus-dem-Schädel-rollen, wie sowas durchgeht",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Jo"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Influencerheini"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Trappist235,Will keiner steht im Titel,2024-04-28,de,de,"[
+      {
+        ""entity"": ""keiner"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Titel"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+shifu_shifu,I love listening to music.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""music"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+PsychologyMiserable4,"ganz ehrlich? bei leuten, die so denken ist 1 bereits einer zu viel. Sowohl bei Frauen, als auch bei Männern.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Frauen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Männern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+IamHereForBoobies,"Eine reicht. Die soll nur das Maul halten, sich vermummen und dann irgendwo etwas abseits stehen bis sie gesagt bekommt was sie tun soll.",2024-05-01,de,de,"[
+      {
+        ""entity"": ""Eine"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""entity"": ""Die"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Cr4ckshooter,"Eine demonstration durchgeführt von einer extrimistischen Gruppe, ist eine extrimistische Aktivität. Darüber hinaus stellt die Forderung nach einem kalifat ja wohl einen Angriff auf die FDGO dar, und gehört somit verboten und die Demonstration aufgelöst. Da kann nicht nur anschließend eine Strafe stattfinden, denn danach ist es zu spät. Im öffentlich wirksamen Raum darf es keine Angriffe auf die FDGO geben.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""einer extrimistischen Gruppe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""extrimistische Aktivität"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Forderung nach einem kalifat"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demonstration"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Strafe"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""öffentlichen wirksamen Raum"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+round_reindeer,"Gut je nachdem kann man auf Tiktok auch den Eindruck gewinnen, dass alle Männer Andrew Tate lieben oder 70% der Bevölkerung queer ist, die Reichweite von Extremisten/extremistischen Ideologien in sozialen Netzwerken ist zwar auf jeden Fall ein Problem und macht auch mir Angst, aber man sollte trotzdem im Kopf behalten, dass das was man da sieht nicht unbedingt repräsentativ ist.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Andrew Tate"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""70%"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten/extremistischen Ideologien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sozialen Netzwerken"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Gerade dadruch, dass es primär um den mittleren Osten geht und so Aussagen oft explizit zur Anwerbung für Migration in die Strukturen des IS außerhalb von Deutschland getätigt werden bin ich mir tatsächlich nicht sicher wie die Rechtslage aussieht. Meines wissens nach verfolgen wir nur Straftaten gegen Deutschland / Personen in Deutschland, EU Haftbefehle, Auslieferungen und Völkerrecht. Unter welchen Tatbestand würde eine generelle Aussage pro Kalifat denn überhaupt fallen? Und wie sieht das aus mit meinem Reichsbürger Beispiel? Warum fallen die nicht darunter?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""IS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reichsbürger"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Schollenger_,"Ein solches Kalifat geht schon inherent gegen die fdGo. Verfolgung von homosexuellen, apostaten und eine Steuer für nicht gläubige. Da ist nicht mehr viel mit friedlich...",2024-04-28,de,de,"[
+      {
+        ""entity"": ""fdGo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""homosexuellen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""apostaten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nicht gläubige"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+A-Specific-Crow,"Ja, die Forderung ist gedeckt. Wenn ich sage: ""Ich hätte gerne eine linksradikale Diktatur"", dann ist das Meinungsfreiheit. Wenn ich allerdings sage: ""Ich hatte gerne eine linksradikale Diktatur, greift jetzt zu den Waffen / lasst uns die Demokratie stürzen"", dann hört die Meinungsfreiheit auf. Ob meine Pläne mit dem Grundgesetz vereinbar sind ist egal, es wird erst kritisch wenn ich dazu aufrufe jenes Grundgesetz abzuschaffen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""linksradikale Diktatur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Waffen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grundgesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Solange nicht direkt oder indirekt zur Abschaffung der demokratischen Grundordnung aufgerufen wird sehe ich nicht wie das justiziabel sein sollte. Die Werbung ist oft ja sogar explizit für eine Auswanderung ""ins Kalifat"" zum IS in den mittleren Osten. Nicht zum errichten eines Kalifats in Deutschland. Das ist auch ein echtes Problem, steht aber juristisch auf einem ganz anderen Blatt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Solange"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demokratischen Grundordnung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""IS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""mittleren Osten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Das ist ein Problem bei Straftaten, da jeder Prozess bei der Polizei aufgenommen wird und teilweise falsch zugeordnet. Aber das selbe Problem haben wir nicht bei der Zahl an Gefährdern. Dort gibt es ja die explizite Verfolgung von Einzelpersonen mit entsprechendem Kontext. Und auch dort sind die selben Trends zu erkennen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gefährdern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Einzelpersonen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"> Das reine Volumen sagt nichts über das Gefahrenpotential aus. Nicht zwangsläufig aber ein Rückgang sagt etwas darüber aus wie aktiv man in Deutschland ist. Wenn es immer weniger werden läuft ja offensichtlich irgendwas richtig. Auch wenn die Gefahr nicht unmittelbar zurückgeht. Gerade Anschläge brauchen im Zweifelsfall natürlich wenige Personen, wenn nicht sogar nur Einzelpersonen. Wie gesagt. Vollständige Entspannung wird es nicht so bald geben. Vermutlich nie. > Naja, das kannst du nicht direkt vergleichen. Erst recht nicht dadurch, dass antisemitische Straftaten, die nicht aufgeklärt wurden, oft automatisch dem Rechtsextremismus zugeordnet werden. Wenn morgen 5 Islamisten Hakenkreuze an eine Synagoge schmieren zählt das als Rechtsextremismus. Es geht um Gefährder und bekannte Extremisten. Menschen mit einer etwas längeren Akte. Besonders auch um extremistische Strukturen. Nicht um einzelne Anzeigen gegen unbekannt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anschläge"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Einzelpersonen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Vollständige Entspannung"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hakenkreuze"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Synagoge"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rechtsextremismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gefährder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""extremistische Strukturen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Anzeigen gegen unbekannt"",
+        ""entity_type"": ""OCC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"Wird das gesagt oder wird behauptet, dass das so gezählt wird? Ersteres wäre mir neu. Zweiteres stimmt zu einem gewissen Teil für Straftaten da bei Anzeige gegen Unbekannt die Tat selbst zugeordnet wird. Nicht der Täter. Da kommt es einmal zu Ungenauigkeiten weil nicht alle Taten nur von einer Ideologie verübt werden. Und es kommt zu Ungenauigkeiten weil jede Anzeige gezählt wird. Nicht jede Anzeige ist eine illegale Handlung. Aber bei Gefährdern und beobachteten Extremisten sieht das natürlich anders aus. Da ist die Person bekannt und hat eine Akte. Wir sehen dort allredings genau die selben Tendenzen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Straftaten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unbekannt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ungenauigkeiten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ideologie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gefährdern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+sephris,Kannst ruhig auch auf den Rest eingehen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kannst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rest"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+lixyna,Religiöse Extremisten von etablierten Weltreligionen sind nun mal standardmäßig rechtsextrem. Das kommt irgendwie mit der Definition von Traditionalismus mit.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Religiöse Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""etablierten Weltreligionen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Traditionalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KeinTollerNick,"Zum Problem wird es, wenn man dann andere abwertet, wenn sie sich entscheiden, keine Kinder zu zeugen, weil, man bei diesem Mindset schnell in alte Rollenklischees verfallen kann, ala Frau gehört an den Herd und ist fürs Kinderkriegen da. Ich beziehe das jetzt nicht auf dich.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""keine Kinder zu zeugen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rollenklischees"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Herd"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinderkriegen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"Wieso ""Gesinnung""? Es ging doch um Volksverhetzung. Und § 130 StGB sieht da bis zu fünf Jahre Freiheitsstrafe vor. Straftatbestand muss natürlich erfüllt sein.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""§ 130 StGB"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""fünf Jahre"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+-alphex,"Nicht jedes Problem hat eine unmittelbare Lösung - vor allem, wenn die Ursachen auch strukturell sind. Die Schwierigkeiten trotzdem zu kennen ist trotzdem relevant.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nicht"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Problem"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ursachen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwierigkeiten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"[ du kannst jetzt sehr technisch werden und darauf verweisen, dass sie es genau genommen nicht zerstört, sondern nur leicht beschädigt haben, als sie mit Hämmern darauf eingeschlagen haben, aber das ist nicht sehr überzeugend. Ich finde XR und speziell diese \_mehr oder weniger friedlich demonstrierenden\_ Islamisten relativ vergleichbar; sie wollen beide in der Praxis eine ideologische Diktatur haben, haben dafuer aber bisher noch niemanden umgebracht. (In der Wahl der Mittel scheinen diese Islamisten näher an FFF zu sein als an XR, aber was die Ziele betrifft, sind sie denke ich schon extremer als FFF.) Die ""Freidenker"" doer wie die noch mal heissen würden hier vielleicht auch hinein passen, wenngleich sie wohl keine Diktatur wollen, sondern einfach nur bescheuert sind, eine bescheuerte Politik wollen, an der viele Menschen gestorben wären, aber zumindest mehr oder weniger friedlich sind. RAF koennte man grob mit dem NSU und ISIS-in-Deutschland vergleichen. Ist alles nicht so schwer. Wenn du die demokratisch zu Stande gekommene Schuldenbremse jetzt als Exponat einer ideologischen Diktatur (des Neoliberalismus) bezeichnest, gehe ich glaube ich lieber was anderes machen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""XR"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FFF"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freidenker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""RAF"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NSU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""ISIS"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schuldenbremse"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Neoliberalismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+eipotttatsch,Dummen Mist auf Demos zu rufen macht einen nicht zum Mitglied einer Terrorvereinigung. Volksverhetzung trifft auf die genannten Äußerungen auch nur bedingt zu. Kann man aber sicher irgendwie passend auslegen.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Dummen Mist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demos"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksverhetzung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kill4Freedom,"Kann man leicht unterscheiden. Der eine ist schnell, der andere nicht. :grinsendes_gesicht_mit_lachenden_augen:",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""schnell"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""grinsendes_gesicht_mit_lachenden_augen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+PromVulture,"Oh nein, sie amchen genau das was schon etliche Studentenbewegungen vor ihnen gemacht haben. Wie in dem CNN Artikels teht den ich auch im anderem Kommentar verlinkt habe: >[At the same time, the power of civil disobedience – a long tradition among American college students – is derived, at least in part, from protesters’ willingness to accept the consequences, Greenberg said.]( Das Vorgehen der US Polizei und Universtitäten gegenüber Protestierenden ist schon so lange falsch und über die Stränge schlagend dass das Teil der Taktik ist",2024-04-28,de,de,"[
+      {
+        ""entity"": ""CNN"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""American"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""US Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Universtitäten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+cheapcheap1,">bitte nur demonstrieren, wenn es es jemanden stört Gib doch einfach zu, dass du gegen Demonstrationen bist. Demonstrationen, die niemanden stören, sind von vornherein sinnlos. Jede einzelne soziale Bewegung, die mal irgendwas bewegt hat, hat Gesetze verletzt. Ja, auch Ghandi, bei dem war Infrastruktur sprengen wichtiger Teil der Strategie, selbstverständlich MLK, da gab es tägliche gewalttätige Riots, und besonders Mandela, der hat sogar regelmässig gezielte Mordanschläge begangen und Gewalt gegen Weisse explizit befürwortet. Deine Haltung ist einfach völlig Geschichtsvergessen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ghandi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""MLK"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Mandela"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Weisse"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PromVulture,"Achso ja, an der einen Universität ist es gimpflich verlaufen, daraus können wir schliessen dass das an allen US Unis so war, immerhin ist die US Polizei dafür bekannt gute Arbeit zu leisten und es gibt nicht regelmäßig Proteste gegen deren unnötige Anwendung von Gewalt oder so. Noch dazu werden den Studierenden durch Suspendiereungen die Lebensgrundlagen entzogen. >All who participated, Petocz said, were issued interim suspensions – removed from campus and denied access to their dorms and dining halls. Within days, after a disciplinary hearing at which Petocz claims he was wrongfully accused of assaulting an administrative staff member – he faces a misdemeanor assault charge – the university expelled him, he said. Aber gegen krieg zu demonstrieren ist ja eben das was die US Regierung historisch garnicht leiden kann.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Universität"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""US Unis"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""US Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Proteste"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Studierenden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Suspendierungen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Petocz"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""misdemeanor assault charge"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""US Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+shifu_shifu,I enjoy spending time with my friends.,2024-04-28,de,en,"[
+      {
+        ""entity"": ""friends"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kleinbonum,Überschrift bei dem Artikel ist im Moment für mich >„Kalifat ist die Lösung“ – Mehr als 1000 Islamisten gehen in Hamburg auf die Straße,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""1000 Islamisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+merb,sorry aber die meisten christen rennen nicht durch die stätte und rufen hallelulja bei einer demo und wenn doch sind es meistens extremisten.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demo"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kleinbonum,Überschrift bei dem Artikel ist im Moment für mich >„Kalifat ist die Lösung“ – Mehr als 1000 Islamisten gehen in Hamburg auf die Straße,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+wilisi,"Nazi-Demo: ""Heil Hitler"" und ""Jawoll""-Rufe",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nazi-Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hitler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Assassiiinuss,"Es war in dem Kontext extremistisch. Wenn bei einer Nazi-Demo ""Für das Deutsche Vaterland!"" oder so als Schlachtruf benutzt wird, wäre es doch auch eindeutig extremistisch.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Nazi-Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Deutsche Vaterland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Insane_Unicorn,Ab nach Sachsen und Ausgliedern?,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Sachsen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MrGrach,">Darüber hinaus stellt die Forderung nach einem kalifat ja wohl einen Angriff auf die FDGO dar Nein. Siehe [Verfassungsschutz]( ""As a matter of fact, it is legitimate for people to say, for example, that they consider democracy to be the wrong form of government [...] The Basic Law only refers to the obligation to abide by the law, but not to a loyalty to values.""",2024-04-29,de,de,"[
+      {
+        ""entity"": ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SeniorePlatypus,"In einem Rechtsstaat kann man mit dem Label extremistische Gruppierung nicht jegliche Aktivität verhindern. Wenn eine Gruppe aufgrund ihrer aktivität nicht verboten und aktiv verfolgt wird müssen ihre Grundgesetzrechte gewahrt werden. Bei der Aussage kann ich das nicht genau Einordnen. Dafür bin ich nicht tief genug juristisch drinnen. Meines Wissens nach ist das Ziel dieser Gruppen das Kalifat im nahen Osten aufzubauen und hier Menschen zu rekrutieren. Entsprechend wäre die Aussage, dass man ein Kalifat gut findet, kein unmittelbarer Angriff auf die freiheitlich-demokratische Grundordnung in Deutschland. Und ich wüsste aus dem Kopf nicht gegen welches Gesetz das verstößt. Anders würde es natürlich aussehen, wenn man hier ein Kalifat ausruft und für eine gewaltsame Durchsetzung der Regeln anzustacheln. Grundlage der FDGO ist ein Rechtsstaat in dem Staatsanwaltschaft und Gericht nach Recht und Gesetz den Einsatz von Staatsgewalt anordnen. Alles andere ist Willkür. Das gilt auch, wenn der Staat labels vergeben hat. Sonst haben wir gleich wieder sowas wie die Union die beim einer Zeitung das Büro lahm legt weil ungemütlich berichtet wird (Spiegelaffäre)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Rechtsstaat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""extremistische Gruppierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Grundgesetzrechte"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""nahen Osten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Rechtsstaat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsanwaltschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gericht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatsgewalt"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Union"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zeitung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spiegelaffäre"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+bdsmlover666,">Unter welchen Tatbestand würde eine generelle Aussage pro Kalifat denn überhaupt fallen? Konkret unter gar keinen, aber es ist ein klares Bekentniss gegen die freiheitlich demokratische Grundordnung. Es ist genauso von der Meinungsfreiheit gedeckt wie als wenn irgendeiner sagt ""Drecks BRD Regime, ich will die DDR zurück"" oder ""Im dritten Reich war ja nicht alles schlecht. Der Herr Hitler hat ja die Autobahn gebaut"". Trotzdem sollte man alles dafür tun, dass solche Leute schnellstmöglich abgeschoben werden falls möglich, nie die deutsche Staatsbürgerschaft bekommen oder sie wieder verlieren. Grade bei der Staatsbürgerschaft wird ja ein aktives Bekentniss zur FDGO vorausgesetzt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""BRD Regime"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""DDR"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""dritten Reich"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hitler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Autobahn"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""deutsche Staatsbürgerschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+SiofraRiver,Solches virtue signaling habe ich nicht nötig.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Solches"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""virtue signaling"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Krambambulist,"das mag in irgendeiner sehr akademischen Sichtweise Sinn ergeben. im politischen Diskurs hat es eher was von ""alles was ich nicht mag ist rechtsextrem"".",2024-04-28,de,de,"[
+      {
+        ""entity"": ""politischen Diskurs"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rechtsextrem"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+goyafrau,"Ich beziehe es aber auf mich. Meine Frau findet ja buchstäblich, dass es das größte Glück ist, Mutter zu sein. Es ist nett, wenn du uns damit nicht meinst, weil wir nicht die falschen Klamotten tragen, aber der Satz wurde ja trotzdem gesagt. Und meine Frau bekommt schon einigen Druck, dass sie doch bitte Karriere machen soll, statt nur faul (als 100% Hausfrau) die Kinder zu bekochen und eigenhändig den Feminismus um 17 Jahre zurück zu werfen. Als Hausfrau, als Frau, die ihren Lebensinhalt in ihren Kindern und der Familie sieht, wird man oft abgewertet.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meine Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Mutter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Karriere"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Feminismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hausfrau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Familie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dragnod,Davon ist im Artikel nicht die Rede.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Davon"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Artikel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zodiarche1111,"Der war rechts sicher recht geübt, nur links ließ er einiges vermissen, [ungefähr so](",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Der"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rechts"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""links"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MatsHummus,"Laut seinem Instagram-Account Rennrad, Mountainbike, Joggen und Wandern",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Rennrad"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mountainbike"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Joggen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wandern"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Abject-Investment-42,Vermutlich die alten Ägypter oder so was,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Vermutlich"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""die alten Ägypter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Johanno1,"Ich meine ich hätte gerne für jede Behauptung eine Quelle, aber vor allem dafür dass die Klimaaktivisten eine Diktatur wollen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Klimaaktivisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Wurzelrenner,"Nicht alle Leute aber ""Muslim Interaktiv"" und deren Mitglieder könnte man dann mal vielleicht genauer anschaun",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslim Interaktiv"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WikipediaKnows,"lol ja ""Gesetzesbrüche sind okay, wenn _meine_ Seite sie begeht"" ist definitiv eine Haltung mit viel History, aber nicht nur bei denen, auf die wir heute positiv schauen :)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Gesetzesbrüche"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""History"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ilphfein,"> Gib doch einfach zu, dass du gegen Demonstrationen bist. Demonstrationen, die niemanden stören, sind von vornherein sinnlos. Kann man sich gerne weiter einreden. Aber bei Letzte Generation und Festkleben wurde ja auch inzwischen erkannt, dass es eher das Gegenteil bewirkt. Du musst die richtigen Personen stören, wenn du nen Effekt haben willst. Was glaubst du stört es die Politiker, wenn irgendwo demonstriert wird?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Letzte Generation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Festkleben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Politiker"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WikipediaKnows,> Aber gegen krieg zu demonstrieren ist ja eben das was die US Regierung historisch garnicht leiden kann. Diese Demos sind klar bekennend Pro-Hamas und dementsprechend Pro-Krieg.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""US Regierung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hamas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+PizzaScout,Da stimme ich auch absolut zu.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Da"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PizzaScout,"Das ändert die Überschrift hier auf reddit aber nicht. Hier lesen sicherlich viele auch nur die Überschrift. edit: zudem ist der Link des Artikels ""Islamisten-demonstrieren-in-Hamburg-Kalifat-ist-die-Loesung-und-Allahu-Akbar-Rufe"". Ist also sicherlich auch dort mindestens mal die Überschrift gewesen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""reddit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Hamburg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RefreshNinja,"Und die meisten Muslime machen das auch nicht, womit wir wieder dabei wären dass man hier die Extremisten mit der breiten Masse gleichsetzt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Skafdir,"Interessant; ich meine die war vorher schon genauso wie hier im Titel. Entweder habe ich das nun falsch im Kopf oder die wurde geändert. (Sollte ich es falsch im Kopf haben verstößt dieser Post allerdings gegen Regel 10. In dem Fall bleiben meine Punkte an sich bestehen, die Kritik geht dann aber gegen OP und nicht gegen die Welt.)",2024-04-28,de,de,"[
+      {
+        ""entity"": ""OP"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PsychologyMiserable4,mein Ok hast du. aber ich will ne Mauer. sicher ist sicher,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Mauer"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cr4ckshooter,"Das ist doch aber einfach nur Unsinn? Wie kann der Verfassungsschutz die Verfassung schützen, wenn die FDGO augenscheinlich angezweifelt werden darf? Das d steht für Demokratie und ist in der Verfassung fest verankert. Das d aus der FDGO streichen zu wollen (und eigentlich auch das f) indem man Deutschland zum kalifat machen will, ist doch offensichtlich ein Angriff auf diese? Wenn der Verfassungsschutz das nicht so sieht, liegt er einfach falsch? Der hat ja keinen Anspruch darauf, immer recht zu haben.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kalifat"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SeniorePlatypus,"Verlust von Staatsbürgerschaft ist aus gutem Grund kaum bis gar nicht möglich. Historisch waren doppelte Staatsbürgerschaften ja überhaupt nicht möglich wodurch ein Verlust der Staatsbürgerschaft bedeutet, dass man Staatenlos wird. Was eine sehr drastische und sehr endgültige Bestrafung ist. Damit löst man keine Probleme sondern schafft eher neue. Erlangen der Staatsbürgerschaft benötigt bereits klares Bekentniss zur demokratischen Grundordnung. Da müssten solche Fälle bereits erlangen der Staatsbürgerschaft verhindern. Wenn nicht, bin ich bei dir. So eine Abfrage müsste Teil des Prozesses sein. Abschieben falls möglich bin ich im Prinzip bei dir. In der Realität wird es aber keinen relevanten Unterschied machen. Falls möglich wird heute ja bereits alles Abgeschoben was nicht bei 3 auf dem Baum ist.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Staatsbürgerschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staatenlos"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""demokratischen Grundordnung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Abschieben"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KeinTollerNick,"Bist du also der Meinung, dass eine Frau, die sich gegen Kinder entscheidet, ihre gesellschaftliche Pflicht vernachlässigt hat?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"Natürlich nicht. Geht ja rein um den Kommentar, auf den du geantwortet hattest.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Natürlich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommentar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,">dass die Klimaaktivisten eine Diktatur wollen. Das sage ich gar nicht. Es gibt da ein Spektrum, von Menschen wie Greta Thunberg, die grundsätzlich diskutable Positionen im Endeffekt im Rahmen der FDGO (bzw der lokalen und globalen Äquivalente) bestreben, und totalen Spinnern wie XR, deren Gründer von Massenvergewaltigungsphantasien besessen ist. XR wollen ganz offiziell, dass wir nicht mehr durch eine repräsentative Demokratie regiert werden, sonder von einer ""Citizens’ Assembly on Climate and Ecological Justice"".",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Greta Thunberg"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""XR"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Citizens’ Assembly on Climate and Ecological Justice"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+cheapcheap1,"Du implizierst, dass Gesetzesbrüche immer falsch sind. Das ist aber völliger Blödsinn. Dass merkst du auch selber, wenn du mal darüber nachdenkst, warum wir Ghandi, Mandela, MLK und Co. noch heute gut finden: Die Gesetze waren ungerecht, sie zu brechen gerechtfertigt. Die komplizierte Wahrheit ist, dass Gesetzesbrüche manchmal moralisch OK, manchmal sogar moralisch geboten sind. Ob sie das sind ist leider eine schwierige Frage, die häufig auf den Einzelfall drauf ankommt. Da kannst du dich drüber lustig machen, aber wenn du einfach alle Demonstrationen für moralisch falsch erklärst bist du damit unter Garantie dauernd auf der falschen Seite der Geschichte.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ghandi"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Mandela"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""MLK"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+cheapcheap1,">wurde ja auch inzwischen erkannt Auf keinen Fall. Bei Martin Luther King gibt es Umfragen, die ziegen, dass seine Zeiotgenossen auch meinten, er würde der Schwarzenbewegung schaden. Was die Keute zu dem Thema sagen ist einfach extrem unverlässlich. >Du musst die richtigen Personen stören, wenn du nen Effekt haben willst. Das trotzdem zu machen sehe ich ja auch so. Ich finde es aber trotzdem nicht sinnvoll, manche Proteste für wirksam und andere für unwirksam zu erklären, obwohl die Geschichte ziemlich deutlich zeigt, dass wir das nicht beurteilen können.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Martin Luther King"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schwarzenbewegung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Keute"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Proteste"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geschichte"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ganbaro,"Diese Protestierenden sind auch eher so wie die Protestierenden in Mansfield High drauf, als die Polizei wie in Kent State",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Protestierenden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mansfield High"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kent State"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"Selbst da stehen die ""Allahu Akbar""-Rufe direkt im Kontext mit der Forderung nach einem Kalifat. Zu behaupten, allein die ""Allahu Akbar""-Rufe würden als Erkennungsmerkmal von Extremisten dargestellt ist schon eine eingefärbte Interpretation.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Selbst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"Wenn die meisten Muslime das **nicht** machen, dann setzt man die Extremisten doch nicht mit der breiten Masse gleich, indem man berichtet, dass Extremisten das eben **schon** machen, oder?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslime"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MrGrach,">Wie kann der Verfassungsschutz die Verfassung schützen, wenn die FDGO augenscheinlich angezweifelt werden darf? Wie kannst du die FDGO schützen, wenn man das nicht darf? Das wäre die totale Beschränkung der Meinungsfreiheit, und damit gegen die FDGO. >Das d aus der FDGO streichen zu wollen (und eigentlich auch das f) indem man Deutschland zum kalifat machen will, ist doch offensichtlich ein Angriff auf diese? Wenn man Schritte unternimmt das umzusetzen ja. Bloß die Meinung zu haben, aber nicht die Verfassung anfassen zu wollen ist erlaubt. >Wenn der Verfassungsschutz das nicht so sieht, liegt er einfach falsch? Der hat ja keinen Anspruch darauf, immer recht zu haben. Der Verfassungsschutz schreibt hier nur über das geltende Recht. In Deutschland gibt es wegen der Meinungsfreiheit grundsätzlich keine verbotenen Meinungen.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinungsfreiheit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"Teils. 1. Eine Frau *oder ein Mann*, das macht keinen grossen Unterschied; klar, Gebärmütter gibt es deutlich weniger als Spermien, aber man braucht halt auch Väter und die sind derzeit vielleicht sogar unser limitierender Faktor. 2. Ich glaube nicht, dass ich ""gesellschaftliche Pflicht"" sagen wuerde. Es ist eher der Menschheit gegenüber denn der Bundesrepublik, und Pflicht ist wohl auch nicht der richtige Begriff. Ich finde es aber zumindest selbstsüchtig, es nicht zu tun. Nun soll jeder das Recht haben, selbstsüchtig zu sein, aber gut finde ich es nicht.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Eine Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ein Mann"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gebärmütter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spermien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Väter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Menschheit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bundesrepublik"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pflicht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Recht"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Dragnod,"Auch der hatte den Straftatbestand schon ohne Zusammenhang zum Artikel angeführt, ja.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Straftatbestand"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Johanno1,Von xr hab ich halt noch nie gehört,2024-04-30,de,de,"[
+      {
+        ""entity"": ""Von xr"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+WriterwithoutIdeas,"Gut, nur wenn wir anfangen zu erklären, dass Gesetzesbrüche gut sind, um sich mit einer radikalen Terrorgruppe zu solidarisieren, müssen wir eventuell mal nachfragen, wie wir hier hingekommen sind. Pro-Hamas ist halt ne andere Hausnummer als ""Schwarze sind auch Menschen"". Dem darf und sollte man Rechnung tragen.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Gesetzesbrüche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Terrorgruppe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hamas"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schwarze"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PizzaScout,"> Selbst da stehen die ""Allahu Akbar""-Rufe direkt im Kontext mit der Forderung nach einem Kalifat Genau das ist ja das Problem. Damit rückt man die generelle Aussage ""Allahu Akbar"" in ein extremistisches Licht. Dass im Artikel direkt daneben steht, was es wirklich heißt, ist viel besser.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Allahu Akbar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+RefreshNinja,"Ich beziehe mich auf den obigen Kommentar: ""sorry aber die meisten christen"" etc",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""den obigen Kommentar"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Cr4ckshooter,">Wie kannst du die FDGO schützen, wenn man das nicht darf? >Das wäre die totale Beschränkung der Meinungsfreiheit, und damit gegen die FDGO. Die FDGO erlaubt die Einschränkung der Meinungsfreiheit genau da, wo andere rechte im Konflikt stehen. Wir können uns gerne darüber streiten, ob die selbsterhaltung der FDGO ein Recht ist, bzw. Sein sollte, das im Konflikt mit der Meinungsfreiheit steht. Da wir z. B. Nazi Parolen und extremistische Parteien tatsächlich verbieten und verboten haben, sehe ich nicht, warum man das nicht mit anderen extremistischen Bewegungen auch machen können sollte. Das verlangen nach einem kalifat in Deutschland ist ja wohl klar extremistisch. >Wenn man Schritte unternimmt das umzusetzen ja. >Bloß die Meinung zu haben, aber nicht die Verfassung anfassen zu wollen ist erlaubt. OK da geh ich grundsätzlich mit. Aber wann hat die kpd oder NPD Schritte unternommen, das zu tun? Rechtfertigen wir die Einschränkung mit den Unternehmungen vor 90 Jahren? Würde ich so auch akzeptieren. >Der Verfassungsschutz schreibt hier nur über das geltende Recht. >In Deutschland gibt es wegen der Meinungsfreiheit grundsätzlich keine verbotenen Meinungen. Das Gesetz sieht allerdings vor, dass bestimmte Aussagen keine Meinung sein können. Deshalb ist die Meinungsfreiheit keine redefreiheit: Falschaussagen sind z. B. Nicht von ihr gedeckt. Darunter fallen unter anderem das leugnen von Corona oder Holocaust, letzteres zu Recht verboten und unter Strafe. Es ist also grundsätzlich möglich, öffentliche Äußerungen zu verbieten, wenn diese vom bloßen meinungsbasierten werturteil abweichen. ""Demokratie scheiße kalifat gut"" ist eine Meinung. Aber sich auf den Dorfplatz zu stellen und, rein kreativ ausgedacht, ""nieder mit der Demokratie, Allah blabla, geht auf die Straßen und ruft das kalifat aus"" zu schreien, ist keine Meinung. Die konkrete Aufforderung zum Unternehmen von Schritten müsste under Strafe stehen. Ob das natürlich konkret gemacht wird, ist im Einzelfall zu urteilen. Aber eine Bewegung/Partei, die das öfter als einmal macht, darf man dann doch zu Recht verbieten.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinungsfreiheit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nazi Parolen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""extremistische Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kpd"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""NPD"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Verfassungsschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deutschland"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Corona"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Holocaust"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demokratie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Allah"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Glattsnacker,"kinder zu bekommen ist genau so selbstsüchtig wie keine zu bekommen, vor allem mit den immer schlimmer werdenen krisen",2024-04-28,de,de,"[
+      {
+        ""entity"": ""kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""selbstsüchtig"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""krisen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kleinbonum,"Naja, ein Bezug zum Artikel ist da meiner Meinung nach durchaus gegeben - aber bei so einem kurzen, offensichtlich sarkastischen Beitrag will ich das gar nicht mal diskutieren. Der Punkt ist doch, dass niemand ""Knast wegen Gesinnung"" gefordert hat.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Niemand"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"""Man"" macht das aber doch nicht, sondern die Extremisten tun das. Es ist doch genauso problematisch, wenn radikal-islamistische Forderungen und ""Allahu Akbar""-Rufe auf einer Demo gleichzeitig passieren und man dann Angst hat, nicht die Extremisten, sondern **die Berichterstattung darüber** würde die generelle Aussage ""Allahu Akbar"" in ein extremistisches Licht rücken.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""radikal-islamistische Forderungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Berichterstattung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"Ist mir schon klar. Daher ja die Frage: wenn die breite Masse an Muslimen **nicht** durch die Gegend läuft und ""Allahu Akbar"" ruft, sondern primär Extremisten das tun - wir wird dann die breite Masse an Muslimen mit Extremisten gleichgesetzt wenn darüber berichtet wird, dass Extremisten bei einer anti-demokratischen Demo ""Allahu Akbar"" gerufen haben?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Muslimen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Allahu Akbar"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MrGrach,">Die FDGO erlaubt die Einschränkung der Meinungsfreiheit genau da, wo andere rechte im Konflikt stehen. Meinungseinschränkungen basieren immer auf anderen Rechten die höher bewertet werden (z.B. öffentliche Sicherheit), nicht auf der FDGO. Die FDGO erlaubt erstmal keine Einschränkung von Meinungen, nur da sie gegen die FDGO sind. >Da wir z. B. Nazi Parolen und extremistische Parteien tatsächlich verbieten und verboten haben, sehe ich nicht, warum man das nicht anderen extremistischen Bewegungen auch machen können sollte. Die sind aber nicht wegen der Meinung dahinter verboten, sondern weil Organisationen verboten wurden, welche kämpferisch versucht haben die FDGO zu beseitigen (und nicht weil sie eine bestimmte Meinung haben). Das Hakenkreuz ist nicht verboten weil Faschismus verboten ist, sondern weil die NSDAP verboten ist und das ein Symbol dieser Organisation ist. >Das Gesetz sieht allerdings vor, dass bestimmte Aussagen keine Meinung sein können. Deshalb ist die Meinungsfreiheit keine redefreiheit: Falschaussagen sind z. B. Nicht von ihr gedeckt. Weshalb ich sehr spezifisch auch Meinungsfreiheit gesagt hab. Und Meinungen sind numla nicht eingeschränkt. Und die Aussage ein Kalifat sei der beste Weg vorwärts ist nunmal eine Meinungsäußerung kein Fakt. >Ob das natürlich konkret gemacht wird, ist im Einzelfall zu urteilen. Aber eine Bewegung/Partei, die das öfter als einmal macht, darf man dann doch zu Recht verbieten. Welche Symbolik und Slogans welche verbotenden Organisation wurden bei dem Protest verwendet?",2024-04-29,de,de,"[
+      {
+        ""entity"": ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinungsfreiheit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Nazi Parolen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""extremistische Parteien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Organisationen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hakenkreuz"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Faschismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""NSDAP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"Als jemand, der sich derzeit um junge Kinder kümmert, aber auch mal keine hatte, also beide Seiten gut kennt, kann ich dir sagen, dass es das Gegenteil von selbstsüchtig ist, Kinder zu haben. Es ist Selbstaufopferung. Wir hatten im letzen Jahrhundert zwei Weltkriege, die erste Atombombe, die Ölkrise, sauren Regen, das Ozonloch, … und gleichzeitig sind Milliarden und Milliarden an Menschen geboren worden und haben mehr Reichtum und eine längere Lebenserwartung bekommen als ihre Eltern. Es gab noch nie so eine niedrige Armutsrate und Kindersterblichkeit wie heute. Ich freue mich, dass meine eigenen Kinder diese Welt erleben können.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""junge Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gegenteil"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Selbstaufopferung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""letzten Jahrhundert"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Weltkriege"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Atombombe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ölkrise"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""sauren Regen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ozonloch"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Milliarden und Milliarden an Menschen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Reichtum"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Lebenserwartung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Armutsrate"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kindersterblichkeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""eigene Kinder"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Welt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Dragnod,Etwas anderes als eine bestimmte Gesinnung ist den Beteiligten an der Demo aber nicht vorzuwerfen. Und ohne die Verwirklichung eines Straftatbestandes werfen hier nunmal niemanden in den knast. Was mit JVA wohl gemeint war. Also: Natürlich war damit Knast wegen einer Gesinnung gefordert.,2024-04-29,de,de,"[
+      {
+        ""entity"": ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Straftatbestandes"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""JVA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Knast"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RefreshNinja,"> Ist mir schon klar Dann macht deine Frage keinen Sinn, da der genannte Kommentar Extremisten mit der breiten Masse gleichsetzt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Kommentar"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Cr4ckshooter,">Welche Symbolik und Slogans welche verbotenden Organisation wurden bei dem Protest verwendet? Wo kommt das jetzt her? Es geht hier nicht um einen konkreten protest oder eine konkrete Partei, und es geht auch nicht um eine bereits verbotene Partei. Es geht um die Frage, ob eine Bewegung, die das kalifat **fordert**, nicht dafür argumentiert und Wähler von ihrer Meinung überzeugen versucht, verboten werden könnte. Könnte. >Weshalb ich sehr spezifisch auch Meinungsfreiheit gesagt hab. >Und Meinungen sind numla nicht eingeschränkt. Und die Aussage ein Kalifat sei der beste Weg vorwärts ist nunmal eine Meinungsäußerung kein Fakt. Das dreht sich ein wenig im Kreis. Meinungsfreiheit wird oft von Leuten fälschlich verwendet, um Aussagen zu verteidigen die keine Meinung sind. Deshalb sage ich ja, wir können uns darüber streiten wo die Grenze zwischen ""kalifat toll"" und nicht-Meinung liegt. >Das Hakenkreuz ist nicht verboten weil Faschismus verboten ist, sondern weil die NSDAP verboten ist und das ein Symbol dieser Organisation ist. Sehe hier keinen Widerspruch zu irgendwas, das ich gesagt habe. >Die sind aber nicht wegen der Meinung dahinter verboten, sondern weil Organisationen verboten wurden, welche kämpferisch versucht haben die FDGO zu beseitigen (und nicht weil sie eine bestimmte Meinung haben). Das hab ich ja direkt angesprochen und gefragt: ob das Verbot auf Unternehmungen vor 90 Jahren zurück geht. Hättest auch den richtigen Absatz zitieren und ""ja"" sagen können. >Nein erlaubt sie nicht. >Meinungseinschränkungen basieren immer auf anderen Rechten die höher bewertet werden (z.B. öffentliche Sicherheit), nicht auf der FDGO. Das klingt nach einem Missverständnis. Ich habe nicht gesagt, dass die FDGO das ist, was die Meinungsfreiheit einschränkt. Wobei eigentlich doch genau das der Fall ist, denn die Meinungsfreiheit ist überhaupt von der FDGO garantiert. Nur wegen der FDGO gibt es Meinungsfreiheit. Die Einschränkung der Meinungsfreiheit, die direkt im gg verankert ist, ist Teil der FDGO. Das Grundgesetz ist Teil der FDGO. Die grundsätzlich Möglichkeit zur Abwägung von Rechten ist Teil der FDGO. Und genau deshalb habe ich gesagt: Wir können uns darüber streiten, ob der Erhalt der FDGO ein höheres Recht im Sinne der FDGO sein kann. Dieses Angebot hast du aber scheinbar abgelehnt. Also worum geht es hier jetzt? Und am schluss: Sorry für die gedrehte Reihenfolge, Handy halt.",2024-04-29,de,de,"
+    [
+      {
+        ""entity"": ""NSDAP"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinungsfreiheit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Glattsnacker,ist dieser reichtum in diesem raum? die jungen generationen sind wirtschaftlich komplett am arsch,2024-04-28,de,de,"[
+      {
+        ""entity"": ""jungen generationen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kleinbonum,">Etwas anderes als eine bestimmte Gesinnung ist den Beteiligten an der Demo aber nicht vorzuwerfen. Kann ich leider nicht mit Sicherheit sagen, weil ich nicht die kompletten Inhalte der dort gehaltenen Reden kenne. Wenn du da mehr Info hast, dann bitte gerne posten. > Also: Natürlich war damit Knast wegen einer Gesinnung gefordert. Naja, eigentlich nicht. Damit war Knast wegen Volksverhetzung gefordert, weil Volksverhetzung ja derjenige Straftatbestand war, der explizit erwähnt wurde, und dann für diesen Straftatbestand implizit eben Abschiebung oder Knast gefordert wurde. Die Diskussion, ob es bei dieser Demo jetzt tatsächlich zu diesem Straftatbestand gekommen ist, wurde ja gar nicht geführt. Du bist da eben gleich zu ""aha, jetzt wird also Knast wegen Gesinnung gefordert"" gesprungen, und der andere Poster hat sich da aus der Diskussion verabschiedet.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Knast"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Volksverhetzung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Abschiebung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kleinbonum,"Dieser Kommentar hier? >sorry aber die meisten christen rennen nicht durch die stätte und rufen hallelulja bei einer demo und wenn doch sind es meistens extremisten. Da wird doch gerade zwischen den ""meisten Christen"" und den ""Extremisten"" unterschieden. Wo siehst du da ein Gleichsetzen von breiter Masse und Extremisten?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""stätte"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""demo"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+MrGrach,">Wo kommt das jetzt her? Es geht hier nicht um einen konkreten protest oder eine konkrete Partei, und es geht auch nicht um eine bereits verbotene Partei. Es geht um die Frage, ob eine Bewegung, die das kalifat **fordert**, nicht dafür argumentiert und Wähler von ihrer Meinung überzeugen versucht, verboten werden könnte. Könnte. ""Darüber hinaus stellt die Forderung nach einem kalifat ja wohl einen Angriff auf die FDGO dar, und gehört somit verboten und die Demonstration aufgelöst. Da kann nicht nur anschließend eine Strafe stattfinden, denn danach ist es zu spät. Im öffentlich wirksamen Raum darf es keine Angriffe auf die FDGO geben."" Das war deine ursprüngliche Aussage. Also nichts von ""vielleicht verbieten"" sondern ""Demonstration sollte so und so aufgelöst werden da die Meinungsäußerung gegen die FDGO ist"". Und dagegen argumentieren ich. In wie fern die Demo einer Gruppe zuzuordnen ist die verboten werden sollte ist ne völlig andere Frage. >Deshalb sage ich ja, wir können uns darüber streiten wo die Grenze zwischen ""kalifat toll"" und nicht-Meinung liegt. Das ist nicht so streitbar wie du das darstellst. Gibt zick Urteile wie diese Grenze zwischen Meinung und Faktenaussage zu ziehen ist. Und im Zweifel ist es erstmal eine Meinung.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""FDGO"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kalifat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+goyafrau,"Ich habe von der Menschheit gesprochen, nicht von deinen Freunden. Die Zahlen sind hier klar.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Menschheit"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Freunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RefreshNinja,Durch den Vergleich zwischen den meisten Christen und den Islamistischen Extremisten.,2024-04-28,de,de,"[
+      {
+        ""entity"": ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Islamistischen Extremisten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Cr4ckshooter,">Und dagegen argumentieren ich. In wie fern die Demo einer Gruppe zuzuordnen ist die verboten werden sollte ist ne völlig andere Frage. Achso. Ja gut dann sind wir uns da ja irgendwie einig. >Das ist nicht so streitbar wie du das darstellst. Gibt zick Urteile wie diese Grenze zwischen Meinung und Faktenaussage zu ziehen ist. Das hängt jetzt aber davon ab, was streitbar für dich bedeutet. In den Gerichten sitzen auch nur Richter, die Gesetze interpretieren. Richter die teilweise ihre eigenen Ansichten mit einfließen lassen. Da kann ich natürlich im Rahmen meiner Meinung (höhö) einfach ne andere Ansicht haben. Wenn ich das Gesetz in dem Rahmen falsch finde, ist das ja Meinung. Und genau darüber kann man streiten: vielleicht überzeugt mich deine Meinung ja. Das bedeutet für mich streitbar. Was nicht streitbar ist, ist z. B. Die spezielle Relativitätstheorie. Oder der Klimawandel. Oder die Definition, die der Gesetzgeber an Mord angelegt hat - Mord ist eine Erfindung genau des Gesetzes, das Mord von anderen Tötungsdelikten trennt.",2024-04-29,de,de,"[
+      {
+        ""entity"": ""Demo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gerichten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Richter"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinung"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesetz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Relativitätstheorie"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Klimawandel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Definition"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gesetzgeber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Mord"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Glattsnacker,"die zahlen sind hier tatsächlich klar, vor jahrzehnten konnte man arbeiten und sich ein haus kaufen, heutzutage kannst du froh sein über die runden zu kommen, und über nicht westliche länder brauchen wir was armut angeht glaub ich nicht anfangen",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Jahrzehnten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Haus"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""westliche länder"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Armut"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kleinbonum,"Die wurden aber nicht verglichen, die wurden sogar noch viel weniger gleichgesetzt, sondern sie wurden als Gegensätze dargestellt.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""nicht verglichen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""viel weniger gleichgesetzt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""entity"": ""Gegensätze"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+goyafrau,"Die arme Welt war noch nie so reich! Die Kindersterblichkeit noch nie so niedrig, Armut noch nie so selten, Lebenserwartung noch nie so hoch. Es gibt noch viel zu tun, aber wir haben schon sehr viel geschafft.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Welt"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Kindersterblichkeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Armut"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Lebenserwartung"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+RefreshNinja,"LOL nein, aber schönen Sonntag",2024-04-28,de,de,"[
+      {
+        ""entity"": ""LOL"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Sonntag"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Kleinbonum,"Puh. Einfach eine Behauptung aufstellen und dann, wenn die nicht blind akzeptiert wird, mit ""LOL nein"" verabschieden find ich nicht so den supertollen Diskussionsstil. Dann erklär meine Seite noch mal, auch auf die Gefahr hin, dass du das einfach ignorierst. Hier noch mal der Beitrag, auf den wir uns beide beziehen, ein bisschen aufgestückelt: >sorry aber **die meisten christen** rennen nicht durch die stätte und rufen hallelulja bei einer demo Das hier ist eine Aussage darüber, was die ""die meisten Christen machen"" >**und wenn doch** Das hier drückt einen Gegensatz aus. >sind es meistens extremisten. Das hier beschreibt eine eigene, separate Gruppe, die mit den Extremisten nicht zu tun hat. Um dir ein anderes Beispiel zu geben: ""Meistens ist das Wetter hier sonnig, und wenn es doch mal regnet, dann kann man was drinnen machen."" Würdest du da behaupten, das ist eine Gleichsetzung von sonnigem Wetter und Regen, weil hier sonniges Wetter und Regen verglichen werden?",2024-04-28,de,de,"[
+      {
+        ""entity"": ""LOL"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RefreshNinja,"> Einfach eine Behauptung aufstellen und dann, wenn die nicht blind akzeptiert wird, mit ""LOL nein"" verabschieden find ich nicht so den supertollen Diskussionsstil. Da du keine Argumente gebracht hast sondern nur ""nein"" in verschiedenen Varianten gesagt hast sehe ich keinen Grund hier einen auf ""aber mein Diskussionsstil!!!!"" zu machen LMAO Aber hier: du ignorierst gekonnt den Beitrag auf den sich der zitierte Beitrag bezieht, damit du ihn verzerrt darstellen kannst, anstatt in dem tatsächlichen Zusammenhang in dem er geschrieben wurde, und dass ist nicht nur schlechter Diskussionsstil, sondern einfach nur unehrlich, und damit disqualifizierst du dich selber.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""LOL"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""LMAO"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Kleinbonum,"> Da du keine Argumente gebracht hast sondern nur ""nein"" in verschiedenen Varianten gesagt Ich hab den Beitrag, auf den wir uns bezogen haben, zitiert und dargelegt, dass es für mich aus der Formulierung ersichtlich ist, dass hier ein Gegensatz beschrieben wird. Du hast nur ""doch"" in verschiedenen Varianten gesagt. Grade im Moment ignorierst du ja auch wieder komplett, was ich extra noch mal ausführlich geschrieben habe. >Aber hier: du ignorierst gekonnt den Beitrag auf den sich der zitierte Beitrag bezieht, damit du ihn verzerrt darstellen kannst, anstatt in dem tatsächlichen Zusammenhang in dem er geschrieben wurde, Wenn dich das stört, dann sag das halt. Du hast vollkommen recht, ich hab mich auf den Post bezogen, auf den du geantwortet hast. Wenn du der Meinung bist, dass ich den unzulänglich oder falsch interpretiert habe, weil der Kontext den Beitrag in einem ganz anderen Licht erscheinen lässt, dann **sag das halt und erklär, wie das der Fall ist!** Ist doch nicht so schwer. Ich bin vollkommen bereit, meine Meinung zu ändern, wenn du da eine schlüssige Argumentation hast.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""Da"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Argumente"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Beitrag"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gegensatz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kontext"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Meinung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+RefreshNinja,"> dann sag das halt und erklär, wie das der Fall ist! Da ich das bereits gemacht habe (stellt islamistische Extremisten aus dem vorigen Beitrag mit den ""normalen"" Christen gleich), bin ich hier raus. > Du hast nur ""doch"" in verschiedenen Varianten gesagt. LMAO, siehe oben",2024-04-28,de,de,"[
+      {
+        ""entity"": ""islamistische Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kleinbonum,"> Da ich das bereits gemacht habe (stellt islamistische Extremisten aus dem vorigen Beitrag mit den ""normalen"" Christen gleich), bin ich hier raus. Das ist keine Erklärung. Das ist eine Behauptung. Und natürlich hast du null Bock, deine Behauptung dann auch irgendwie zu belegen. Hattest ja auch null Bock, irgendwie auf meinen Post einzugehen, in dem ich meine Position erklärt hab. Schade, dass da von dir so rein gar nichts kommt außer ""doch"" und ""LOL selber"". Beschissener Diskussionsstil. Unehrlich. Und du disqualifizierst dich damit selber. Aber gut, dann hast du halt keinen Bock auf eine ehrliche Diskussion. Muss ich akzeptieren.",2024-04-28,de,de,"[
+      {
+        ""entity"": ""islamistische Extremisten"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Christen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+OpenOb,"Auf Instagram wird auch aggressiv Werbung für Apps gemacht womit man aus normalen Menschen Pornos generieren kann: > Instagram is advertising nonconsensual AI nude apps. Shows that these sorts of tools—which are being actively used inside schools to harass/target people—are not hidden in the corners of the internet. It's right there, on Instagram",2024-04-26,de,en,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""AI nude apps"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""schools"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+rotsono,"Irgendwie schon absurd, das früher sowas übers darknet abgewickelt werden musste und alles irgendwie ""geheim"" war und so ein ""unter der Ladentheke.."" vibe hatte und jetzt einfach offen Werbung auf Youtube, Facebook und Instagram gemacht wird und das auch noch funktioniert und man mit einer DM einfach Falschgeld bestellen kann.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""darknet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Youtube, Facebook und Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+was-eine-dumme-frage,"Ich wollte man Werbung schalten für einen meiner Webshops, handelte sich um Autosticker, wurde abgelehnt ohne Begründung. Wie schaffen die sowas",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Webshops"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Autosticker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Excellent-Spell-8943,"Die interne Meldefunktion ist nutzlos. Du musst auf Melden -> Als rechtswidrig melden -> Aus anderem Grund rechtswidrig -> und dann bist du auf dieser Seite: [ Hier kannst du Straftaten melden. Wenn Instagram dann den Post nicht löscht, kann es dafür selbst zur Verantwortung gezogen werden.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+CricketNew4134,"Instagram ist halt leider neben Tik tok, der größte Müll was Werbung und Sicherheit betrifft",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Tik tok"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DoktorMerlin,"Unter einem Reel das ich gesehen habe waren super viele rassistische Kommentare (vermutlich von Bots geschrieben und hochgevoted). Sie hatten auch alle den exakt gleichen Inhalt. Ich habe dann angefangen sie zu melden und nach 20 gemeldeten Kommentaren wurde MEIN Konto dann gesperrt, weil ich zu viel melde. Da sind 100 rassistische Kommentare, aber man kann nicht mal etwas dagegen tun",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Reel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rassistische Kommentare"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Bots"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Inhalt"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Konto"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rassistische Kommentare"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TheTrueStanly,Fals hgeld anbieten? Das ist strafbar. Du könntest jetzt theorhetisch Instagram anzeigen...,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DasFroDo,Vergiss einfach da irgendwas zu reporten. Habe auch schon alle möglichen Scams gemeldet und immer die selbe Rückmeldung bekommen. Verstößt nicht gegen Richtlinien bla bla bla.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Vergiss"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Richtlinien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Simon_Forcer,Es bräuchte echt eine staatliche/EU-Meldestelle wo man sowas melden kann (auch und besonders die nicht-Löschung durch diese Plattformen). Das sollte dann pauschal mit 100.000 € oder so abgestraft werden. Die Eigenverantwortung scheint ja ganz offensichtlich nicht zu funktionieren.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""100.000 €"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Salt0_Johnson,"Ich hab auch ständig solche Werbungen. Drogen, Falschgeld und Pornografie. Meldungen endeten jedes Mal mit ""Wir könnten nichts illegales entdecken"". Seitdem meide ich diesen Drecksladen, der sich offensichtlich nicht zu schade ist solche Inhalte auch gezielt an jugendliche Nutzer zu vermarkten. Ich werde wohl demnächst wohl mal mit den Screenshots von inzwischen über 10 solcher Vorfälle in die lokale Polizeistation marschieren und mich dort beraten lassen.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Drogen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Pornografie"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Meldungen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Drecksladen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Screenshots"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polizeistation"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Elthy,"Die Lösung wäre so einfach: Instagram verdient Geld mit dem Anzeigen der Werbung, also sollten sie auch für den Inhalt verantwortlich sein. Wenn nach einer solchen Anzeige die Türen eingetreten werden um zur Spurensicherung die kompletten Server von Instagram einzuziehen (und nach 2 Jahren zurückzugeben) wäre der Spuk schnell vorbei...",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Türen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Spurensicherung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Server von Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ConCHEATER-Wurst,"Ich warte noch auf den Moment in dem die EU endlich mal derart durchgreift das die Webseiten wie Instagram, Twitter, YouTube, etc. ihre Werbungen vorher prüfen müssen oder Strafen bekommen wenn sie scam bewerben.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Twitter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""YouTube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Webseiten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Strafen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""scam"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Nick_Lange_,Gibt ne schöne Recherche von Simplicismus dazu was man auf instagram alles so bekommen kann.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Simplicismus"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Zexel14,YouTube und Insta sind sowieso kaputt. So viel scam wird nicht abgeschaltet,2024-04-26,de,de,"[
+      {
+        ""entity"": ""YouTube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Ariansrt,"Hab letztens ne Werbung von einer Website gekriegt wo man anscheinend „Echte Falsch-Führerscheine“ kriegt, habs gemeldet und wurde nicht gelöscht da es „nicht gegen Community-Richtlinien“ verstösst",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Hab"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Website"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Echte Falsch-Führerscheine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Community-Richtlinien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Tech2kill,"ich nehm einen gefälschten 50er, ja gerne macht dann 60€",2024-04-26,de,de,"[
+      {
+        ""entity"": ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""50er"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""60€"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok_Mark7575,"Kenn ich. Hab schon soviele Accounts gemeldet die mir Drogen verkaufen wollten, aber es ist nie was passiert.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Kenn"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Accounts"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Rhalinor,"Hatte ich auch schon mal, habe einfach angefangen bei jeder solchen Anzeige die Konten (und evtl. Links zu Telegramkanälen oder sowas) bei der Polizei als Hinweise zu melden. Kann nicht mit Sicherheit sagen ob alle ""legit"" sind, paar waren scheinbar nur Scams, aber lieber alle melden als keine.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Telegramkanälen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Scams"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+th4rgor,"Hatte schon ganz ähnliche Fälle bei Youtube, nur bezüglich versuchten Betrug, wo ausländische Anbieter mit ""gratisprodukten"" von bekannten Anbietern werben, wo also auch ganz klar das Logo geklaut wird oder das zig-tausendste Pyramidenschema oder Coaching angeboten wird. Da fällt eine Meldung der Anzeige gleich aus, die interessiert das einfach nicht. Das Problem ist auch, dass die Plattformen extrem wenig kontrollieren, wer über ihre Plattformen Werbung und mit was macht. Meiner Ansicht nach müsste hier der Staat bzw. die EU Regelierungen finden, dass Werbeplattformen zur Vorabprüfung verpflichtet und für den Betrug, der über Ihre Webeplattform läuft mit haftbar gemacht werden. Bei entsprechend empfindlichen Strafen und Gerichtsverfahren würden die sich 5 mal anschauen mit wem Sie noch Werbung machen. Es ist ja bezeichnend, dass es die meisten großen Werbenetzwerke hinbekommen, aber insbesondere die milliardenschweren social media Plattformen nicht.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Youtube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anbieter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Logo"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Pyramidenschema"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Coaching"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Plattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Staat"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbeplattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Strafen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gerichtsverfahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Werbenetzwerke"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""social media Plattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+HuckleberryWeird1879,"Melde das der Bundesnetzagentur mit dem Hinweis, das Instagram diese ""Werbung"" wiederholt nicht entfernt.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Bundesnetzagentur"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Business_Sea2884,"Die verdienen ja auch mehr Geld mit dem Schalten der Werbung als mit den paar Daten, die sie von dir bekommen. Und selbst wenn dann mal eine einzelne Werbung zu einer Anzeige führt ist es für so große Unternehmen ein einkalkuliertes Risiko.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Daten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Unternehmen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+tobimai,Ja facebook halt lol. War noch nie hilfreich das reporting,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Ja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+AsariEmpress,Meldest du den Account oder die Anzeige? Das macht einen Unterschied. Quelle: hab mal in dem Bereich gearbeitet der Meldungen bearbeitet,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Meldest"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Account"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Quelle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Own-Mountain3540,Ein Kumpel von mir bekommt sowas auch als Werbung. Da gabs vor paar Monaten eine Doku von Simpli dazu [Wie Dealer auf Instagram reich werden (youtube.com)](,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Ein Kumpel"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""paar Monaten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Simpli"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wie Dealer auf Instagram reich werden"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""youtube.com"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Ok-Share1190,Instagram geht es ja auch nur um das Geld und die Statistik.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Statistik"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ast-av,"Ich habe das Gefühl, dass Instagram einfach sau ungerne etwas entfernt. Hier 3 Beispiele aus meiner persönlichen Erfahrung: 1. Instastory über 3 Slides in denen mit 60 % Rabatt geworben wird. Gehst du auf die Seite sind es nur noch 10 % gewesen. Habe ich gemeldet und ausformuliert ""Verstößt nicht gegen die Gemeinschaftsregeln"" 2. Kommentar unter irgendeinem Beitrag den ich leider nicht wiedergeben kann. Kurzum: Übertrieben rassistische Beleidigung gegen einen Türken, ""Verstößt nicht gegen unsere blablabla"". 3. Offensichtliche Fake-Konten die mit leicht bekleideten, Augenscheinlich Minderjährigen, Frauen/Mädchen werben. Auch hier ""Verstößt nicht blablabla"". Scheinbar interessiert sich Instagram/Facebook/Meta nur dafür, wenn irgendwelche Werbekennzeichnungen bei Microfluencern fehlen. Der Rest ist den allen Anschein nach mehr als egal.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""3"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Türken"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fake-Konten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Microfluencern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Meta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+dermoment,"Ich würde mal sagen, dass es sich bei Instagram um personalisierte Werbung handelt.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+erik_7581,"Ich habe schon mehrere Male Instagram Accounts gemeldet, die offensichtlich Menschenhandel bewerben, jenen glorifizieren oder über verlinkte Telegram Gruppen den Kontakt zu Schleusern anbieten. Die Meldung und das Review wurden auch jedes Mal abgelehnt.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Telegram Gruppen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Menschenhandel"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Schleusern"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+JinSantosAndria,"Wäre ein weg Ich halte generell wenig von der Selbstverpflichtung zur ""Verwaltung"" von kommerziellen Anbietern bzgl. Straftaten.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Selbstverpflichtung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kommerziellen Anbietern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LazyTemporary8259,"Die Meldestelle von Meta ist einfach kacke und total inkompetent. Hab mittlerweile auch aufgehört den ganzen rechten- und Homophoben Mist zu melden, weil die immer der Ansicht waren, das es nicht gegen deren Standards verstößt. Denke ich werden meinen Account da einstimmen müssen. Preisfrage: könnte man insta jetzt an die karre passen, weil sie die Verbreitung von Flaschgeld unterstützen?",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Meta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Meldestelle"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""rechten- und Homophoben Mist"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Account"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Flaschgeld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Eheufaucan,Ich hatte schon auf Facebook Werbung für Drogenshops. Keine Ahnung ob Scam oder real. Das ist eben so eine Sache bei der das betrogene Opfer dann sicher nicht zur Polizei geht und Anzeige erstattet. Natürlich auch bei Facebook gemeldet und abgelehnt. Das gleiche Spiel bei zahlreichen Scam Anzeigen wie den 1 Euro Koffern oder diesen ganzen Fake Adventskalendern. Nicht einmal hat Facebook die Anzeigen entfernt. In den Kommentaren unter den Anzeigen haben sogar geprellte Kunden von dem Scam und ihrem verlorenen Geld berichtet aber es wird einfach nicht reagiert.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Anzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""1 Euro Koffern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Fake Adventskalendern"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kunden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Vipitis,"Ich bekomme von Google auch Werbung für ""Masterarbeit schreiben lassen, diskret über WhatsApp""",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Google"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Masterarbeit"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""WhatsApp"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Raizzor,"Mein Instragram Account auf den ich ausschließlich Fotos von meinem Essen hochgeladen habe wurde nach fast 10 Jahren über nacht gelöscht. Grund: Verstoß gegen die Richtlinien und das obwohl ich schon seit 2 Jahren keinen Content mehr hochgeladen habe. Einspruch wurde nach 5 Minuten durch manuellen Review abgeleht und es gibt keine Möglichkeit einen Kundendienst etc. zu erreichen. Seitdem kann ich auch keinen neuen Account mehr erstellen. Lange Rede, kurzer Sinn, Instagram ist als Platform nicht mehr ernst zu nehmen und wird über kurz oder Lang dem Schicksal von Facebook folgen und ein Scammerparadies werden.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instragram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""10 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 Jahren"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""5 Minuten"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+DitBinIkke,"Stell eine Strafanzeige gegen die Geschäftsführung von Insta und weitere unbekannte Personen wegen Verdachts auf gemeinschaftliche versuchte Anstiftung zum Erwerb von Falschgeld. Geht auch online mit überschaubarem Aufwand und ist hier dann anscheinend der einzige Weg, um Insta zum Handeln zu bewegen.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Geschäftsführung von Insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""weitere unbekannte Personen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Verdachts"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""gemeinschaftliche versuchte Anstiftung zum Erwerb von Falschgeld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""online"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""überschaubarem Aufwand"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einzige Weg"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Professional_Tune369,"Es geht um das Katzenfutter. Das Geld ist nur zum zeigen, dass man das Futter kaufen kann. Grüße Instagram Team.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Katzenfutter"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram Team"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+happy_hawking,"Ist das irgendwie als Filmgeld markiert, oder ist das ernstzunehmendes Schwarzgeld? Das wäre ultra-dreist. Würd ich bei der Polizei anzeigen. Das wäre bei offensichtlichen Verbrechen sowieso der sinnigere Weg, als über das Review-Team.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+AbbreviationsWide331,"Das kannste bei insta sowieso vergessen, ich hab zig mal versucht Accounts zu melden die irgendwelchen offensichtlichen quatsch machen. Auch Accounts die einen Tag alt sind, offensichtlich Bilder von einem Account einer Frau geklaut haben und dann so richtig absurde captions drunter hatten. Da konnten die auch keine Verstöße finden. Hab hingegen mehrfach ne Benachrichtigung bekommen, das mein Kommentar gelöscht wurde, nachdem ich mich in der kommentarspalte über andere rassistische oder antisemitische Kommentare ausgesprochen hab. Kann da nur mit dem Kopf schütteln, sonst wusst ich auch nicht groß was ich machen soll. Hab die app inzwischen auch vom Handy geschmissen. Es is einfach nur noch Müll.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Accounts"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Accounts"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""einen Tag alt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""einem Account einer Frau"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""absurde captions"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Benachrichtigung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Kommentar"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""kommentarspalte"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""rassistische oder antisemitische Kommentare"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""app"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Handy"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Müll"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+0HelluvaFan0,Wenn dir langweilig ist das anzeigen und notfalls per NetzDG melden. Wäre schön wenn die Plattform dann ev mal Strafe zahlen müsste.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""NetzDG"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Plattform"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+paracuja,Kommt mir so vor als ob absolut niemand mal die Werbung überprüft. Bei youtube wird mir werbung für Youtube add-blocker angezeigt :sich_vor_lachen_auf_dem_boden_wälzen: können die doch unmöglich so wollen.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""youtube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Youtube add-blocker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+soy_manu,"und ich bekomme einen Shadowban über 24 Stunden (kann nicht kommentieren), weil ich jemanden in einem Post über Steuern, daran erinnert habe, das er nur bis X zeit hat, seine Steuererklärung abzugeben ...",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Shadowban"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""24 Stunden"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Steuern"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""X zeit"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Steuererklärung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+LOB90,"Gab auch vor nem Jahr schon Werbung für Gras: ""Verkauft wird hier nicht der Pullover, sondern was auf dem Pullover ist""",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Gab"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""vor nem Jahr"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gras"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pullover"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Jezaja,"Wahrscheinlich weil keine gefährlichen Brüste zu sehen sind. Dann ist das vollkommen in Ordnung - so wie die Kinderpornos aus Indien, die Aufnahmen von Verstümmelten Leichen aus keine Ahnung wo und die Drogenangebote aus dem Hafen deiner Wahl.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Indien"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hafen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Illustrious-Tree5947,"Das ist leider bei allen Social Media Plattformen so. Die Gemeinschaftsrichtlinien werden einfach nicht angewendet. Ich hatte letztens ""Ritter1488"" der ein Gif mit Hitlergruß verwendet hat gemeldet und die Antwort von Instagram war, dass es nicht gegen ihre Richtlinien verstößt. Das Video auf dem in Nahaufnahme gezeigt wird wie ein Fußgänger von einem LKW erfasst wird hat auch nicht gegen die Richtlinien verstoßen. Und die Werbung für das Schneeballsystem auch nicht.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Social Media Plattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Gemeinschaftsrichtlinien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Ritter1488"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Hitlergruß"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Video"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Fußgänger"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""LKW"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Schneeballsystem"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Angy-Person,Und Instagram fern bleiben ? App löschen. Keine Falschgeld Werbung.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+tagamotchi_,"Bekomme auch regelmäßig Werbung für Audioporno-apps. An sich ja schon schwierig, pornografische Inhalte (auch wenns nur gesprochen ist) in einer App zu bewerben, auf der 13-jährige unterwegs sind. Aber dann scrollst du nichtsahnend durch die Reels und plötzlich stöhnt dir ein Typ ins Ohr, wie hart sein Schwanz ist. Kotzemoji.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Audioporno-apps"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""13-jährige"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Reels"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Typ"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+YookoShapiro,"Habe früher mal bei Facebook diese Scam-Seite gemeldet aka. ""Das versetze die Löwen in Angst und Schrecken!"", ""Der Deal den keiner aus der Höhle des Löwen widerstehen könnte!"", etc. Anstatt die Scammer zu bannen, hat meine meine ""Werbepräferenzen"" angepasst. Gesehen habe ich den Kram weiterhin. Geld stinkt halt nicht, auch nicht so fauliges.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Scam-Seite"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Löwen"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Deal"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Höhle des Löwen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Scammer"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Platzhalterr,"Info, links und Screenshots an den Verbraucherschutz. Ist das einzige was wir aktuell machen können.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Verbraucherschutz"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Mitsuma,"Ich hab es auch aufgegeben. Hatte andere Werbung von offensichtlichen Fakes und Scams, aber laut Instagram geht das ohne Probleme.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+ElSaludo,Mein scherzhafter kommentar „ich würde deine pflanzen klauen“ bei einem video wo jemand meinte „niemand klaut dir deine pflanzen aus deiner Wohnung“ wurde dafür wegen Verstoß gegen die Communityrichtlinien entfernt :daumen_hoch:,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Mein"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""scherzhafter kommentar"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deine pflanzen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""video"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""niemand"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""deine pflanzen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Wohnung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Communityrichtlinien"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Vegetable-Broccoli36,Letztens hatte mal Werbung für den Kauf von illegalen Drogen auf Telegram und einmal eine CP Bait Werbung auch für Telegram aud Instagram,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""illegalen Drogen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Telegram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""CP Bait Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Puzzleheaded-Week-69,"Und da sagt mir noch einer, dass Adblocker schädlich sind für Webseiten...",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Adblocker"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Webseiten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+montevonzock,"Ich hatte mal einen Pfosten reportiert wegen Hasssprech. Da kam die selbe Meldung zurück obwohl es wortwörtlich Hitler war, der gegen die Juden gehetzt hat.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Hitler"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Juden"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+domcsek,Ich hab die selbe Werbung hier auf Reddit in der App gesehen ..,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Ich"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Reddit"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GuardianOfBlocks,"Habe einen Beitrag dazu gesehen, dass es bei insa extreme Probleme mit der Werbung gibt. Sollen auch komplett offen alles was man an Drogen kannst zu kaufen geben.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""insa"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Drogen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+jarod0102,"Ich würde auf jeden Strafanzeigen erstatten. Geht recht einfach online. Da die trotz positiver Kenntnis nicht bereit sind das einzuschränken, ist das saubere Beihilfe zu den diversen Geldfälschungs- und Hehlereidelikten. Da sie durch die Anzeigen sogar etwas verdienen, vielleicht sogar Mittäterschaft, die Voraussetzungen bei nicht abgestimmter Mittäterschaft bekomme ich aber nicht mehr zusammen...",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Strafanzeigen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Geldfälschungs- und Hehlereidelikten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+lolschrauber,"Die EU soll einfach ein Gesetz verabschieden, welches besagt, dass die Plattformen für Werbeinhalte verantwortlich sind und haften. Bußgelder an der Anzahl der einzelnen Einblendungen der jeweiligen Werbung verhängen. Kann nicht sein, dass man quasi alles als Werbung schalten kann, sich diese drecks Plattformen auf User-Meldungen ausruhen und selbst diese dann ignorieren. Hier wird gewerblich an Betrügern mitverdient und zwar mit Vorsatz, anders kann man das nicht mehr nennen.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""EU"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Bußgelder"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Smagjus,"Auf Facebook habe ich zuletzt zwei Accounts gemeldet, die Leuten suggerieren, sie haben in Gewinnspielen gewonnen, um sie dann über's Ohr zu hauen. Beide Meldungen abgelehnt, ""wegen Corona"" sei auch kein Widerspruch möglich. Was ich mich frage, wenn tatsächlich Leute darauf reinfallen, können diese nach deutschem Recht dann Facebook in Regress nehmen, da man ja offensichtlich Kenntnis von den Accounts hat?",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Facebook"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Gewinnspielen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Corona"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""deutschem Recht"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Artistic-Revenue,Strafanzeige! Beihilfe zum Inverkehrbringen von Falschgeld etc. pp.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Strafanzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Beihilfe"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Inverkehrbringen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Schwubbertier,"[Wer Banknoten nachmacht oder verfälscht oder Nachgemachte oder Verfälschte sich verschafft und in Verkehr bringt, wird mit Freiheitsstrafe nicht unter zwei Jahren bestraft](",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Freiheitsstrafe"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+GrizzlySin24,Word wirklich Zeit das Social Medie Unternehmen für die Werbung mit haften die sie verbreiten,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Social Medie Unternehmen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+iibergazz_94,Verwende einfach und du hast keine Werbung mehr und noch paar Vorteile...,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Verwende"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Vorteile"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Vic-Ier,Bei Vinted werden auch Fakes nicht blockiert,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Vinted"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+dailyhype,"Aus meiner Erfahrung bei Meta heraus sieht es so aus, als ob eine einzelne Person kontinuierlich neue Werbekonten mit verschiedenen Kreditkarten erstellt und so lange wirbt, bis das Konto automatisch gesperrt wird. Dann beginnt das Spiel von Neuem. Das Schlimmste, was man tun kann, ist, sich die Anzeigen komplett anzusehen, ein wenig zu interagieren und dann nichts zu kaufen. Auf diese Weise verschwendet der Werbetreibende nur sein Geld.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Meta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""eine einzelne Person"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""verschiedenen Kreditkarten"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""automatisch gesperrt"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Spiel von Neuem"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Anzeigen komplett anzusehen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Werbetreibende"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Tukitaki-122,Hast du mal deine Kekse gelöscht?,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Kekse"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Njagos,"Ist die Werbung nicht an dein Profil angepasst? Was muss man sich angucken damit man solche Werbung bekommt? Ich bekomm nur nervige Werbung für Handyspiele (mit Person die dazu reagiert WEIL DAS SO EIN ECHTES SPIEL IST ALLES WAS HIER GEZEIGT IST ECHT AH MIST FAST HÄTTEN WIR DEN BOSS ERLEDIGT SCHADE) und bisschen Werbung für Lieferservices, Essen und ON THAT ASS ^^TM",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Handyspiele"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Lieferservices"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Essen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""ON THAT ASS ^^TM"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Wertsache,"Erinnert mich daran als ich mal ein Bild von einem wortwörtlichen Hakenkreuz mit SS Runen und den zugehörigen Account, der voll mit sowas war, gemeldet hatte. Kam genau die gleiche Antwort.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Erinnert"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""SS Runen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+hehsbbakaiw,Instagram löscht Kommentare und Posts aus den harmlosesten Gründen aber wenn's um offensichtlich kriminelle Dinge geht interessiert es sie überhaupt nicht.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kommentare"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Posts"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""harmlosesten Gründen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""kriminelle Dinge"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+frndzndbygf,Das ist dem BKA bereits bekannt :),2024-04-26,de,de,"[
+      {
+        ""entity"": ""BKA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""positive""
+      }
+    ]"
+Least_Possibility740,habe auch mal shops gemeldet die alles mögliche an merch mit verbotenen symbolen aus dem dritten reich verkauft haben. aber auch da wurden anscheinend alle richtlinien eingehalten :schulterzuckende_frau:,2024-04-26,de,de,"[
+      {
+        ""entity"": ""dritten reich"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Flofl_Ri,"Hab das mal versucht zur Anzeige zu bringen, ist tatasächlich auch über Insta möglich, aber man MERKT, dass Insta das nicht WILL. Und den Nerv für den Weg über die Behörde hatte ich noch nicht. Tbf, das ist eigentlich sowieso eine Betrugsmasche, und man bekommt die ""Ware"" nicht. Darüber beschweren kann man sich ja nicht ;D Die Scheine in den Videos sind sogar oft einfach Echtgeld, erkennbar an der Smaragdzahl unten links.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Behörde"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Betrugsmasche"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Ware"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Scheine"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Videos"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+BanzayDE,"Die gelieferten Scheine haben klare Aufdrucke ""Prop Money"" oder ähnliches. Ist zumindest bei Wish so.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Wish"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Kerngetier,"Genau das gleiche passiert mir seit drei Wochen mit einer Werbeanzeige, die eine silkroadaehnliche Seite bewirbt",2024-04-26,de,de,"[
+      {
+        ""entity"": ""drei Wochen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbeanzeige"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""silkroadaehnliche Seite"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Principal_Insultant,Beihilfe bei der Verbreitung von Schwarzgeld - da jubelt der Staatsanwalt!,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Staatsanwalt"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""positive""
+      },
+      {
+        ""Schwarzgeld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+spaetzle__,"Instagram selber ist ja nicht teil der Gemeinschaft, sie sind nur die Platform Betreiber. Derjenige der die Werbung geschaltet hat ist derjenige der sich an die Richtlinien halten muss, was er bestimmt mit einem Häkchen in einem Formular hoch und heilig versprochen hat :sich_vor_lachen_auf_dem_boden_wälzen:",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Platform Betreiber"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Richtlinien"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+MGThePro,"Hab auch mal Werbung bekommen zum Kaufen eines Führerscheins ohne Prüfung bekommen. Nach dem Melden habe ich die Antwort bekommen, dass sie den Post nicht überprüfen konnten.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Werbung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Führerscheins"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Prüfung"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Melden"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Antwort"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Post"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+KassiopeyaSuse,An Staatsanwaltschaft/ Polizei melden ?,2024-04-30,de,de,"[
+      {
+        ""entity"": ""Staatsanwaltschaft"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Polizei"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+rainer_d,Vielleicht eine Aktion des BKA um die Quote (der gelösten) Fälle zu erhöhen? Ein paar Dumme kann man so sicher abgreifen ohne viel Aufwand.,2024-04-26,de,de,"[
+      {
+        ""entity"": ""BKA"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Quote"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Dumme"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+SteakHausMann,"Du kannst sowas beim ""European public prosecutor office"" anzeigen, hier der Link",2024-04-26,de,de,"[
+      {
+        ""entity"": ""European public prosecutor office"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+_GeekRabbit,"Inwiefern unterscheidet sich das von [hier]( auser das manche Personen anscheinend wirklich glauben ""echtes"" Falschgeld über Instagram kaufen zu können?",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagram"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Hans_A,"Ich schätze mal, dass ""Falschgeld"" ist auch als ""Falschgeld"" gekennzeichnet und der Dumme ist dann derjenige, der glaubt es wäre Falschgeld und dafür Geld ausgibt.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Falschgeld"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Dumme"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+TheNimbrod,Insta schlägt dir ja Sachen aufgrund deinen Verhaltens vor... warum suchst du nach Falschgeld?,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Insta"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""MISC"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+keylu,"Und ich dachte, ich hätte bei meiner Instagramwerbung mit diesen ganzen Coaching-, Crypto- und Dropshipping-Lappen schon den absoluten Bodensatz der Gesellschaft gefunden...",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Instagramwerbung"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Coaching"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Crypto"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Dropshipping"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+Loki-L,"Naja das ist gerade noch neu genug das man sich rausreden könnte weil man nicht weiß gegen welche gesetzte das verstörst, aber bei Falschgeld ist das ja kein Neuland mehr.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Naja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+BastVanRast,"Bei Amazon hab ich auch schon mehrere Angebote für Falschgeld gesehen. Echt verrückt. Früher war alles im dunklen, heute kommt das nach 2 Tagen per DHL",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Amazon"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Früher"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""2 Tagen"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""DHL"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Janusdarke,"> Irgendwie schon absurd, das früher sowas übers darknet abgewickelt werden musste und alles irgendwie ""geheim"" war und so ein ""unter der Ladentheke.."" Und das paradoxerweise in einem Internet, das noch nie stärker kontrolliert und restriktiver war als heutzutage.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""darknet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Internet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""heutzutage"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+mistermanko,"Content Moderation ist Geldverbrennung. Das wirst du nie ernsthaft und wirtschaftlich betreiben können, nur eins von beiden. Die Plattformen entscheiden sich dann natürlich im Sinne der Shareholder.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Content Moderation"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Plattformen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Raizzor,"Was ich auch komisch finde ist, dass es immer weniger ""legite"" Werbung gibt. Heutzutage bekommt man auf Youtube Werbungen angezeigt die man früher nur auf Pornoseiten gesehen hat. Letztens hätte ich im Zug fast laut geschrien als ich nichtsahnend Youtube Shorts durchgescrollt habe und auf ein Mal Werbung für Penisverlängerungspillen mit unzensierten Geschlechtsteilen am Handy hatte. Das war auch der Zeitpunkt wo ich die Offizielle Youtube App ein für alle Mal von meinem Handy verbannt habe. Aber wehe in einem Video wird über den Zweiten Weltkrieg geredet, da wird man sofort demonetarisiert weil das ja nicht WeRbEFreUndLiCh ist...",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Youtube"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Werbung"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Pornoseiten"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zug"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Youtube Shorts"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Penisverlängerungspillen"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Handy"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Offizielle Youtube App"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Zweiten Weltkrieg"",
+        ""entity_type"": ""TIME"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+Yarasin,"Das sind keine ""ernsten"" Angebote. Im Darknet hast du eine sehr hohe Chance nen Scam zu bekommen. Bei diesen Anzeigen dürfte die Rate bei 100% liegen. Das ist ein Fischen nach Leuten, die dumm und gierig genug sind das zu glauben.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Darknet"",
+        ""entity_type"": ""LOC"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Anzeigen"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+420GB,"Meine Reaktion als ich vom KiPo trading auf Kik erfahren habe. Hätte nie gedacht das sowas (heutzutage) einfach auf öffentlichen Plattformen, unversteckt geht.",2024-04-26,de,de,"[
+      {
+        ""entity"": ""KiPo trading"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Kik"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""neutral""
+      }
+    ]"
+PasswordIsDongers,"Erwartst du ernsthaft, dass da jemand Falschgeld zugeschickt bekommt?",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Erwartst"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""Falschgeld"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+phomb,"Das sind auch oft Honeypots des BKAs. Wenn du da bestellst, bestellst du dir die Cops ins Haus",2024-04-26,de,de,"[
+      {
+        ""entity"": ""Honeypots"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""BKAs"",
+        ""entity_type"": ""ORG"",
+        ""sentiment"": ""negative""
+      },
+      {
+        ""Cops"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""negative""
+      }
+    ]"
+404__Not_Found_,Naja du wirst vermutlich bezahlen aber einfach nichts bekommen...,2024-04-26,de,de,"[
+      {
+        ""entity"": ""Naja"",
+        ""entity_type"": ""PER"",
+        ""sentiment"": ""neutral""
+      },
+      {
+        ""bezahlen"",
+        ""entity_type"": ""O"",
+        ""sentiment"": ""negative""
+      }
+    ]"
